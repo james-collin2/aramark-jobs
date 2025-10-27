@@ -1,0 +1,18 @@
+2025-10-27 06:39:45,525 - INFO - Starting API job scraper
+2025-10-27 06:39:45,526 - INFO - Loaded 853 master facilities
+2025-10-27 06:39:45,526 - INFO - Fetching jobs from API...
+2025-10-27 06:39:48,564 - INFO - Total jobs found: 483
+2025-10-27 06:39:48,659 - INFO - New job: Food Service Supervisor - Shawnee County Department of Corrections - 614294 [UNVERIFIED: Shawnee County Department of Corrections]
+2025-10-27 06:39:48,696 - INFO - New job: Corrections Oversight Worker - Indiana Women Prison (New) - 614308 [VERIFIED: Indiana Women's Prison]
+2025-10-27 06:40:00,431 - INFO - Added 2 new jobs
+2025-10-27 06:40:00,431 - INFO - Fetching descriptions for 2 new jobs...
+2025-10-27 06:40:01,581 - INFO - Updated description for 614294
+2025-10-27 06:40:03,124 - INFO - Updated description for 614308
+2025-10-27 06:40:03,628 - INFO - 
+=== SUMMARY ===
+2025-10-27 06:40:03,628 - INFO - Total jobs in database: 484
+2025-10-27 06:40:03,628 - INFO - New jobs added: 2
+2025-10-27 06:40:03,628 - INFO - Descriptions updated: 2
+2025-10-27 06:40:03,628 - INFO - Verified facilities: 64
+2025-10-27 06:40:03,628 - INFO - Unverified facilities: 202
+2025-10-27 06:40:03,628 - INFO - Log saved to: logs/api_scraper_20251027_063945.log
