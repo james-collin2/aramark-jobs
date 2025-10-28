@@ -1,0 +1,44 @@
+2025-10-28 05:25:09,602 - INFO - Starting API job scraper
+2025-10-28 05:25:09,603 - INFO - Loaded 853 master facilities
+2025-10-28 05:25:09,603 - INFO - Fetching jobs from API...
+2025-10-28 05:25:14,040 - INFO - Total jobs found: 485
+2025-10-28 05:25:14,041 - INFO - New job: Commissary Manager - 613622 [No facility found]
+2025-10-28 05:25:14,041 - INFO - New job: Food Service Director - 614180 [No facility found]
+2025-10-28 05:25:14,041 - INFO - New job: Food Service Manager - 614182 [No facility found]
+2025-10-28 05:25:14,042 - INFO - New job: Food Service Supervisor - 614183 [No facility found]
+2025-10-28 05:25:14,042 - INFO - New job: Corrections Oversight Worker - 614186 [No facility found]
+2025-10-28 05:25:14,111 - INFO - New job: Commissary Worker - Louisville Jefferson County Commissary - 614309 [UNVERIFIED: Louisville Jefferson County Commissary]
+2025-10-28 05:25:14,138 - INFO - New job: Food Service Worker - Lucas County Jail - 614386 [UNVERIFIED: Lucas County Jail]
+2025-10-28 05:25:14,164 - INFO - New job: Food Service Worker I - Lucas County Jail - 614391 [UNVERIFIED: Lucas County Jail]
+2025-10-28 05:25:14,191 - INFO - New job: Food Service Worker - Nueces County Jail - 614420 [UNVERIFIED: Nueces County Jail]
+2025-10-28 05:25:14,220 - INFO - New job: Corrections Oversight Worker - Cecil County Maryland - 614434 [UNVERIFIED: Cecil County Maryland]
+2025-10-28 05:25:14,221 - INFO - New job: Food Service Manager - 614475 [No facility found]
+2025-10-28 05:25:14,246 - INFO - New job: Food Service Worker Lead - Madison - CI/WC - (216/289) - 614531 [UNVERIFIED: Madison - CI/WC]
+2025-10-28 05:25:14,267 - INFO - New job: Food Service Worker Lead - Holmes - CI - (107) - 614546 [UNVERIFIED: Holmes - CI]
+2025-10-28 05:25:14,292 - INFO - New job: Sr. Director, ERP Platforms - Correctional Services - 614560 [UNVERIFIED: Correctional Services]
+2025-10-28 05:25:14,327 - INFO - New job: Product Owner - Data (Correctional Services) - 614561 [VERIFIED: Delta Correctional Center]
+2025-10-28 05:25:25,600 - INFO - Added 15 new jobs
+2025-10-28 05:25:25,600 - INFO - Fetching descriptions for 15 new jobs...
+2025-10-28 05:25:26,665 - INFO - Updated description for 613622
+2025-10-28 05:25:28,210 - INFO - Updated description for 614180
+2025-10-28 05:25:29,734 - INFO - Updated description for 614182
+2025-10-28 05:25:31,421 - INFO - Updated description for 614183
+2025-10-28 05:25:32,939 - INFO - Updated description for 614186
+2025-10-28 05:25:34,562 - INFO - Updated description for 614309
+2025-10-28 05:25:36,043 - INFO - Updated description for 614386
+2025-10-28 05:25:37,622 - INFO - Updated description for 614391
+2025-10-28 05:25:39,275 - INFO - Updated description for 614420
+2025-10-28 05:25:40,864 - INFO - Updated description for 614434
+2025-10-28 05:25:42,703 - INFO - Updated description for 614475
+2025-10-28 05:25:44,438 - INFO - Updated description for 614531
+2025-10-28 05:25:46,180 - INFO - Updated description for 614546
+2025-10-28 05:25:47,901 - INFO - Updated description for 614560
+2025-10-28 05:25:49,737 - INFO - Updated description for 614561
+2025-10-28 05:25:50,242 - INFO - 
+=== SUMMARY ===
+2025-10-28 05:25:50,242 - INFO - Total jobs in database: 499
+2025-10-28 05:25:50,242 - INFO - New jobs added: 15
+2025-10-28 05:25:50,242 - INFO - Descriptions updated: 15
+2025-10-28 05:25:50,242 - INFO - Verified facilities: 65
+2025-10-28 05:25:50,242 - INFO - Unverified facilities: 205
+2025-10-28 05:25:50,242 - INFO - Log saved to: logs/api_scraper_20251028_052509.log
