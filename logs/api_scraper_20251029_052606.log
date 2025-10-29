@@ -1,0 +1,68 @@
+2025-10-29 05:26:06,455 - INFO - Starting API job scraper
+2025-10-29 05:26:06,455 - INFO - Loaded 853 master facilities
+2025-10-29 05:26:06,455 - INFO - Fetching jobs from API...
+2025-10-29 05:26:09,083 - INFO - Total jobs found: 500
+2025-10-29 05:26:09,084 - INFO - New job: Corrections Oversight Worker - 614869 [No facility found]
+2025-10-29 05:26:09,085 - INFO - New job: Driver I - 614906 [No facility found]
+2025-10-29 05:26:09,085 - INFO - New job: Food Service Supervisor - 614303 [No facility found]
+2025-10-29 05:26:09,085 - INFO - New job: Food Service Manager - 614318 [No facility found]
+2025-10-29 05:26:09,085 - INFO - New job: Corrections Oversight Worker - 614319 [No facility found]
+2025-10-29 05:26:09,085 - INFO - New job: Food Service Director - 614323 [No facility found]
+2025-10-29 05:26:09,085 - INFO - New job: Food Service Manager - 614324 [No facility found]
+2025-10-29 05:26:09,085 - INFO - New job: Food Service Supervisor - 614325 [No facility found]
+2025-10-29 05:26:09,086 - INFO - New job: Corrections Oversight Worker - 614326 [No facility found]
+2025-10-29 05:26:09,086 - INFO - New job: Food Service Manager - 614327 [No facility found]
+2025-10-29 05:26:09,086 - INFO - New job: Corrections Oversight Worker - 614329 [No facility found]
+2025-10-29 05:26:09,086 - INFO - New job: Food Service Director - 614330 [No facility found]
+2025-10-29 05:26:09,142 - INFO - New job: Corrections Oversight Worker - Bowling Green Jail (KY) - 614362 [UNVERIFIED: Bowling Green Jail (KY)]
+2025-10-29 05:26:09,142 - INFO - New job: Corrections Inmate Worker 000019709 - 614504 [No facility found]
+2025-10-29 05:26:09,174 - INFO - New job: Corrections Oversight Worker - Alvis 180 Chillicothe - 611906 [UNVERIFIED: Alvis 180 Chillicothe]
+2025-10-29 05:26:09,174 - INFO - New job: Food Service Director - 614663 [No facility found]
+2025-10-29 05:26:09,217 - INFO - New job: Corrections Oversight Worker - South Bend Work Release Center - 614664 [VERIFIED: Mobile Work Release Center]
+2025-10-29 05:26:09,217 - INFO - New job: Food Service Supervisor - 614665 [No facility found]
+2025-10-29 05:26:09,217 - INFO - New job: Corrections Oversight Worker - 614666 [No facility found]
+2025-10-29 05:26:09,217 - INFO - New job: Food Service Manager - 614669 [No facility found]
+2025-10-29 05:26:09,217 - INFO - New job: Kitchen Supervisor - 614683 [No facility found]
+2025-10-29 05:26:09,257 - INFO - New job: Food Service Worker Lead - Morgan County Correctional Complex - 614768 [VERIFIED: Morgan County Correctional Complex]
+2025-10-29 05:26:09,305 - INFO - New job: Corrections Oversight Worker - Core Civic Lee Adjustment Center - 614789 [UNVERIFIED: Core Civic Lee Adjustment Center]
+2025-10-29 05:26:09,305 - INFO - New job: Warehouse Worker Lead - 614815 [No facility found]
+2025-10-29 05:26:09,344 - INFO - New job: Corrections Oversight Worker - Maryville Treatment Center - 614825 [VERIFIED: Maryville Treatment Center]
+2025-10-29 05:26:09,371 - INFO - New job: Food Service Supervisor - Preble County Jail - 614835 [UNVERIFIED: Preble County Jail]
+2025-10-29 05:26:09,398 - INFO - New job: Corrections Oversight Worker - Preble County Jail - 614865 [UNVERIFIED: Preble County Jail]
+2025-10-29 05:26:20,818 - INFO - Added 27 new jobs
+2025-10-29 05:26:20,818 - INFO - Fetching descriptions for 27 new jobs...
+2025-10-29 05:26:22,198 - INFO - Updated description for 614869
+2025-10-29 05:26:24,025 - INFO - Updated description for 614906
+2025-10-29 05:26:26,103 - INFO - Updated description for 614303
+2025-10-29 05:26:27,512 - INFO - Updated description for 614318
+2025-10-29 05:26:28,937 - INFO - Updated description for 614319
+2025-10-29 05:26:30,296 - INFO - Updated description for 614323
+2025-10-29 05:26:31,893 - INFO - Updated description for 614324
+2025-10-29 05:26:33,295 - INFO - Updated description for 614325
+2025-10-29 05:26:34,795 - INFO - Updated description for 614326
+2025-10-29 05:26:36,200 - INFO - Updated description for 614327
+2025-10-29 05:26:37,725 - INFO - Updated description for 614329
+2025-10-29 05:26:39,244 - INFO - Updated description for 614330
+2025-10-29 05:26:40,658 - INFO - Updated description for 614362
+2025-10-29 05:26:42,052 - INFO - Updated description for 614504
+2025-10-29 05:26:43,506 - INFO - Updated description for 611906
+2025-10-29 05:26:44,971 - INFO - Updated description for 614663
+2025-10-29 05:26:46,491 - INFO - Updated description for 614664
+2025-10-29 05:26:47,987 - INFO - Updated description for 614665
+2025-10-29 05:26:49,465 - INFO - Updated description for 614666
+2025-10-29 05:26:51,034 - INFO - Updated description for 614669
+2025-10-29 05:26:52,440 - INFO - Updated description for 614683
+2025-10-29 05:26:54,240 - INFO - Updated description for 614768
+2025-10-29 05:26:56,047 - INFO - Updated description for 614789
+2025-10-29 05:26:57,841 - INFO - Updated description for 614815
+2025-10-29 05:26:59,466 - INFO - Updated description for 614825
+2025-10-29 05:27:01,075 - INFO - Updated description for 614835
+2025-10-29 05:27:02,492 - INFO - Updated description for 614865
+2025-10-29 05:27:02,996 - INFO - 
+=== SUMMARY ===
+2025-10-29 05:27:02,997 - INFO - Total jobs in database: 526
+2025-10-29 05:27:02,997 - INFO - New jobs added: 27
+2025-10-29 05:27:02,997 - INFO - Descriptions updated: 27
+2025-10-29 05:27:02,997 - INFO - Verified facilities: 68
+2025-10-29 05:27:02,997 - INFO - Unverified facilities: 209
+2025-10-29 05:27:02,997 - INFO - Log saved to: logs/api_scraper_20251029_052606.log
