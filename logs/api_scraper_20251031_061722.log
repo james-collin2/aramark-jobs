@@ -1,0 +1,42 @@
+2025-10-31 06:17:22,253 - INFO - Starting API job scraper
+2025-10-31 06:17:22,254 - INFO - Loaded 853 master facilities
+2025-10-31 06:17:22,254 - INFO - Fetching jobs from API...
+2025-10-31 06:17:23,622 - INFO - Total jobs found: 500
+2025-10-31 06:17:23,674 - INFO - New job: Food Service Worker - Putnam County Jail, FL - 614635 [UNVERIFIED: Putnam County Jail, FL]
+2025-10-31 06:17:23,697 - INFO - New job: Corrections Oversight Worker - Ross County OH - 614721 [UNVERIFIED: Ross County OH]
+2025-10-31 06:17:23,732 - INFO - New job: Warehouse Worker I - USG - NV WAREHOUSE - UD - 615086 [UNVERIFIED: USG - NV WAREHOUSE - UD]
+2025-10-31 06:17:23,757 - INFO - New job: Kitchen Supervisor - Charlotte - CI - (510) - 615094 [UNVERIFIED: Charlotte - CI]
+2025-10-31 06:17:23,758 - INFO - New job: Food Service Director - 615163 [No facility found]
+2025-10-31 06:17:23,787 - INFO - New job: Commissary Worker - Madera County D.O.C. - 615171 [UNVERIFIED: Madera County D.O.C.]
+2025-10-31 06:17:23,826 - INFO - New job: Corrections Oversight Worker - Oriana House - Cleveland - 615270 [UNVERIFIED: Oriana House - Cleveland]
+2025-10-31 06:17:23,875 - INFO - New job: Food Service Worker - Jackson County Detention Center (MO) - 615280 [UNVERIFIED: Jackson County Detention Center (MO)]
+2025-10-31 06:17:23,924 - INFO - New job: Commissary Worker - Baltimore County Department of Corrections - 615282 [UNVERIFIED: Baltimore County Department of Corrections]
+2025-10-31 06:17:23,977 - INFO - New job: Food Service Worker - Pulaski County Regional Detention Facility - 615286 [VERIFIED: South Florida Detention Facility]
+2025-10-31 06:17:24,007 - INFO - New job: Food Service Worker - Benton County Sheriff WA - 615332 [UNVERIFIED: Benton County Sheriff WA]
+2025-10-31 06:17:24,060 - INFO - New job: Food Service Worker- Harris County Juvenile Detention Center - 615344 [UNVERIFIED: Harris County Juvenile Detention Center]
+2025-10-31 06:17:24,060 - INFO - New job: Accounting Sr Analyst - 615350 [No facility found]
+2025-10-31 06:17:24,094 - INFO - New job: Retail Sales Worker Lead - Correction Reception Center - 615397 [VERIFIED: Correctional Reception Center]
+2025-10-31 06:17:35,373 - INFO - Added 14 new jobs
+2025-10-31 06:17:35,373 - INFO - Fetching descriptions for 14 new jobs...
+2025-10-31 06:17:36,554 - INFO - Updated description for 614635
+2025-10-31 06:17:38,104 - INFO - Updated description for 614721
+2025-10-31 06:17:39,773 - INFO - Updated description for 615086
+2025-10-31 06:17:41,482 - INFO - Updated description for 615094
+2025-10-31 06:17:43,162 - INFO - Updated description for 615163
+2025-10-31 06:17:44,758 - INFO - Updated description for 615171
+2025-10-31 06:17:46,336 - INFO - Updated description for 615270
+2025-10-31 06:17:47,973 - INFO - Updated description for 615280
+2025-10-31 06:17:49,616 - INFO - Updated description for 615282
+2025-10-31 06:17:51,253 - INFO - Updated description for 615286
+2025-10-31 06:17:52,758 - INFO - Updated description for 615332
+2025-10-31 06:17:54,552 - INFO - Updated description for 615344
+2025-10-31 06:17:56,142 - INFO - Updated description for 615350
+2025-10-31 06:17:57,797 - INFO - Updated description for 615397
+2025-10-31 06:17:58,302 - INFO - 
+=== SUMMARY ===
+2025-10-31 06:17:58,302 - INFO - Total jobs in database: 545
+2025-10-31 06:17:58,302 - INFO - New jobs added: 14
+2025-10-31 06:17:58,302 - INFO - Descriptions updated: 14
+2025-10-31 06:17:58,303 - INFO - Verified facilities: 70
+2025-10-31 06:17:58,303 - INFO - Unverified facilities: 215
+2025-10-31 06:17:58,303 - INFO - Log saved to: logs/api_scraper_20251031_061722.log
