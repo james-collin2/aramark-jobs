@@ -1,0 +1,18 @@
+2025-11-03 12:22:37,626 - INFO - Starting API job scraper
+2025-11-03 12:22:37,626 - INFO - Loaded 853 master facilities
+2025-11-03 12:22:37,626 - INFO - Fetching jobs from API...
+2025-11-03 12:22:39,037 - INFO - Total jobs found: 500
+2025-11-03 12:22:39,039 - INFO - New job: IN2WORK Coordinator - 615626 [No facility found]
+2025-11-03 12:22:39,094 - INFO - New job: Corrections Oversight Worker - Vanderburgh County Sheriff - 615659 [UNVERIFIED: Vanderburgh County Sheriff]
+2025-11-03 12:22:51,001 - INFO - Added 2 new jobs
+2025-11-03 12:22:51,001 - INFO - Fetching descriptions for 2 new jobs...
+2025-11-03 12:22:52,167 - INFO - Updated description for 615626
+2025-11-03 12:22:53,707 - INFO - Updated description for 615659
+2025-11-03 12:22:54,211 - INFO - 
+=== SUMMARY ===
+2025-11-03 12:22:54,211 - INFO - Total jobs in database: 567
+2025-11-03 12:22:54,211 - INFO - New jobs added: 2
+2025-11-03 12:22:54,211 - INFO - Descriptions updated: 2
+2025-11-03 12:22:54,211 - INFO - Verified facilities: 76
+2025-11-03 12:22:54,211 - INFO - Unverified facilities: 217
+2025-11-03 12:22:54,211 - INFO - Log saved to: logs/api_scraper_20251103_122237.log
