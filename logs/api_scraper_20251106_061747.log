@@ -1,0 +1,28 @@
+2025-11-06 06:17:47,528 - INFO - Starting API job scraper
+2025-11-06 06:17:47,529 - INFO - Loaded 853 master facilities
+2025-11-06 06:17:47,529 - INFO - Fetching jobs from API...
+2025-11-06 06:17:49,674 - INFO - Total jobs found: 493
+2025-11-06 06:17:49,725 - INFO - New job: Food Service Worker - Hamilton Cnty Youth Center - 616292 [UNVERIFIED: Hamilton Cnty Youth Center]
+2025-11-06 06:17:49,752 - INFO - New job: Food Service Worker - Multnomah/Inverness - 616301 [UNVERIFIED: Multnomah/Inverness]
+2025-11-06 06:17:49,785 - INFO - New job: Retail Sales Worker - Pinellas County Commissary - 616351 [UNVERIFIED: Pinellas County Commissary]
+2025-11-06 06:17:49,829 - INFO - New job: Lead Cook - Wyandotte County Detention Center - 616367 [VERIFIED: Detroit Detention Center]
+2025-11-06 06:17:49,854 - INFO - New job: Corrections Oversight Worker - Clark County Jail - 616440 [UNVERIFIED: Clark County Jail]
+2025-11-06 06:17:49,902 - INFO - New job: Maintenance Worker - Western Tidewater Regional (Facilities) - 616441 [UNVERIFIED: Western Tidewater Regional (Facilities)]
+2025-11-06 06:17:49,934 - INFO - New job: Corrections Oversight Worker - Southeast Correctional Center - 615524 [VERIFIED: Southeast Correctional Center]
+2025-11-06 06:18:00,310 - INFO - Added 7 new jobs
+2025-11-06 06:18:00,310 - INFO - Fetching descriptions for 7 new jobs...
+2025-11-06 06:18:01,231 - INFO - Updated description for 616292
+2025-11-06 06:18:02,635 - INFO - Updated description for 616301
+2025-11-06 06:18:04,024 - INFO - Updated description for 616351
+2025-11-06 06:18:05,505 - INFO - Updated description for 616367
+2025-11-06 06:18:07,007 - INFO - Updated description for 616440
+2025-11-06 06:18:08,544 - INFO - Updated description for 616441
+2025-11-06 06:18:10,015 - INFO - Updated description for 615524
+2025-11-06 06:18:10,519 - INFO - 
+=== SUMMARY ===
+2025-11-06 06:18:10,519 - INFO - Total jobs in database: 596
+2025-11-06 06:18:10,519 - INFO - New jobs added: 7
+2025-11-06 06:18:10,519 - INFO - Descriptions updated: 7
+2025-11-06 06:18:10,520 - INFO - Verified facilities: 81
+2025-11-06 06:18:10,520 - INFO - Unverified facilities: 226
+2025-11-06 06:18:10,520 - INFO - Log saved to: logs/api_scraper_20251106_061747.log
