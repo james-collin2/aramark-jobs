@@ -1,0 +1,18 @@
+2025-11-09 06:15:36,498 - INFO - Starting API job scraper
+2025-11-09 06:15:36,498 - INFO - Loaded 853 master facilities
+2025-11-09 06:15:36,498 - INFO - Fetching jobs from API...
+2025-11-09 06:15:38,010 - INFO - Total jobs found: 498
+2025-11-09 06:15:38,011 - INFO - New job: Commissary Manager - 616928 [No facility found]
+2025-11-09 06:15:38,044 - INFO - New job: Chief Growth Officer - Corrections - 617031 [UNVERIFIED: Corrections]
+2025-11-09 06:15:49,868 - INFO - Added 2 new jobs
+2025-11-09 06:15:49,868 - INFO - Fetching descriptions for 2 new jobs...
+2025-11-09 06:15:51,041 - INFO - Updated description for 616928
+2025-11-09 06:15:52,580 - INFO - Updated description for 617031
+2025-11-09 06:15:53,084 - INFO - 
+=== SUMMARY ===
+2025-11-09 06:15:53,084 - INFO - Total jobs in database: 622
+2025-11-09 06:15:53,084 - INFO - New jobs added: 2
+2025-11-09 06:15:53,084 - INFO - Descriptions updated: 2
+2025-11-09 06:15:53,084 - INFO - Verified facilities: 86
+2025-11-09 06:15:53,084 - INFO - Unverified facilities: 231
+2025-11-09 06:15:53,084 - INFO - Log saved to: logs/api_scraper_20251109_061536.log
