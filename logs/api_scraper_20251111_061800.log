@@ -1,0 +1,136 @@
+2025-11-11 06:18:00,149 - INFO - Starting API job scraper
+2025-11-11 06:18:00,149 - INFO - Loaded 853 master facilities
+2025-11-11 06:18:00,149 - INFO - Fetching jobs from API...
+2025-11-11 06:18:03,172 - INFO - Total jobs found: 500
+2025-11-11 06:18:03,173 - INFO - New job: Food Service Director - 614285 [No facility found]
+2025-11-11 06:18:03,173 - INFO - New job: Food Service Manager - 614286 [No facility found]
+2025-11-11 06:18:03,174 - INFO - New job: Food Service Supervisor - 614287 [No facility found]
+2025-11-11 06:18:03,174 - INFO - New job: Corrections Oversight Worker - 614288 [No facility found]
+2025-11-11 06:18:03,174 - INFO - New job: Food Service Director - 614289 [No facility found]
+2025-11-11 06:18:03,174 - INFO - New job: Food Service Manager - 614290 [No facility found]
+2025-11-11 06:18:03,174 - INFO - New job: Food Service Supervisor - 614291 [No facility found]
+2025-11-11 06:18:03,174 - INFO - New job: Corrections Oversight Worker - 614293 [No facility found]
+2025-11-11 06:18:03,174 - INFO - New job: Food Service Director - 614295 [No facility found]
+2025-11-11 06:18:03,175 - INFO - New job: Food Service Manager - 614296 [No facility found]
+2025-11-11 06:18:03,175 - INFO - New job: Food Service Supervisor - 614297 [No facility found]
+2025-11-11 06:18:03,175 - INFO - New job: Corrections Oversight Worker - 614298 [No facility found]
+2025-11-11 06:18:03,175 - INFO - New job: Food Service Director - 614299 [No facility found]
+2025-11-11 06:18:03,175 - INFO - New job: Food Service Manager - 614300 [No facility found]
+2025-11-11 06:18:03,175 - INFO - New job: Food Service Supervisor - 614301 [No facility found]
+2025-11-11 06:18:03,175 - INFO - New job: Corrections Oversight Worker - 614302 [No facility found]
+2025-11-11 06:18:03,175 - INFO - New job: Food Service Director - 614320 [No facility found]
+2025-11-11 06:18:03,176 - INFO - New job: Food Service Manager - 614321 [No facility found]
+2025-11-11 06:18:03,176 - INFO - New job: Corrections Oversight Worker - 614322 [No facility found]
+2025-11-11 06:18:03,176 - INFO - New job: Food Service Director - 614655 [No facility found]
+2025-11-11 06:18:03,176 - INFO - New job: Food Service Manager - 614662 [No facility found]
+2025-11-11 06:18:03,176 - INFO - New job: Food Service Director - 614674 [No facility found]
+2025-11-11 06:18:03,176 - INFO - New job: Corrections Oversight Worker - 614677 [No facility found]
+2025-11-11 06:18:03,176 - INFO - New job: Food Service Director - 614680 [No facility found]
+2025-11-11 06:18:03,177 - INFO - New job: Food Service Director - 614803 [No facility found]
+2025-11-11 06:18:03,177 - INFO - New job: Food Service Director - 614804 [No facility found]
+2025-11-11 06:18:03,177 - INFO - New job: Food Service Director - 614805 [No facility found]
+2025-11-11 06:18:03,177 - INFO - New job: Food Service Director - 614808 [No facility found]
+2025-11-11 06:18:03,177 - INFO - New job: Food Service Manager - 614809 [No facility found]
+2025-11-11 06:18:03,177 - INFO - New job: Food Service Manager - 614819 [No facility found]
+2025-11-11 06:18:03,177 - INFO - New job: Food Service Supervisor - 614827 [No facility found]
+2025-11-11 06:18:03,177 - INFO - New job: Corrections Oversight Worker - 614828 [No facility found]
+2025-11-11 06:18:03,178 - INFO - New job: Food Service Manager - 614831 [No facility found]
+2025-11-11 06:18:03,178 - INFO - New job: Food Service Supervisor - 614833 [No facility found]
+2025-11-11 06:18:03,178 - INFO - New job: Corrections Oversight Worker - 614836 [No facility found]
+2025-11-11 06:18:03,178 - INFO - New job: Food Service Manager - 614841 [No facility found]
+2025-11-11 06:18:03,178 - INFO - New job: Food Service Supervisor - 614844 [No facility found]
+2025-11-11 06:18:03,178 - INFO - New job: Corrections Oversight Worker - 614845 [No facility found]
+2025-11-11 06:18:03,178 - INFO - New job: Driver II - 614848 [No facility found]
+2025-11-11 06:18:03,178 - INFO - New job: Food Service Manager - 614855 [No facility found]
+2025-11-11 06:18:03,178 - INFO - New job: Food Service Supervisor - 614860 [No facility found]
+2025-11-11 06:18:03,178 - INFO - New job: Corrections Oversight Worker - 614863 [No facility found]
+2025-11-11 06:18:03,179 - INFO - New job: Corrections Oversight Worker - 614867 [No facility found]
+2025-11-11 06:18:03,179 - INFO - New job: General Manager I - 616825 [No facility found]
+2025-11-11 06:18:03,179 - INFO - New job: Food Service Manager - 617034 [No facility found]
+2025-11-11 06:18:03,179 - INFO - New job: Food Service Director - 617035 [No facility found]
+2025-11-11 06:18:03,236 - INFO - New job: Driver II - Sojourner Recovery Center - 617085 [VERIFIED: Southern Maine Reentry Center]
+2025-11-11 06:18:03,262 - INFO - New job: Food Service Worker - Huron County Jail - 617089 [UNVERIFIED: Huron County Jail]
+2025-11-11 06:18:03,310 - INFO - New job: Lead Cook - Little Sandy Correctional Complex-Elliot Cty - 617101 [VERIFIED: Little Sandy Correctional Complex]
+2025-11-11 06:18:03,334 - INFO - New job: Food Service Worker - Homestead - CI - (419) - 617115 [UNVERIFIED: Homestead - CI]
+2025-11-11 06:18:03,366 - INFO - New job: Custodial Services Worker - Dona Ana (Facilities) - 617140 [UNVERIFIED: Dona Ana (Facilities)]
+2025-11-11 06:18:03,366 - INFO - New job: Corrections Oversight Worker - 617186 [No facility found]
+2025-11-11 06:18:03,391 - INFO - New job: Corrections Oversight Worker - Larned Correctional - 617193 [VERIFIED: Bland Correctional Center]
+2025-11-11 06:18:03,420 - INFO - New job: Corrections Oversight Worker - Warren County, OH - 617207 [UNVERIFIED: Warren County, OH]
+2025-11-11 06:18:03,443 - INFO - New job: Cook - Vernon County - 617219 [UNVERIFIED: Vernon County]
+2025-11-11 06:18:03,480 - INFO - New job: Cook - Anoka County Jail Facility - 617236 [VERIFIED: Otero County Prison Facility]
+2025-11-11 06:18:03,508 - INFO - New job: Driver I - Gateway Foundation - 617245 [UNVERIFIED: Gateway Foundation]
+2025-11-11 06:18:03,547 - INFO - New job: Corrections Oversight Worker - Outagamie County Jail - 617255 [UNVERIFIED: Outagamie County Jail]
+2025-11-11 06:18:03,603 - INFO - New job: Corrections Oversight Worker - Western Reception, Diagnostic and Correctional Center - 617288 [VERIFIED: Western Illinois Correctional Center]
+2025-11-11 06:18:03,604 - INFO - New job: Kitchen Supervisor - 617299 [No facility found]
+2025-11-11 06:18:03,604 - INFO - New job: Warehouse Manager - 617306 [No facility found]
+2025-11-11 06:18:14,402 - INFO - Added 61 new jobs
+2025-11-11 06:18:14,402 - INFO - Fetching descriptions for 61 new jobs...
+2025-11-11 06:18:15,508 - INFO - Updated description for 614285
+2025-11-11 06:18:17,219 - INFO - Updated description for 614286
+2025-11-11 06:18:18,870 - INFO - Updated description for 614287
+2025-11-11 06:18:20,535 - INFO - Updated description for 614288
+2025-11-11 06:18:22,086 - INFO - Updated description for 614289
+2025-11-11 06:18:23,763 - INFO - Updated description for 614290
+2025-11-11 06:18:25,431 - INFO - Updated description for 614291
+2025-11-11 06:18:27,078 - INFO - Updated description for 614293
+2025-11-11 06:18:28,769 - INFO - Updated description for 614295
+2025-11-11 06:18:30,320 - INFO - Updated description for 614296
+2025-11-11 06:18:31,947 - INFO - Updated description for 614297
+2025-11-11 06:18:33,718 - INFO - Updated description for 614298
+2025-11-11 06:18:35,344 - INFO - Updated description for 614299
+2025-11-11 06:18:36,968 - INFO - Updated description for 614300
+2025-11-11 06:18:38,626 - INFO - Updated description for 614301
+2025-11-11 06:18:40,136 - INFO - Updated description for 614302
+2025-11-11 06:18:41,644 - INFO - Updated description for 614320
+2025-11-11 06:18:46,315 - INFO - Updated description for 614321
+2025-11-11 06:18:47,847 - INFO - Updated description for 614322
+2025-11-11 06:18:49,414 - INFO - Updated description for 614655
+2025-11-11 06:18:51,046 - INFO - Updated description for 614662
+2025-11-11 06:18:52,793 - INFO - Updated description for 614674
+2025-11-11 06:18:54,386 - INFO - Updated description for 614677
+2025-11-11 06:18:56,020 - INFO - Updated description for 614680
+2025-11-11 06:18:57,563 - INFO - Updated description for 614803
+2025-11-11 06:18:59,168 - INFO - Updated description for 614804
+2025-11-11 06:19:00,713 - INFO - Updated description for 614805
+2025-11-11 06:19:02,384 - INFO - Updated description for 614808
+2025-11-11 06:19:04,110 - INFO - Updated description for 614809
+2025-11-11 06:19:05,692 - INFO - Updated description for 614819
+2025-11-11 06:19:07,367 - INFO - Updated description for 614827
+2025-11-11 06:19:09,154 - INFO - Updated description for 614828
+2025-11-11 06:19:10,748 - INFO - Updated description for 614831
+2025-11-11 06:19:12,443 - INFO - Updated description for 614833
+2025-11-11 06:19:14,132 - INFO - Updated description for 614836
+2025-11-11 06:19:15,779 - INFO - Updated description for 614841
+2025-11-11 06:19:17,355 - INFO - Updated description for 614844
+2025-11-11 06:19:19,007 - INFO - Updated description for 614845
+2025-11-11 06:19:20,684 - INFO - Updated description for 614848
+2025-11-11 06:19:22,251 - INFO - Updated description for 614855
+2025-11-11 06:19:23,965 - INFO - Updated description for 614860
+2025-11-11 06:19:25,636 - INFO - Updated description for 614863
+2025-11-11 06:19:27,278 - INFO - Updated description for 614867
+2025-11-11 06:19:28,892 - INFO - Updated description for 616825
+2025-11-11 06:19:30,439 - INFO - Updated description for 617034
+2025-11-11 06:19:32,190 - INFO - Updated description for 617035
+2025-11-11 06:19:33,912 - INFO - Updated description for 617085
+2025-11-11 06:19:35,727 - INFO - Updated description for 617089
+2025-11-11 06:19:37,419 - INFO - Updated description for 617101
+2025-11-11 06:19:39,116 - INFO - Updated description for 617115
+2025-11-11 06:19:40,760 - INFO - Updated description for 617140
+2025-11-11 06:19:42,365 - INFO - Updated description for 617186
+2025-11-11 06:19:44,108 - INFO - Updated description for 617193
+2025-11-11 06:19:45,756 - INFO - Updated description for 617207
+2025-11-11 06:19:47,440 - INFO - Updated description for 617219
+2025-11-11 06:19:48,981 - INFO - Updated description for 617236
+2025-11-11 06:19:50,695 - INFO - Updated description for 617245
+2025-11-11 06:19:52,336 - INFO - Updated description for 617255
+2025-11-11 06:19:54,050 - INFO - Updated description for 617288
+2025-11-11 06:19:55,679 - INFO - Updated description for 617299
+2025-11-11 06:19:57,182 - INFO - Updated description for 617306
+2025-11-11 06:19:57,688 - INFO - 
+=== SUMMARY ===
+2025-11-11 06:19:57,688 - INFO - Total jobs in database: 683
+2025-11-11 06:19:57,688 - INFO - New jobs added: 61
+2025-11-11 06:19:57,688 - INFO - Descriptions updated: 61
+2025-11-11 06:19:57,688 - INFO - Verified facilities: 88
+2025-11-11 06:19:57,688 - INFO - Unverified facilities: 234
+2025-11-11 06:19:57,688 - INFO - Log saved to: logs/api_scraper_20251111_061800.log
