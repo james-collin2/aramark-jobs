@@ -1,0 +1,36 @@
+2025-11-12 06:17:50,329 - INFO - Starting API job scraper
+2025-11-12 06:17:50,329 - INFO - Loaded 853 master facilities
+2025-11-12 06:17:50,329 - INFO - Fetching jobs from API...
+2025-11-12 06:17:54,943 - INFO - Total jobs found: 500
+2025-11-12 06:17:54,988 - INFO - New job: Kitchen Supervisor - Smith State Prison - 617341 [VERIFIED: Smith State Prison]
+2025-11-12 06:17:55,016 - INFO - New job: Cook - Santa Cruz County - 617370 [UNVERIFIED: Santa Cruz County]
+2025-11-12 06:17:55,049 - INFO - New job: Corrections Oversight Worker - Blair County Prison - 617390 [UNVERIFIED: Blair County Prison]
+2025-11-12 06:17:55,083 - INFO - New job: Corrections Oversight Worker - Suwannee - CI/Annex - (230/231) - 617443 [UNVERIFIED: Suwannee - CI/Annex]
+2025-11-12 06:17:55,115 - INFO - New job: Cook - Orange County (NY) Jail - 617477 [UNVERIFIED: Orange County (NY) Jail]
+2025-11-12 06:17:55,147 - INFO - New job: Food Service Worker - Orange County (NY) Jail - 617483 [UNVERIFIED: Orange County (NY) Jail]
+2025-11-12 06:17:55,201 - INFO - New job: Corrections Oversight Worker - Little Sandy Correctional Complex-Elliot Cty - 617522 [VERIFIED: Little Sandy Correctional Complex]
+2025-11-12 06:17:55,241 - INFO - New job: Corrections Oversight Worker - Winnebago County Corrections - 617534 [UNVERIFIED: Winnebago County Corrections]
+2025-11-12 06:17:55,273 - INFO - New job: Kitchen Supervisor - Baker - Re-Entry/WC - (275/279) - 617538 [UNVERIFIED: Baker - Re-Entry/WC]
+2025-11-12 06:17:55,311 - INFO - New job: Corrections Oversight Worker - Chillicothe Correctional Center - 617545 [VERIFIED: Chillicothe Correctional Center]
+2025-11-12 06:17:55,348 - INFO - New job: Food Service Worker Lead - Chillicothe Correctional Center - 617549 [VERIFIED: Chillicothe Correctional Center]
+2025-11-12 06:18:05,953 - INFO - Added 11 new jobs
+2025-11-12 06:18:05,953 - INFO - Fetching descriptions for 11 new jobs...
+2025-11-12 06:18:07,151 - INFO - Updated description for 617341
+2025-11-12 06:18:08,658 - INFO - Updated description for 617370
+2025-11-12 06:18:10,169 - INFO - Updated description for 617390
+2025-11-12 06:18:11,896 - INFO - Updated description for 617443
+2025-11-12 06:18:13,642 - INFO - Updated description for 617477
+2025-11-12 06:18:15,179 - INFO - Updated description for 617483
+2025-11-12 06:18:16,792 - INFO - Updated description for 617522
+2025-11-12 06:18:18,405 - INFO - Updated description for 617534
+2025-11-12 06:18:20,006 - INFO - Updated description for 617538
+2025-11-12 06:18:21,557 - INFO - Updated description for 617545
+2025-11-12 06:18:23,057 - INFO - Updated description for 617549
+2025-11-12 06:18:23,562 - INFO - 
+=== SUMMARY ===
+2025-11-12 06:18:23,563 - INFO - Total jobs in database: 694
+2025-11-12 06:18:23,563 - INFO - New jobs added: 11
+2025-11-12 06:18:23,563 - INFO - Descriptions updated: 11
+2025-11-12 06:18:23,563 - INFO - Verified facilities: 90
+2025-11-12 06:18:23,563 - INFO - Unverified facilities: 236
+2025-11-12 06:18:23,563 - INFO - Log saved to: logs/api_scraper_20251112_061750.log
