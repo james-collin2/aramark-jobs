@@ -1,0 +1,33 @@
+2025-11-15 12:18:42,345 - INFO - Starting API job scraper
+2025-11-15 12:18:42,346 - INFO - Loaded 853 master facilities
+2025-11-15 12:18:42,346 - INFO - Fetching jobs from API...
+2025-11-15 12:18:46,008 - INFO - Total jobs found: 500
+2025-11-15 12:18:46,134 - INFO - New job: Corrections Oversight Worker - Anne Arundel County - JRDC - 617909 [UNVERIFIED: Anne Arundel County - JRDC]
+2025-11-15 12:18:46,160 - INFO - New job: Corrections Oversight Worker - Durham County Jail - 618083 [UNVERIFIED: Durham County Jail]
+2025-11-15 12:18:46,186 - INFO - New job: Corrections Oversight Worker - El Dorado Correctional - 618094 [VERIFIED: El Dorado Correctional Facility]
+2025-11-15 12:18:46,187 - INFO - New job: Food Service Manager - 618196 [No facility found]
+2025-11-15 12:18:46,220 - INFO - New job: Corrections Oversight Worker - Farmington Correctional Center - 618238 [VERIFIED: Farmington Correctional Center]
+2025-11-15 12:18:46,254 - INFO - New job: Food Service Supervisor - Rock Island County Sheriff - 618306 [UNVERIFIED: Rock Island County Sheriff]
+2025-11-15 12:18:46,254 - INFO - New job: Food Service Director - 617736 [No facility found]
+2025-11-15 12:18:46,283 - INFO - New job: Food Service Worker - Charleston County, SC - 616703 [UNVERIFIED: Charleston County, SC]
+2025-11-15 12:18:46,316 - INFO - New job: Commissary Worker - Pinellas County Commissary - 614939 [UNVERIFIED: Pinellas County Commissary]
+2025-11-15 12:18:55,940 - INFO - Added 9 new jobs
+2025-11-15 12:18:55,940 - INFO - Fetching descriptions for 9 new jobs...
+2025-11-15 12:18:56,944 - INFO - Updated description for 617909
+2025-11-15 12:18:58,572 - INFO - Updated description for 618083
+2025-11-15 12:19:00,127 - INFO - Updated description for 618094
+2025-11-15 12:19:01,608 - INFO - Updated description for 618196
+2025-11-15 12:19:03,105 - INFO - Updated description for 618238
+2025-11-15 12:19:04,844 - INFO - Updated description for 618306
+2025-11-15 12:19:06,480 - INFO - Updated description for 617736
+2025-11-15 12:19:08,114 - INFO - Updated description for 616703
+2025-11-15 12:19:09,701 - INFO - Updated description for 614939
+2025-11-15 12:19:10,208 - INFO - 
+=== SUMMARY ===
+2025-11-15 12:19:10,208 - INFO - Total jobs in database: 736
+2025-11-15 12:19:10,208 - INFO - New jobs added: 9
+2025-11-15 12:19:10,208 - INFO - Descriptions updated: 9
+2025-11-15 12:19:10,208 - INFO - Verified facilities: 93
+2025-11-15 12:19:10,208 - INFO - Unverified facilities: 245
+2025-11-15 12:19:10,208 - INFO - Log saved to: logs/api_scraper_20251115_121842.log
+2025-11-15 12:19:10,265 - INFO - Exported 736 jobs to jobs.csv
