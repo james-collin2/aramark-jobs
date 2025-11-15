@@ -207,6 +207,25 @@ def scrape_all_jobs():
     logger.info(f"Log saved to: {log_file}")
     
     conn.close()
+    
+    # Export to CSV
+    export_to_csv()
+
+def export_to_csv():
+    import csv
+    conn = sqlite3.connect('jobs.db')
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM jobs")
+    jobs = cursor.fetchall()
+    column_names = [description[0] for description in cursor.description]
+    
+    with open('jobs.csv', 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(column_names)
+        writer.writerows(jobs)
+    
+    logger.info(f"Exported {len(jobs)} jobs to jobs.csv")
+    conn.close()
 
 if __name__ == "__main__":
     scrape_all_jobs()
