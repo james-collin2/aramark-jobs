@@ -208,7 +208,7 @@ def scrape_all_jobs():
     
     conn.close()
     
-    # Export to CSV
+    # Export all jobs to CSV
     export_to_csv()
 
 def export_to_csv():
