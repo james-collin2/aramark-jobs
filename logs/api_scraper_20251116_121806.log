@@ -1,0 +1,17 @@
+2025-11-16 12:18:06,307 - INFO - Starting API job scraper
+2025-11-16 12:18:06,307 - INFO - Loaded 853 master facilities
+2025-11-16 12:18:06,307 - INFO - Fetching jobs from API...
+2025-11-16 12:18:08,334 - INFO - Total jobs found: 500
+2025-11-16 12:18:08,385 - INFO - New job: Corrections Oversight Worker - Algoa Correctional Center - 615537 [VERIFIED: Algoa Correctional Center]
+2025-11-16 12:18:18,931 - INFO - Added 1 new jobs
+2025-11-16 12:18:18,931 - INFO - Fetching descriptions for 1 new jobs...
+2025-11-16 12:18:20,051 - INFO - Updated description for 615537
+2025-11-16 12:18:20,555 - INFO - 
+=== SUMMARY ===
+2025-11-16 12:18:20,556 - INFO - Total jobs in database: 737
+2025-11-16 12:18:20,556 - INFO - New jobs added: 1
+2025-11-16 12:18:20,556 - INFO - Descriptions updated: 1
+2025-11-16 12:18:20,556 - INFO - Verified facilities: 94
+2025-11-16 12:18:20,556 - INFO - Unverified facilities: 245
+2025-11-16 12:18:20,556 - INFO - Log saved to: logs/api_scraper_20251116_121806.log
+2025-11-16 12:18:20,616 - INFO - Exported 737 jobs to jobs.csv
