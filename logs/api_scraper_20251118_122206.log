@@ -1,0 +1,27 @@
+2025-11-18 12:22:06,953 - INFO - Starting API job scraper
+2025-11-18 12:22:06,954 - INFO - Loaded 853 master facilities
+2025-11-18 12:22:06,954 - INFO - Fetching jobs from API...
+2025-11-18 12:22:12,158 - INFO - Total jobs found: 500
+2025-11-18 12:22:12,227 - INFO - New job: Commissary Worker - Ada County Sheriff's Office - Commissary - 618477 [UNVERIFIED: Ada County Sheriff's Office - Commissary]
+2025-11-18 12:22:12,228 - INFO - New job: Human Resources Director - 618482 [No facility found]
+2025-11-18 12:22:12,271 - INFO - New job: Corrections Oversight Worker - Clinton County Correctional Facility - PA - 618499 [VERIFIED: Bent County Correctional Facility]
+2025-11-18 12:22:12,307 - INFO - New job: Warehouse Worker II - USG - TX WAREHOUSE - FE - 618525 [UNVERIFIED: USG - TX WAREHOUSE - FE]
+2025-11-18 12:22:12,333 - INFO - New job: Food Service Supervisor - Winfield Correctional - 618534 [VERIFIED: Winfield Correctional Facility]
+2025-11-18 12:22:12,367 - INFO - New job: Corrections Oversight Worker - Apalachee - East Unit - (102) - 618563 [UNVERIFIED: Apalachee - East Unit]
+2025-11-18 12:22:22,606 - INFO - Added 6 new jobs
+2025-11-18 12:22:22,606 - INFO - Fetching descriptions for 6 new jobs...
+2025-11-18 12:22:23,668 - INFO - Updated description for 618477
+2025-11-18 12:22:25,470 - INFO - Updated description for 618482
+2025-11-18 12:22:27,262 - INFO - Updated description for 618499
+2025-11-18 12:22:28,929 - INFO - Updated description for 618525
+2025-11-18 12:22:30,582 - INFO - Updated description for 618534
+2025-11-18 12:22:32,196 - INFO - Updated description for 618563
+2025-11-18 12:22:32,701 - INFO - 
+=== SUMMARY ===
+2025-11-18 12:22:32,701 - INFO - Total jobs in database: 743
+2025-11-18 12:22:32,701 - INFO - New jobs added: 6
+2025-11-18 12:22:32,702 - INFO - Descriptions updated: 6
+2025-11-18 12:22:32,702 - INFO - Verified facilities: 94
+2025-11-18 12:22:32,702 - INFO - Unverified facilities: 248
+2025-11-18 12:22:32,702 - INFO - Log saved to: logs/api_scraper_20251118_122206.log
+2025-11-18 12:22:32,762 - INFO - Exported 743 jobs to jobs.csv
