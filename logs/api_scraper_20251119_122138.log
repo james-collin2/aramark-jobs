@@ -1,0 +1,33 @@
+2025-11-19 12:21:38,713 - INFO - Starting API job scraper
+2025-11-19 12:21:38,714 - INFO - Loaded 853 master facilities
+2025-11-19 12:21:38,714 - INFO - Fetching jobs from API...
+2025-11-19 12:21:41,678 - INFO - Total jobs found: 500
+2025-11-19 12:21:41,733 - INFO - New job: General Utility Worker - Henrico County - Jail West - 618640 [UNVERIFIED: Henrico County - Jail West]
+2025-11-19 12:21:41,764 - INFO - New job: Administrative Support Worker - Dona Ana (Facilities) - 618656 [UNVERIFIED: Dona Ana (Facilities)]
+2025-11-19 12:21:41,798 - INFO - New job: Food Service Worker Lead - London Correctional Institution - 618671 [VERIFIED: London Correctional Institution]
+2025-11-19 12:21:41,836 - INFO - New job: Corrections Oversight Worker - Putnamville Correctional Facility - 618694 [VERIFIED: Putnamville Correctional Facility]
+2025-11-19 12:21:41,870 - INFO - New job: Corrections Oversight Worker - Delaware County (PA) Jail - 618699 [UNVERIFIED: Delaware County (PA) Jail]
+2025-11-19 12:21:41,899 - INFO - New job: Corrections Oversight Worker - Forsyth County Jail - 618784 [UNVERIFIED: Forsyth County Jail]
+2025-11-19 12:21:41,900 - INFO - New job: Warehouse Director - 618800 [No facility found]
+2025-11-19 12:21:41,930 - INFO - New job: Food Service Worker - Escambia County Jail - 611889 [UNVERIFIED: Escambia County Jail]
+2025-11-19 12:21:41,971 - INFO - New job: Commissary Worker - Delaware County (PA) - Commissary - 618596 [UNVERIFIED: Delaware County (PA) - Commissary]
+2025-11-19 12:21:52,013 - INFO - Added 9 new jobs
+2025-11-19 12:21:52,014 - INFO - Fetching descriptions for 9 new jobs...
+2025-11-19 12:21:52,959 - INFO - Updated description for 618640
+2025-11-19 12:21:54,436 - INFO - Updated description for 618656
+2025-11-19 12:21:55,844 - INFO - Updated description for 618671
+2025-11-19 12:21:57,344 - INFO - Updated description for 618694
+2025-11-19 12:21:58,884 - INFO - Updated description for 618699
+2025-11-19 12:22:00,462 - INFO - Updated description for 618784
+2025-11-19 12:22:02,259 - INFO - Updated description for 618800
+2025-11-19 12:22:03,732 - INFO - Updated description for 611889
+2025-11-19 12:22:05,153 - INFO - Updated description for 618596
+2025-11-19 12:22:05,659 - INFO - 
+=== SUMMARY ===
+2025-11-19 12:22:05,659 - INFO - Total jobs in database: 752
+2025-11-19 12:22:05,659 - INFO - New jobs added: 9
+2025-11-19 12:22:05,659 - INFO - Descriptions updated: 9
+2025-11-19 12:22:05,659 - INFO - Verified facilities: 96
+2025-11-19 12:22:05,659 - INFO - Unverified facilities: 251
+2025-11-19 12:22:05,659 - INFO - Log saved to: logs/api_scraper_20251119_122138.log
+2025-11-19 12:22:05,720 - INFO - Exported 752 jobs to jobs.csv
