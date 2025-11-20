@@ -1,0 +1,29 @@
+2025-11-20 12:21:31,101 - INFO - Starting API job scraper
+2025-11-20 12:21:31,102 - INFO - Loaded 853 master facilities
+2025-11-20 12:21:31,102 - INFO - Fetching jobs from API...
+2025-11-20 12:21:32,256 - INFO - Total jobs found: 500
+2025-11-20 12:21:32,298 - INFO - New job: Warehouse Worker Lead - Dona Ana (Facilities) - 618908 [UNVERIFIED: Dona Ana (Facilities)]
+2025-11-20 12:21:32,329 - INFO - New job: Corrections Oversight Worker - Cumberland County Jail - 618980 [UNVERIFIED: Cumberland County Jail]
+2025-11-20 12:21:32,370 - INFO - New job: Food Service Supervisor - Norton/Stockton Correctional Facility - 618982 [VERIFIED: Norton Correctional Facility]
+2025-11-20 12:21:32,404 - INFO - New job: Baker - Winnebago County Corrections - 618998 [UNVERIFIED: Winnebago County Corrections]
+2025-11-20 12:21:32,441 - INFO - New job: Food Service Worker Lead - Lebanon Correctional Institution - 619019 [VERIFIED: Lebanon Correctional Institution]
+2025-11-20 12:21:32,442 - INFO - New job: Food Service Director - 618882 [No facility found]
+2025-11-20 12:21:32,481 - INFO - New job: Corrections Oversight Worker - Chester County Prison & Juvenile - 618887 [UNVERIFIED: Chester County Prison & Juvenile]
+2025-11-20 12:21:42,784 - INFO - Added 7 new jobs
+2025-11-20 12:21:42,784 - INFO - Fetching descriptions for 7 new jobs...
+2025-11-20 12:21:43,863 - INFO - Updated description for 618908
+2025-11-20 12:21:45,289 - INFO - Updated description for 618980
+2025-11-20 12:21:46,764 - INFO - Updated description for 618982
+2025-11-20 12:21:48,342 - INFO - Updated description for 618998
+2025-11-20 12:21:49,792 - INFO - Updated description for 619019
+2025-11-20 12:21:51,206 - INFO - Updated description for 618882
+2025-11-20 12:21:52,682 - INFO - Updated description for 618887
+2025-11-20 12:21:53,188 - INFO - 
+=== SUMMARY ===
+2025-11-20 12:21:53,188 - INFO - Total jobs in database: 759
+2025-11-20 12:21:53,188 - INFO - New jobs added: 7
+2025-11-20 12:21:53,188 - INFO - Descriptions updated: 7
+2025-11-20 12:21:53,188 - INFO - Verified facilities: 98
+2025-11-20 12:21:53,188 - INFO - Unverified facilities: 251
+2025-11-20 12:21:53,188 - INFO - Log saved to: logs/api_scraper_20251120_122131.log
+2025-11-20 12:21:53,249 - INFO - Exported 759 jobs to jobs.csv
