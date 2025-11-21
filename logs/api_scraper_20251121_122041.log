@@ -1,0 +1,35 @@
+2025-11-21 12:20:41,038 - INFO - Starting API job scraper
+2025-11-21 12:20:41,038 - INFO - Loaded 853 master facilities
+2025-11-21 12:20:41,038 - INFO - Fetching jobs from API...
+2025-11-21 12:20:44,629 - INFO - Total jobs found: 500
+2025-11-21 12:20:44,630 - INFO - New job: Food Service Director - 614317 [No facility found]
+2025-11-21 12:20:44,630 - INFO - New job: Food Service Director - 614670 [No facility found]
+2025-11-21 12:20:44,630 - INFO - New job: Corrections Oversight Worker - 614673 [No facility found]
+2025-11-21 12:20:44,630 - INFO - New job: Corrections Oversight Worker - 617111 [No facility found]
+2025-11-21 12:20:44,686 - INFO - New job: Food Service Worker Lead - Harris County Sheriff Food - 618989 [UNVERIFIED: Harris County Sheriff Food]
+2025-11-21 12:20:44,727 - INFO - New job: Corrections Oversight Worker - Fayette County Community Corrections - 619132 [VERIFIED: Lawton Community Corrections Center]
+2025-11-21 12:20:44,769 - INFO - New job: Food Service Worker - Fayette County Community Corrections - 619154 [VERIFIED: Lawton Community Corrections Center]
+2025-11-21 12:20:44,808 - INFO - New job: Food Service Worker - Anoka County Jail Facility - 619210 [VERIFIED: Otero County Prison Facility]
+2025-11-21 12:20:44,846 - INFO - New job: Corrections Oversight Worker - Trumbull Correctional Institution - 619258 [VERIFIED: Trumbull Correctional Institution]
+2025-11-21 12:20:44,872 - INFO - New job: Kitchen Supervisor - R.M.C. - Main/WC - (209/221) - 619269 [UNVERIFIED: R.M.C. - Main/WC]
+2025-11-21 12:20:55,312 - INFO - Added 10 new jobs
+2025-11-21 12:20:55,312 - INFO - Fetching descriptions for 10 new jobs...
+2025-11-21 12:20:56,386 - INFO - Updated description for 614317
+2025-11-21 12:20:58,340 - INFO - Updated description for 614670
+2025-11-21 12:21:00,116 - INFO - Updated description for 614673
+2025-11-21 12:21:01,841 - INFO - Updated description for 617111
+2025-11-21 12:21:03,560 - INFO - Updated description for 618989
+2025-11-21 12:21:05,238 - INFO - Updated description for 619132
+2025-11-21 12:21:06,946 - INFO - Updated description for 619154
+2025-11-21 12:21:08,542 - INFO - Updated description for 619210
+2025-11-21 12:21:10,097 - INFO - Updated description for 619258
+2025-11-21 12:21:11,710 - INFO - Updated description for 619269
+2025-11-21 12:21:12,215 - INFO - 
+=== SUMMARY ===
+2025-11-21 12:21:12,215 - INFO - Total jobs in database: 769
+2025-11-21 12:21:12,215 - INFO - New jobs added: 10
+2025-11-21 12:21:12,216 - INFO - Descriptions updated: 10
+2025-11-21 12:21:12,216 - INFO - Verified facilities: 98
+2025-11-21 12:21:12,216 - INFO - Unverified facilities: 252
+2025-11-21 12:21:12,216 - INFO - Log saved to: logs/api_scraper_20251121_122041.log
+2025-11-21 12:21:12,279 - INFO - Exported 769 jobs to jobs.csv
