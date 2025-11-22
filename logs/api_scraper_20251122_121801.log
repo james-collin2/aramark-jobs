@@ -1,0 +1,19 @@
+2025-11-22 12:18:01,246 - INFO - Starting API job scraper
+2025-11-22 12:18:01,246 - INFO - Loaded 853 master facilities
+2025-11-22 12:18:01,246 - INFO - Fetching jobs from API...
+2025-11-22 12:18:05,168 - INFO - Total jobs found: 500
+2025-11-22 12:18:05,217 - INFO - New job: Corrections Oversight Worker - Greene County Jail - 619296 [VERIFIED: Greene County Work Camp]
+2025-11-22 12:18:05,218 - INFO - New job: Food Service Director - 619386 [No facility found]
+2025-11-22 12:18:15,515 - INFO - Added 2 new jobs
+2025-11-22 12:18:15,515 - INFO - Fetching descriptions for 2 new jobs...
+2025-11-22 12:18:16,660 - INFO - Updated description for 619296
+2025-11-22 12:18:18,320 - INFO - Updated description for 619386
+2025-11-22 12:18:18,825 - INFO - 
+=== SUMMARY ===
+2025-11-22 12:18:18,825 - INFO - Total jobs in database: 771
+2025-11-22 12:18:18,825 - INFO - New jobs added: 2
+2025-11-22 12:18:18,825 - INFO - Descriptions updated: 2
+2025-11-22 12:18:18,825 - INFO - Verified facilities: 99
+2025-11-22 12:18:18,825 - INFO - Unverified facilities: 252
+2025-11-22 12:18:18,825 - INFO - Log saved to: logs/api_scraper_20251122_121801.log
+2025-11-22 12:18:18,888 - INFO - Exported 771 jobs to jobs.csv
