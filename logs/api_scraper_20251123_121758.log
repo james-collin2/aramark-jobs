@@ -1,0 +1,15 @@
+2025-11-23 12:17:58,104 - INFO - Starting API job scraper
+2025-11-23 12:17:58,104 - INFO - Loaded 853 master facilities
+2025-11-23 12:17:58,104 - INFO - Fetching jobs from API...
+2025-11-23 12:18:01,933 - INFO - Total jobs found: 500
+2025-11-23 12:18:12,360 - INFO - Added 0 new jobs
+2025-11-23 12:18:12,360 - INFO - No new jobs, skipping description fetch
+2025-11-23 12:18:12,362 - INFO - 
+=== SUMMARY ===
+2025-11-23 12:18:12,362 - INFO - Total jobs in database: 771
+2025-11-23 12:18:12,362 - INFO - New jobs added: 0
+2025-11-23 12:18:12,363 - INFO - Descriptions updated: 0
+2025-11-23 12:18:12,363 - INFO - Verified facilities: 99
+2025-11-23 12:18:12,363 - INFO - Unverified facilities: 252
+2025-11-23 12:18:12,363 - INFO - Log saved to: logs/api_scraper_20251123_121758.log
+2025-11-23 12:18:12,425 - INFO - Exported 771 jobs to jobs.csv
