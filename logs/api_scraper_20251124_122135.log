@@ -1,0 +1,21 @@
+2025-11-24 12:21:35,855 - INFO - Starting API job scraper
+2025-11-24 12:21:35,855 - INFO - Loaded 853 master facilities
+2025-11-24 12:21:35,855 - INFO - Fetching jobs from API...
+2025-11-24 12:21:41,712 - INFO - Total jobs found: 500
+2025-11-24 12:21:41,753 - INFO - New job: Corrections Oversight Worker - Jefferson - CI - (103) - 619504 [UNVERIFIED: Jefferson - CI]
+2025-11-24 12:21:41,784 - INFO - New job: Commissary Worker - Kane County Commissary - 619511 [UNVERIFIED: Kane County Commissary]
+2025-11-24 12:21:41,839 - INFO - New job: Corrections Oversight Worker - Tygart Valley Regional Jail and Correctional Facility - 619512 [VERIFIED: Marble Valley Regional Correctional Facility]
+2025-11-24 12:21:52,195 - INFO - Added 3 new jobs
+2025-11-24 12:21:52,195 - INFO - Fetching descriptions for 3 new jobs...
+2025-11-24 12:21:53,404 - INFO - Updated description for 619504
+2025-11-24 12:21:54,978 - INFO - Updated description for 619511
+2025-11-24 12:21:56,551 - INFO - Updated description for 619512
+2025-11-24 12:21:57,056 - INFO - 
+=== SUMMARY ===
+2025-11-24 12:21:57,056 - INFO - Total jobs in database: 774
+2025-11-24 12:21:57,056 - INFO - New jobs added: 3
+2025-11-24 12:21:57,057 - INFO - Descriptions updated: 3
+2025-11-24 12:21:57,057 - INFO - Verified facilities: 99
+2025-11-24 12:21:57,057 - INFO - Unverified facilities: 252
+2025-11-24 12:21:57,057 - INFO - Log saved to: logs/api_scraper_20251124_122135.log
+2025-11-24 12:21:57,119 - INFO - Exported 774 jobs to jobs.csv
