@@ -1,0 +1,27 @@
+2025-11-25 12:22:35,110 - INFO - Starting API job scraper
+2025-11-25 12:22:35,110 - INFO - Loaded 853 master facilities
+2025-11-25 12:22:35,110 - INFO - Fetching jobs from API...
+2025-11-25 12:22:36,609 - INFO - Total jobs found: 500
+2025-11-25 12:22:36,611 - INFO - New job: Operational Excellence Analyst - 619171 [No facility found]
+2025-11-25 12:22:36,660 - INFO - New job: Food Service Supervisor - Hutchinson Correctional - 619238 [VERIFIED: Hutchinson Correctional Facility]
+2025-11-25 12:22:36,700 - INFO - New job: Food Service Worker I - Sojourner Recovery Center - 619571 [VERIFIED: Southern Maine Reentry Center]
+2025-11-25 12:22:36,701 - INFO - New job: Corrections General Manager - 619576 [No facility found]
+2025-11-25 12:22:36,732 - INFO - New job: Project Management Specialist - IN2WORK Coordinator - 619630 [UNVERIFIED: IN2WORK Coordinator]
+2025-11-25 12:22:36,771 - INFO - New job: Lead Cook - Ohio Reformatory for Women - 619642 [VERIFIED: Ohio Reformatory for Women]
+2025-11-25 12:22:47,276 - INFO - Added 6 new jobs
+2025-11-25 12:22:47,276 - INFO - Fetching descriptions for 6 new jobs...
+2025-11-25 12:22:48,591 - INFO - Updated description for 619171
+2025-11-25 12:22:50,247 - INFO - Updated description for 619238
+2025-11-25 12:22:51,865 - INFO - Updated description for 619571
+2025-11-25 12:22:53,476 - INFO - Updated description for 619576
+2025-11-25 12:22:55,127 - INFO - Updated description for 619630
+2025-11-25 12:22:56,746 - INFO - Updated description for 619642
+2025-11-25 12:22:57,251 - INFO - 
+=== SUMMARY ===
+2025-11-25 12:22:57,251 - INFO - Total jobs in database: 780
+2025-11-25 12:22:57,251 - INFO - New jobs added: 6
+2025-11-25 12:22:57,251 - INFO - Descriptions updated: 6
+2025-11-25 12:22:57,252 - INFO - Verified facilities: 100
+2025-11-25 12:22:57,252 - INFO - Unverified facilities: 253
+2025-11-25 12:22:57,252 - INFO - Log saved to: logs/api_scraper_20251125_122235.log
+2025-11-25 12:22:57,315 - INFO - Exported 780 jobs to jobs.csv
