@@ -1,0 +1,55 @@
+2025-11-27 12:21:32,806 - INFO - Starting API job scraper
+2025-11-27 12:21:32,806 - INFO - Loaded 853 master facilities
+2025-11-27 12:21:32,807 - INFO - Fetching jobs from API...
+2025-11-27 12:21:35,926 - INFO - Total jobs found: 500
+2025-11-27 12:21:35,983 - INFO - New job: Corrections Oversight Worker - Wicomico County Detention - 620239 [UNVERIFIED: Wicomico County Detention]
+2025-11-27 12:21:36,008 - INFO - New job: Cook - Rock County Jail - 620246 [UNVERIFIED: Rock County Jail]
+2025-11-27 12:21:36,033 - INFO - New job: Corrections Oversight Worker - Rock County Jail - 620250 [UNVERIFIED: Rock County Jail]
+2025-11-27 12:21:36,074 - INFO - New job: Corrections Oversight Worker - Wayne County Detention Ctr - 620287 [UNVERIFIED: Wayne County Detention Ctr]
+2025-11-27 12:21:36,112 - INFO - New job: Retail Sales Worker Lead - Ohio Reformatory for Women - 619644 [VERIFIED: Ohio Reformatory for Women]
+2025-11-27 12:21:36,113 - INFO - New job: Commissary Manager - 619957 [No facility found]
+2025-11-27 12:21:36,173 - INFO - New job: Food Service Worker - Boulder County Alternative Sentencing Facility - 620002 [UNVERIFIED: Boulder County Alternative Sentencing Facility]
+2025-11-27 12:21:36,206 - INFO - New job: Food Service Worker - Sago Palm - Re-Entry - (464) - 620035 [UNVERIFIED: Sago Palm - Re-Entry]
+2025-11-27 12:21:36,238 - INFO - New job: Corrections Oversight Worker - Dodge County Jail - 620146 [UNVERIFIED: Dodge County Jail]
+2025-11-27 12:21:36,264 - INFO - New job: Commissary Worker - Dodge County Jail - 620147 [UNVERIFIED: Dodge County Jail]
+2025-11-27 12:21:36,264 - INFO - New job: Food Service Manager - 620186 [No facility found]
+2025-11-27 12:21:36,264 - INFO - New job: Food Service Director - 620191 [No facility found]
+2025-11-27 12:21:36,264 - INFO - New job: Food Service Director - 620195 [No facility found]
+2025-11-27 12:21:36,264 - INFO - New job: Commissary Manager - 620205 [No facility found]
+2025-11-27 12:21:36,305 - INFO - New job: Commissary Worker - Santa Barbara County Commissary - 620208 [UNVERIFIED: Santa Barbara County Commissary]
+2025-11-27 12:21:36,345 - INFO - New job: Driver I - Santa Barbara County Commissary - 620210 [UNVERIFIED: Santa Barbara County Commissary]
+2025-11-27 12:21:36,345 - INFO - New job: Commissary Worker - 620211 [No facility found]
+2025-11-27 12:21:36,346 - INFO - New job: Commissary Supervisor - 620217 [No facility found]
+2025-11-27 12:21:36,346 - INFO - New job: Commissary Supervisor - 620222 [No facility found]
+2025-11-27 12:21:36,346 - INFO - New job: Warehouse Worker I - 620225 [No facility found]
+2025-11-27 12:21:46,282 - INFO - Added 20 new jobs
+2025-11-27 12:21:46,282 - INFO - Fetching descriptions for 20 new jobs...
+2025-11-27 12:21:47,329 - INFO - Updated description for 620239
+2025-11-27 12:21:48,909 - INFO - Updated description for 620246
+2025-11-27 12:21:50,457 - INFO - Updated description for 620250
+2025-11-27 12:21:52,191 - INFO - Updated description for 620287
+2025-11-27 12:21:53,873 - INFO - Updated description for 619644
+2025-11-27 12:21:55,544 - INFO - Updated description for 619957
+2025-11-27 12:21:57,207 - INFO - Updated description for 620002
+2025-11-27 12:21:58,831 - INFO - Updated description for 620035
+2025-11-27 12:22:00,417 - INFO - Updated description for 620146
+2025-11-27 12:22:02,050 - INFO - Updated description for 620147
+2025-11-27 12:22:03,582 - INFO - Updated description for 620186
+2025-11-27 12:22:05,226 - INFO - Updated description for 620191
+2025-11-27 12:22:06,865 - INFO - Updated description for 620195
+2025-11-27 12:22:08,418 - INFO - Updated description for 620205
+2025-11-27 12:22:09,955 - INFO - Updated description for 620208
+2025-11-27 12:22:11,581 - INFO - Updated description for 620210
+2025-11-27 12:22:13,218 - INFO - Updated description for 620211
+2025-11-27 12:22:14,915 - INFO - Updated description for 620217
+2025-11-27 12:22:16,662 - INFO - Updated description for 620222
+2025-11-27 12:22:18,261 - INFO - Updated description for 620225
+2025-11-27 12:22:18,766 - INFO - 
+=== SUMMARY ===
+2025-11-27 12:22:18,766 - INFO - Total jobs in database: 812
+2025-11-27 12:22:18,766 - INFO - New jobs added: 20
+2025-11-27 12:22:18,766 - INFO - Descriptions updated: 20
+2025-11-27 12:22:18,766 - INFO - Verified facilities: 101
+2025-11-27 12:22:18,766 - INFO - Unverified facilities: 260
+2025-11-27 12:22:18,766 - INFO - Log saved to: logs/api_scraper_20251127_122132.log
+2025-11-27 12:22:18,832 - INFO - Exported 812 jobs to jobs.csv
