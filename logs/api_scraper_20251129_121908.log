@@ -1,0 +1,17 @@
+2025-11-29 12:19:08,158 - INFO - Starting API job scraper
+2025-11-29 12:19:08,159 - INFO - Loaded 853 master facilities
+2025-11-29 12:19:08,159 - INFO - Fetching jobs from API...
+2025-11-29 12:19:10,953 - INFO - Total jobs found: 500
+2025-11-29 12:19:11,009 - INFO - New job: Corrections Oversight Worker - Southeastern Correctional Facility - 620484 [VERIFIED: Eastern Correctional Facility]
+2025-11-29 12:19:21,241 - INFO - Added 1 new jobs
+2025-11-29 12:19:21,242 - INFO - Fetching descriptions for 1 new jobs...
+2025-11-29 12:19:22,245 - INFO - Updated description for 620484
+2025-11-29 12:19:22,750 - INFO - 
+=== SUMMARY ===
+2025-11-29 12:19:22,750 - INFO - Total jobs in database: 813
+2025-11-29 12:19:22,750 - INFO - New jobs added: 1
+2025-11-29 12:19:22,750 - INFO - Descriptions updated: 1
+2025-11-29 12:19:22,750 - INFO - Verified facilities: 102
+2025-11-29 12:19:22,750 - INFO - Unverified facilities: 260
+2025-11-29 12:19:22,750 - INFO - Log saved to: logs/api_scraper_20251129_121908.log
+2025-11-29 12:19:22,816 - INFO - Exported 813 jobs to jobs.csv
