@@ -1,0 +1,17 @@
+2025-12-01 12:22:52,738 - INFO - Starting API job scraper
+2025-12-01 12:22:52,739 - INFO - Loaded 853 master facilities
+2025-12-01 12:22:52,739 - INFO - Fetching jobs from API...
+2025-12-01 12:22:56,608 - INFO - Total jobs found: 500
+2025-12-01 12:22:56,654 - INFO - New job: AP - AR Manager I - 618895 [UNVERIFIED: AR Manager I]
+2025-12-01 12:23:07,008 - INFO - Added 1 new jobs
+2025-12-01 12:23:07,009 - INFO - Fetching descriptions for 1 new jobs...
+2025-12-01 12:23:08,103 - INFO - Updated description for 618895
+2025-12-01 12:23:08,607 - INFO - 
+=== SUMMARY ===
+2025-12-01 12:23:08,607 - INFO - Total jobs in database: 814
+2025-12-01 12:23:08,607 - INFO - New jobs added: 1
+2025-12-01 12:23:08,607 - INFO - Descriptions updated: 1
+2025-12-01 12:23:08,607 - INFO - Verified facilities: 102
+2025-12-01 12:23:08,607 - INFO - Unverified facilities: 261
+2025-12-01 12:23:08,607 - INFO - Log saved to: logs/api_scraper_20251201_122252.log
+2025-12-01 12:23:08,673 - INFO - Exported 814 jobs to jobs.csv
