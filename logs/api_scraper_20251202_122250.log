@@ -1,0 +1,39 @@
+2025-12-02 12:22:50,438 - INFO - Starting API job scraper
+2025-12-02 12:22:50,438 - INFO - Loaded 853 master facilities
+2025-12-02 12:22:50,438 - INFO - Fetching jobs from API...
+2025-12-02 12:22:53,383 - INFO - Total jobs found: 500
+2025-12-02 12:22:53,385 - INFO - New job: Food Service Manager - 618079 [No facility found]
+2025-12-02 12:22:53,385 - INFO - New job: Food Service Manager - 618189 [No facility found]
+2025-12-02 12:22:53,385 - INFO - New job: Food Service Director - 618641 [No facility found]
+2025-12-02 12:22:53,430 - INFO - New job: District Manager - Correctional Services - 619275 [UNVERIFIED: Correctional Services]
+2025-12-02 12:22:53,456 - INFO - New job: General Manager - Correctional Services - 619291 [UNVERIFIED: Correctional Services]
+2025-12-02 12:22:53,456 - INFO - New job: Food Service Manager - 619297 [No facility found]
+2025-12-02 12:22:53,456 - INFO - New job: Corrections Oversight Worker - 619500 [No facility found]
+2025-12-02 12:22:53,482 - INFO - New job: General Utility Worker - Alvis 180 - Columbus - 620586 [UNVERIFIED: Alvis 180 - Columbus]
+2025-12-02 12:22:53,483 - INFO - New job: Food Service Director - 620627 [No facility found]
+2025-12-02 12:22:53,483 - INFO - New job: Culinary Supervisor - 620667 [No facility found]
+2025-12-02 12:22:53,509 - INFO - New job: Resident General Manager - Correctional Services - 620730 [UNVERIFIED: Correctional Services]
+2025-12-02 12:22:53,509 - INFO - New job: Kitchen Supervisor - 620779 [No facility found]
+2025-12-02 12:23:03,590 - INFO - Added 12 new jobs
+2025-12-02 12:23:03,590 - INFO - Fetching descriptions for 12 new jobs...
+2025-12-02 12:23:04,786 - INFO - Updated description for 618079
+2025-12-02 12:23:06,412 - INFO - Updated description for 618189
+2025-12-02 12:23:08,050 - INFO - Updated description for 618641
+2025-12-02 12:23:09,651 - INFO - Updated description for 619275
+2025-12-02 12:23:11,363 - INFO - Updated description for 619291
+2025-12-02 12:23:13,114 - INFO - Updated description for 619297
+2025-12-02 12:23:14,817 - INFO - Updated description for 619500
+2025-12-02 12:23:18,084 - INFO - Updated description for 620586
+2025-12-02 12:23:19,647 - INFO - Updated description for 620627
+2025-12-02 12:23:21,339 - INFO - Updated description for 620667
+2025-12-02 12:23:22,912 - INFO - Updated description for 620730
+2025-12-02 12:23:24,649 - INFO - Updated description for 620779
+2025-12-02 12:23:25,155 - INFO - 
+=== SUMMARY ===
+2025-12-02 12:23:25,155 - INFO - Total jobs in database: 826
+2025-12-02 12:23:25,155 - INFO - New jobs added: 12
+2025-12-02 12:23:25,155 - INFO - Descriptions updated: 12
+2025-12-02 12:23:25,155 - INFO - Verified facilities: 102
+2025-12-02 12:23:25,155 - INFO - Unverified facilities: 261
+2025-12-02 12:23:25,155 - INFO - Log saved to: logs/api_scraper_20251202_122250.log
+2025-12-02 12:23:25,223 - INFO - Exported 826 jobs to jobs.csv
