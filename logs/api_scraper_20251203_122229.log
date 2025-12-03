@@ -1,0 +1,27 @@
+2025-12-03 12:22:29,027 - INFO - Starting API job scraper
+2025-12-03 12:22:29,027 - INFO - Loaded 853 master facilities
+2025-12-03 12:22:29,027 - INFO - Fetching jobs from API...
+2025-12-03 12:22:31,207 - INFO - Total jobs found: 500
+2025-12-03 12:22:31,243 - INFO - New job: General Manager - Correctional Services - 620793 [UNVERIFIED: Correctional Services]
+2025-12-03 12:22:31,286 - INFO - New job: Food Service Worker- 	 Summit County Juvenile Detention - 620795 [UNVERIFIED: Summit County Juvenile Detention]
+2025-12-03 12:22:31,328 - INFO - New job: NC-Certified Plumber P-1 Certification - 	 Mecklenburg County Facilities - 620801 [UNVERIFIED: Mecklenburg County Facilities]
+2025-12-03 12:22:31,354 - INFO - New job: Food Service Manager - Correctional Services - 620938 [UNVERIFIED: Correctional Services]
+2025-12-03 12:22:31,354 - INFO - New job: Commissary Worker - 621046 [No facility found]
+2025-12-03 12:22:31,354 - INFO - New job: Commissary Worker - 621049 [No facility found]
+2025-12-03 12:22:41,274 - INFO - Added 6 new jobs
+2025-12-03 12:22:41,274 - INFO - Fetching descriptions for 6 new jobs...
+2025-12-03 12:22:42,483 - INFO - Updated description for 620793
+2025-12-03 12:22:44,018 - INFO - Updated description for 620795
+2025-12-03 12:22:45,527 - INFO - Updated description for 620801
+2025-12-03 12:22:47,048 - INFO - Updated description for 620938
+2025-12-03 12:22:48,685 - INFO - Updated description for 621046
+2025-12-03 12:22:50,225 - INFO - Updated description for 621049
+2025-12-03 12:22:50,730 - INFO - 
+=== SUMMARY ===
+2025-12-03 12:22:50,730 - INFO - Total jobs in database: 832
+2025-12-03 12:22:50,730 - INFO - New jobs added: 6
+2025-12-03 12:22:50,730 - INFO - Descriptions updated: 6
+2025-12-03 12:22:50,730 - INFO - Verified facilities: 102
+2025-12-03 12:22:50,730 - INFO - Unverified facilities: 262
+2025-12-03 12:22:50,730 - INFO - Log saved to: logs/api_scraper_20251203_122229.log
+2025-12-03 12:22:50,798 - INFO - Exported 832 jobs to jobs.csv
