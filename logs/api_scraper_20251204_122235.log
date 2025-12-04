@@ -1,0 +1,23 @@
+2025-12-04 12:22:35,196 - INFO - Starting API job scraper
+2025-12-04 12:22:35,196 - INFO - Loaded 853 master facilities
+2025-12-04 12:22:35,196 - INFO - Fetching jobs from API...
+2025-12-04 12:22:38,034 - INFO - Total jobs found: 500
+2025-12-04 12:22:38,110 - INFO - New job: Corrections Oversight Worker - Butler County - 620863 [UNVERIFIED: Butler County]
+2025-12-04 12:22:38,148 - INFO - New job: Corrections Oversight Worker - Lake County Community Corrections - 620935 [VERIFIED: Lawton Community Corrections Center]
+2025-12-04 12:22:38,179 - INFO - New job: Commissary Worker - Charleston County, SC - 620986 [UNVERIFIED: Charleston County, SC]
+2025-12-04 12:22:38,200 - INFO - New job: Corrections Oversight Worker - Calhoun - CI - (105) - 620992 [UNVERIFIED: Calhoun - CI]
+2025-12-04 12:22:47,997 - INFO - Added 4 new jobs
+2025-12-04 12:22:47,997 - INFO - Fetching descriptions for 4 new jobs...
+2025-12-04 12:22:48,936 - INFO - Updated description for 620863
+2025-12-04 12:22:50,545 - INFO - Updated description for 620935
+2025-12-04 12:22:52,265 - INFO - Updated description for 620986
+2025-12-04 12:22:53,826 - INFO - Updated description for 620992
+2025-12-04 12:22:54,331 - INFO - 
+=== SUMMARY ===
+2025-12-04 12:22:54,331 - INFO - Total jobs in database: 836
+2025-12-04 12:22:54,331 - INFO - New jobs added: 4
+2025-12-04 12:22:54,331 - INFO - Descriptions updated: 4
+2025-12-04 12:22:54,331 - INFO - Verified facilities: 102
+2025-12-04 12:22:54,331 - INFO - Unverified facilities: 262
+2025-12-04 12:22:54,331 - INFO - Log saved to: logs/api_scraper_20251204_122235.log
+2025-12-04 12:22:54,399 - INFO - Exported 836 jobs to jobs.csv
