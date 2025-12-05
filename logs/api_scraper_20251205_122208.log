@@ -1,0 +1,47 @@
+2025-12-05 12:22:08,995 - INFO - Starting API job scraper
+2025-12-05 12:22:08,995 - INFO - Loaded 853 master facilities
+2025-12-05 12:22:08,995 - INFO - Fetching jobs from API...
+2025-12-05 12:22:11,185 - INFO - Total jobs found: 500
+2025-12-05 12:22:11,258 - INFO - New job: Warehouse Worker III - USG - TX WAREHOUSE - FE - 618951 [UNVERIFIED: USG - TX WAREHOUSE - FE]
+2025-12-05 12:22:11,259 - INFO - New job: Warehouse Worker III - 618952 [No facility found]
+2025-12-05 12:22:11,329 - INFO - New job: Warehouse Worker Lead - USG - NV WAREHOUSE - FE - 620781 [UNVERIFIED: USG - NV WAREHOUSE - FE]
+2025-12-05 12:22:11,380 - INFO - New job: Corrections Oversight Worker - Eastern Reception, Diagnostic and CC - 620989 [VERIFIED: Denver Reception & Diagnostic Center]
+2025-12-05 12:22:11,421 - INFO - New job: Corrections Oversight Worker - Community Transitional Services, KY - 621224 [UNVERIFIED: Community Transitional Services, KY]
+2025-12-05 12:22:11,448 - INFO - New job: Corrections Oversight Worker - VOA Mansfield - 621226 [UNVERIFIED: VOA Mansfield]
+2025-12-05 12:22:11,484 - INFO - New job: Food Service Worker - Erie County Care Facility - 621313 [VERIFIED: Otero County Prison Facility]
+2025-12-05 12:22:11,520 - INFO - New job: Housekeeper - Erie County Care Facility - 621314 [VERIFIED: Otero County Prison Facility]
+2025-12-05 12:22:11,556 - INFO - New job: Laundry Worker - Erie County Care Facility - 621316 [VERIFIED: Otero County Prison Facility]
+2025-12-05 12:22:11,588 - INFO - New job: Corrections Oversight Worker - Caroline County Jail - 621325 [UNVERIFIED: Caroline County Jail]
+2025-12-05 12:22:11,624 - INFO - New job: Corrections Oversight Worker - Tri-County Regional Jail - 621370 [UNVERIFIED: Tri-County Regional Jail]
+2025-12-05 12:22:11,671 - INFO - New job: Corrections Oversight Worker - Riverbend Maximum Security Institution - 621558 [VERIFIED: Riverbend Maximum Security Institution]
+2025-12-05 12:22:11,712 - INFO - New job: Commissary Worker - Colorado Commissary Warehouse - 621560 [UNVERIFIED: Colorado Commissary Warehouse]
+2025-12-05 12:22:11,740 - INFO - New job: Food Service Worker Lead - Wichita City Jail - 621586 [UNVERIFIED: Wichita City Jail]
+2025-12-05 12:22:11,779 - INFO - New job: Food Service Worker - Yavapai County Sheriff's Office - 621612 [UNVERIFIED: Yavapai County Sheriff's Office]
+2025-12-05 12:22:11,819 - INFO - New job: Food Service Supervisor - Yavapai County Sheriff's Office - 621618 [UNVERIFIED: Yavapai County Sheriff's Office]
+2025-12-05 12:22:21,677 - INFO - Added 16 new jobs
+2025-12-05 12:22:21,677 - INFO - Fetching descriptions for 16 new jobs...
+2025-12-05 12:22:22,886 - INFO - Updated description for 618951
+2025-12-05 12:22:24,634 - INFO - Updated description for 618952
+2025-12-05 12:22:26,205 - INFO - Updated description for 620781
+2025-12-05 12:22:27,856 - INFO - Updated description for 620989
+2025-12-05 12:22:29,660 - INFO - Updated description for 621224
+2025-12-05 12:22:31,347 - INFO - Updated description for 621226
+2025-12-05 12:22:33,111 - INFO - Updated description for 621313
+2025-12-05 12:22:34,626 - INFO - Updated description for 621314
+2025-12-05 12:22:36,197 - INFO - Updated description for 621316
+2025-12-05 12:22:37,988 - INFO - Updated description for 621325
+2025-12-05 12:22:39,673 - INFO - Updated description for 621370
+2025-12-05 12:22:41,285 - INFO - Updated description for 621558
+2025-12-05 12:22:42,809 - INFO - Updated description for 621560
+2025-12-05 12:22:44,488 - INFO - Updated description for 621586
+2025-12-05 12:22:46,058 - INFO - Updated description for 621612
+2025-12-05 12:22:47,574 - INFO - Updated description for 621618
+2025-12-05 12:22:48,079 - INFO - 
+=== SUMMARY ===
+2025-12-05 12:22:48,079 - INFO - Total jobs in database: 852
+2025-12-05 12:22:48,079 - INFO - New jobs added: 16
+2025-12-05 12:22:48,079 - INFO - Descriptions updated: 16
+2025-12-05 12:22:48,079 - INFO - Verified facilities: 103
+2025-12-05 12:22:48,079 - INFO - Unverified facilities: 263
+2025-12-05 12:22:48,079 - INFO - Log saved to: logs/api_scraper_20251205_122208.log
+2025-12-05 12:22:48,148 - INFO - Exported 852 jobs to jobs.csv
