@@ -1,0 +1,37 @@
+2025-12-06 12:19:08,330 - INFO - Starting API job scraper
+2025-12-06 12:19:08,330 - INFO - Loaded 853 master facilities
+2025-12-06 12:19:08,330 - INFO - Fetching jobs from API...
+2025-12-06 12:19:10,322 - INFO - Total jobs found: 500
+2025-12-06 12:19:10,323 - INFO - New job: Commissary Manager Sr - 621451 [No facility found]
+2025-12-06 12:19:10,379 - INFO - New job: Maintenance Worker - Harris County Facilities - 621455 [UNVERIFIED: Harris County Facilities]
+2025-12-06 12:19:10,380 - INFO - New job: Culinary Manager I - 621463 [No facility found]
+2025-12-06 12:19:10,380 - INFO - New job: Food Service Manager - 620984 [No facility found]
+2025-12-06 12:19:10,429 - INFO - New job: Corrections Oversight Worker - Jacksonville City Detention Center - 621599 [VERIFIED: Jacksonville Correctional Center]
+2025-12-06 12:19:10,452 - INFO - New job: Cook Supervisor - Everglades - CI - (401) - 621658 [UNVERIFIED: Everglades - CI]
+2025-12-06 12:19:10,496 - INFO - New job: Laundry Worker - Atlantic County Justice Facility - 621801 [UNVERIFIED: Atlantic County Justice Facility]
+2025-12-06 12:19:10,541 - INFO - New job: Food Prep Worker - Atlantic County Justice Facility - 621805 [UNVERIFIED: Atlantic County Justice Facility]
+2025-12-06 12:19:10,577 - INFO - New job: Corrections Oversight Worker - Volusia County Branch Jail - 621821 [UNVERIFIED: Volusia County Branch Jail]
+2025-12-06 12:19:10,616 - INFO - New job: Corrections Oversight Worker - Luther Luckett Correctional Complex - 621838 [VERIFIED: Luther Luckett Correctional Complex]
+2025-12-06 12:19:10,642 - INFO - New job: Food Service Worker - Alvis 180 - Columbus - 621853 [UNVERIFIED: Alvis 180 - Columbus]
+2025-12-06 12:19:20,769 - INFO - Added 11 new jobs
+2025-12-06 12:19:20,769 - INFO - Fetching descriptions for 11 new jobs...
+2025-12-06 12:19:21,693 - INFO - Updated description for 621451
+2025-12-06 12:19:23,131 - INFO - Updated description for 621455
+2025-12-06 12:19:24,581 - INFO - Updated description for 621463
+2025-12-06 12:19:26,010 - INFO - Updated description for 620984
+2025-12-06 12:19:27,468 - INFO - Updated description for 621599
+2025-12-06 12:19:28,867 - INFO - Updated description for 621658
+2025-12-06 12:19:30,438 - INFO - Updated description for 621801
+2025-12-06 12:19:31,970 - INFO - Updated description for 621805
+2025-12-06 12:19:33,380 - INFO - Updated description for 621821
+2025-12-06 12:19:34,880 - INFO - Updated description for 621838
+2025-12-06 12:19:36,346 - INFO - Updated description for 621853
+2025-12-06 12:19:36,851 - INFO - 
+=== SUMMARY ===
+2025-12-06 12:19:36,851 - INFO - Total jobs in database: 863
+2025-12-06 12:19:36,851 - INFO - New jobs added: 11
+2025-12-06 12:19:36,851 - INFO - Descriptions updated: 11
+2025-12-06 12:19:36,851 - INFO - Verified facilities: 103
+2025-12-06 12:19:36,851 - INFO - Unverified facilities: 264
+2025-12-06 12:19:36,851 - INFO - Log saved to: logs/api_scraper_20251206_121908.log
+2025-12-06 12:19:36,921 - INFO - Exported 863 jobs to jobs.csv
