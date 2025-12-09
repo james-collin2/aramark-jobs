@@ -1,0 +1,49 @@
+2025-12-09 12:22:41,323 - INFO - Starting API job scraper
+2025-12-09 12:22:41,324 - INFO - Loaded 853 master facilities
+2025-12-09 12:22:41,324 - INFO - Fetching jobs from API...
+2025-12-09 12:22:43,754 - INFO - Total jobs found: 500
+2025-12-09 12:22:43,756 - INFO - New job: Food Service Site Manager - 621100 [No facility found]
+2025-12-09 12:22:43,809 - INFO - New job: IT Operations - Support Sr Analyst - 621248 [UNVERIFIED: Support Sr Analyst]
+2025-12-09 12:22:43,837 - INFO - New job: Multi Site General Manager - Correctional Services - 621616 [UNVERIFIED: Correctional Services]
+2025-12-09 12:22:43,837 - INFO - New job: Food Service Manager - 621867 [No facility found]
+2025-12-09 12:22:43,863 - INFO - New job: District Manager - Correctional Services - 621880 [UNVERIFIED: Correctional Services]
+2025-12-09 12:22:43,899 - INFO - New job: Food Service Worker - Belmont Correctional Institution - 621924 [VERIFIED: Belmont Correctional Institution]
+2025-12-09 12:22:43,948 - INFO - New job: Corrections Oversight Worker - Anthony Center - Denmar Correctional Center - 622001 [VERIFIED: Anthony Correctional Center]
+2025-12-09 12:22:44,002 - INFO - New job: Food Service Worker - North Central Regional Jail and Correctional Facility - 622002 [VERIFIED: Northeast Regional Correctional Facility]
+2025-12-09 12:22:44,041 - INFO - New job: Corrections Oversight Worker - Wabash Valley Correctional Facility - 622038 [VERIFIED: Wabash Valley Correctional Facility]
+2025-12-09 12:22:44,069 - INFO - New job: Corrections Oversight Worker - Kenosha County Jail - 622045 [UNVERIFIED: Kenosha County Jail]
+2025-12-09 12:22:44,099 - INFO - New job: Food Service Worker Lead - Desoto - Annex/WC - (564/560) - 622049 [VERIFIED: Desoto Annex]
+2025-12-09 12:22:44,099 - INFO - New job: Food Service Manager - 622051 [No facility found]
+2025-12-09 12:22:44,132 - INFO - New job: Corrections Oversight Worker - Essex County Correctional (MA) - 622059 [VERIFIED: Bledsoe County Correctional Complex]
+2025-12-09 12:22:44,151 - INFO - New job: Food Service Worker - Walton - WC - (172) - 622099 [UNVERIFIED: Walton - WC]
+2025-12-09 12:22:44,170 - INFO - New job: Corrections Oversight Worker - Walton - CI - (108) - 622139 [UNVERIFIED: Walton - CI]
+2025-12-09 12:22:44,219 - INFO - New job: Warehouse Worker - Milwaukee House of Corrections Commissary - 622148 [UNVERIFIED: Milwaukee House of Corrections Commissary]
+2025-12-09 12:22:44,219 - INFO - New job: Driver I - 622157 [No facility found]
+2025-12-09 12:22:54,156 - INFO - Added 17 new jobs
+2025-12-09 12:22:54,156 - INFO - Fetching descriptions for 17 new jobs...
+2025-12-09 12:22:55,406 - INFO - Updated description for 621100
+2025-12-09 12:22:57,110 - INFO - Updated description for 621248
+2025-12-09 12:22:58,872 - INFO - Updated description for 621616
+2025-12-09 12:23:00,501 - INFO - Updated description for 621867
+2025-12-09 12:23:02,260 - INFO - Updated description for 621880
+2025-12-09 12:23:04,009 - INFO - Updated description for 621924
+2025-12-09 12:23:05,591 - INFO - Updated description for 622001
+2025-12-09 12:23:07,220 - INFO - Updated description for 622002
+2025-12-09 12:23:08,869 - INFO - Updated description for 622038
+2025-12-09 12:23:10,561 - INFO - Updated description for 622045
+2025-12-09 12:23:12,349 - INFO - Updated description for 622049
+2025-12-09 12:23:13,954 - INFO - Updated description for 622051
+2025-12-09 12:23:15,634 - INFO - Updated description for 622059
+2025-12-09 12:23:17,286 - INFO - Updated description for 622099
+2025-12-09 12:23:18,923 - INFO - Updated description for 622139
+2025-12-09 12:23:20,674 - INFO - Updated description for 622148
+2025-12-09 12:23:22,418 - INFO - Updated description for 622157
+2025-12-09 12:23:22,924 - INFO - 
+=== SUMMARY ===
+2025-12-09 12:23:22,924 - INFO - Total jobs in database: 881
+2025-12-09 12:23:22,924 - INFO - New jobs added: 17
+2025-12-09 12:23:22,924 - INFO - Descriptions updated: 17
+2025-12-09 12:23:22,924 - INFO - Verified facilities: 105
+2025-12-09 12:23:22,924 - INFO - Unverified facilities: 267
+2025-12-09 12:23:22,924 - INFO - Log saved to: logs/api_scraper_20251209_122241.log
+2025-12-09 12:23:22,995 - INFO - Exported 881 jobs to jobs.csv
