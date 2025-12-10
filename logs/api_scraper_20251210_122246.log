@@ -1,0 +1,31 @@
+2025-12-10 12:22:46,489 - INFO - Starting API job scraper
+2025-12-10 12:22:46,489 - INFO - Loaded 853 master facilities
+2025-12-10 12:22:46,489 - INFO - Fetching jobs from API...
+2025-12-10 12:22:50,910 - INFO - Total jobs found: 500
+2025-12-10 12:22:50,912 - INFO - New job: Food Service Manager - 621984 [No facility found]
+2025-12-10 12:22:50,912 - INFO - New job: Food Service Manager - 622252 [No facility found]
+2025-12-10 12:22:50,975 - INFO - New job: Food Service Worker - Pulaski County Regional Detention Facility - 622269 [VERIFIED: South Florida Detention Facility]
+2025-12-10 12:22:51,002 - INFO - New job: Food Service Worker - Merced County Jail - 622296 [UNVERIFIED: Merced County Jail]
+2025-12-10 12:22:51,035 - INFO - New job: Driver I - ALDOC - Julia Tutwiler - 622298 [UNVERIFIED: ALDOC - Julia Tutwiler]
+2025-12-10 12:22:51,035 - INFO - New job: Warehouse Director - 622324 [No facility found]
+2025-12-10 12:22:51,076 - INFO - New job: Corrections Oversight Worker - Missouri Eastern Correctional Center - 622342 [VERIFIED: Missouri Eastern Correctional Center]
+2025-12-10 12:22:51,105 - INFO - New job: Lead Cook - Williamson County (TX) - 622345 [UNVERIFIED: Williamson County (TX)]
+2025-12-10 12:23:01,021 - INFO - Added 8 new jobs
+2025-12-10 12:23:01,021 - INFO - Fetching descriptions for 8 new jobs...
+2025-12-10 12:23:02,075 - INFO - Updated description for 621984
+2025-12-10 12:23:03,760 - INFO - Updated description for 622252
+2025-12-10 12:23:05,297 - INFO - Updated description for 622269
+2025-12-10 12:23:06,832 - INFO - Updated description for 622296
+2025-12-10 12:23:08,475 - INFO - Updated description for 622298
+2025-12-10 12:23:10,029 - INFO - Updated description for 622324
+2025-12-10 12:23:11,595 - INFO - Updated description for 622342
+2025-12-10 12:23:13,180 - INFO - Updated description for 622345
+2025-12-10 12:23:13,686 - INFO - 
+=== SUMMARY ===
+2025-12-10 12:23:13,686 - INFO - Total jobs in database: 889
+2025-12-10 12:23:13,686 - INFO - New jobs added: 8
+2025-12-10 12:23:13,686 - INFO - Descriptions updated: 8
+2025-12-10 12:23:13,686 - INFO - Verified facilities: 105
+2025-12-10 12:23:13,686 - INFO - Unverified facilities: 269
+2025-12-10 12:23:13,686 - INFO - Log saved to: logs/api_scraper_20251210_122246.log
+2025-12-10 12:23:13,758 - INFO - Exported 889 jobs to jobs.csv
