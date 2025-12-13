@@ -1,0 +1,41 @@
+2025-12-13 12:19:25,956 - INFO - Starting API job scraper
+2025-12-13 12:19:25,957 - INFO - Loaded 853 master facilities
+2025-12-13 12:19:25,957 - INFO - Fetching jobs from API...
+2025-12-13 12:19:31,225 - INFO - Total jobs found: 500
+2025-12-13 12:19:31,272 - INFO - New job: General Utility Worker - Henrico County - Jail East - 621876 [UNVERIFIED: Henrico County - Jail East]
+2025-12-13 12:19:31,303 - INFO - New job: Food Service Worker - Snohomish County Jail - 621935 [UNVERIFIED: Snohomish County Jail]
+2025-12-13 12:19:31,304 - INFO - New job: Corrections Oversight Worker - 622853 [No facility found]
+2025-12-13 12:19:31,341 - INFO - New job: Food Service Worker - Pickaway Correctional Institution - 622863 [VERIFIED: Pickaway Correctional Institution]
+2025-12-13 12:19:31,374 - INFO - New job: Food Service Worker - Correction Reception Center - 622864 [VERIFIED: Correctional Reception Center]
+2025-12-13 12:19:31,374 - INFO - New job: Warehouse Manager - 622873 [No facility found]
+2025-12-13 12:19:31,406 - INFO - New job: Corrections Oversight Worker - Northern Regional Jail - 622886 [VERIFIED: Northern Correctional Facility]
+2025-12-13 12:19:31,431 - INFO - New job: Corrections Oversight Worker - Lee County Jail - 622920 [UNVERIFIED: Lee County Jail]
+2025-12-13 12:19:31,458 - INFO - New job: Corrections Oversight Worker - Preble County Jail - 622975 [UNVERIFIED: Preble County Jail]
+2025-12-13 12:19:31,458 - INFO - New job: Kitchen Supervisor - 623091 [No facility found]
+2025-12-13 12:19:31,484 - INFO - New job: Food Service Supervisor - Perry County Jail - 623101 [UNVERIFIED: Perry County Jail]
+2025-12-13 12:19:31,520 - INFO - New job: Food Service Worker Lead - CFRC - Main/East/South - (320/321/323) - 623143 [UNVERIFIED: CFRC - Main/East/South]
+2025-12-13 12:19:31,520 - INFO - New job: Food Service Manager - 623155 [No facility found]
+2025-12-13 12:19:41,375 - INFO - Added 13 new jobs
+2025-12-13 12:19:41,375 - INFO - Fetching descriptions for 13 new jobs...
+2025-12-13 12:19:42,464 - INFO - Updated description for 621876
+2025-12-13 12:19:44,216 - INFO - Updated description for 621935
+2025-12-13 12:19:45,944 - INFO - Updated description for 622853
+2025-12-13 12:19:47,652 - INFO - Updated description for 622863
+2025-12-13 12:19:49,385 - INFO - Updated description for 622864
+2025-12-13 12:19:51,051 - INFO - Updated description for 622873
+2025-12-13 12:19:52,766 - INFO - Updated description for 622886
+2025-12-13 12:19:54,382 - INFO - Updated description for 622920
+2025-12-13 12:19:56,062 - INFO - Updated description for 622975
+2025-12-13 12:19:57,625 - INFO - Updated description for 623091
+2025-12-13 12:19:59,253 - INFO - Updated description for 623101
+2025-12-13 12:20:01,148 - INFO - Updated description for 623143
+2025-12-13 12:20:02,822 - INFO - Updated description for 623155
+2025-12-13 12:20:03,328 - INFO - 
+=== SUMMARY ===
+2025-12-13 12:20:03,329 - INFO - Total jobs in database: 916
+2025-12-13 12:20:03,329 - INFO - New jobs added: 13
+2025-12-13 12:20:03,329 - INFO - Descriptions updated: 13
+2025-12-13 12:20:03,329 - INFO - Verified facilities: 107
+2025-12-13 12:20:03,329 - INFO - Unverified facilities: 272
+2025-12-13 12:20:03,329 - INFO - Log saved to: logs/api_scraper_20251213_121925.log
+2025-12-13 12:20:03,403 - INFO - Exported 916 jobs to jobs.csv
