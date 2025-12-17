@@ -1,0 +1,35 @@
+2025-12-17 12:23:01,745 - INFO - Starting API job scraper
+2025-12-17 12:23:01,746 - INFO - Loaded 853 master facilities
+2025-12-17 12:23:01,746 - INFO - Fetching jobs from API...
+2025-12-17 12:23:03,081 - INFO - Total jobs found: 500
+2025-12-17 12:23:03,127 - INFO - New job: Warehouse Supervisor - USG - TX WAREHOUSE - FE - 623465 [UNVERIFIED: USG - TX WAREHOUSE - FE]
+2025-12-17 12:23:03,158 - INFO - New job: Driver I - Hamilton County Jail - 623553 [UNVERIFIED: Hamilton County Jail]
+2025-12-17 12:23:03,189 - INFO - New job: Cook Supervisor - Hamilton County Jail - 623604 [UNVERIFIED: Hamilton County Jail]
+2025-12-17 12:23:03,215 - INFO - New job: Corrections Oversight Worker - Tallahassee - CRC - (168) - 623626 [UNVERIFIED: Tallahassee - CRC]
+2025-12-17 12:23:03,255 - INFO - New job: Administrative Support Worker - Wabash Valley Correctional Facility - 623737 [VERIFIED: Wabash Valley Correctional Facility]
+2025-12-17 12:23:03,291 - INFO - New job: Warehouse Worker Lead - Tampa Commissary Warehouse - 623759 [UNVERIFIED: Tampa Commissary Warehouse]
+2025-12-17 12:23:03,292 - INFO - New job: Warehouse Manager - 623773 [No facility found]
+2025-12-17 12:23:03,325 - INFO - New job: Food Service Worker - Fort Bend County Jail - 623907 [UNVERIFIED: Fort Bend County Jail]
+2025-12-17 12:23:03,325 - INFO - New job: Housekeeper - 623949 [No facility found]
+2025-12-17 12:23:03,325 - INFO - New job: Floor Technician - 623975 [No facility found]
+2025-12-17 12:23:13,073 - INFO - Added 10 new jobs
+2025-12-17 12:23:13,073 - INFO - Fetching descriptions for 10 new jobs...
+2025-12-17 12:23:14,148 - INFO - Updated description for 623465
+2025-12-17 12:23:15,608 - INFO - Updated description for 623553
+2025-12-17 12:23:17,102 - INFO - Updated description for 623604
+2025-12-17 12:23:18,546 - INFO - Updated description for 623626
+2025-12-17 12:23:19,998 - INFO - Updated description for 623737
+2025-12-17 12:23:21,423 - INFO - Updated description for 623759
+2025-12-17 12:23:23,043 - INFO - Updated description for 623773
+2025-12-17 12:23:24,467 - INFO - Updated description for 623907
+2025-12-17 12:23:25,967 - INFO - Updated description for 623949
+2025-12-17 12:23:27,427 - INFO - Updated description for 623975
+2025-12-17 12:23:27,932 - INFO - 
+=== SUMMARY ===
+2025-12-17 12:23:27,933 - INFO - Total jobs in database: 935
+2025-12-17 12:23:27,933 - INFO - New jobs added: 10
+2025-12-17 12:23:27,933 - INFO - Descriptions updated: 10
+2025-12-17 12:23:27,933 - INFO - Verified facilities: 108
+2025-12-17 12:23:27,933 - INFO - Unverified facilities: 274
+2025-12-17 12:23:27,933 - INFO - Log saved to: logs/api_scraper_20251217_122301.log
+2025-12-17 12:23:28,009 - INFO - Exported 935 jobs to jobs.csv
