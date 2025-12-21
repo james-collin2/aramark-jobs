@@ -1,0 +1,21 @@
+2025-12-21 12:20:02,451 - INFO - Starting API job scraper
+2025-12-21 12:20:02,451 - INFO - Loaded 853 master facilities
+2025-12-21 12:20:02,451 - INFO - Fetching jobs from API...
+2025-12-21 12:20:03,869 - INFO - Total jobs found: 500
+2025-12-21 12:20:03,928 - INFO - New job: Driver II - Sacramento County Commissary - 624826 [UNVERIFIED: Sacramento County Commissary]
+2025-12-21 12:20:03,962 - INFO - New job: Food Service Supervisor - Mike Durfee State Prison - 624847 [VERIFIED: Mike Durfee State Prison]
+2025-12-21 12:20:04,014 - INFO - New job: Food Service Supervisor - South Dakota State Penitentiary (Sioux Falls) - 624848 [VERIFIED: South Dakota State Penitentiary]
+2025-12-21 12:20:13,276 - INFO - Added 3 new jobs
+2025-12-21 12:20:13,277 - INFO - Fetching descriptions for 3 new jobs...
+2025-12-21 12:20:14,274 - INFO - Updated description for 624826
+2025-12-21 12:20:15,791 - INFO - Updated description for 624847
+2025-12-21 12:20:17,263 - INFO - Updated description for 624848
+2025-12-21 12:20:17,768 - INFO - 
+=== SUMMARY ===
+2025-12-21 12:20:17,768 - INFO - Total jobs in database: 963
+2025-12-21 12:20:17,768 - INFO - New jobs added: 3
+2025-12-21 12:20:17,768 - INFO - Descriptions updated: 3
+2025-12-21 12:20:17,768 - INFO - Verified facilities: 111
+2025-12-21 12:20:17,768 - INFO - Unverified facilities: 278
+2025-12-21 12:20:17,768 - INFO - Log saved to: logs/api_scraper_20251221_122002.log
+2025-12-21 12:20:17,841 - INFO - Exported 963 jobs to jobs.csv
