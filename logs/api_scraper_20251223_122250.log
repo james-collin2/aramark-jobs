@@ -1,0 +1,31 @@
+2025-12-23 12:22:50,133 - INFO - Starting API job scraper
+2025-12-23 12:22:50,134 - INFO - Loaded 853 master facilities
+2025-12-23 12:22:50,134 - INFO - Fetching jobs from API...
+2025-12-23 12:22:54,001 - INFO - Total jobs found: 500
+2025-12-23 12:22:54,051 - INFO - New job: Driver I - Monterey County Commissary - 625027 [UNVERIFIED: Monterey County Commissary]
+2025-12-23 12:22:54,081 - INFO - New job: Food Service Supervisor - Douglas County D.O.C. - 625032 [UNVERIFIED: Douglas County D.O.C.]
+2025-12-23 12:22:54,082 - INFO - New job: Corrections Oversight Worker - 623424 [No facility found]
+2025-12-23 12:22:54,116 - INFO - New job: Commissary Worker - Kent County Commissary, MI - 623458 [UNVERIFIED: Kent County Commissary, MI]
+2025-12-23 12:22:54,145 - INFO - New job: Cook Supervisor - Mayo - CI/Annex - (223) - 581530 [UNVERIFIED: Mayo - CI/Annex]
+2025-12-23 12:22:54,175 - INFO - New job: Corrections Oversight Worker - Dutchess County Jail - 624901 [UNVERIFIED: Dutchess County Jail]
+2025-12-23 12:22:54,216 - INFO - New job: Corrections Oversight Worker - Transition Center of St. Louis - 624902 [VERIFIED: Transition Center of Saint Louis]
+2025-12-23 12:22:54,216 - INFO - New job: Food Service Director - 624923 [No facility found]
+2025-12-23 12:23:04,343 - INFO - Added 8 new jobs
+2025-12-23 12:23:04,343 - INFO - Fetching descriptions for 8 new jobs...
+2025-12-23 12:23:05,548 - INFO - Updated description for 625027
+2025-12-23 12:23:07,253 - INFO - Updated description for 625032
+2025-12-23 12:23:08,882 - INFO - Updated description for 623424
+2025-12-23 12:23:10,551 - INFO - Updated description for 623458
+2025-12-23 12:23:12,093 - INFO - Updated description for 581530
+2025-12-23 12:23:13,777 - INFO - Updated description for 624901
+2025-12-23 12:23:15,448 - INFO - Updated description for 624902
+2025-12-23 12:23:17,115 - INFO - Updated description for 624923
+2025-12-23 12:23:17,620 - INFO - 
+=== SUMMARY ===
+2025-12-23 12:23:17,620 - INFO - Total jobs in database: 971
+2025-12-23 12:23:17,620 - INFO - New jobs added: 8
+2025-12-23 12:23:17,620 - INFO - Descriptions updated: 8
+2025-12-23 12:23:17,620 - INFO - Verified facilities: 111
+2025-12-23 12:23:17,621 - INFO - Unverified facilities: 280
+2025-12-23 12:23:17,621 - INFO - Log saved to: logs/api_scraper_20251223_122250.log
+2025-12-23 12:23:17,700 - INFO - Exported 971 jobs to jobs.csv
