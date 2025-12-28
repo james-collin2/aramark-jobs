@@ -1,0 +1,17 @@
+2025-12-28 12:21:01,857 - INFO - Starting API job scraper
+2025-12-28 12:21:01,857 - INFO - Loaded 853 master facilities
+2025-12-28 12:21:01,857 - INFO - Fetching jobs from API...
+2025-12-28 12:21:03,255 - INFO - Total jobs found: 500
+2025-12-28 12:21:03,313 - INFO - New job: Cook - Kansas Juvenile Correctional Complex - 625378 [VERIFIED: Kansas Juvenile Correctional Complex]
+2025-12-28 12:21:13,129 - INFO - Added 1 new jobs
+2025-12-28 12:21:13,129 - INFO - Fetching descriptions for 1 new jobs...
+2025-12-28 12:21:14,303 - INFO - Updated description for 625378
+2025-12-28 12:21:14,809 - INFO - 
+=== SUMMARY ===
+2025-12-28 12:21:14,809 - INFO - Total jobs in database: 981
+2025-12-28 12:21:14,809 - INFO - New jobs added: 1
+2025-12-28 12:21:14,809 - INFO - Descriptions updated: 1
+2025-12-28 12:21:14,809 - INFO - Verified facilities: 113
+2025-12-28 12:21:14,809 - INFO - Unverified facilities: 280
+2025-12-28 12:21:14,809 - INFO - Log saved to: logs/api_scraper_20251228_122101.log
+2025-12-28 12:21:14,893 - INFO - Exported 981 jobs to jobs.csv
