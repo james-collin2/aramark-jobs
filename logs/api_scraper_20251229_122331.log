@@ -1,0 +1,17 @@
+2025-12-29 12:23:31,099 - INFO - Starting API job scraper
+2025-12-29 12:23:31,100 - INFO - Loaded 853 master facilities
+2025-12-29 12:23:31,100 - INFO - Fetching jobs from API...
+2025-12-29 12:23:36,434 - INFO - Total jobs found: 500
+2025-12-29 12:23:36,435 - INFO - New job: Food Service Director - 625226 [No facility found]
+2025-12-29 12:23:45,429 - INFO - Added 1 new jobs
+2025-12-29 12:23:45,429 - INFO - Fetching descriptions for 1 new jobs...
+2025-12-29 12:23:46,575 - INFO - Updated description for 625226
+2025-12-29 12:23:47,080 - INFO - 
+=== SUMMARY ===
+2025-12-29 12:23:47,080 - INFO - Total jobs in database: 982
+2025-12-29 12:23:47,080 - INFO - New jobs added: 1
+2025-12-29 12:23:47,080 - INFO - Descriptions updated: 1
+2025-12-29 12:23:47,080 - INFO - Verified facilities: 113
+2025-12-29 12:23:47,080 - INFO - Unverified facilities: 280
+2025-12-29 12:23:47,080 - INFO - Log saved to: logs/api_scraper_20251229_122331.log
+2025-12-29 12:23:47,154 - INFO - Exported 982 jobs to jobs.csv
