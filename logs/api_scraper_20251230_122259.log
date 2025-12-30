@@ -1,0 +1,43 @@
+2025-12-30 12:22:59,901 - INFO - Starting API job scraper
+2025-12-30 12:22:59,901 - INFO - Loaded 853 master facilities
+2025-12-30 12:22:59,901 - INFO - Fetching jobs from API...
+2025-12-30 12:23:01,107 - INFO - Total jobs found: 500
+2025-12-30 12:23:01,156 - INFO - New job: Commissary Worker - Monterey County Commissary - 625345 [UNVERIFIED: Monterey County Commissary]
+2025-12-30 12:23:01,182 - INFO - New job: Commissary Worker - Delaware County - 625353 [UNVERIFIED: Delaware County]
+2025-12-30 12:23:01,183 - INFO - New job: Food Service Manager - 624907 [No facility found]
+2025-12-30 12:23:01,184 - INFO - New job: Corrections Oversight Worker - 621977 [No facility found]
+2025-12-30 12:23:01,208 - INFO - New job: Food Service Worker - WORTH Center - 625508 [UNVERIFIED: WORTH Center]
+2025-12-30 12:23:01,241 - INFO - New job: Food Service Worker Lead - Westchester County D.O.C. - 625517 [UNVERIFIED: Westchester County D.O.C.]
+2025-12-30 12:23:01,279 - INFO - New job: Commissary Worker - Westchester County Commissary - 625519 [UNVERIFIED: Westchester County Commissary]
+2025-12-30 12:23:01,279 - INFO - New job: Food Service Director - 625550 [No facility found]
+2025-12-30 12:23:01,279 - INFO - New job: Maintenance Worker - 625575 [No facility found]
+2025-12-30 12:23:01,280 - INFO - New job: HVAC I - 625585 [No facility found]
+2025-12-30 12:23:01,280 - INFO - New job: Food Service Manager - 625592 [No facility found]
+2025-12-30 12:23:01,309 - INFO - New job: Food Service Worker - Medina County Home - 625593 [UNVERIFIED: Medina County Home]
+2025-12-30 12:23:01,341 - INFO - New job: Commissary Worker - USG - USCS - MESA VERDE - 625612 [UNVERIFIED: USG - USCS - MESA VERDE]
+2025-12-30 12:23:01,342 - INFO - New job: Food Service Director - 625654 [No facility found]
+2025-12-30 12:23:10,811 - INFO - Added 14 new jobs
+2025-12-30 12:23:10,811 - INFO - Fetching descriptions for 14 new jobs...
+2025-12-30 12:23:11,735 - INFO - Updated description for 625345
+2025-12-30 12:23:13,281 - INFO - Updated description for 625353
+2025-12-30 12:23:14,830 - INFO - Updated description for 624907
+2025-12-30 12:23:16,343 - INFO - Updated description for 621977
+2025-12-30 12:23:17,990 - INFO - Updated description for 625508
+2025-12-30 12:23:19,578 - INFO - Updated description for 625517
+2025-12-30 12:23:21,146 - INFO - Updated description for 625519
+2025-12-30 12:23:22,764 - INFO - Updated description for 625550
+2025-12-30 12:23:24,219 - INFO - Updated description for 625575
+2025-12-30 12:23:25,758 - INFO - Updated description for 625585
+2025-12-30 12:23:27,228 - INFO - Updated description for 625592
+2025-12-30 12:23:28,688 - INFO - Updated description for 625593
+2025-12-30 12:23:30,263 - INFO - Updated description for 625612
+2025-12-30 12:23:31,703 - INFO - Updated description for 625654
+2025-12-30 12:23:32,208 - INFO - 
+=== SUMMARY ===
+2025-12-30 12:23:32,208 - INFO - Total jobs in database: 996
+2025-12-30 12:23:32,208 - INFO - New jobs added: 14
+2025-12-30 12:23:32,209 - INFO - Descriptions updated: 14
+2025-12-30 12:23:32,209 - INFO - Verified facilities: 113
+2025-12-30 12:23:32,209 - INFO - Unverified facilities: 281
+2025-12-30 12:23:32,209 - INFO - Log saved to: logs/api_scraper_20251230_122259.log
+2025-12-30 12:23:32,290 - INFO - Exported 996 jobs to jobs.csv
