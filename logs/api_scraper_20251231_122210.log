@@ -1,0 +1,35 @@
+2025-12-31 12:22:10,532 - INFO - Starting API job scraper
+2025-12-31 12:22:10,533 - INFO - Loaded 853 master facilities
+2025-12-31 12:22:10,533 - INFO - Fetching jobs from API...
+2025-12-31 12:22:12,644 - INFO - Total jobs found: 500
+2025-12-31 12:22:12,646 - INFO - New job: Food Service Manager - 625216 [No facility found]
+2025-12-31 12:22:12,690 - INFO - New job: Food Service Supervisor - St. Mary's County - 625716 [UNVERIFIED: St. Mary's County]
+2025-12-31 12:22:12,690 - INFO - New job: Corrections Oversight Worker - 625731 [No facility found]
+2025-12-31 12:22:12,718 - INFO - New job: Food Service Supervisor - Nueces County Jail - 625764 [UNVERIFIED: Nueces County Jail]
+2025-12-31 12:22:12,742 - INFO - New job: Corrections Oversight Worker - Summit County Jail - 625811 [UNVERIFIED: Summit County Jail]
+2025-12-31 12:22:12,742 - INFO - New job: Food Service Director - 625853 [No facility found]
+2025-12-31 12:22:12,742 - INFO - New job: Project Management Specialist - 625868 [No facility found]
+2025-12-31 12:22:12,789 - INFO - New job: Corrections Oversight Worker - Montgomery County Detention Ctr (OH) - 625877 [UNVERIFIED: Montgomery County Detention Ctr (OH)]
+2025-12-31 12:22:12,835 - INFO - New job: Corrections Oversight Worker - Louisville Jefferson County Jail - 625900 [UNVERIFIED: Louisville Jefferson County Jail]
+2025-12-31 12:22:12,858 - INFO - New job: Corrections Oversight Worker - Lenawee County - 625925 [UNVERIFIED: Lenawee County]
+2025-12-31 12:22:21,682 - INFO - Added 10 new jobs
+2025-12-31 12:22:21,682 - INFO - Fetching descriptions for 10 new jobs...
+2025-12-31 12:22:23,598 - INFO - Updated description for 625216
+2025-12-31 12:22:25,226 - INFO - Updated description for 625716
+2025-12-31 12:22:26,942 - INFO - Updated description for 625731
+2025-12-31 12:22:28,829 - INFO - Updated description for 625764
+2025-12-31 12:22:30,424 - INFO - Updated description for 625811
+2025-12-31 12:22:31,991 - INFO - Updated description for 625853
+2025-12-31 12:22:33,537 - INFO - Updated description for 625868
+2025-12-31 12:22:35,200 - INFO - Updated description for 625877
+2025-12-31 12:22:37,245 - INFO - Updated description for 625900
+2025-12-31 12:22:38,814 - INFO - Updated description for 625925
+2025-12-31 12:22:39,319 - INFO - 
+=== SUMMARY ===
+2025-12-31 12:22:39,319 - INFO - Total jobs in database: 1006
+2025-12-31 12:22:39,319 - INFO - New jobs added: 10
+2025-12-31 12:22:39,319 - INFO - Descriptions updated: 10
+2025-12-31 12:22:39,319 - INFO - Verified facilities: 113
+2025-12-31 12:22:39,319 - INFO - Unverified facilities: 284
+2025-12-31 12:22:39,319 - INFO - Log saved to: logs/api_scraper_20251231_122210.log
+2025-12-31 12:22:39,396 - INFO - Exported 1006 jobs to jobs.csv
