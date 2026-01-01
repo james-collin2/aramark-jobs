@@ -1,0 +1,37 @@
+2026-01-01 12:22:33,745 - INFO - Starting API job scraper
+2026-01-01 12:22:33,746 - INFO - Loaded 853 master facilities
+2026-01-01 12:22:33,746 - INFO - Fetching jobs from API...
+2026-01-01 12:22:35,402 - INFO - Total jobs found: 500
+2026-01-01 12:22:35,404 - INFO - New job: Food Service Manager - 614283 [No facility found]
+2026-01-01 12:22:35,404 - INFO - New job: Corrections Oversight Worker - 614284 [No facility found]
+2026-01-01 12:22:35,404 - INFO - New job: Food Service Director - 625996 [No facility found]
+2026-01-01 12:22:35,468 - INFO - New job: Corrections Oversight Worker - Warren Correctional Institution (OH DRC) - 626001 [VERIFIED: Warren Correctional Institution]
+2026-01-01 12:22:35,469 - INFO - New job: Food Service Manager - 626040 [No facility found]
+2026-01-01 12:22:35,495 - INFO - New job: Food Service Worker - Pinal County Jail - 625068 [UNVERIFIED: Pinal County Jail]
+2026-01-01 12:22:35,495 - INFO - New job: Food Service Director - 626120 [No facility found]
+2026-01-01 12:22:35,495 - INFO - New job: Food Service Manager - 625693 [No facility found]
+2026-01-01 12:22:35,519 - INFO - New job: Food Service Worker Lead - Topeka Correctional - 622812 [UNVERIFIED: Topeka Correctional]
+2026-01-01 12:22:35,556 - INFO - New job: Food Service Worker Lead - Pickaway Correctional Institution - 625797 [VERIFIED: Pickaway Correctional Institution]
+2026-01-01 12:22:35,556 - INFO - New job: Food Service Worker - 625869 [No facility found]
+2026-01-01 12:22:45,066 - INFO - Added 11 new jobs
+2026-01-01 12:22:45,066 - INFO - Fetching descriptions for 11 new jobs...
+2026-01-01 12:22:46,136 - INFO - Updated description for 614283
+2026-01-01 12:22:47,694 - INFO - Updated description for 614284
+2026-01-01 12:22:49,372 - INFO - Updated description for 625996
+2026-01-01 12:22:50,924 - INFO - Updated description for 626001
+2026-01-01 12:22:52,599 - INFO - Updated description for 626040
+2026-01-01 12:22:54,224 - INFO - Updated description for 625068
+2026-01-01 12:22:55,896 - INFO - Updated description for 626120
+2026-01-01 12:22:57,464 - INFO - Updated description for 625693
+2026-01-01 12:22:59,008 - INFO - Updated description for 622812
+2026-01-01 12:23:00,597 - INFO - Updated description for 625797
+2026-01-01 12:23:02,194 - INFO - Updated description for 625869
+2026-01-01 12:23:02,700 - INFO - 
+=== SUMMARY ===
+2026-01-01 12:23:02,700 - INFO - Total jobs in database: 1017
+2026-01-01 12:23:02,700 - INFO - New jobs added: 11
+2026-01-01 12:23:02,701 - INFO - Descriptions updated: 11
+2026-01-01 12:23:02,701 - INFO - Verified facilities: 114
+2026-01-01 12:23:02,701 - INFO - Unverified facilities: 285
+2026-01-01 12:23:02,701 - INFO - Log saved to: logs/api_scraper_20260101_122233.log
+2026-01-01 12:23:02,784 - INFO - Exported 1017 jobs to jobs.csv
