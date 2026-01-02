@@ -1,0 +1,23 @@
+2026-01-02 12:21:50,667 - INFO - Starting API job scraper
+2026-01-02 12:21:50,667 - INFO - Loaded 853 master facilities
+2026-01-02 12:21:50,667 - INFO - Fetching jobs from API...
+2026-01-02 12:21:54,830 - INFO - Total jobs found: 500
+2026-01-02 12:21:54,974 - INFO - New job: Corrections Oversight Worker - Lansing Correctional - 626116 [VERIFIED: Lansing Correctional Facility]
+2026-01-02 12:21:54,998 - INFO - New job: Food Service Worker Lead - Butler County - 626122 [UNVERIFIED: Butler County]
+2026-01-02 12:21:55,041 - INFO - New job: Corrections Oversight Worker - Clinton County Correctional Facility - PA - 626149 [VERIFIED: Bent County Correctional Facility]
+2026-01-02 12:21:55,084 - INFO - New job: Corrections Oversight Worker - Clinton County Correctional Facility - PA - 626150 [VERIFIED: Bent County Correctional Facility]
+2026-01-02 12:22:04,714 - INFO - Added 4 new jobs
+2026-01-02 12:22:04,714 - INFO - Fetching descriptions for 4 new jobs...
+2026-01-02 12:22:06,029 - INFO - Updated description for 626116
+2026-01-02 12:22:07,770 - INFO - Updated description for 626122
+2026-01-02 12:22:09,579 - INFO - Updated description for 626149
+2026-01-02 12:22:11,433 - INFO - Updated description for 626150
+2026-01-02 12:22:11,938 - INFO - 
+=== SUMMARY ===
+2026-01-02 12:22:11,938 - INFO - Total jobs in database: 1021
+2026-01-02 12:22:11,939 - INFO - New jobs added: 4
+2026-01-02 12:22:11,939 - INFO - Descriptions updated: 4
+2026-01-02 12:22:11,939 - INFO - Verified facilities: 114
+2026-01-02 12:22:11,939 - INFO - Unverified facilities: 285
+2026-01-02 12:22:11,939 - INFO - Log saved to: logs/api_scraper_20260102_122150.log
+2026-01-02 12:22:12,022 - INFO - Exported 1021 jobs to jobs.csv
