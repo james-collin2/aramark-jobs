@@ -1,0 +1,27 @@
+2026-01-03 12:20:31,368 - INFO - Starting API job scraper
+2026-01-03 12:20:31,369 - INFO - Loaded 853 master facilities
+2026-01-03 12:20:31,369 - INFO - Fetching jobs from API...
+2026-01-03 12:20:33,525 - INFO - Total jobs found: 500
+2026-01-03 12:20:33,527 - INFO - New job: Food Service Worker - 626189 [No facility found]
+2026-01-03 12:20:33,527 - INFO - New job: Food Service Director - 626264 [No facility found]
+2026-01-03 12:20:33,588 - INFO - New job: Warehouse Supervisor - USG - NV WAREHOUSE - FE - 626301 [UNVERIFIED: USG - NV WAREHOUSE - FE]
+2026-01-03 12:20:33,619 - INFO - New job: Corrections Oversight Worker - Walworth County Jail - 626385 [UNVERIFIED: Walworth County Jail]
+2026-01-03 12:20:33,619 - INFO - New job: Food Service Manager - 626055 [No facility found]
+2026-01-03 12:20:33,683 - INFO - New job: Corrections Oversight Worker - Women's Eastern Reception, Diagnostic and Correctional Center - 626099 [UNVERIFIED: Women's Eastern Reception, Diagnostic and Correctional Center]
+2026-01-03 12:20:43,264 - INFO - Added 6 new jobs
+2026-01-03 12:20:43,264 - INFO - Fetching descriptions for 6 new jobs...
+2026-01-03 12:20:44,271 - INFO - Updated description for 626189
+2026-01-03 12:20:45,801 - INFO - Updated description for 626264
+2026-01-03 12:20:47,325 - INFO - Updated description for 626301
+2026-01-03 12:20:48,930 - INFO - Updated description for 626385
+2026-01-03 12:20:50,666 - INFO - Updated description for 626055
+2026-01-03 12:20:52,361 - INFO - Updated description for 626099
+2026-01-03 12:20:52,866 - INFO - 
+=== SUMMARY ===
+2026-01-03 12:20:52,866 - INFO - Total jobs in database: 1027
+2026-01-03 12:20:52,866 - INFO - New jobs added: 6
+2026-01-03 12:20:52,866 - INFO - Descriptions updated: 6
+2026-01-03 12:20:52,866 - INFO - Verified facilities: 114
+2026-01-03 12:20:52,866 - INFO - Unverified facilities: 287
+2026-01-03 12:20:52,866 - INFO - Log saved to: logs/api_scraper_20260103_122031.log
+2026-01-03 12:20:52,950 - INFO - Exported 1027 jobs to jobs.csv
