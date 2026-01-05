@@ -1,0 +1,17 @@
+2026-01-05 12:24:19,403 - INFO - Starting API job scraper
+2026-01-05 12:24:19,403 - INFO - Loaded 853 master facilities
+2026-01-05 12:24:19,403 - INFO - Fetching jobs from API...
+2026-01-05 12:24:25,607 - INFO - Total jobs found: 500
+2026-01-05 12:24:25,660 - INFO - New job: Food Service Worker - DM OVHD - Nelson, B. - 626431 [UNVERIFIED: DM OVHD - Nelson, B.]
+2026-01-05 12:24:35,373 - INFO - Added 1 new jobs
+2026-01-05 12:24:35,373 - INFO - Fetching descriptions for 1 new jobs...
+2026-01-05 12:24:36,583 - INFO - Updated description for 626431
+2026-01-05 12:24:37,090 - INFO - 
+=== SUMMARY ===
+2026-01-05 12:24:37,090 - INFO - Total jobs in database: 1028
+2026-01-05 12:24:37,090 - INFO - New jobs added: 1
+2026-01-05 12:24:37,090 - INFO - Descriptions updated: 1
+2026-01-05 12:24:37,090 - INFO - Verified facilities: 114
+2026-01-05 12:24:37,090 - INFO - Unverified facilities: 288
+2026-01-05 12:24:37,090 - INFO - Log saved to: logs/api_scraper_20260105_122419.log
+2026-01-05 12:24:37,175 - INFO - Exported 1028 jobs to jobs.csv
