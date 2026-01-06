@@ -1,0 +1,27 @@
+2026-01-06 12:23:30,349 - INFO - Starting API job scraper
+2026-01-06 12:23:30,349 - INFO - Loaded 853 master facilities
+2026-01-06 12:23:30,349 - INFO - Fetching jobs from API...
+2026-01-06 12:23:37,408 - INFO - Total jobs found: 500
+2026-01-06 12:23:37,409 - INFO - New job: Corrections Oversight Worker - 623083 [No facility found]
+2026-01-06 12:23:37,409 - INFO - New job: Commissary Manager - 625845 [No facility found]
+2026-01-06 12:23:37,467 - INFO - New job: Commissary Worker - DuPage County Commissary - 625892 [UNVERIFIED: DuPage County Commissary]
+2026-01-06 12:23:37,467 - INFO - New job: Food Service Manager - 625909 [No facility found]
+2026-01-06 12:23:37,483 - INFO - New job: Chief Financial Officer - Corrections - 626773 [UNVERIFIED: Corrections]
+2026-01-06 12:23:37,483 - INFO - New job: Maintenance Worker - 626783 [No facility found]
+2026-01-06 12:23:47,114 - INFO - Added 6 new jobs
+2026-01-06 12:23:47,114 - INFO - Fetching descriptions for 6 new jobs...
+2026-01-06 12:23:48,252 - INFO - Updated description for 623083
+2026-01-06 12:23:49,809 - INFO - Updated description for 625845
+2026-01-06 12:23:51,393 - INFO - Updated description for 625892
+2026-01-06 12:23:52,905 - INFO - Updated description for 625909
+2026-01-06 12:23:54,461 - INFO - Updated description for 626773
+2026-01-06 12:23:56,015 - INFO - Updated description for 626783
+2026-01-06 12:23:56,520 - INFO - 
+=== SUMMARY ===
+2026-01-06 12:23:56,520 - INFO - Total jobs in database: 1034
+2026-01-06 12:23:56,520 - INFO - New jobs added: 6
+2026-01-06 12:23:56,520 - INFO - Descriptions updated: 6
+2026-01-06 12:23:56,520 - INFO - Verified facilities: 114
+2026-01-06 12:23:56,520 - INFO - Unverified facilities: 288
+2026-01-06 12:23:56,521 - INFO - Log saved to: logs/api_scraper_20260106_122330.log
+2026-01-06 12:23:56,605 - INFO - Exported 1034 jobs to jobs.csv
