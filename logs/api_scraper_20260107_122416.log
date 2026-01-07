@@ -1,0 +1,63 @@
+2026-01-07 12:24:16,639 - INFO - Starting API job scraper
+2026-01-07 12:24:16,639 - INFO - Loaded 853 master facilities
+2026-01-07 12:24:16,639 - INFO - Fetching jobs from API...
+2026-01-07 12:24:19,386 - INFO - Total jobs found: 500
+2026-01-07 12:24:19,438 - INFO - New job: Cook - Anoka County Jail Facility - 626512 [VERIFIED: Otero County Prison Facility]
+2026-01-07 12:24:19,475 - INFO - New job: Commissary Worker - Santa Barbara County Commissary - 626536 [UNVERIFIED: Santa Barbara County Commissary]
+2026-01-07 12:24:19,511 - INFO - New job: Retail Sales Worker Lead - Southeastern Correctional Facility - 626896 [VERIFIED: Eastern Correctional Facility]
+2026-01-07 12:24:19,546 - INFO - New job: Food Service Worker Lead - Southeastern Correctional Facility - 626897 [VERIFIED: Eastern Correctional Facility]
+2026-01-07 12:24:19,605 - INFO - New job: Food Service Worker Lead - Northeast Correctional Center - 626577 [VERIFIED: Northeast Correctional Center]
+2026-01-07 12:24:19,639 - INFO - New job: Retail Operator Lead - Sacramento County Commissary - 626949 [UNVERIFIED: Sacramento County Commissary]
+2026-01-07 12:24:19,679 - INFO - New job: Corrections Oversight Worker - Northeast Correctional Center - 626979 [VERIFIED: Northeast Correctional Center]
+2026-01-07 12:24:19,716 - INFO - New job: Food Service Worker Lead - Northeast Correctional Center - 627039 [VERIFIED: Northeast Correctional Center]
+2026-01-07 12:24:19,749 - INFO - New job: Corrections Oversight Worker - Alexandria County Jail - 626705 [UNVERIFIED: Alexandria County Jail]
+2026-01-07 12:24:19,778 - INFO - New job: Maintenance Worker - Dona Ana (Facilities) - 626720 [UNVERIFIED: Dona Ana (Facilities)]
+2026-01-07 12:24:19,810 - INFO - New job: General Utility Worker - Harris County Sheriff Food - 627264 [UNVERIFIED: Harris County Sheriff Food]
+2026-01-07 12:24:19,810 - INFO - New job: Food Service Manager - 625989 [No facility found]
+2026-01-07 12:24:19,841 - INFO - New job: Corrections Oversight Worker - Delaware County (PA) Jail - 627313 [UNVERIFIED: Delaware County (PA) Jail]
+2026-01-07 12:24:19,841 - INFO - New job: Driver I - 627317 [No facility found]
+2026-01-07 12:24:19,862 - INFO - New job: Corrections Oversight Worker - ASPC - Safford - 627324 [UNVERIFIED: ASPC - Safford]
+2026-01-07 12:24:19,894 - INFO - New job: Corrections Oversight Worker - Harris County Sheriff Food - 627342 [UNVERIFIED: Harris County Sheriff Food]
+2026-01-07 12:24:19,920 - INFO - New job: Cook - Taylor County Jail - 626790 [UNVERIFIED: Taylor County Jail]
+2026-01-07 12:24:19,956 - INFO - New job: Corrections Inmate Worker - Madison Transitional Facility - (Adult/Juvenile) - 626810 [VERIFIED: Madison Correctional Facility]
+2026-01-07 12:24:19,977 - INFO - New job: Corrections Oversight Worker - Avon Park - CI - (503) - 626824 [UNVERIFIED: Avon Park - CI]
+2026-01-07 12:24:19,998 - INFO - New job: Corrections Oversight Worker - Avon Park - WC - (504) - 626826 [UNVERIFIED: Avon Park - WC]
+2026-01-07 12:24:19,998 - INFO - New job: Food Service Director - 626115 [No facility found]
+2026-01-07 12:24:19,998 - INFO - New job: Corrections Oversight Worker - 626491 [No facility found]
+2026-01-07 12:24:20,027 - INFO - New job: Warehouse Worker - Dona Ana (Facilities) - 626832 [UNVERIFIED: Dona Ana (Facilities)]
+2026-01-07 12:24:20,027 - INFO - New job: Food Service Manager - 626833 [No facility found]
+2026-01-07 12:24:28,410 - INFO - Added 24 new jobs
+2026-01-07 12:24:28,410 - INFO - Fetching descriptions for 24 new jobs...
+2026-01-07 12:24:29,576 - INFO - Updated description for 626512
+2026-01-07 12:24:31,114 - INFO - Updated description for 626536
+2026-01-07 12:24:32,704 - INFO - Updated description for 626896
+2026-01-07 12:24:34,418 - INFO - Updated description for 626897
+2026-01-07 12:24:35,976 - INFO - Updated description for 626577
+2026-01-07 12:24:37,489 - INFO - Updated description for 626949
+2026-01-07 12:24:38,993 - INFO - Updated description for 626979
+2026-01-07 12:24:40,462 - INFO - Updated description for 627039
+2026-01-07 12:24:41,945 - INFO - Updated description for 626705
+2026-01-07 12:24:44,455 - INFO - Updated description for 626720
+2026-01-07 12:24:46,016 - INFO - Updated description for 627264
+2026-01-07 12:24:47,670 - INFO - Updated description for 625989
+2026-01-07 12:24:49,226 - INFO - Updated description for 627313
+2026-01-07 12:24:50,739 - INFO - Updated description for 627317
+2026-01-07 12:24:52,308 - INFO - Updated description for 627324
+2026-01-07 12:24:53,790 - INFO - Updated description for 627342
+2026-01-07 12:24:55,341 - INFO - Updated description for 626790
+2026-01-07 12:24:56,879 - INFO - Updated description for 626810
+2026-01-07 12:24:58,562 - INFO - Updated description for 626824
+2026-01-07 12:25:00,185 - INFO - Updated description for 626826
+2026-01-07 12:25:01,765 - INFO - Updated description for 626115
+2026-01-07 12:25:03,403 - INFO - Updated description for 626491
+2026-01-07 12:25:04,927 - INFO - Updated description for 626832
+2026-01-07 12:25:06,491 - INFO - Updated description for 626833
+2026-01-07 12:25:06,996 - INFO - 
+=== SUMMARY ===
+2026-01-07 12:25:06,996 - INFO - Total jobs in database: 1058
+2026-01-07 12:25:06,996 - INFO - New jobs added: 24
+2026-01-07 12:25:06,996 - INFO - Descriptions updated: 24
+2026-01-07 12:25:06,996 - INFO - Verified facilities: 114
+2026-01-07 12:25:06,996 - INFO - Unverified facilities: 291
+2026-01-07 12:25:06,996 - INFO - Log saved to: logs/api_scraper_20260107_122416.log
+2026-01-07 12:25:07,078 - INFO - Exported 1058 jobs to jobs.csv
