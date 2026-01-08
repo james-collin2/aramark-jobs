@@ -1,0 +1,35 @@
+2026-01-08 12:24:34,813 - INFO - Starting API job scraper
+2026-01-08 12:24:34,814 - INFO - Loaded 853 master facilities
+2026-01-08 12:24:34,814 - INFO - Fetching jobs from API...
+2026-01-08 12:24:36,851 - INFO - Total jobs found: 500
+2026-01-08 12:24:36,952 - INFO - New job: Food Service Worker Lead - Moberly Correctional Center - 627057 [VERIFIED: Moberly Correctional Center]
+2026-01-08 12:24:36,988 - INFO - New job: Kitchen Technician - Harris County Facilities - 627087 [UNVERIFIED: Harris County Facilities]
+2026-01-08 12:24:37,027 - INFO - New job: Commissary Worker - Sacramento County Commissary - 627369 [UNVERIFIED: Sacramento County Commissary]
+2026-01-08 12:24:37,066 - INFO - New job: Retail Sales Worker Lead - Ohio Reformatory for Women - 627396 [VERIFIED: Ohio Reformatory for Women]
+2026-01-08 12:24:37,102 - INFO - New job: Food Service Supervisor - Harris County Sheriff Food - 627452 [UNVERIFIED: Harris County Sheriff Food]
+2026-01-08 12:24:37,103 - INFO - New job: Corrections Oversight Worker - 627537 [No facility found]
+2026-01-08 12:24:37,140 - INFO - New job: Corrections Oversight Worker - Anne Arundel County - ORCC - 627585 [UNVERIFIED: Anne Arundel County - ORCC]
+2026-01-08 12:24:37,180 - INFO - New job: Corrections Oversight Worker - Pinellas County Food - 627650 [UNVERIFIED: Pinellas County Food]
+2026-01-08 12:24:37,215 - INFO - New job: Corrections Oversight Worker - Pinellas County Food - 627651 [UNVERIFIED: Pinellas County Food]
+2026-01-08 12:24:37,243 - INFO - New job: Corrections Oversight Worker - VOA Mansfield - 627695 [UNVERIFIED: VOA Mansfield]
+2026-01-08 12:24:46,811 - INFO - Added 10 new jobs
+2026-01-08 12:24:46,811 - INFO - Fetching descriptions for 10 new jobs...
+2026-01-08 12:24:47,880 - INFO - Updated description for 627057
+2026-01-08 12:24:49,749 - INFO - Updated description for 627087
+2026-01-08 12:24:51,553 - INFO - Updated description for 627369
+2026-01-08 12:24:53,189 - INFO - Updated description for 627396
+2026-01-08 12:24:54,712 - INFO - Updated description for 627452
+2026-01-08 12:24:56,245 - INFO - Updated description for 627537
+2026-01-08 12:24:57,778 - INFO - Updated description for 627585
+2026-01-08 12:24:59,362 - INFO - Updated description for 627650
+2026-01-08 12:25:00,929 - INFO - Updated description for 627651
+2026-01-08 12:25:02,637 - INFO - Updated description for 627695
+2026-01-08 12:25:03,145 - INFO - 
+=== SUMMARY ===
+2026-01-08 12:25:03,145 - INFO - Total jobs in database: 1068
+2026-01-08 12:25:03,145 - INFO - New jobs added: 10
+2026-01-08 12:25:03,145 - INFO - Descriptions updated: 10
+2026-01-08 12:25:03,145 - INFO - Verified facilities: 114
+2026-01-08 12:25:03,145 - INFO - Unverified facilities: 292
+2026-01-08 12:25:03,145 - INFO - Log saved to: logs/api_scraper_20260108_122434.log
+2026-01-08 12:25:03,233 - INFO - Exported 1068 jobs to jobs.csv
