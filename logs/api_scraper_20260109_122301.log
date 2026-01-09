@@ -1,0 +1,57 @@
+2026-01-09 12:23:01,535 - INFO - Starting API job scraper
+2026-01-09 12:23:01,535 - INFO - Loaded 853 master facilities
+2026-01-09 12:23:01,535 - INFO - Fetching jobs from API...
+2026-01-09 12:23:02,989 - INFO - Total jobs found: 500
+2026-01-09 12:23:03,036 - INFO - New job: Corrections Oversight Worker - Boone County Jail - 628000 [UNVERIFIED: Boone County Jail]
+2026-01-09 12:23:03,065 - INFO - New job: Corrections Oversight Worker - El Dorado Correctional - 628005 [VERIFIED: El Dorado Correctional Facility]
+2026-01-09 12:23:03,094 - INFO - New job: Corrections Oversight Worker - Marinette County - 628012 [UNVERIFIED: Marinette County]
+2026-01-09 12:23:03,095 - INFO - New job: Food Service Worker 200520200 - 627584 [No facility found]
+2026-01-09 12:23:03,136 - INFO - New job: HVAC I - Mecklenburg County Facilities - 628029 [UNVERIFIED: Mecklenburg County Facilities]
+2026-01-09 12:23:03,136 - INFO - New job: Food Service Manager - 625057 [No facility found]
+2026-01-09 12:23:03,136 - INFO - New job: Project Management Specialist - 625684 [No facility found]
+2026-01-09 12:23:03,136 - INFO - New job: Correctional Oversight Worker - 627677 [No facility found]
+2026-01-09 12:23:03,136 - INFO - New job: Food Service Director - 614315 [No facility found]
+2026-01-09 12:23:03,161 - INFO - New job: oversight worker - Erie County Jail - 627705 [UNVERIFIED: Erie County Jail]
+2026-01-09 12:23:03,184 - INFO - New job: Corrections Oversight Worker - Butler County - 627715 [UNVERIFIED: Butler County]
+2026-01-09 12:23:03,233 - INFO - New job: Corrections Oversight Worker - Eastern Kentucky Correctional Complex - 628145 [VERIFIED: Eastern Kentucky Correctional Complex]
+2026-01-09 12:23:03,233 - INFO - New job: Food Service Supervisor - 614657 [No facility found]
+2026-01-09 12:23:03,234 - INFO - New job: Corrections Oversight Worker - 628228 [No facility found]
+2026-01-09 12:23:03,267 - INFO - New job: Food Service Worker Lead - ALDOC - Hamilton A&I - 627781 [UNVERIFIED: ALDOC - Hamilton A&I]
+2026-01-09 12:23:03,302 - INFO - New job: Corrections Oversight Worker - Kegan State Jail TDCJ - 627460 [VERIFIED: Joe Kegans State Jail]
+2026-01-09 12:23:03,303 - INFO - New job: Food Service Worker Lead - 627928 [No facility found]
+2026-01-09 12:23:03,303 - INFO - New job: Food Service Worker Lead - 627937 [No facility found]
+2026-01-09 12:23:03,327 - INFO - New job: Corrections Oversight Worker - Hollywood - CRC - (446) - 627103 [UNVERIFIED: Hollywood - CRC]
+2026-01-09 12:23:03,368 - INFO - New job: Maintenance Worker - Mecklenburg County Facilities - 627978 [UNVERIFIED: Mecklenburg County Facilities]
+2026-01-09 12:23:03,409 - INFO - New job: Plumber I - Mecklenburg County Facilities - 627980 [UNVERIFIED: Mecklenburg County Facilities]
+2026-01-09 12:23:12,943 - INFO - Added 21 new jobs
+2026-01-09 12:23:12,943 - INFO - Fetching descriptions for 21 new jobs...
+2026-01-09 12:23:14,089 - INFO - Updated description for 628000
+2026-01-09 12:23:15,705 - INFO - Updated description for 628005
+2026-01-09 12:23:17,284 - INFO - Updated description for 628012
+2026-01-09 12:23:18,804 - INFO - Updated description for 627584
+2026-01-09 12:23:20,412 - INFO - Updated description for 628029
+2026-01-09 12:23:22,000 - INFO - Updated description for 625057
+2026-01-09 12:23:23,556 - INFO - Updated description for 625684
+2026-01-09 12:23:25,073 - INFO - Updated description for 627677
+2026-01-09 12:23:26,679 - INFO - Updated description for 614315
+2026-01-09 12:23:28,189 - INFO - Updated description for 627705
+2026-01-09 12:23:29,843 - INFO - Updated description for 627715
+2026-01-09 12:23:31,488 - INFO - Updated description for 628145
+2026-01-09 12:23:33,070 - INFO - Updated description for 614657
+2026-01-09 12:23:34,580 - INFO - Updated description for 628228
+2026-01-09 12:23:36,233 - INFO - Updated description for 627781
+2026-01-09 12:23:37,776 - INFO - Updated description for 627460
+2026-01-09 12:23:39,284 - INFO - Updated description for 627928
+2026-01-09 12:23:42,356 - INFO - Updated description for 627937
+2026-01-09 12:23:43,968 - INFO - Updated description for 627103
+2026-01-09 12:23:45,510 - INFO - Updated description for 627978
+2026-01-09 12:23:47,095 - INFO - Updated description for 627980
+2026-01-09 12:23:47,600 - INFO - 
+=== SUMMARY ===
+2026-01-09 12:23:47,600 - INFO - Total jobs in database: 1089
+2026-01-09 12:23:47,600 - INFO - New jobs added: 21
+2026-01-09 12:23:47,600 - INFO - Descriptions updated: 21
+2026-01-09 12:23:47,600 - INFO - Verified facilities: 114
+2026-01-09 12:23:47,600 - INFO - Unverified facilities: 296
+2026-01-09 12:23:47,600 - INFO - Log saved to: logs/api_scraper_20260109_122301.log
+2026-01-09 12:23:47,702 - INFO - Exported 1089 jobs to jobs.csv
