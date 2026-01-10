@@ -1,0 +1,45 @@
+2026-01-10 12:20:11,521 - INFO - Starting API job scraper
+2026-01-10 12:20:11,521 - INFO - Loaded 853 master facilities
+2026-01-10 12:20:11,521 - INFO - Fetching jobs from API...
+2026-01-10 12:20:15,201 - INFO - Total jobs found: 500
+2026-01-10 12:20:15,252 - INFO - New job: Corrections Oversight Worker - Westchester County D.O.C. - 628122 [UNVERIFIED: Westchester County D.O.C.]
+2026-01-10 12:20:15,253 - INFO - New job: Food Service Director - 628232 [No facility found]
+2026-01-10 12:20:15,253 - INFO - New job: Cook- Westchester County D.O.C. - 628299 [No facility found]
+2026-01-10 12:20:15,294 - INFO - New job: Corrections Corrections Oversight Worker - Lucas County Juvenile CourtWorker - 628306 [UNVERIFIED: Lucas County Juvenile CourtWorker]
+2026-01-10 12:20:15,331 - INFO - New job: Laundry Worker - Brevard County Commissary, FL - 628322 [UNVERIFIED: Brevard County Commissary, FL]
+2026-01-10 12:20:15,351 - INFO - New job: Corrections Oversight Worker - VOA Dayton - 628341 [UNVERIFIED: VOA Dayton]
+2026-01-10 12:20:15,388 - INFO - New job: Food Service Supervisor - Durham County Commissary - 628349 [UNVERIFIED: Durham County Commissary]
+2026-01-10 12:20:15,388 - INFO - New job: Corrections General Manager - 628352 [No facility found]
+2026-01-10 12:20:15,437 - INFO - New job: Food Service Worker - Jefferson County Detention Facility - 628409 [VERIFIED: Otero County Prison Facility]
+2026-01-10 12:20:15,457 - INFO - New job: Food Service Worker Lead - Walton - CI - (108) - 628419 [UNVERIFIED: Walton - CI]
+2026-01-10 12:20:15,477 - INFO - New job: Food Service Worker Lead - Walton - WC - (172) - 628426 [UNVERIFIED: Walton - WC]
+2026-01-10 12:20:15,499 - INFO - New job: Corrections Oversight Worker - Century - CI/WC - (106/167) - 628433 [UNVERIFIED: Century - CI/WC]
+2026-01-10 12:20:15,522 - INFO - New job: Food Service Worker Lead - Century - CI/WC - (106/167) - 628441 [UNVERIFIED: Century - CI/WC]
+2026-01-10 12:20:15,546 - INFO - New job: Food Service Worker Lead - Pensacola - CRC - (164) - 628443 [UNVERIFIED: Pensacola - CRC]
+2026-01-10 12:20:15,581 - INFO - New job: Food Service Worker - Arapahoe Justice Complex - 628534 [UNVERIFIED: Arapahoe Justice Complex]
+2026-01-10 12:20:25,021 - INFO - Added 15 new jobs
+2026-01-10 12:20:25,021 - INFO - Fetching descriptions for 15 new jobs...
+2026-01-10 12:20:26,189 - INFO - Updated description for 628122
+2026-01-10 12:20:27,985 - INFO - Updated description for 628232
+2026-01-10 12:20:29,664 - INFO - Updated description for 628299
+2026-01-10 12:20:31,339 - INFO - Updated description for 628306
+2026-01-10 12:20:33,058 - INFO - Updated description for 628322
+2026-01-10 12:20:34,702 - INFO - Updated description for 628341
+2026-01-10 12:20:36,282 - INFO - Updated description for 628349
+2026-01-10 12:20:37,877 - INFO - Updated description for 628352
+2026-01-10 12:20:39,559 - INFO - Updated description for 628409
+2026-01-10 12:20:41,277 - INFO - Updated description for 628419
+2026-01-10 12:20:42,891 - INFO - Updated description for 628426
+2026-01-10 12:20:44,570 - INFO - Updated description for 628433
+2026-01-10 12:20:46,257 - INFO - Updated description for 628441
+2026-01-10 12:20:47,965 - INFO - Updated description for 628443
+2026-01-10 12:20:49,550 - INFO - Updated description for 628534
+2026-01-10 12:20:50,056 - INFO - 
+=== SUMMARY ===
+2026-01-10 12:20:50,056 - INFO - Total jobs in database: 1104
+2026-01-10 12:20:50,056 - INFO - New jobs added: 15
+2026-01-10 12:20:50,056 - INFO - Descriptions updated: 15
+2026-01-10 12:20:50,056 - INFO - Verified facilities: 114
+2026-01-10 12:20:50,057 - INFO - Unverified facilities: 298
+2026-01-10 12:20:50,057 - INFO - Log saved to: logs/api_scraper_20260110_122011.log
+2026-01-10 12:20:50,147 - INFO - Exported 1104 jobs to jobs.csv
