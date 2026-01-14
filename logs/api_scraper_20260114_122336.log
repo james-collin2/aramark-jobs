@@ -1,0 +1,35 @@
+2026-01-14 12:23:36,756 - INFO - Starting API job scraper
+2026-01-14 12:23:36,757 - INFO - Loaded 853 master facilities
+2026-01-14 12:23:36,757 - INFO - Fetching jobs from API...
+2026-01-14 12:23:38,980 - INFO - Total jobs found: 500
+2026-01-14 12:23:39,044 - INFO - New job: Carpenter - Oriana House (Facilities Team) - 629264 [UNVERIFIED: Oriana House (Facilities Team)]
+2026-01-14 12:23:39,100 - INFO - New job: General Maintenance Worker - Oriana House - Oriana House (Facilities) - 629268 [UNVERIFIED: Oriana House - Oriana House (Facilities)]
+2026-01-14 12:23:39,143 - INFO - New job: Corrections Oversight Worker - Richmond County Sheriff's Office Jail - 628308 [UNVERIFIED: Richmond County Sheriff's Office Jail]
+2026-01-14 12:23:39,165 - INFO - New job: Retail Sales Worker Lead - Butler County - 628321 [UNVERIFIED: Butler County]
+2026-01-14 12:23:39,166 - INFO - New job: Warehouse Manager Sr - 626421 [No facility found]
+2026-01-14 12:23:39,206 - INFO - New job: HVAC Tech - Oriana House (Facilities) - 613681 [UNVERIFIED: Oriana House (Facilities)]
+2026-01-14 12:23:39,240 - INFO - New job: Corrections Oversight Worker - Winnebago County Jail WI - 625655 [UNVERIFIED: Winnebago County Jail WI]
+2026-01-14 12:23:39,288 - INFO - New job: Retail Cashier - Haymarket Vending Chicago Illinois - 628958 [UNVERIFIED: Haymarket Vending Chicago Illinois]
+2026-01-14 12:23:39,330 - INFO - New job: Corrections Oversight Worker - FL Womens Reception Center - (368) - 629103 [VERIFIED: Florida Women's Reception Center]
+2026-01-14 12:23:39,373 - INFO - New job: Corrections Oversight Worker - Putnamville Correctional Facility - 629152 [VERIFIED: Putnamville Correctional Facility]
+2026-01-14 12:23:49,193 - INFO - Added 10 new jobs
+2026-01-14 12:23:49,193 - INFO - Fetching descriptions for 10 new jobs...
+2026-01-14 12:23:50,260 - INFO - Updated description for 629264
+2026-01-14 12:23:51,737 - INFO - Updated description for 629268
+2026-01-14 12:23:53,352 - INFO - Updated description for 628308
+2026-01-14 12:23:54,791 - INFO - Updated description for 628321
+2026-01-14 12:23:56,386 - INFO - Updated description for 626421
+2026-01-14 12:23:57,810 - INFO - Updated description for 613681
+2026-01-14 12:23:59,422 - INFO - Updated description for 625655
+2026-01-14 12:24:00,926 - INFO - Updated description for 628958
+2026-01-14 12:24:02,448 - INFO - Updated description for 629103
+2026-01-14 12:24:03,955 - INFO - Updated description for 629152
+2026-01-14 12:24:04,460 - INFO - 
+=== SUMMARY ===
+2026-01-14 12:24:04,460 - INFO - Total jobs in database: 1122
+2026-01-14 12:24:04,460 - INFO - New jobs added: 10
+2026-01-14 12:24:04,460 - INFO - Descriptions updated: 10
+2026-01-14 12:24:04,460 - INFO - Verified facilities: 114
+2026-01-14 12:24:04,460 - INFO - Unverified facilities: 301
+2026-01-14 12:24:04,460 - INFO - Log saved to: logs/api_scraper_20260114_122336.log
+2026-01-14 12:24:04,552 - INFO - Exported 1122 jobs to jobs.csv
