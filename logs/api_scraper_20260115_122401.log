@@ -1,0 +1,29 @@
+2026-01-15 12:24:01,488 - INFO - Starting API job scraper
+2026-01-15 12:24:01,488 - INFO - Loaded 853 master facilities
+2026-01-15 12:24:01,488 - INFO - Fetching jobs from API...
+2026-01-15 12:24:03,658 - INFO - Total jobs found: 500
+2026-01-15 12:24:03,659 - INFO - New job: Food Service Supervisor - 624197 [No facility found]
+2026-01-15 12:24:03,719 - INFO - New job: Corrections Oversight Worker - Douglas County Minnesota Jail - 629334 [UNVERIFIED: Douglas County Minnesota Jail]
+2026-01-15 12:24:03,719 - INFO - New job: Food Service Manager - 629402 [No facility found]
+2026-01-15 12:24:03,719 - INFO - New job: Food Service Manager - 629403 [No facility found]
+2026-01-15 12:24:03,751 - INFO - New job: Food Service Worker Lead - Cumberland County Jail - 629536 [UNVERIFIED: Cumberland County Jail]
+2026-01-15 12:24:03,751 - INFO - New job: Operational Excellence Analyst - 629661 [No facility found]
+2026-01-15 12:24:03,751 - INFO - New job: Food Service Manager - 629695 [No facility found]
+2026-01-15 12:24:13,482 - INFO - Added 7 new jobs
+2026-01-15 12:24:13,482 - INFO - Fetching descriptions for 7 new jobs...
+2026-01-15 12:24:14,722 - INFO - Updated description for 624197
+2026-01-15 12:24:16,463 - INFO - Updated description for 629334
+2026-01-15 12:24:18,228 - INFO - Updated description for 629402
+2026-01-15 12:24:19,903 - INFO - Updated description for 629403
+2026-01-15 12:24:21,560 - INFO - Updated description for 629536
+2026-01-15 12:24:23,231 - INFO - Updated description for 629661
+2026-01-15 12:24:24,957 - INFO - Updated description for 629695
+2026-01-15 12:24:25,465 - INFO - 
+=== SUMMARY ===
+2026-01-15 12:24:25,465 - INFO - Total jobs in database: 1129
+2026-01-15 12:24:25,465 - INFO - New jobs added: 7
+2026-01-15 12:24:25,465 - INFO - Descriptions updated: 7
+2026-01-15 12:24:25,465 - INFO - Verified facilities: 114
+2026-01-15 12:24:25,465 - INFO - Unverified facilities: 301
+2026-01-15 12:24:25,465 - INFO - Log saved to: logs/api_scraper_20260115_122401.log
+2026-01-15 12:24:25,559 - INFO - Exported 1129 jobs to jobs.csv
