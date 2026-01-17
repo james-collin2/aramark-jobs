@@ -1,0 +1,41 @@
+2026-01-17 12:20:06,281 - INFO - Starting API job scraper
+2026-01-17 12:20:06,281 - INFO - Loaded 853 master facilities
+2026-01-17 12:20:06,281 - INFO - Fetching jobs from API...
+2026-01-17 12:20:09,720 - INFO - Total jobs found: 500
+2026-01-17 12:20:09,773 - INFO - New job: Commissary Manager - DuPage County Commissary - 625894 [UNVERIFIED: DuPage County Commissary]
+2026-01-17 12:20:09,811 - INFO - New job: Corrections Oversight Worker - Green River Correctional Complex - 628340 [VERIFIED: Green River Correctional Complex]
+2026-01-17 12:20:09,812 - INFO - New job: Food Service Director - 629493 [No facility found]
+2026-01-17 12:20:09,865 - INFO - New job: Food Service Worker - Warren County Juvenile Detention Center - 630131 [UNVERIFIED: Warren County Juvenile Detention Center]
+2026-01-17 12:20:09,895 - INFO - New job: Corrections Oversight Worker - Warren County, OH - 630134 [UNVERIFIED: Warren County, OH]
+2026-01-17 12:20:09,931 - INFO - New job: Food Service Worker - St. Mary's Correctional Center - 630142 [VERIFIED: St. Marys Correctional Center]
+2026-01-17 12:20:09,965 - INFO - New job: Food Service Worker - Orange County (NY) Jail - 630144 [UNVERIFIED: Orange County (NY) Jail]
+2026-01-17 12:20:09,965 - INFO - New job: Food Service Supervisor - 630156 [No facility found]
+2026-01-17 12:20:09,965 - INFO - New job: Food Service Manager - 630208 [No facility found]
+2026-01-17 12:20:09,965 - INFO - New job: Food Service Director - 630229 [No facility found]
+2026-01-17 12:20:09,965 - INFO - New job: Food Service Manager - 630231 [No facility found]
+2026-01-17 12:20:09,966 - INFO - New job: Food Service Manager - 630240 [No facility found]
+2026-01-17 12:20:09,966 - INFO - New job: Warehouse Worker III - 630255 [No facility found]
+2026-01-17 12:20:19,652 - INFO - Added 13 new jobs
+2026-01-17 12:20:19,652 - INFO - Fetching descriptions for 13 new jobs...
+2026-01-17 12:20:20,821 - INFO - Updated description for 625894
+2026-01-17 12:20:22,573 - INFO - Updated description for 628340
+2026-01-17 12:20:24,540 - INFO - Updated description for 629493
+2026-01-17 12:20:26,470 - INFO - Updated description for 630131
+2026-01-17 12:20:28,187 - INFO - Updated description for 630134
+2026-01-17 12:20:31,613 - INFO - Updated description for 630142
+2026-01-17 12:20:33,866 - INFO - Updated description for 630144
+2026-01-17 12:20:35,543 - INFO - Updated description for 630156
+2026-01-17 12:20:37,395 - INFO - Updated description for 630208
+2026-01-17 12:20:39,217 - INFO - Updated description for 630229
+2026-01-17 12:20:41,220 - INFO - Updated description for 630231
+2026-01-17 12:20:42,937 - INFO - Updated description for 630240
+2026-01-17 12:20:44,633 - INFO - Updated description for 630255
+2026-01-17 12:20:45,140 - INFO - 
+=== SUMMARY ===
+2026-01-17 12:20:45,140 - INFO - Total jobs in database: 1150
+2026-01-17 12:20:45,140 - INFO - New jobs added: 13
+2026-01-17 12:20:45,140 - INFO - Descriptions updated: 13
+2026-01-17 12:20:45,140 - INFO - Verified facilities: 116
+2026-01-17 12:20:45,140 - INFO - Unverified facilities: 304
+2026-01-17 12:20:45,140 - INFO - Log saved to: logs/api_scraper_20260117_122006.log
+2026-01-17 12:20:45,235 - INFO - Exported 1150 jobs to jobs.csv
