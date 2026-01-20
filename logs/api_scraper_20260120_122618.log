@@ -1,0 +1,23 @@
+2026-01-20 12:26:18,469 - INFO - Starting API job scraper
+2026-01-20 12:26:18,469 - INFO - Loaded 853 master facilities
+2026-01-20 12:26:18,469 - INFO - Fetching jobs from API...
+2026-01-20 12:26:22,932 - INFO - Total jobs found: 500
+2026-01-20 12:26:22,972 - INFO - New job: Food Service Worker - Randolph County Jail - 630411 [UNVERIFIED: Randolph County Jail]
+2026-01-20 12:26:23,018 - INFO - New job: Corrections Oversight Worker - Lorain Correctional Institution - Ohio DRC - 630434 [VERIFIED: Lorain Correctional Institution]
+2026-01-20 12:26:23,047 - INFO - New job: Food Service Worker - Multnomah/Inverness - 630449 [UNVERIFIED: Multnomah/Inverness]
+2026-01-20 12:26:23,077 - INFO - New job: Food Service Worker - Benton County Sheriff WA - 630467 [UNVERIFIED: Benton County Sheriff WA]
+2026-01-20 12:26:32,571 - INFO - Added 4 new jobs
+2026-01-20 12:26:32,572 - INFO - Fetching descriptions for 4 new jobs...
+2026-01-20 12:26:33,598 - INFO - Updated description for 630411
+2026-01-20 12:26:35,139 - INFO - Updated description for 630434
+2026-01-20 12:26:36,744 - INFO - Updated description for 630449
+2026-01-20 12:26:38,339 - INFO - Updated description for 630467
+2026-01-20 12:26:38,844 - INFO - 
+=== SUMMARY ===
+2026-01-20 12:26:38,845 - INFO - Total jobs in database: 1155
+2026-01-20 12:26:38,845 - INFO - New jobs added: 4
+2026-01-20 12:26:38,845 - INFO - Descriptions updated: 4
+2026-01-20 12:26:38,845 - INFO - Verified facilities: 116
+2026-01-20 12:26:38,845 - INFO - Unverified facilities: 304
+2026-01-20 12:26:38,845 - INFO - Log saved to: logs/api_scraper_20260120_122618.log
+2026-01-20 12:26:38,940 - INFO - Exported 1155 jobs to jobs.csv
