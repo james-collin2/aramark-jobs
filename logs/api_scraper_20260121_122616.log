@@ -1,0 +1,35 @@
+2026-01-21 12:26:16,699 - INFO - Starting API job scraper
+2026-01-21 12:26:16,699 - INFO - Loaded 853 master facilities
+2026-01-21 12:26:16,699 - INFO - Fetching jobs from API...
+2026-01-21 12:26:19,527 - INFO - Total jobs found: 500
+2026-01-21 12:26:19,580 - INFO - New job: Corrections Oversight Worker - Mercer County CCC - 627272 [UNVERIFIED: Mercer County CCC]
+2026-01-21 12:26:19,580 - INFO - New job: Food Service Manager - 628462 [No facility found]
+2026-01-21 12:26:19,620 - INFO - New job: Corrections Oversight Worker - Allen Oakwood Correctional Facility - 630102 [VERIFIED: Altona Correctional Facility]
+2026-01-21 12:26:19,620 - INFO - New job: Food Service Manager - 630606 [No facility found]
+2026-01-21 12:26:19,620 - INFO - New job: Corrections Oversight Worker - 630629 [No facility found]
+2026-01-21 12:26:19,646 - INFO - New job: Food Service Worker - Alvis 180 - Columbus - 630640 [UNVERIFIED: Alvis 180 - Columbus]
+2026-01-21 12:26:19,681 - INFO - New job: Cook - Erie County Care Facility - 630641 [VERIFIED: Otero County Prison Facility]
+2026-01-21 12:26:19,726 - INFO - New job: Retail Sales Worker Lead - Lorain Correctional Institution - Ohio DRC - 630661 [VERIFIED: Lorain Correctional Institution]
+2026-01-21 12:26:19,726 - INFO - New job: Food Service Manager - 630811 [No facility found]
+2026-01-21 12:26:19,752 - INFO - New job: General Manager - Correctional Services - 630854 [UNVERIFIED: Correctional Services]
+2026-01-21 12:26:28,963 - INFO - Added 10 new jobs
+2026-01-21 12:26:28,963 - INFO - Fetching descriptions for 10 new jobs...
+2026-01-21 12:26:30,112 - INFO - Updated description for 627272
+2026-01-21 12:26:31,776 - INFO - Updated description for 628462
+2026-01-21 12:26:33,540 - INFO - Updated description for 630102
+2026-01-21 12:26:35,089 - INFO - Updated description for 630606
+2026-01-21 12:26:36,766 - INFO - Updated description for 630629
+2026-01-21 12:26:38,394 - INFO - Updated description for 630640
+2026-01-21 12:26:40,098 - INFO - Updated description for 630641
+2026-01-21 12:26:41,665 - INFO - Updated description for 630661
+2026-01-21 12:26:43,222 - INFO - Updated description for 630811
+2026-01-21 12:26:44,877 - INFO - Updated description for 630854
+2026-01-21 12:26:45,384 - INFO - 
+=== SUMMARY ===
+2026-01-21 12:26:45,384 - INFO - Total jobs in database: 1165
+2026-01-21 12:26:45,385 - INFO - New jobs added: 10
+2026-01-21 12:26:45,385 - INFO - Descriptions updated: 10
+2026-01-21 12:26:45,385 - INFO - Verified facilities: 116
+2026-01-21 12:26:45,385 - INFO - Unverified facilities: 304
+2026-01-21 12:26:45,385 - INFO - Log saved to: logs/api_scraper_20260121_122616.log
+2026-01-21 12:26:45,481 - INFO - Exported 1165 jobs to jobs.csv
