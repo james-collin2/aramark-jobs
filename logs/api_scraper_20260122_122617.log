@@ -1,0 +1,35 @@
+2026-01-22 12:26:17,902 - INFO - Starting API job scraper
+2026-01-22 12:26:17,902 - INFO - Loaded 853 master facilities
+2026-01-22 12:26:17,902 - INFO - Fetching jobs from API...
+2026-01-22 12:26:20,868 - INFO - Total jobs found: 500
+2026-01-22 12:26:20,914 - INFO - New job: Cook - Ohio State Penitentiary - 630883 [VERIFIED: Ohio State Penitentiary]
+2026-01-22 12:26:20,915 - INFO - New job: Corrections Oversight Worker - 630956 [No facility found]
+2026-01-22 12:26:20,947 - INFO - New job: Driver II - Mecklenburg County Jail - 630962 [UNVERIFIED: Mecklenburg County Jail]
+2026-01-22 12:26:20,947 - INFO - New job: Food Service Manager - 630967 [No facility found]
+2026-01-22 12:26:20,986 - INFO - New job: Commissary Supervisor - USG - USCS - WEST VIRGINIA - 631030 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-01-22 12:26:21,026 - INFO - New job: Warehouse Worker Lead - USG - USCS - WEST VIRGINIA - 631033 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-01-22 12:26:21,061 - INFO - New job: Commissary Worker - Madera County D.O.C. - 631047 [UNVERIFIED: Madera County D.O.C.]
+2026-01-22 12:26:21,087 - INFO - New job: Food Service Worker Lead - Wichita City Jail - 631070 [UNVERIFIED: Wichita City Jail]
+2026-01-22 12:26:21,114 - INFO - New job: Food Service Worker - Nueces County Jail - 631101 [UNVERIFIED: Nueces County Jail]
+2026-01-22 12:26:21,160 - INFO - New job: Food Service Manager - West Tennessee State Penitentiary - 630765 [VERIFIED: West Tennessee State Penitentiary]
+2026-01-22 12:26:30,120 - INFO - Added 10 new jobs
+2026-01-22 12:26:30,120 - INFO - Fetching descriptions for 10 new jobs...
+2026-01-22 12:26:31,139 - INFO - Updated description for 630883
+2026-01-22 12:26:32,637 - INFO - Updated description for 630956
+2026-01-22 12:26:34,318 - INFO - Updated description for 630962
+2026-01-22 12:26:35,847 - INFO - Updated description for 630967
+2026-01-22 12:26:37,626 - INFO - Updated description for 631030
+2026-01-22 12:26:39,250 - INFO - Updated description for 631033
+2026-01-22 12:26:40,906 - INFO - Updated description for 631047
+2026-01-22 12:26:42,416 - INFO - Updated description for 631070
+2026-01-22 12:26:44,016 - INFO - Updated description for 631101
+2026-01-22 12:26:45,676 - INFO - Updated description for 630765
+2026-01-22 12:26:46,182 - INFO - 
+=== SUMMARY ===
+2026-01-22 12:26:46,183 - INFO - Total jobs in database: 1175
+2026-01-22 12:26:46,183 - INFO - New jobs added: 10
+2026-01-22 12:26:46,183 - INFO - Descriptions updated: 10
+2026-01-22 12:26:46,183 - INFO - Verified facilities: 118
+2026-01-22 12:26:46,183 - INFO - Unverified facilities: 305
+2026-01-22 12:26:46,183 - INFO - Log saved to: logs/api_scraper_20260122_122617.log
+2026-01-22 12:26:46,279 - INFO - Exported 1175 jobs to jobs.csv
