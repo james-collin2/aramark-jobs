@@ -1,0 +1,29 @@
+2026-01-23 12:25:14,527 - INFO - Starting API job scraper
+2026-01-23 12:25:14,528 - INFO - Loaded 853 master facilities
+2026-01-23 12:25:14,528 - INFO - Fetching jobs from API...
+2026-01-23 12:25:17,580 - INFO - Total jobs found: 500
+2026-01-23 12:25:17,691 - INFO - New job: Food Service Worker Lead - Hamilton County Jail - 631140 [UNVERIFIED: Hamilton County Jail]
+2026-01-23 12:25:17,732 - INFO - New job: Driver II - San Francisco City Commissary - 631146 [UNVERIFIED: San Francisco City Commissary]
+2026-01-23 12:25:17,765 - INFO - New job: Corrections Oversight Worker - Morris Correctional Facility - 631220 [VERIFIED: Oaks Correctional Facility]
+2026-01-23 12:25:17,766 - INFO - New job: Administrative Support Worker - 631276 [No facility found]
+2026-01-23 12:25:17,798 - INFO - New job: Corrections Oversight Worker - Alvis 180 Chillicothe - 631294 [UNVERIFIED: Alvis 180 Chillicothe]
+2026-01-23 12:25:17,834 - INFO - New job: Corrections Oversight Worker - St Clair County Jail (MI) - 631368 [UNVERIFIED: St Clair County Jail (MI)]
+2026-01-23 12:25:17,834 - INFO - New job: Commissary Supervisor - 631461 [No facility found]
+2026-01-23 12:25:27,062 - INFO - Added 7 new jobs
+2026-01-23 12:25:27,062 - INFO - Fetching descriptions for 7 new jobs...
+2026-01-23 12:25:28,287 - INFO - Updated description for 631140
+2026-01-23 12:25:30,017 - INFO - Updated description for 631146
+2026-01-23 12:25:31,709 - INFO - Updated description for 631220
+2026-01-23 12:25:33,344 - INFO - Updated description for 631276
+2026-01-23 12:25:34,979 - INFO - Updated description for 631294
+2026-01-23 12:25:36,621 - INFO - Updated description for 631368
+2026-01-23 12:25:38,347 - INFO - Updated description for 631461
+2026-01-23 12:25:38,855 - INFO - 
+=== SUMMARY ===
+2026-01-23 12:25:38,855 - INFO - Total jobs in database: 1182
+2026-01-23 12:25:38,855 - INFO - New jobs added: 7
+2026-01-23 12:25:38,855 - INFO - Descriptions updated: 7
+2026-01-23 12:25:38,855 - INFO - Verified facilities: 118
+2026-01-23 12:25:38,856 - INFO - Unverified facilities: 306
+2026-01-23 12:25:38,856 - INFO - Log saved to: logs/api_scraper_20260123_122514.log
+2026-01-23 12:25:38,953 - INFO - Exported 1182 jobs to jobs.csv
