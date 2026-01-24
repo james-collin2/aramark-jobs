@@ -1,0 +1,27 @@
+2026-01-24 12:20:43,772 - INFO - Starting API job scraper
+2026-01-24 12:20:43,773 - INFO - Loaded 853 master facilities
+2026-01-24 12:20:43,773 - INFO - Fetching jobs from API...
+2026-01-24 12:20:47,236 - INFO - Total jobs found: 500
+2026-01-24 12:20:47,296 - INFO - New job: Warehouse Worker - Tampa Commissary Warehouse - 631441 [UNVERIFIED: Tampa Commissary Warehouse]
+2026-01-24 12:20:47,297 - INFO - New job: Food Service Manager - 631509 [No facility found]
+2026-01-24 12:20:47,342 - INFO - New job: Commissary Worker - Ada County Sheriff's Office - Commissary - 631525 [UNVERIFIED: Ada County Sheriff's Office - Commissary]
+2026-01-24 12:20:47,372 - INFO - New job: Corrections Oversight Worker - Taylor - CI/Annex - (218/224) - 631607 [UNVERIFIED: Taylor - CI/Annex]
+2026-01-24 12:20:47,403 - INFO - New job: Corrections Oversight Worker - Sebastian County Jail - 631615 [UNVERIFIED: Sebastian County Jail]
+2026-01-24 12:20:47,439 - INFO - New job: General Manager I - DeKalb County Georgia Jail - 631022 [UNVERIFIED: DeKalb County Georgia Jail]
+2026-01-24 12:20:56,633 - INFO - Added 6 new jobs
+2026-01-24 12:20:56,634 - INFO - Fetching descriptions for 6 new jobs...
+2026-01-24 12:20:57,791 - INFO - Updated description for 631441
+2026-01-24 12:20:59,288 - INFO - Updated description for 631509
+2026-01-24 12:21:00,729 - INFO - Updated description for 631525
+2026-01-24 12:21:02,308 - INFO - Updated description for 631607
+2026-01-24 12:21:03,960 - INFO - Updated description for 631615
+2026-01-24 12:21:05,573 - INFO - Updated description for 631022
+2026-01-24 12:21:06,079 - INFO - 
+=== SUMMARY ===
+2026-01-24 12:21:06,079 - INFO - Total jobs in database: 1188
+2026-01-24 12:21:06,079 - INFO - New jobs added: 6
+2026-01-24 12:21:06,079 - INFO - Descriptions updated: 6
+2026-01-24 12:21:06,079 - INFO - Verified facilities: 118
+2026-01-24 12:21:06,079 - INFO - Unverified facilities: 307
+2026-01-24 12:21:06,079 - INFO - Log saved to: logs/api_scraper_20260124_122043.log
+2026-01-24 12:21:06,176 - INFO - Exported 1188 jobs to jobs.csv
