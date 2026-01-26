@@ -1,0 +1,17 @@
+2026-01-26 12:25:54,187 - INFO - Starting API job scraper
+2026-01-26 12:25:54,188 - INFO - Loaded 853 master facilities
+2026-01-26 12:25:54,188 - INFO - Fetching jobs from API...
+2026-01-26 12:25:56,435 - INFO - Total jobs found: 500
+2026-01-26 12:25:56,491 - INFO - New job: Corrections Oversight Worker - Richmond City Justice Ctr - 631735 [UNVERIFIED: Richmond City Justice Ctr]
+2026-01-26 12:26:05,751 - INFO - Added 1 new jobs
+2026-01-26 12:26:05,751 - INFO - Fetching descriptions for 1 new jobs...
+2026-01-26 12:26:07,161 - INFO - Updated description for 631735
+2026-01-26 12:26:07,668 - INFO - 
+=== SUMMARY ===
+2026-01-26 12:26:07,668 - INFO - Total jobs in database: 1189
+2026-01-26 12:26:07,668 - INFO - New jobs added: 1
+2026-01-26 12:26:07,668 - INFO - Descriptions updated: 1
+2026-01-26 12:26:07,668 - INFO - Verified facilities: 118
+2026-01-26 12:26:07,668 - INFO - Unverified facilities: 307
+2026-01-26 12:26:07,668 - INFO - Log saved to: logs/api_scraper_20260126_122554.log
+2026-01-26 12:26:07,766 - INFO - Exported 1189 jobs to jobs.csv
