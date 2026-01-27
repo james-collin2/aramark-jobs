@@ -1,0 +1,47 @@
+2026-01-27 12:25:47,388 - INFO - Starting API job scraper
+2026-01-27 12:25:47,389 - INFO - Loaded 853 master facilities
+2026-01-27 12:25:47,389 - INFO - Fetching jobs from API...
+2026-01-27 12:25:48,603 - INFO - Total jobs found: 500
+2026-01-27 12:25:48,653 - INFO - New job: Corrections Oversight Worker - Cecil County Maryland - 631799 [UNVERIFIED: Cecil County Maryland]
+2026-01-27 12:25:48,697 - INFO - New job: Corrections Oversight Worker - Seminole County JailOversight Worker - 631829 [UNVERIFIED: Seminole County JailOversight Worker]
+2026-01-27 12:25:48,733 - INFO - New job: Food Service Worker - Belmont Correctional Institution - 631855 [VERIFIED: Belmont Correctional Institution]
+2026-01-27 12:25:48,733 - INFO - New job: Food Service Worker - 631869 [No facility found]
+2026-01-27 12:25:48,733 - INFO - New job: Food Service Director - 631884 [No facility found]
+2026-01-27 12:25:48,762 - INFO - New job: Food Service Supervisor - Madera County D.O.C. - 631905 [UNVERIFIED: Madera County D.O.C.]
+2026-01-27 12:25:48,798 - INFO - New job: Food Service Worker Lead - Alameda County-Santa Rita - 631962 [UNVERIFIED: Alameda County-Santa Rita]
+2026-01-27 12:25:48,842 - INFO - New job: Laundry Worker - Atlantic County Justice Facility - 631990 [UNVERIFIED: Atlantic County Justice Facility]
+2026-01-27 12:25:48,885 - INFO - New job: Food Service Worker - Atlantic County Justice Facility - 631994 [UNVERIFIED: Atlantic County Justice Facility]
+2026-01-27 12:25:48,886 - INFO - New job: Food Service Manager - 631524 [No facility found]
+2026-01-27 12:25:48,926 - INFO - New job: Commissary Marketing Manager - Correctional Services - ACS - Marketing - 631576 [UNVERIFIED: Correctional Services - ACS - Marketing]
+2026-01-27 12:25:48,992 - INFO - New job: Corrections Oversight Worker - Barren County Detention Center - 631649 [VERIFIED: Detroit Detention Center]
+2026-01-27 12:25:48,992 - INFO - New job: Corrections Oversight Worker - 631675 [No facility found]
+2026-01-27 12:25:49,043 - INFO - New job: Food Service Worker Lead - Eastern Reception, Diagnostic and CC - 631693 [VERIFIED: Denver Reception & Diagnostic Center]
+2026-01-27 12:25:49,101 - INFO - New job: Commissary Worker - Pierce County Commissary - 631731 [UNVERIFIED: Pierce County Commissary]
+2026-01-27 12:25:49,112 - INFO - New job: Corrections Oversight Worker -Marion - CI/WC - 631741 [UNVERIFIED: CI/WC]
+2026-01-27 12:25:57,980 - INFO - Added 16 new jobs
+2026-01-27 12:25:57,980 - INFO - Fetching descriptions for 16 new jobs...
+2026-01-27 12:25:59,084 - INFO - Updated description for 631799
+2026-01-27 12:26:00,751 - INFO - Updated description for 631829
+2026-01-27 12:26:02,332 - INFO - Updated description for 631855
+2026-01-27 12:26:03,766 - INFO - Updated description for 631869
+2026-01-27 12:26:05,334 - INFO - Updated description for 631884
+2026-01-27 12:26:06,917 - INFO - Updated description for 631905
+2026-01-27 12:26:08,403 - INFO - Updated description for 631962
+2026-01-27 12:26:09,860 - INFO - Updated description for 631990
+2026-01-27 12:26:11,468 - INFO - Updated description for 631994
+2026-01-27 12:26:13,017 - INFO - Updated description for 631524
+2026-01-27 12:26:14,454 - INFO - Updated description for 631576
+2026-01-27 12:26:16,078 - INFO - Updated description for 631649
+2026-01-27 12:26:17,659 - INFO - Updated description for 631675
+2026-01-27 12:26:19,112 - INFO - Updated description for 631693
+2026-01-27 12:26:20,679 - INFO - Updated description for 631731
+2026-01-27 12:26:22,126 - INFO - Updated description for 631741
+2026-01-27 12:26:22,635 - INFO - 
+=== SUMMARY ===
+2026-01-27 12:26:22,635 - INFO - Total jobs in database: 1205
+2026-01-27 12:26:22,635 - INFO - New jobs added: 16
+2026-01-27 12:26:22,635 - INFO - Descriptions updated: 16
+2026-01-27 12:26:22,635 - INFO - Verified facilities: 118
+2026-01-27 12:26:22,635 - INFO - Unverified facilities: 310
+2026-01-27 12:26:22,635 - INFO - Log saved to: logs/api_scraper_20260127_122547.log
+2026-01-27 12:26:22,735 - INFO - Exported 1205 jobs to jobs.csv
