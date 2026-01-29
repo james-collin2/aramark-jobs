@@ -1,0 +1,39 @@
+2026-01-29 12:31:42,613 - INFO - Starting API job scraper
+2026-01-29 12:31:42,614 - INFO - Loaded 853 master facilities
+2026-01-29 12:31:42,614 - INFO - Fetching jobs from API...
+2026-01-29 12:31:44,795 - INFO - Total jobs found: 500
+2026-01-29 12:31:44,796 - INFO - New job: Food Service Director - 631842 [No facility found]
+2026-01-29 12:31:44,835 - INFO - New job: Food Service Worker - St John County Jail - 632453 [UNVERIFIED: St John County Jail]
+2026-01-29 12:31:44,859 - INFO - New job: Food Service Worker Lead - Hollywood - CRC - (446) - 632483 [UNVERIFIED: Hollywood - CRC]
+2026-01-29 12:31:44,859 - INFO - New job: Food Service Director - 632488 [No facility found]
+2026-01-29 12:31:44,859 - INFO - New job: Food Service Manager - 632491 [No facility found]
+2026-01-29 12:31:44,860 - INFO - New job: Food Service Manager - 632497 [No facility found]
+2026-01-29 12:31:44,883 - INFO - New job: Food Service Worker Lead - Jefferson - CI - (103) - 632498 [UNVERIFIED: Jefferson - CI]
+2026-01-29 12:31:44,915 - INFO - New job: Food Service Worker Lead - Josephine County Jail - 632505 [UNVERIFIED: Josephine County Jail]
+2026-01-29 12:31:44,915 - INFO - New job: Food Service Manager - 632516 [No facility found]
+2026-01-29 12:31:44,952 - INFO - New job: Corrections Oversight Worker - Farmington Correctional Center - 632527 [VERIFIED: Farmington Correctional Center]
+2026-01-29 12:31:44,986 - INFO - New job: Corrections Oversight Worker - Everglades - Re-Entry - (441) - 632609 [UNVERIFIED: Everglades - Re-Entry]
+2026-01-29 12:31:45,023 - INFO - New job: Corrections Oversight Worker - Marion Correctional Institution - 632309 [VERIFIED: Marion Correctional Institution]
+2026-01-29 12:31:54,049 - INFO - Added 12 new jobs
+2026-01-29 12:31:54,049 - INFO - Fetching descriptions for 12 new jobs...
+2026-01-29 12:31:55,142 - INFO - Updated description for 631842
+2026-01-29 12:31:56,677 - INFO - Updated description for 632453
+2026-01-29 12:31:58,266 - INFO - Updated description for 632483
+2026-01-29 12:31:59,895 - INFO - Updated description for 632488
+2026-01-29 12:32:01,578 - INFO - Updated description for 632491
+2026-01-29 12:32:03,181 - INFO - Updated description for 632497
+2026-01-29 12:32:04,759 - INFO - Updated description for 632498
+2026-01-29 12:32:06,302 - INFO - Updated description for 632505
+2026-01-29 12:32:07,828 - INFO - Updated description for 632516
+2026-01-29 12:32:09,493 - INFO - Updated description for 632527
+2026-01-29 12:32:11,104 - INFO - Updated description for 632609
+2026-01-29 12:32:12,628 - INFO - Updated description for 632309
+2026-01-29 12:32:13,135 - INFO - 
+=== SUMMARY ===
+2026-01-29 12:32:13,135 - INFO - Total jobs in database: 1230
+2026-01-29 12:32:13,135 - INFO - New jobs added: 12
+2026-01-29 12:32:13,135 - INFO - Descriptions updated: 12
+2026-01-29 12:32:13,135 - INFO - Verified facilities: 118
+2026-01-29 12:32:13,135 - INFO - Unverified facilities: 311
+2026-01-29 12:32:13,135 - INFO - Log saved to: logs/api_scraper_20260129_123142.log
+2026-01-29 12:32:13,236 - INFO - Exported 1230 jobs to jobs.csv
