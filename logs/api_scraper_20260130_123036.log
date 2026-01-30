@@ -1,0 +1,35 @@
+2026-01-30 12:30:36,654 - INFO - Starting API job scraper
+2026-01-30 12:30:36,654 - INFO - Loaded 853 master facilities
+2026-01-30 12:30:36,654 - INFO - Fetching jobs from API...
+2026-01-30 12:30:40,336 - INFO - Total jobs found: 500
+2026-01-30 12:30:40,394 - INFO - New job: Administrative Assistant - Debra K. Johnson Rehabilitation Center - 632001 [VERIFIED: Debra K. Johnson Rehabilitation Center]
+2026-01-30 12:30:40,412 - INFO - New job: Driver II - Pitt County - 632720 [UNVERIFIED: Pitt County]
+2026-01-30 12:30:40,445 - INFO - New job: Housekeeper - Erie County Care Facility - 632750 [VERIFIED: Otero County Prison Facility]
+2026-01-30 12:30:40,482 - INFO - New job: Commissary Worker - Colorado Commissary Warehouse - 632753 [UNVERIFIED: Colorado Commissary Warehouse]
+2026-01-30 12:30:40,514 - INFO - New job: Corrections Oversight Worker - Noble Correctional Institution - 632874 [VERIFIED: Noble Correctional Institution]
+2026-01-30 12:30:40,515 - INFO - New job: Food Service Worker - 632885 [No facility found]
+2026-01-30 12:30:40,546 - INFO - New job: Corrections Oversight Worker - Edinburg Correctional Facility - 632915 [VERIFIED: Edinburgh Correctional Facility]
+2026-01-30 12:30:40,569 - INFO - New job: Cook - Rock County Jail - 632917 [UNVERIFIED: Rock County Jail]
+2026-01-30 12:30:40,591 - INFO - New job: Corrections Oversight Worker - Rock County Jail - 632918 [UNVERIFIED: Rock County Jail]
+2026-01-30 12:30:40,591 - INFO - New job: Food Service Manager - 632963 [No facility found]
+2026-01-30 12:30:48,853 - INFO - Added 10 new jobs
+2026-01-30 12:30:48,853 - INFO - Fetching descriptions for 10 new jobs...
+2026-01-30 12:30:50,136 - INFO - Updated description for 632001
+2026-01-30 12:30:51,869 - INFO - Updated description for 632720
+2026-01-30 12:30:53,573 - INFO - Updated description for 632750
+2026-01-30 12:30:55,311 - INFO - Updated description for 632753
+2026-01-30 12:30:56,926 - INFO - Updated description for 632874
+2026-01-30 12:30:58,581 - INFO - Updated description for 632885
+2026-01-30 12:31:00,247 - INFO - Updated description for 632915
+2026-01-30 12:31:01,933 - INFO - Updated description for 632917
+2026-01-30 12:31:03,657 - INFO - Updated description for 632918
+2026-01-30 12:31:05,297 - INFO - Updated description for 632963
+2026-01-30 12:31:05,801 - INFO - 
+=== SUMMARY ===
+2026-01-30 12:31:05,801 - INFO - Total jobs in database: 1240
+2026-01-30 12:31:05,801 - INFO - New jobs added: 10
+2026-01-30 12:31:05,801 - INFO - Descriptions updated: 10
+2026-01-30 12:31:05,801 - INFO - Verified facilities: 118
+2026-01-30 12:31:05,801 - INFO - Unverified facilities: 311
+2026-01-30 12:31:05,801 - INFO - Log saved to: logs/api_scraper_20260130_123036.log
+2026-01-30 12:31:05,896 - INFO - Exported 1240 jobs to jobs.csv
