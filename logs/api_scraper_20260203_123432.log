@@ -1,0 +1,51 @@
+2026-02-03 12:34:32,280 - INFO - Starting API job scraper
+2026-02-03 12:34:32,281 - INFO - Loaded 853 master facilities
+2026-02-03 12:34:32,281 - INFO - Fetching jobs from API...
+2026-02-03 12:34:38,545 - INFO - Total jobs found: 500
+2026-02-03 12:34:38,604 - INFO - New job: Corrections Oversight Worker - Richland Correctional Institution - 633300 [VERIFIED: Richland Correctional Institution]
+2026-02-03 12:34:38,639 - INFO - New job: Food Prep Worker Lead - Riverside Regional Jail - 633347 [VERIFIED: Riverview Correctional Facility]
+2026-02-03 12:34:38,678 - INFO - New job: Retail Sales Worker Lead - Mansfield Correctional Institution - 633364 [VERIFIED: Mansfield Correctional Institution]
+2026-02-03 12:34:38,679 - INFO - New job: Food Service Manager - 633366 [No facility found]
+2026-02-03 12:34:38,733 - INFO - New job: Corrections Oversight Worker - Central Regional Jail and Correctional Facility - 633369 [VERIFIED: Central Arizona Correctional Facility[3]]
+2026-02-03 12:34:38,769 - INFO - New job: Laundry Worker - Erie County Care Facility - 633372 [VERIFIED: Otero County Prison Facility]
+2026-02-03 12:34:38,769 - INFO - New job: Food Service Manager - 633407 [No facility found]
+2026-02-03 12:34:38,802 - INFO - New job: Corrections Oversight Worker - Dodge County Jail - 633460 [UNVERIFIED: Dodge County Jail]
+2026-02-03 12:34:38,829 - INFO - New job: Commissary Worker - Dodge County Jail - 633463 [UNVERIFIED: Dodge County Jail]
+2026-02-03 12:34:38,882 - INFO - New job: Administrative Assistant - Debra K. Johnson Rehabilitation Center - 633467 [VERIFIED: Debra K. Johnson Rehabilitation Center]
+2026-02-03 12:34:38,883 - INFO - New job: Food Service Worker - 633491 [No facility found]
+2026-02-03 12:34:38,923 - INFO - New job: Commissary Worker - Santa Barbara County Commissary - 633502 [UNVERIFIED: Santa Barbara County Commissary]
+2026-02-03 12:34:38,951 - INFO - New job: Cook 1 - Madera County D.O.C. - 633523 [UNVERIFIED: Madera County D.O.C.]
+2026-02-03 12:34:38,990 - INFO - New job: Commissary Worker - Santa Rosa SRCJF Commissary - 633526 [UNVERIFIED: Santa Rosa SRCJF Commissary]
+2026-02-03 12:34:39,009 - INFO - New job: Corrections Oversight Worker - Union - CI - (213) - 633531 [UNVERIFIED: Union - CI]
+2026-02-03 12:34:39,047 - INFO - New job: Commissary Worker - El Paso County Commissary (TX) - 633538 [UNVERIFIED: El Paso County Commissary (TX)]
+2026-02-03 12:34:39,047 - INFO - New job: Food Service Worker - 633541 [No facility found]
+2026-02-03 12:34:39,047 - INFO - New job: Food Service Supervisor - 633562 [No facility found]
+2026-02-03 12:34:47,953 - INFO - Added 18 new jobs
+2026-02-03 12:34:47,953 - INFO - Fetching descriptions for 18 new jobs...
+2026-02-03 12:34:49,051 - INFO - Updated description for 633300
+2026-02-03 12:34:50,709 - INFO - Updated description for 633347
+2026-02-03 12:34:52,391 - INFO - Updated description for 633364
+2026-02-03 12:34:54,088 - INFO - Updated description for 633366
+2026-02-03 12:34:55,643 - INFO - Updated description for 633369
+2026-02-03 12:34:57,262 - INFO - Updated description for 633372
+2026-02-03 12:34:58,954 - INFO - Updated description for 633407
+2026-02-03 12:35:00,575 - INFO - Updated description for 633460
+2026-02-03 12:35:02,194 - INFO - Updated description for 633463
+2026-02-03 12:35:03,813 - INFO - Updated description for 633467
+2026-02-03 12:35:06,217 - INFO - Updated description for 633491
+2026-02-03 12:35:08,044 - INFO - Updated description for 633502
+2026-02-03 12:35:09,637 - INFO - Updated description for 633523
+2026-02-03 12:35:11,172 - INFO - Updated description for 633526
+2026-02-03 12:35:12,794 - INFO - Updated description for 633531
+2026-02-03 12:35:14,346 - INFO - Updated description for 633538
+2026-02-03 12:35:15,937 - INFO - Updated description for 633541
+2026-02-03 12:35:17,574 - INFO - Updated description for 633562
+2026-02-03 12:35:18,080 - INFO - 
+=== SUMMARY ===
+2026-02-03 12:35:18,080 - INFO - Total jobs in database: 1274
+2026-02-03 12:35:18,080 - INFO - New jobs added: 18
+2026-02-03 12:35:18,080 - INFO - Descriptions updated: 18
+2026-02-03 12:35:18,080 - INFO - Verified facilities: 119
+2026-02-03 12:35:18,080 - INFO - Unverified facilities: 314
+2026-02-03 12:35:18,080 - INFO - Log saved to: logs/api_scraper_20260203_123432.log
+2026-02-03 12:35:18,186 - INFO - Exported 1274 jobs to jobs.csv
