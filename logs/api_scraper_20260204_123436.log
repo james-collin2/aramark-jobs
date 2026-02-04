@@ -1,0 +1,47 @@
+2026-02-04 12:34:36,372 - INFO - Starting API job scraper
+2026-02-04 12:34:36,372 - INFO - Loaded 853 master facilities
+2026-02-04 12:34:36,372 - INFO - Fetching jobs from API...
+2026-02-04 12:34:37,690 - INFO - Total jobs found: 500
+2026-02-04 12:34:37,692 - INFO - New job: Food Service Director - 632973 [No facility found]
+2026-02-04 12:34:37,742 - INFO - New job: Corrections Oversight Worker - Wakulla - CI/Annex - (118/122) - 633484 [UNVERIFIED: Wakulla - CI/Annex]
+2026-02-04 12:34:37,770 - INFO - New job: Corrections Oversight Worker - Pasco County Jail - 633563 [UNVERIFIED: Pasco County Jail]
+2026-02-04 12:34:37,806 - INFO - New job: Corrections Oversight Worker - Grafton Correctional Institution - 633613 [VERIFIED: Grafton Correctional Institution]
+2026-02-04 12:34:37,806 - INFO - New job: Food Service Manager - 633629 [No facility found]
+2026-02-04 12:34:37,847 - INFO - New job: Corrections Oversight Worker - Wabash Valley Correctional Facility - 633633 [VERIFIED: Wabash Valley Correctional Facility]
+2026-02-04 12:34:37,887 - INFO - New job: Administrative Support Worker - Wabash Valley Correctional Facility - 633634 [VERIFIED: Wabash Valley Correctional Facility]
+2026-02-04 12:34:37,927 - INFO - New job: Driver I - Wabash Valley Correctional Facility - 633636 [VERIFIED: Wabash Valley Correctional Facility]
+2026-02-04 12:34:37,928 - INFO - New job: Corrections Oversight Worker - 633677 [No facility found]
+2026-02-04 12:34:37,961 - INFO - New job: Food Service Worker Lead - Boonville Correctional Center - 633681 [VERIFIED: Boonville Correctional Center]
+2026-02-04 12:34:37,993 - INFO - New job: Warehouse Worker - Dona Ana (Facilities) - 633699 [UNVERIFIED: Dona Ana (Facilities)]
+2026-02-04 12:34:38,018 - INFO - New job: Food Service Worker - AL Dept of Youth - 633704 [UNVERIFIED: AL Dept of Youth]
+2026-02-04 12:34:38,019 - INFO - New job: Lead Cook - 633360 [No facility found]
+2026-02-04 12:34:38,057 - INFO - New job: Food Service Worker - Yavapai County Sheriff's Office - 633765 [UNVERIFIED: Yavapai County Sheriff's Office]
+2026-02-04 12:34:38,078 - INFO - New job: Corrections Oversight Worker - ASPC - Yuma - 633786 [UNVERIFIED: ASPC - Yuma]
+2026-02-04 12:34:38,078 - INFO - New job: Warehouse Worker I - 633819 [No facility found]
+2026-02-04 12:34:47,251 - INFO - Added 16 new jobs
+2026-02-04 12:34:47,251 - INFO - Fetching descriptions for 16 new jobs...
+2026-02-04 12:34:48,229 - INFO - Updated description for 632973
+2026-02-04 12:34:49,789 - INFO - Updated description for 633484
+2026-02-04 12:34:51,409 - INFO - Updated description for 633563
+2026-02-04 12:34:52,864 - INFO - Updated description for 633613
+2026-02-04 12:34:54,393 - INFO - Updated description for 633629
+2026-02-04 12:34:55,921 - INFO - Updated description for 633633
+2026-02-04 12:34:57,562 - INFO - Updated description for 633634
+2026-02-04 12:34:59,049 - INFO - Updated description for 633636
+2026-02-04 12:35:00,592 - INFO - Updated description for 633677
+2026-02-04 12:35:02,120 - INFO - Updated description for 633681
+2026-02-04 12:35:03,863 - INFO - Updated description for 633699
+2026-02-04 12:35:05,361 - INFO - Updated description for 633704
+2026-02-04 12:35:06,953 - INFO - Updated description for 633360
+2026-02-04 12:35:08,502 - INFO - Updated description for 633765
+2026-02-04 12:35:10,105 - INFO - Updated description for 633786
+2026-02-04 12:35:11,623 - INFO - Updated description for 633819
+2026-02-04 12:35:12,131 - INFO - 
+=== SUMMARY ===
+2026-02-04 12:35:12,131 - INFO - Total jobs in database: 1290
+2026-02-04 12:35:12,131 - INFO - New jobs added: 16
+2026-02-04 12:35:12,131 - INFO - Descriptions updated: 16
+2026-02-04 12:35:12,131 - INFO - Verified facilities: 121
+2026-02-04 12:35:12,131 - INFO - Unverified facilities: 315
+2026-02-04 12:35:12,131 - INFO - Log saved to: logs/api_scraper_20260204_123436.log
+2026-02-04 12:35:12,238 - INFO - Exported 1290 jobs to jobs.csv
