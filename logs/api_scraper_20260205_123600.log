@@ -1,0 +1,37 @@
+2026-02-05 12:36:00,730 - INFO - Starting API job scraper
+2026-02-05 12:36:00,731 - INFO - Loaded 853 master facilities
+2026-02-05 12:36:00,731 - INFO - Fetching jobs from API...
+2026-02-05 12:36:04,618 - INFO - Total jobs found: 500
+2026-02-05 12:36:04,666 - INFO - New job: Corrections Oversight Worker - Bergen County Jail - 633859 [UNVERIFIED: Bergen County Jail]
+2026-02-05 12:36:04,706 - INFO - New job: Food Service Supervisor - Yavapai County Sheriff's Office - 633972 [UNVERIFIED: Yavapai County Sheriff's Office]
+2026-02-05 12:36:04,707 - INFO - New job: Kitchen Supervisor - 634001 [No facility found]
+2026-02-05 12:36:04,737 - INFO - New job: Corrections Oversight Worker - Muskingum County Jail - 634007 [UNVERIFIED: Muskingum County Jail]
+2026-02-05 12:36:04,773 - INFO - New job: Food Service Worker - Erie County Care Facility - 634022 [VERIFIED: Otero County Prison Facility]
+2026-02-05 12:36:04,807 - INFO - New job: Corrections Oversight Worker - Essex County Correctional (MA) - 634048 [VERIFIED: Bledsoe County Correctional Complex]
+2026-02-05 12:36:04,843 - INFO - New job: Commissary Worker - USG - USCS - SOUTH DAKOTA - 634049 [UNVERIFIED: USG - USCS - SOUTH DAKOTA]
+2026-02-05 12:36:04,876 - INFO - New job: Commissary Worker - Miami Dade Commissary - 634096 [UNVERIFIED: Miami Dade Commissary]
+2026-02-05 12:36:04,907 - INFO - New job: Corrections Oversight Worker - Stephenson County Jail - 634112 [UNVERIFIED: Stephenson County Jail]
+2026-02-05 12:36:04,907 - INFO - New job: Food Service Manager - 634188 [No facility found]
+2026-02-05 12:36:04,944 - INFO - New job: Corrections Oversight Worker - Anne Arundel County - JRDC - 633262 [UNVERIFIED: Anne Arundel County - JRDC]
+2026-02-05 12:36:14,252 - INFO - Added 11 new jobs
+2026-02-05 12:36:14,252 - INFO - Fetching descriptions for 11 new jobs...
+2026-02-05 12:36:15,306 - INFO - Updated description for 633859
+2026-02-05 12:36:16,946 - INFO - Updated description for 633972
+2026-02-05 12:36:18,805 - INFO - Updated description for 634001
+2026-02-05 12:36:20,372 - INFO - Updated description for 634007
+2026-02-05 12:36:21,968 - INFO - Updated description for 634022
+2026-02-05 12:36:23,650 - INFO - Updated description for 634048
+2026-02-05 12:36:25,314 - INFO - Updated description for 634049
+2026-02-05 12:36:26,952 - INFO - Updated description for 634096
+2026-02-05 12:36:28,544 - INFO - Updated description for 634112
+2026-02-05 12:36:30,099 - INFO - Updated description for 634188
+2026-02-05 12:36:31,684 - INFO - Updated description for 633262
+2026-02-05 12:36:32,192 - INFO - 
+=== SUMMARY ===
+2026-02-05 12:36:32,192 - INFO - Total jobs in database: 1301
+2026-02-05 12:36:32,192 - INFO - New jobs added: 11
+2026-02-05 12:36:32,192 - INFO - Descriptions updated: 11
+2026-02-05 12:36:32,192 - INFO - Verified facilities: 121
+2026-02-05 12:36:32,192 - INFO - Unverified facilities: 317
+2026-02-05 12:36:32,192 - INFO - Log saved to: logs/api_scraper_20260205_123600.log
+2026-02-05 12:36:32,304 - INFO - Exported 1301 jobs to jobs.csv
