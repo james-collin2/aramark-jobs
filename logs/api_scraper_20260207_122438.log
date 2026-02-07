@@ -1,0 +1,53 @@
+2026-02-07 12:24:38,313 - INFO - Starting API job scraper
+2026-02-07 12:24:38,314 - INFO - Loaded 853 master facilities
+2026-02-07 12:24:38,314 - INFO - Fetching jobs from API...
+2026-02-07 12:24:40,275 - INFO - Total jobs found: 500
+2026-02-07 12:24:40,358 - INFO - New job: Corrections Oversight Worker - Toledo Correctional Institution - 634613 [VERIFIED: Toledo Correctional Institution]
+2026-02-07 12:24:40,359 - INFO - New job: Food Service Director - 634623 [No facility found]
+2026-02-07 12:24:40,359 - INFO - New job: Food Service Supervisor - 634626 [No facility found]
+2026-02-07 12:24:40,394 - INFO - New job: Warehouse Supervisor - USG - NV WAREHOUSE - FE - 634630 [UNVERIFIED: USG - NV WAREHOUSE - FE]
+2026-02-07 12:24:40,427 - INFO - New job: Corrections Oversight Worker - Lowell - CI/Annex/WC - (314/367/316) - 634653 [VERIFIED: Lowell Annex]
+2026-02-07 12:24:40,427 - INFO - New job: Food Service Director - 634667 [No facility found]
+2026-02-07 12:24:40,455 - INFO - New job: Corrections Oversight Worker - El Dorado Correctional - 634668 [VERIFIED: El Dorado Correctional Facility]
+2026-02-07 12:24:40,487 - INFO - New job: Laundry Worker - Dona Ana (Facilities) - 634677 [UNVERIFIED: Dona Ana (Facilities)]
+2026-02-07 12:24:40,516 - INFO - New job: Lead Cook - Williamson County (TX) - 634698 [UNVERIFIED: Williamson County (TX)]
+2026-02-07 12:24:40,553 - INFO - New job: Cook - Avenues Recovery Center - 634711 [UNVERIFIED: Avenues Recovery Center]
+2026-02-07 12:24:40,577 - INFO - New job: Food Service Worker - Topeka Correctional - 634735 [UNVERIFIED: Topeka Correctional]
+2026-02-07 12:24:40,611 - INFO - New job: Salaried Talent Acquisition Partner - West Region (Remote) - 634161 [UNVERIFIED: West Region (Remote)]
+2026-02-07 12:24:40,684 - INFO - New job: Retail Sales Worker Lead - Orange County (NY) Jail - 634414 [UNVERIFIED: Orange County (NY) Jail]
+2026-02-07 12:24:40,715 - INFO - New job: General Utility Worker I - VOA of Chesapeake - 634420 [UNVERIFIED: VOA of Chesapeake]
+2026-02-07 12:24:40,751 - INFO - New job: Corrections Oversight Worker - DeKalb County Georgia Jail - 634442 [UNVERIFIED: DeKalb County Georgia Jail]
+2026-02-07 12:24:40,783 - INFO - New job: Kitchen Supervisor - Hamilton - CI/Annex - (215/250) - 634445 [UNVERIFIED: Hamilton - CI/Annex]
+2026-02-07 12:24:40,819 - INFO - New job: Driver - Monroe County Sheriff Office - 634521 [UNVERIFIED: Monroe County Sheriff Office]
+2026-02-07 12:24:40,854 - INFO - New job: Warehouse Worker Lead - USG - TX WAREHOUSE - FE - 634542 [UNVERIFIED: USG - TX WAREHOUSE - FE]
+2026-02-07 12:24:40,855 - INFO - New job: Commissary Manager - 634557 [No facility found]
+2026-02-07 12:24:50,040 - INFO - Added 19 new jobs
+2026-02-07 12:24:50,040 - INFO - Fetching descriptions for 19 new jobs...
+2026-02-07 12:24:51,072 - INFO - Updated description for 634613
+2026-02-07 12:24:52,620 - INFO - Updated description for 634623
+2026-02-07 12:24:54,191 - INFO - Updated description for 634626
+2026-02-07 12:24:55,739 - INFO - Updated description for 634630
+2026-02-07 12:24:57,239 - INFO - Updated description for 634653
+2026-02-07 12:24:58,753 - INFO - Updated description for 634667
+2026-02-07 12:25:00,371 - INFO - Updated description for 634668
+2026-02-07 12:25:01,956 - INFO - Updated description for 634677
+2026-02-07 12:25:03,533 - INFO - Updated description for 634698
+2026-02-07 12:25:05,096 - INFO - Updated description for 634711
+2026-02-07 12:25:06,508 - INFO - Updated description for 634735
+2026-02-07 12:25:07,972 - INFO - Updated description for 634161
+2026-02-07 12:25:09,469 - INFO - Updated description for 634414
+2026-02-07 12:25:11,076 - INFO - Updated description for 634420
+2026-02-07 12:25:13,521 - INFO - Updated description for 634442
+2026-02-07 12:25:15,009 - INFO - Updated description for 634445
+2026-02-07 12:25:16,424 - INFO - Updated description for 634521
+2026-02-07 12:25:17,916 - INFO - Updated description for 634542
+2026-02-07 12:25:19,489 - INFO - Updated description for 634557
+2026-02-07 12:25:19,996 - INFO - 
+=== SUMMARY ===
+2026-02-07 12:25:19,996 - INFO - Total jobs in database: 1325
+2026-02-07 12:25:19,996 - INFO - New jobs added: 19
+2026-02-07 12:25:19,996 - INFO - Descriptions updated: 19
+2026-02-07 12:25:19,996 - INFO - Verified facilities: 121
+2026-02-07 12:25:19,996 - INFO - Unverified facilities: 323
+2026-02-07 12:25:19,996 - INFO - Log saved to: logs/api_scraper_20260207_122438.log
+2026-02-07 12:25:20,105 - INFO - Exported 1325 jobs to jobs.csv
