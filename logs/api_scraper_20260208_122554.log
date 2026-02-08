@@ -1,0 +1,23 @@
+2026-02-08 12:25:54,321 - INFO - Starting API job scraper
+2026-02-08 12:25:54,322 - INFO - Loaded 853 master facilities
+2026-02-08 12:25:54,322 - INFO - Fetching jobs from API...
+2026-02-08 12:25:57,304 - INFO - Total jobs found: 500
+2026-02-08 12:25:57,358 - INFO - New job: Warehouse Worker Lead - USG - TX WAREHOUSE - FE - 634784 [UNVERIFIED: USG - TX WAREHOUSE - FE]
+2026-02-08 12:25:57,406 - INFO - New job: Corrections Oversight Worker - Core Civic Lee Adjustment Center - 634808 [UNVERIFIED: Core Civic Lee Adjustment Center]
+2026-02-08 12:25:57,431 - INFO - New job: Corrections Oversight Worker - Leon County Jail - 634810 [UNVERIFIED: Leon County Jail]
+2026-02-08 12:25:57,432 - INFO - New job: Warehouse Manager - 634812 [No facility found]
+2026-02-08 12:26:07,244 - INFO - Added 4 new jobs
+2026-02-08 12:26:07,244 - INFO - Fetching descriptions for 4 new jobs...
+2026-02-08 12:26:08,469 - INFO - Updated description for 634784
+2026-02-08 12:26:10,164 - INFO - Updated description for 634808
+2026-02-08 12:26:11,909 - INFO - Updated description for 634810
+2026-02-08 12:26:13,677 - INFO - Updated description for 634812
+2026-02-08 12:26:14,185 - INFO - 
+=== SUMMARY ===
+2026-02-08 12:26:14,185 - INFO - Total jobs in database: 1329
+2026-02-08 12:26:14,185 - INFO - New jobs added: 4
+2026-02-08 12:26:14,185 - INFO - Descriptions updated: 4
+2026-02-08 12:26:14,185 - INFO - Verified facilities: 121
+2026-02-08 12:26:14,185 - INFO - Unverified facilities: 323
+2026-02-08 12:26:14,185 - INFO - Log saved to: logs/api_scraper_20260208_122554.log
+2026-02-08 12:26:14,294 - INFO - Exported 1329 jobs to jobs.csv
