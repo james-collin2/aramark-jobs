@@ -1,0 +1,19 @@
+2026-02-10 12:45:39,353 - INFO - Starting API job scraper
+2026-02-10 12:45:39,353 - INFO - Loaded 853 master facilities
+2026-02-10 12:45:39,354 - INFO - Fetching jobs from API...
+2026-02-10 12:45:40,788 - INFO - Total jobs found: 500
+2026-02-10 12:45:40,827 - INFO - New job: Cook - Multnomah/Inverness - 635022 [UNVERIFIED: Multnomah/Inverness]
+2026-02-10 12:45:40,828 - INFO - New job: Food Service Director - 635040 [No facility found]
+2026-02-10 12:45:50,583 - INFO - Added 2 new jobs
+2026-02-10 12:45:50,583 - INFO - Fetching descriptions for 2 new jobs...
+2026-02-10 12:45:51,826 - INFO - Updated description for 635022
+2026-02-10 12:45:53,502 - INFO - Updated description for 635040
+2026-02-10 12:45:54,008 - INFO - 
+=== SUMMARY ===
+2026-02-10 12:45:54,008 - INFO - Total jobs in database: 1332
+2026-02-10 12:45:54,008 - INFO - New jobs added: 2
+2026-02-10 12:45:54,008 - INFO - Descriptions updated: 2
+2026-02-10 12:45:54,008 - INFO - Verified facilities: 121
+2026-02-10 12:45:54,008 - INFO - Unverified facilities: 323
+2026-02-10 12:45:54,009 - INFO - Log saved to: logs/api_scraper_20260210_124539.log
+2026-02-10 12:45:54,118 - INFO - Exported 1332 jobs to jobs.csv
