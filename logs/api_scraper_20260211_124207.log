@@ -1,0 +1,19 @@
+2026-02-11 12:42:07,865 - INFO - Starting API job scraper
+2026-02-11 12:42:07,866 - INFO - Loaded 853 master facilities
+2026-02-11 12:42:07,866 - INFO - Fetching jobs from API...
+2026-02-11 12:42:17,564 - INFO - Total jobs found: 500
+2026-02-11 12:42:17,617 - INFO - New job: Commissary Worker - Putnam County Jail, FL - 635044 [UNVERIFIED: Putnam County Jail, FL]
+2026-02-11 12:42:17,619 - INFO - New job: Reserve Food Service Director - 634598 [No facility found]
+2026-02-11 12:42:27,346 - INFO - Added 2 new jobs
+2026-02-11 12:42:27,346 - INFO - Fetching descriptions for 2 new jobs...
+2026-02-11 12:42:28,483 - INFO - Updated description for 635044
+2026-02-11 12:42:30,058 - INFO - Updated description for 634598
+2026-02-11 12:42:30,564 - INFO - 
+=== SUMMARY ===
+2026-02-11 12:42:30,564 - INFO - Total jobs in database: 1334
+2026-02-11 12:42:30,564 - INFO - New jobs added: 2
+2026-02-11 12:42:30,564 - INFO - Descriptions updated: 2
+2026-02-11 12:42:30,564 - INFO - Verified facilities: 121
+2026-02-11 12:42:30,564 - INFO - Unverified facilities: 323
+2026-02-11 12:42:30,564 - INFO - Log saved to: logs/api_scraper_20260211_124207.log
+2026-02-11 12:42:30,674 - INFO - Exported 1334 jobs to jobs.csv
