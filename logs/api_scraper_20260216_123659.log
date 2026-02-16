@@ -1,0 +1,17 @@
+2026-02-16 12:36:59,915 - INFO - Starting API job scraper
+2026-02-16 12:36:59,915 - INFO - Loaded 853 master facilities
+2026-02-16 12:36:59,915 - INFO - Fetching jobs from API...
+2026-02-16 12:37:04,455 - INFO - Total jobs found: 500
+2026-02-16 12:37:04,497 - INFO - New job: Food Service Worker - Racine County Juvenile - 636479 [UNVERIFIED: Racine County Juvenile]
+2026-02-16 12:37:14,762 - INFO - Added 1 new jobs
+2026-02-16 12:37:14,762 - INFO - Fetching descriptions for 1 new jobs...
+2026-02-16 12:37:15,994 - INFO - Updated description for 636479
+2026-02-16 12:37:16,501 - INFO - 
+=== SUMMARY ===
+2026-02-16 12:37:16,502 - INFO - Total jobs in database: 1387
+2026-02-16 12:37:16,502 - INFO - New jobs added: 1
+2026-02-16 12:37:16,502 - INFO - Descriptions updated: 1
+2026-02-16 12:37:16,502 - INFO - Verified facilities: 123
+2026-02-16 12:37:16,502 - INFO - Unverified facilities: 326
+2026-02-16 12:37:16,502 - INFO - Log saved to: logs/api_scraper_20260216_123659.log
+2026-02-16 12:37:16,623 - INFO - Exported 1387 jobs to jobs.csv
