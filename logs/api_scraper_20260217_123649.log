@@ -1,0 +1,41 @@
+2026-02-17 12:36:49,260 - INFO - Starting API job scraper
+2026-02-17 12:36:49,260 - INFO - Loaded 853 master facilities
+2026-02-17 12:36:49,260 - INFO - Fetching jobs from API...
+2026-02-17 12:36:55,523 - INFO - Total jobs found: 500
+2026-02-17 12:36:55,585 - INFO - New job: Corrections Oversight Worker - Jacksonville City Detention Center - 636515 [VERIFIED: Jacksonville Correctional Center]
+2026-02-17 12:36:55,635 - INFO - New job: Food Service Worker - South Central Regional Jail and Correctional Facility - 636521 [VERIFIED: South Central Correctional Facility]
+2026-02-17 12:36:55,666 - INFO - New job: Food Service Worker - Stevens Correctional Center - 636525 [VERIFIED: Stateville Correctional Center]
+2026-02-17 12:36:55,667 - INFO - New job: Food Service Director - 636557 [No facility found]
+2026-02-17 12:36:55,699 - INFO - New job: Corrections Oversight Worker - Volusia County Branch Jail - 636591 [UNVERIFIED: Volusia County Branch Jail]
+2026-02-17 12:36:55,724 - INFO - New job: Corrections Oversight Worker - Harrison County MS - 636602 [UNVERIFIED: Harrison County MS]
+2026-02-17 12:36:55,770 - INFO - New job: Driver I - Volunteers of America - Indiana - 636611 [UNVERIFIED: Volunteers of America - Indiana]
+2026-02-17 12:36:55,798 - INFO - New job: Corrections Oversight Worker - Tipton Correctional Center - 636622 [VERIFIED: Tipton Correctional Center]
+2026-02-17 12:36:55,827 - INFO - New job: Food Service Manager - Racine County Juvenile - 636650 [UNVERIFIED: Racine County Juvenile]
+2026-02-17 12:36:55,868 - INFO - New job: Corrections Oversight Worker - Guilford County Juvenile Det Center - 636654 [UNVERIFIED: Guilford County Juvenile Det Center]
+2026-02-17 12:36:55,893 - INFO - New job: Corrections Oversight Worker - El Dorado Correctional - 636713 [VERIFIED: El Dorado Correctional Facility]
+2026-02-17 12:36:55,893 - INFO - New job: Food Service Manager - 636755 [No facility found]
+2026-02-17 12:36:55,926 - INFO - New job: Corrections Oversight Worker - Madison Correctional Institution - 636243 [VERIFIED: Madison Correctional Institution]
+2026-02-17 12:37:04,926 - INFO - Added 13 new jobs
+2026-02-17 12:37:04,926 - INFO - Fetching descriptions for 13 new jobs...
+2026-02-17 12:37:06,047 - INFO - Updated description for 636515
+2026-02-17 12:37:07,689 - INFO - Updated description for 636521
+2026-02-17 12:37:09,205 - INFO - Updated description for 636525
+2026-02-17 12:37:10,830 - INFO - Updated description for 636557
+2026-02-17 12:37:12,424 - INFO - Updated description for 636591
+2026-02-17 12:37:14,019 - INFO - Updated description for 636602
+2026-02-17 12:37:15,676 - INFO - Updated description for 636611
+2026-02-17 12:37:17,194 - INFO - Updated description for 636622
+2026-02-17 12:37:18,842 - INFO - Updated description for 636650
+2026-02-17 12:37:20,507 - INFO - Updated description for 636654
+2026-02-17 12:37:22,056 - INFO - Updated description for 636713
+2026-02-17 12:37:23,581 - INFO - Updated description for 636755
+2026-02-17 12:37:25,150 - INFO - Updated description for 636243
+2026-02-17 12:37:25,656 - INFO - 
+=== SUMMARY ===
+2026-02-17 12:37:25,656 - INFO - Total jobs in database: 1400
+2026-02-17 12:37:25,656 - INFO - New jobs added: 13
+2026-02-17 12:37:25,656 - INFO - Descriptions updated: 13
+2026-02-17 12:37:25,656 - INFO - Verified facilities: 124
+2026-02-17 12:37:25,656 - INFO - Unverified facilities: 329
+2026-02-17 12:37:25,656 - INFO - Log saved to: logs/api_scraper_20260217_123649.log
+2026-02-17 12:37:25,768 - INFO - Exported 1400 jobs to jobs.csv
