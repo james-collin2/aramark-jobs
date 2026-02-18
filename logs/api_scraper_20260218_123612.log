@@ -1,0 +1,29 @@
+2026-02-18 12:36:12,258 - INFO - Starting API job scraper
+2026-02-18 12:36:12,259 - INFO - Loaded 853 master facilities
+2026-02-18 12:36:12,259 - INFO - Fetching jobs from API...
+2026-02-18 12:36:14,473 - INFO - Total jobs found: 500
+2026-02-18 12:36:14,517 - INFO - New job: Food Service Worker - Multnomah County-Sheriff - 636714 [UNVERIFIED: Multnomah County-Sheriff]
+2026-02-18 12:36:14,564 - INFO - New job: Food Service Worker Lead - Riverbend Maximum Security Institution - 636777 [VERIFIED: Riverbend Maximum Security Institution]
+2026-02-18 12:36:14,605 - INFO - New job: 2026 Management Accelerator Program- Food Service Manager - Corrections (Multiple Locations) - 636859 [UNVERIFIED: Corrections (Multiple Locations)]
+2026-02-18 12:36:14,606 - INFO - New job: Corrections Oversight Worker - 636894 [No facility found]
+2026-02-18 12:36:14,606 - INFO - New job: Kitchen Supervisor - 636949 [No facility found]
+2026-02-18 12:36:14,606 - INFO - New job: Food Service Manager - 636972 [No facility found]
+2026-02-18 12:36:14,606 - INFO - New job: Food Service Director - 636977 [No facility found]
+2026-02-18 12:36:24,717 - INFO - Added 7 new jobs
+2026-02-18 12:36:24,717 - INFO - Fetching descriptions for 7 new jobs...
+2026-02-18 12:36:25,736 - INFO - Updated description for 636714
+2026-02-18 12:36:27,396 - INFO - Updated description for 636777
+2026-02-18 12:36:28,919 - INFO - Updated description for 636859
+2026-02-18 12:36:30,577 - INFO - Updated description for 636894
+2026-02-18 12:36:32,093 - INFO - Updated description for 636949
+2026-02-18 12:36:33,662 - INFO - Updated description for 636972
+2026-02-18 12:36:35,199 - INFO - Updated description for 636977
+2026-02-18 12:36:35,707 - INFO - 
+=== SUMMARY ===
+2026-02-18 12:36:35,707 - INFO - Total jobs in database: 1407
+2026-02-18 12:36:35,707 - INFO - New jobs added: 7
+2026-02-18 12:36:35,707 - INFO - Descriptions updated: 7
+2026-02-18 12:36:35,707 - INFO - Verified facilities: 124
+2026-02-18 12:36:35,707 - INFO - Unverified facilities: 330
+2026-02-18 12:36:35,707 - INFO - Log saved to: logs/api_scraper_20260218_123612.log
+2026-02-18 12:36:35,826 - INFO - Exported 1407 jobs to jobs.csv
