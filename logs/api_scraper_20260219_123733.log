@@ -1,0 +1,33 @@
+2026-02-19 12:37:33,204 - INFO - Starting API job scraper
+2026-02-19 12:37:33,205 - INFO - Loaded 853 master facilities
+2026-02-19 12:37:33,205 - INFO - Fetching jobs from API...
+2026-02-19 12:37:34,753 - INFO - Total jobs found: 500
+2026-02-19 12:37:34,847 - INFO - New job: Corrections Oversight Worker - Northpoint Training Center - 636938 [VERIFIED: Northpoint Training Center]
+2026-02-19 12:37:34,874 - INFO - New job: Food Service Worker - Lucas County Jail - 637045 [UNVERIFIED: Lucas County Jail]
+2026-02-19 12:37:34,915 - INFO - New job: Driver I - USG - USCS - TENNESSEE - TRICOR - 637075 [UNVERIFIED: USG - USCS - TENNESSEE - TRICOR]
+2026-02-19 12:37:34,945 - INFO - New job: Franklin County Jail Food Service Supervisor - Benton County Sheriff WA - 637093 [UNVERIFIED: Benton County Sheriff WA]
+2026-02-19 12:37:34,976 - INFO - New job: Franklin County Jail Food Service Worker - Benton County Sheriff WA - 637324 [UNVERIFIED: Benton County Sheriff WA]
+2026-02-19 12:37:35,005 - INFO - New job: Corrections Oversight Worker - San Joaquin County - 637335 [UNVERIFIED: San Joaquin County]
+2026-02-19 12:37:35,035 - INFO - New job: Food Service Worker - San Joaquin County - 637387 [UNVERIFIED: San Joaquin County]
+2026-02-19 12:37:35,035 - INFO - New job: Food Service Manager - 637408 [No facility found]
+2026-02-19 12:37:35,075 - INFO - New job: Commissary Worker - Santa Clara County Commissary - 637414 [UNVERIFIED: Santa Clara County Commissary]
+2026-02-19 12:37:45,212 - INFO - Added 9 new jobs
+2026-02-19 12:37:45,212 - INFO - Fetching descriptions for 9 new jobs...
+2026-02-19 12:37:46,474 - INFO - Updated description for 636938
+2026-02-19 12:37:48,225 - INFO - Updated description for 637045
+2026-02-19 12:37:49,887 - INFO - Updated description for 637075
+2026-02-19 12:37:51,633 - INFO - Updated description for 637093
+2026-02-19 12:37:53,326 - INFO - Updated description for 637324
+2026-02-19 12:37:55,000 - INFO - Updated description for 637335
+2026-02-19 12:37:56,747 - INFO - Updated description for 637387
+2026-02-19 12:37:58,357 - INFO - Updated description for 637408
+2026-02-19 12:38:00,133 - INFO - Updated description for 637414
+2026-02-19 12:38:00,640 - INFO - 
+=== SUMMARY ===
+2026-02-19 12:38:00,640 - INFO - Total jobs in database: 1416
+2026-02-19 12:38:00,640 - INFO - New jobs added: 9
+2026-02-19 12:38:00,640 - INFO - Descriptions updated: 9
+2026-02-19 12:38:00,640 - INFO - Verified facilities: 124
+2026-02-19 12:38:00,640 - INFO - Unverified facilities: 331
+2026-02-19 12:38:00,640 - INFO - Log saved to: logs/api_scraper_20260219_123733.log
+2026-02-19 12:38:00,761 - INFO - Exported 1416 jobs to jobs.csv
