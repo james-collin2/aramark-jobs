@@ -1,0 +1,35 @@
+2026-02-20 12:33:00,810 - INFO - Starting API job scraper
+2026-02-20 12:33:00,810 - INFO - Loaded 853 master facilities
+2026-02-20 12:33:00,810 - INFO - Fetching jobs from API...
+2026-02-20 12:33:03,138 - INFO - Total jobs found: 500
+2026-02-20 12:33:03,140 - INFO - New job: Food Service Director - 637471 [No facility found]
+2026-02-20 12:33:03,140 - INFO - New job: Food Service Manager - 637525 [No facility found]
+2026-02-20 12:33:03,140 - INFO - New job: Food Service Director - 637530 [No facility found]
+2026-02-20 12:33:03,174 - INFO - New job: Kitchen Supervisor - Tomoka - CI/WC - (282/284) - 637589 [UNVERIFIED: Tomoka - CI/WC]
+2026-02-20 12:33:03,211 - INFO - New job: Corrections Oversight Worker - Belmont Correctional Institution - 637605 [VERIFIED: Belmont Correctional Institution]
+2026-02-20 12:33:03,246 - INFO - New job: Corrections Oversight Worker - Danville Jail-Juvenile - 637615 [UNVERIFIED: Danville Jail-Juvenile]
+2026-02-20 12:33:03,281 - INFO - New job: Corrections Oversight Worker - Blackburn Correctional Complex - 637622 [VERIFIED: Blackburn Correctional Complex]
+2026-02-20 12:33:03,318 - INFO - New job: Corrections Oversight Worker - Branchville Correctional Facility - 637640 [VERIFIED: Branchville Correctional Facility]
+2026-02-20 12:33:03,339 - INFO - New job: Corrections Oversight Worker - Polk - CI/WC - (580/562) - 637651 [UNVERIFIED: Polk - CI/WC]
+2026-02-20 12:33:03,388 - INFO - New job: Food Service Worker Lead - Jacksonville City Detention Center - 637663 [VERIFIED: Jacksonville Correctional Center]
+2026-02-20 12:33:13,747 - INFO - Added 10 new jobs
+2026-02-20 12:33:13,747 - INFO - Fetching descriptions for 10 new jobs...
+2026-02-20 12:33:14,889 - INFO - Updated description for 637471
+2026-02-20 12:33:16,498 - INFO - Updated description for 637525
+2026-02-20 12:33:18,037 - INFO - Updated description for 637530
+2026-02-20 12:33:19,690 - INFO - Updated description for 637589
+2026-02-20 12:33:21,249 - INFO - Updated description for 637605
+2026-02-20 12:33:22,810 - INFO - Updated description for 637615
+2026-02-20 12:33:24,396 - INFO - Updated description for 637622
+2026-02-20 12:33:25,913 - INFO - Updated description for 637640
+2026-02-20 12:33:27,420 - INFO - Updated description for 637651
+2026-02-20 12:33:28,990 - INFO - Updated description for 637663
+2026-02-20 12:33:29,496 - INFO - 
+=== SUMMARY ===
+2026-02-20 12:33:29,496 - INFO - Total jobs in database: 1426
+2026-02-20 12:33:29,496 - INFO - New jobs added: 10
+2026-02-20 12:33:29,496 - INFO - Descriptions updated: 10
+2026-02-20 12:33:29,496 - INFO - Verified facilities: 125
+2026-02-20 12:33:29,496 - INFO - Unverified facilities: 331
+2026-02-20 12:33:29,496 - INFO - Log saved to: logs/api_scraper_20260220_123300.log
+2026-02-20 12:33:29,615 - INFO - Exported 1426 jobs to jobs.csv
