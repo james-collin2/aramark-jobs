@@ -1,0 +1,53 @@
+2026-02-21 12:24:07,194 - INFO - Starting API job scraper
+2026-02-21 12:24:07,195 - INFO - Loaded 853 master facilities
+2026-02-21 12:24:07,195 - INFO - Fetching jobs from API...
+2026-02-21 12:24:08,743 - INFO - Total jobs found: 500
+2026-02-21 12:24:08,798 - INFO - New job: Corrections Oversight Worker - Rockville Correctional Facility - 635951 [VERIFIED: Rockville Correctional Facility]
+2026-02-21 12:24:08,837 - INFO - New job: Commissary Worker - Santa Clara County Commissary - 637358 [UNVERIFIED: Santa Clara County Commissary]
+2026-02-21 12:24:08,875 - INFO - New job: Commissary Worker - Santa Cruz County Commissary - 637688 [UNVERIFIED: Santa Cruz County Commissary]
+2026-02-21 12:24:08,910 - INFO - New job: Commissary Worker - Iredell County Commissary - 637722 [UNVERIFIED: Iredell County Commissary]
+2026-02-21 12:24:08,910 - INFO - New job: Food Service Manager - 637742 [No facility found]
+2026-02-21 12:24:08,933 - INFO - New job: Food Service Worker - Butler County - 637760 [UNVERIFIED: Butler County]
+2026-02-21 12:24:08,968 - INFO - New job: Commissary Worker - Jackson County Commissary (MS) - 637769 [UNVERIFIED: Jackson County Commissary (MS)]
+2026-02-21 12:24:09,004 - INFO - New job: Corrections Oversight Worker - Tri-County Regional Jail - 637775 [UNVERIFIED: Tri-County Regional Jail]
+2026-02-21 12:24:09,004 - INFO - New job: Food Service Director - 637794 [No facility found]
+2026-02-21 12:24:09,037 - INFO - New job: Corrections Oversight Worker - Bell County Forestry Camp - 637806 [VERIFIED: Bell County Forestry Camp]
+2026-02-21 12:24:09,060 - INFO - New job: Food Service Worker Lead - Butler County - 637818 [UNVERIFIED: Butler County]
+2026-02-21 12:24:09,101 - INFO - New job: Food Service Supervisor - Rapid City Community Work Center - 637829 [VERIFIED: Rapid City Minimum Center]
+2026-02-21 12:24:09,154 - INFO - New job: Corrections Oversight Worker - Fulton Reception and Diagnostic Center - 637830 [VERIFIED: Fulton Reception and Diagnostic Center]
+2026-02-21 12:24:09,191 - INFO - New job: Food Service Supervisor - Mike Durfee State Prison - 637832 [VERIFIED: Mike Durfee State Prison]
+2026-02-21 12:24:09,246 - INFO - New job: Food Service Supervisor - South Dakota State Penitentiary (Sioux Falls) - 637835 [VERIFIED: South Dakota State Penitentiary]
+2026-02-21 12:24:09,273 - INFO - New job: Corrections Oversight Worker - Clark County Jail - 637888 [UNVERIFIED: Clark County Jail]
+2026-02-21 12:24:09,308 - INFO - New job: Corrections Oversight Worker - Correctional Industrial Facility - 637889 [VERIFIED: Correctional Industrial Facility]
+2026-02-21 12:24:09,351 - INFO - New job: Corrections Oversight Worker - Clinton County Correctional Facility - PA - 637904 [VERIFIED: Bent County Correctional Facility]
+2026-02-21 12:24:09,380 - INFO - New job: Food Service Worker Lead - Mayo - CI/Annex - (223) - 637909 [UNVERIFIED: Mayo - CI/Annex]
+2026-02-21 12:24:19,706 - INFO - Added 19 new jobs
+2026-02-21 12:24:19,706 - INFO - Fetching descriptions for 19 new jobs...
+2026-02-21 12:24:20,973 - INFO - Updated description for 635951
+2026-02-21 12:24:22,799 - INFO - Updated description for 637358
+2026-02-21 12:24:24,727 - INFO - Updated description for 637688
+2026-02-21 12:24:26,526 - INFO - Updated description for 637722
+2026-02-21 12:24:28,267 - INFO - Updated description for 637742
+2026-02-21 12:24:30,032 - INFO - Updated description for 637760
+2026-02-21 12:24:31,735 - INFO - Updated description for 637769
+2026-02-21 12:24:33,390 - INFO - Updated description for 637775
+2026-02-21 12:24:35,281 - INFO - Updated description for 637794
+2026-02-21 12:24:37,023 - INFO - Updated description for 637806
+2026-02-21 12:24:38,761 - INFO - Updated description for 637818
+2026-02-21 12:24:40,527 - INFO - Updated description for 637829
+2026-02-21 12:24:42,347 - INFO - Updated description for 637830
+2026-02-21 12:24:44,013 - INFO - Updated description for 637832
+2026-02-21 12:24:46,032 - INFO - Updated description for 637835
+2026-02-21 12:24:47,697 - INFO - Updated description for 637888
+2026-02-21 12:24:49,408 - INFO - Updated description for 637889
+2026-02-21 12:24:51,149 - INFO - Updated description for 637904
+2026-02-21 12:24:53,002 - INFO - Updated description for 637909
+2026-02-21 12:24:53,508 - INFO - 
+=== SUMMARY ===
+2026-02-21 12:24:53,508 - INFO - Total jobs in database: 1445
+2026-02-21 12:24:53,508 - INFO - New jobs added: 19
+2026-02-21 12:24:53,508 - INFO - Descriptions updated: 19
+2026-02-21 12:24:53,508 - INFO - Verified facilities: 128
+2026-02-21 12:24:53,508 - INFO - Unverified facilities: 332
+2026-02-21 12:24:53,509 - INFO - Log saved to: logs/api_scraper_20260221_122407.log
+2026-02-21 12:24:53,629 - INFO - Exported 1445 jobs to jobs.csv
