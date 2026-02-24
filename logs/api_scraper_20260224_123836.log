@@ -1,0 +1,33 @@
+2026-02-24 12:38:36,625 - INFO - Starting API job scraper
+2026-02-24 12:38:36,626 - INFO - Loaded 853 master facilities
+2026-02-24 12:38:36,626 - INFO - Fetching jobs from API...
+2026-02-24 12:38:37,945 - INFO - Total jobs found: 500
+2026-02-24 12:38:37,946 - INFO - New job: Food Service Manager - 637250 [No facility found]
+2026-02-24 12:38:38,003 - INFO - New job: Food Service Worker - Anoka County Jail Facility - 638049 [VERIFIED: Otero County Prison Facility]
+2026-02-24 12:38:38,031 - INFO - New job: Commissary Worker - USG - USCS - KANSAS - 638084 [UNVERIFIED: USG - USCS - KANSAS]
+2026-02-24 12:38:38,058 - INFO - New job: Commissary Supervisor - USG - USCS - KANSAS - 638085 [UNVERIFIED: USG - USCS - KANSAS]
+2026-02-24 12:38:38,094 - INFO - New job: Corrections Oversight Worker - Maryville Treatment Center - 638132 [VERIFIED: Maryville Treatment Center]
+2026-02-24 12:38:38,122 - INFO - New job: Corrections Oversight Worker - Pinellas County Food - 638138 [UNVERIFIED: Pinellas County Food]
+2026-02-24 12:38:38,158 - INFO - New job: Cashier - Hillsborough County Jail Food - 638153 [UNVERIFIED: Hillsborough County Jail Food]
+2026-02-24 12:38:38,192 - INFO - New job: Commissary Worker - San Bernardino Commissary - 638207 [UNVERIFIED: San Bernardino Commissary]
+2026-02-24 12:38:38,192 - INFO - New job: Food Service Manager - 638219 [No facility found]
+2026-02-24 12:38:47,969 - INFO - Added 9 new jobs
+2026-02-24 12:38:47,969 - INFO - Fetching descriptions for 9 new jobs...
+2026-02-24 12:38:49,060 - INFO - Updated description for 637250
+2026-02-24 12:38:50,815 - INFO - Updated description for 638049
+2026-02-24 12:38:52,379 - INFO - Updated description for 638084
+2026-02-24 12:38:54,055 - INFO - Updated description for 638085
+2026-02-24 12:38:55,647 - INFO - Updated description for 638132
+2026-02-24 12:38:57,268 - INFO - Updated description for 638138
+2026-02-24 12:38:58,939 - INFO - Updated description for 638153
+2026-02-24 12:39:00,511 - INFO - Updated description for 638207
+2026-02-24 12:39:02,237 - INFO - Updated description for 638219
+2026-02-24 12:39:02,742 - INFO - 
+=== SUMMARY ===
+2026-02-24 12:39:02,742 - INFO - Total jobs in database: 1455
+2026-02-24 12:39:02,742 - INFO - New jobs added: 9
+2026-02-24 12:39:02,742 - INFO - Descriptions updated: 9
+2026-02-24 12:39:02,742 - INFO - Verified facilities: 128
+2026-02-24 12:39:02,742 - INFO - Unverified facilities: 333
+2026-02-24 12:39:02,743 - INFO - Log saved to: logs/api_scraper_20260224_123836.log
+2026-02-24 12:39:02,855 - INFO - Exported 1455 jobs to jobs.csv
