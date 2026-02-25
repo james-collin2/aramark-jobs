@@ -1,0 +1,31 @@
+2026-02-25 12:38:20,900 - INFO - Starting API job scraper
+2026-02-25 12:38:20,900 - INFO - Loaded 853 master facilities
+2026-02-25 12:38:20,900 - INFO - Fetching jobs from API...
+2026-02-25 12:38:22,378 - INFO - Total jobs found: 500
+2026-02-25 12:38:22,380 - INFO - New job: Food Service Manager - 635759 [No facility found]
+2026-02-25 12:38:22,432 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 636518 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-02-25 12:38:22,458 - INFO - New job: Sr. HR Manager - Correctional Services - 638183 [UNVERIFIED: Correctional Services]
+2026-02-25 12:38:22,522 - INFO - New job: Corrections Oversight Worker - Women's Eastern Reception, Diagnostic and Correctional Center - 638352 [UNVERIFIED: Women's Eastern Reception, Diagnostic and Correctional Center]
+2026-02-25 12:38:22,522 - INFO - New job: Food Service Worker - 638366 [No facility found]
+2026-02-25 12:38:22,573 - INFO - New job: Corrections Oversight Worker - Eastern Regional Jail and Correctional Facility - 638395 [VERIFIED: Eastern Oregon Youth Correctional Facility]
+2026-02-25 12:38:22,600 - INFO - New job: Corrections Oversight Worker - Kane County Jail - 638451 [UNVERIFIED: Kane County Jail]
+2026-02-25 12:38:22,653 - INFO - New job: Warehouse Worker - Pulaski County Regional Detention Facility - 638463 [VERIFIED: South Florida Detention Facility]
+2026-02-25 12:38:33,460 - INFO - Added 8 new jobs
+2026-02-25 12:38:33,460 - INFO - Fetching descriptions for 8 new jobs...
+2026-02-25 12:38:34,682 - INFO - Updated description for 635759
+2026-02-25 12:38:36,296 - INFO - Updated description for 636518
+2026-02-25 12:38:37,883 - INFO - Updated description for 638183
+2026-02-25 12:38:39,523 - INFO - Updated description for 638352
+2026-02-25 12:38:41,126 - INFO - Updated description for 638366
+2026-02-25 12:38:42,832 - INFO - Updated description for 638395
+2026-02-25 12:38:44,499 - INFO - Updated description for 638451
+2026-02-25 12:38:46,230 - INFO - Updated description for 638463
+2026-02-25 12:38:46,737 - INFO - 
+=== SUMMARY ===
+2026-02-25 12:38:46,737 - INFO - Total jobs in database: 1463
+2026-02-25 12:38:46,737 - INFO - New jobs added: 8
+2026-02-25 12:38:46,737 - INFO - Descriptions updated: 8
+2026-02-25 12:38:46,738 - INFO - Verified facilities: 128
+2026-02-25 12:38:46,738 - INFO - Unverified facilities: 333
+2026-02-25 12:38:46,738 - INFO - Log saved to: logs/api_scraper_20260225_123820.log
+2026-02-25 12:38:46,861 - INFO - Exported 1463 jobs to jobs.csv
