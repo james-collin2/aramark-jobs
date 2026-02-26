@@ -1,0 +1,37 @@
+2026-02-26 12:38:16,693 - INFO - Starting API job scraper
+2026-02-26 12:38:16,693 - INFO - Loaded 853 master facilities
+2026-02-26 12:38:16,693 - INFO - Fetching jobs from API...
+2026-02-26 12:38:18,723 - INFO - Total jobs found: 500
+2026-02-26 12:38:18,776 - INFO - New job: Commissary Supervisor - Miami Dade Commissary - 638777 [UNVERIFIED: Miami Dade Commissary]
+2026-02-26 12:38:18,776 - INFO - New job: HR Manager - 638175 [No facility found]
+2026-02-26 12:38:18,814 - INFO - New job: Food Service Worker - Alameda County-Santa Rita - 638794 [UNVERIFIED: Alameda County-Santa Rita]
+2026-02-26 12:38:18,852 - INFO - New job: Lead Cook - Williamson County Juvenile (TX) - 638803 [UNVERIFIED: Williamson County Juvenile (TX)]
+2026-02-26 12:38:18,884 - INFO - New job: Food Service Worker - Mecklenburg County Jail - 638823 [UNVERIFIED: Mecklenburg County Jail]
+2026-02-26 12:38:18,927 - INFO - New job: IN2WORK Associate - Chain O' Lakes Correctional Facility - 638376 [VERIFIED: Chain O'Lakes Correctional Facility]
+2026-02-26 12:38:18,952 - INFO - New job: Corrections Oversight Worker - Tallahassee - CRC - (168) - 638525 [UNVERIFIED: Tallahassee - CRC]
+2026-02-26 12:38:18,953 - INFO - New job: Commissary Director - 638540 [No facility found]
+2026-02-26 12:38:18,980 - INFO - New job: Commissary Supervisor - DM OVHD Lashley - 638604 [UNVERIFIED: DM OVHD Lashley]
+2026-02-26 12:38:19,008 - INFO - New job: Commissary Worker - DM OVHD Lashley - 638605 [UNVERIFIED: DM OVHD Lashley]
+2026-02-26 12:38:19,034 - INFO - New job: Administrative Support Worker - Shelby County TN - 638633 [UNVERIFIED: Shelby County TN]
+2026-02-26 12:38:30,079 - INFO - Added 11 new jobs
+2026-02-26 12:38:30,079 - INFO - Fetching descriptions for 11 new jobs...
+2026-02-26 12:38:31,108 - INFO - Updated description for 638777
+2026-02-26 12:38:32,639 - INFO - Updated description for 638175
+2026-02-26 12:38:34,122 - INFO - Updated description for 638794
+2026-02-26 12:38:35,710 - INFO - Updated description for 638803
+2026-02-26 12:38:37,379 - INFO - Updated description for 638823
+2026-02-26 12:38:38,941 - INFO - Updated description for 638376
+2026-02-26 12:38:40,626 - INFO - Updated description for 638525
+2026-02-26 12:38:42,249 - INFO - Updated description for 638540
+2026-02-26 12:38:43,708 - INFO - Updated description for 638604
+2026-02-26 12:38:45,179 - INFO - Updated description for 638605
+2026-02-26 12:38:46,786 - INFO - Updated description for 638633
+2026-02-26 12:38:47,293 - INFO - 
+=== SUMMARY ===
+2026-02-26 12:38:47,293 - INFO - Total jobs in database: 1474
+2026-02-26 12:38:47,293 - INFO - New jobs added: 11
+2026-02-26 12:38:47,294 - INFO - Descriptions updated: 11
+2026-02-26 12:38:47,294 - INFO - Verified facilities: 128
+2026-02-26 12:38:47,294 - INFO - Unverified facilities: 334
+2026-02-26 12:38:47,294 - INFO - Log saved to: logs/api_scraper_20260226_123816.log
+2026-02-26 12:38:47,418 - INFO - Exported 1474 jobs to jobs.csv
