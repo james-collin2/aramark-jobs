@@ -1,0 +1,35 @@
+2026-02-27 12:33:46,747 - INFO - Starting API job scraper
+2026-02-27 12:33:46,747 - INFO - Loaded 853 master facilities
+2026-02-27 12:33:46,747 - INFO - Fetching jobs from API...
+2026-02-27 12:33:50,568 - INFO - Total jobs found: 500
+2026-02-27 12:33:50,569 - INFO - New job: Food Service Director - 638103 [No facility found]
+2026-02-27 12:33:50,569 - INFO - New job: Field Marketing Specialist - 638257 [No facility found]
+2026-02-27 12:33:50,569 - INFO - New job: Food Service Director - 638347 [No facility found]
+2026-02-27 12:33:50,570 - INFO - New job: Food Service Manager - 638754 [No facility found]
+2026-02-27 12:33:50,622 - INFO - New job: Corrections Oversight Worker - Blair County Prison - 638903 [UNVERIFIED: Blair County Prison]
+2026-02-27 12:33:50,668 - INFO - New job: Food Service Supervisor - Shawnee County Department of Corrections - 638906 [UNVERIFIED: Shawnee County Department of Corrections]
+2026-02-27 12:33:50,668 - INFO - New job: Food Service Manager - 638933 [No facility found]
+2026-02-27 12:33:50,668 - INFO - New job: Food Service Director - 639000 [No facility found]
+2026-02-27 12:33:50,669 - INFO - New job: Corrections Oversight Worker - 639050 [No facility found]
+2026-02-27 12:33:50,669 - INFO - New job: Food Service Director - 639088 [No facility found]
+2026-02-27 12:34:01,876 - INFO - Added 10 new jobs
+2026-02-27 12:34:01,876 - INFO - Fetching descriptions for 10 new jobs...
+2026-02-27 12:34:03,327 - INFO - Updated description for 638103
+2026-02-27 12:34:05,012 - INFO - Updated description for 638257
+2026-02-27 12:34:06,860 - INFO - Updated description for 638347
+2026-02-27 12:34:08,601 - INFO - Updated description for 638754
+2026-02-27 12:34:10,373 - INFO - Updated description for 638903
+2026-02-27 12:34:12,173 - INFO - Updated description for 638906
+2026-02-27 12:34:13,895 - INFO - Updated description for 638933
+2026-02-27 12:34:15,729 - INFO - Updated description for 639000
+2026-02-27 12:34:17,544 - INFO - Updated description for 639050
+2026-02-27 12:34:19,253 - INFO - Updated description for 639088
+2026-02-27 12:34:19,761 - INFO - 
+=== SUMMARY ===
+2026-02-27 12:34:19,761 - INFO - Total jobs in database: 1484
+2026-02-27 12:34:19,761 - INFO - New jobs added: 10
+2026-02-27 12:34:19,761 - INFO - Descriptions updated: 10
+2026-02-27 12:34:19,761 - INFO - Verified facilities: 128
+2026-02-27 12:34:19,761 - INFO - Unverified facilities: 334
+2026-02-27 12:34:19,761 - INFO - Log saved to: logs/api_scraper_20260227_123346.log
+2026-02-27 12:34:19,888 - INFO - Exported 1484 jobs to jobs.csv
