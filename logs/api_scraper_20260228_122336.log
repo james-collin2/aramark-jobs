@@ -1,0 +1,33 @@
+2026-02-28 12:23:36,315 - INFO - Starting API job scraper
+2026-02-28 12:23:36,316 - INFO - Loaded 853 master facilities
+2026-02-28 12:23:36,316 - INFO - Fetching jobs from API...
+2026-02-28 12:23:38,361 - INFO - Total jobs found: 500
+2026-02-28 12:23:38,403 - INFO - New job: IN2WORK Associate - VOA of Chesapeake - 639092 [UNVERIFIED: VOA of Chesapeake]
+2026-02-28 12:23:38,404 - INFO - New job: Kitchen Supervisor - 639093 [No facility found]
+2026-02-28 12:23:38,435 - INFO - New job: Food Service Worker - Charleston County, SC - 639131 [UNVERIFIED: Charleston County, SC]
+2026-02-28 12:23:38,435 - INFO - New job: Kitchen Supervisor - 639139 [No facility found]
+2026-02-28 12:23:38,436 - INFO - New job: Project Management Specialist - 639154 [No facility found]
+2026-02-28 12:23:38,436 - INFO - New job: Food Service Worker - 639160 [No facility found]
+2026-02-28 12:23:38,484 - INFO - New job: Corrections Oversight Worker - Washington County Detention Center - 639167 [VERIFIED: Washington Corrections Center]
+2026-02-28 12:23:38,533 - INFO - New job: Corrections Inmate Worker - Washington County Detention Center - 639258 [VERIFIED: Washington Corrections Center]
+2026-02-28 12:23:38,533 - INFO - New job: Executive Administrative Assistant - 639299 [No facility found]
+2026-02-28 12:23:49,099 - INFO - Added 9 new jobs
+2026-02-28 12:23:49,099 - INFO - Fetching descriptions for 9 new jobs...
+2026-02-28 12:23:50,039 - INFO - Updated description for 639092
+2026-02-28 12:23:51,524 - INFO - Updated description for 639093
+2026-02-28 12:23:53,160 - INFO - Updated description for 639131
+2026-02-28 12:23:54,726 - INFO - Updated description for 639139
+2026-02-28 12:23:56,332 - INFO - Updated description for 639154
+2026-02-28 12:23:57,974 - INFO - Updated description for 639160
+2026-02-28 12:23:59,528 - INFO - Updated description for 639167
+2026-02-28 12:24:01,079 - INFO - Updated description for 639258
+2026-02-28 12:24:02,642 - INFO - Updated description for 639299
+2026-02-28 12:24:03,149 - INFO - 
+=== SUMMARY ===
+2026-02-28 12:24:03,149 - INFO - Total jobs in database: 1493
+2026-02-28 12:24:03,149 - INFO - New jobs added: 9
+2026-02-28 12:24:03,149 - INFO - Descriptions updated: 9
+2026-02-28 12:24:03,149 - INFO - Verified facilities: 128
+2026-02-28 12:24:03,149 - INFO - Unverified facilities: 334
+2026-02-28 12:24:03,149 - INFO - Log saved to: logs/api_scraper_20260228_122336.log
+2026-02-28 12:24:03,283 - INFO - Exported 1493 jobs to jobs.csv
