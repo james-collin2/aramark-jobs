@@ -1,0 +1,21 @@
+2026-03-01 12:25:34,741 - INFO - Starting API job scraper
+2026-03-01 12:25:34,741 - INFO - Loaded 853 master facilities
+2026-03-01 12:25:34,741 - INFO - Fetching jobs from API...
+2026-03-01 12:25:39,339 - INFO - Total jobs found: 500
+2026-03-01 12:25:39,409 - INFO - New job: Maintenance Worker - Bucks County Correctional (Facilities) - 639289 [VERIFIED: Bent County Correctional Facility]
+2026-03-01 12:25:39,445 - INFO - New job: Commissary Worker - Alameda County Commissary - 639342 [UNVERIFIED: Alameda County Commissary]
+2026-03-01 12:25:39,476 - INFO - New job: Corrections Oversight Worker - Henry County Missouri - 639351 [UNVERIFIED: Henry County Missouri]
+2026-03-01 12:25:50,298 - INFO - Added 3 new jobs
+2026-03-01 12:25:50,298 - INFO - Fetching descriptions for 3 new jobs...
+2026-03-01 12:25:56,594 - INFO - Updated description for 639289
+2026-03-01 12:25:58,365 - INFO - Updated description for 639342
+2026-03-01 12:26:00,256 - INFO - Updated description for 639351
+2026-03-01 12:26:00,763 - INFO - 
+=== SUMMARY ===
+2026-03-01 12:26:00,763 - INFO - Total jobs in database: 1496
+2026-03-01 12:26:00,763 - INFO - New jobs added: 3
+2026-03-01 12:26:00,763 - INFO - Descriptions updated: 3
+2026-03-01 12:26:00,763 - INFO - Verified facilities: 128
+2026-03-01 12:26:00,763 - INFO - Unverified facilities: 335
+2026-03-01 12:26:00,763 - INFO - Log saved to: logs/api_scraper_20260301_122534.log
+2026-03-01 12:26:00,888 - INFO - Exported 1496 jobs to jobs.csv
