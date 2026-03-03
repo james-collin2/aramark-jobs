@@ -1,0 +1,31 @@
+2026-03-03 12:32:59,694 - INFO - Starting API job scraper
+2026-03-03 12:32:59,695 - INFO - Loaded 853 master facilities
+2026-03-03 12:32:59,695 - INFO - Fetching jobs from API...
+2026-03-03 12:33:06,909 - INFO - Total jobs found: 500
+2026-03-03 12:33:06,955 - INFO - New job: Warehouse Supervisor - Hutchinson Correctional - 638759 [VERIFIED: Hutchinson Correctional Facility]
+2026-03-03 12:33:07,001 - INFO - New job: Corrections Oversight Worker - Guilford County Detention Facility - 639496 [VERIFIED: South Florida Detention Facility]
+2026-03-03 12:33:07,001 - INFO - New job: Food Service Director - 639506 [No facility found]
+2026-03-03 12:33:07,027 - INFO - New job: Corrections Oversight Worker - Summit County Jail - 639509 [UNVERIFIED: Summit County Jail]
+2026-03-03 12:33:07,063 - INFO - New job: Corrections Oversight Worker - Jefferson City Correctional Center - 639515 [VERIFIED: Jefferson City Correctional Center]
+2026-03-03 12:33:07,098 - INFO - New job: Food Service Worker Lead - South Central Correctional Center - 639529 [VERIFIED: South Central Correctional Center]
+2026-03-03 12:33:07,131 - INFO - New job: Corrections Oversight Worker - Brevard County Food - 637940 [UNVERIFIED: Brevard County Food]
+2026-03-03 12:33:07,166 - INFO - New job: Cook - Anoka County Jail Facility - 639628 [VERIFIED: Otero County Prison Facility]
+2026-03-03 12:33:16,008 - INFO - Added 8 new jobs
+2026-03-03 12:33:16,008 - INFO - Fetching descriptions for 8 new jobs...
+2026-03-03 12:33:17,052 - INFO - Updated description for 638759
+2026-03-03 12:33:18,677 - INFO - Updated description for 639496
+2026-03-03 12:33:20,242 - INFO - Updated description for 639506
+2026-03-03 12:33:21,827 - INFO - Updated description for 639509
+2026-03-03 12:33:23,426 - INFO - Updated description for 639515
+2026-03-03 12:33:25,060 - INFO - Updated description for 639529
+2026-03-03 12:33:26,646 - INFO - Updated description for 637940
+2026-03-03 12:33:28,255 - INFO - Updated description for 639628
+2026-03-03 12:33:28,761 - INFO - 
+=== SUMMARY ===
+2026-03-03 12:33:28,761 - INFO - Total jobs in database: 1505
+2026-03-03 12:33:28,761 - INFO - New jobs added: 8
+2026-03-03 12:33:28,761 - INFO - Descriptions updated: 8
+2026-03-03 12:33:28,761 - INFO - Verified facilities: 128
+2026-03-03 12:33:28,761 - INFO - Unverified facilities: 335
+2026-03-03 12:33:28,761 - INFO - Log saved to: logs/api_scraper_20260303_123259.log
+2026-03-03 12:33:28,878 - INFO - Exported 1505 jobs to jobs.csv
