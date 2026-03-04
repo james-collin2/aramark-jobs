@@ -1,0 +1,49 @@
+2026-03-04 12:32:25,078 - INFO - Starting API job scraper
+2026-03-04 12:32:25,079 - INFO - Loaded 853 master facilities
+2026-03-04 12:32:25,079 - INFO - Fetching jobs from API...
+2026-03-04 12:32:27,242 - INFO - Total jobs found: 500
+2026-03-04 12:32:27,359 - INFO - New job: Food Service Worker - Yavapai County Sheriff's Office - 639748 [UNVERIFIED: Yavapai County Sheriff's Office]
+2026-03-04 12:32:27,394 - INFO - New job: Retail Sales Worker - Tom Green County Commissary - 639750 [UNVERIFIED: Tom Green County Commissary]
+2026-03-04 12:32:27,419 - INFO - New job: Corrections Oversight Worker - Stark County RCCC - 639781 [UNVERIFIED: Stark County RCCC]
+2026-03-04 12:32:27,420 - INFO - New job: Food Service Worker - 639783 [No facility found]
+2026-03-04 12:32:27,455 - INFO - New job: Retail Sales Worker - Brevard County Commissary, FL - 639794 [UNVERIFIED: Brevard County Commissary, FL]
+2026-03-04 12:32:27,500 - INFO - New job: Corrections Oversight Worker - Jackson County Detention Center (MO) - 639814 [UNVERIFIED: Jackson County Detention Center (MO)]
+2026-03-04 12:32:27,500 - INFO - New job: Corrections Oversight Worker - 639861 [No facility found]
+2026-03-04 12:32:27,500 - INFO - New job: Food Service Director - 639882 [No facility found]
+2026-03-04 12:32:27,538 - INFO - New job: Corrections Oversight Worker - Transition Center of St. Louis - 639885 [VERIFIED: Transition Center of Saint Louis]
+2026-03-04 12:32:27,570 - INFO - New job: Food Service Supervisor - Riverside Regional Jail - 639893 [VERIFIED: Riverview Correctional Facility]
+2026-03-04 12:32:27,610 - INFO - New job: Corrections Oversight Worker - Outagamie County Jail - 639907 [UNVERIFIED: Outagamie County Jail]
+2026-03-04 12:32:27,634 - INFO - New job: Food Service Worker - Liberty - CI/SU - (120/142) - 639933 [UNVERIFIED: Liberty - CI/SU]
+2026-03-04 12:32:27,672 - INFO - New job: Food Service Worker - Henrico County - Jail East - 639951 [UNVERIFIED: Henrico County - Jail East]
+2026-03-04 12:32:27,713 - INFO - New job: Warehouse Worker II - USG - USCS - TX PICK & PACK LINE - 639953 [UNVERIFIED: USG - USCS - TX PICK & PACK LINE]
+2026-03-04 12:32:27,745 - INFO - New job: Corrections Oversight Worker - Edinburg Correctional Facility - 639973 [VERIFIED: Edinburgh Correctional Facility]
+2026-03-04 12:32:27,769 - INFO - New job: Cook - Shelby County TN - 639998 [UNVERIFIED: Shelby County TN]
+2026-03-04 12:32:27,769 - INFO - New job: Food Service Worker - 640008 [No facility found]
+2026-03-04 12:32:36,559 - INFO - Added 17 new jobs
+2026-03-04 12:32:36,560 - INFO - Fetching descriptions for 17 new jobs...
+2026-03-04 12:32:37,783 - INFO - Updated description for 639748
+2026-03-04 12:32:39,426 - INFO - Updated description for 639750
+2026-03-04 12:32:41,106 - INFO - Updated description for 639781
+2026-03-04 12:32:42,874 - INFO - Updated description for 639783
+2026-03-04 12:32:44,589 - INFO - Updated description for 639794
+2026-03-04 12:32:46,172 - INFO - Updated description for 639814
+2026-03-04 12:32:47,939 - INFO - Updated description for 639861
+2026-03-04 12:32:49,651 - INFO - Updated description for 639882
+2026-03-04 12:32:51,376 - INFO - Updated description for 639885
+2026-03-04 12:32:52,986 - INFO - Updated description for 639893
+2026-03-04 12:32:54,597 - INFO - Updated description for 639907
+2026-03-04 12:32:56,268 - INFO - Updated description for 639933
+2026-03-04 12:32:57,918 - INFO - Updated description for 639951
+2026-03-04 12:32:59,582 - INFO - Updated description for 639953
+2026-03-04 12:33:01,195 - INFO - Updated description for 639973
+2026-03-04 12:33:02,896 - INFO - Updated description for 639998
+2026-03-04 12:33:04,498 - INFO - Updated description for 640008
+2026-03-04 12:33:05,004 - INFO - 
+=== SUMMARY ===
+2026-03-04 12:33:05,005 - INFO - Total jobs in database: 1522
+2026-03-04 12:33:05,005 - INFO - New jobs added: 17
+2026-03-04 12:33:05,005 - INFO - Descriptions updated: 17
+2026-03-04 12:33:05,005 - INFO - Verified facilities: 128
+2026-03-04 12:33:05,005 - INFO - Unverified facilities: 337
+2026-03-04 12:33:05,005 - INFO - Log saved to: logs/api_scraper_20260304_123225.log
+2026-03-04 12:33:05,124 - INFO - Exported 1522 jobs to jobs.csv
