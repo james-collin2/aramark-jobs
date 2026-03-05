@@ -1,0 +1,43 @@
+2026-03-05 12:35:46,801 - INFO - Starting API job scraper
+2026-03-05 12:35:46,801 - INFO - Loaded 853 master facilities
+2026-03-05 12:35:46,801 - INFO - Fetching jobs from API...
+2026-03-05 12:35:52,663 - INFO - Total jobs found: 500
+2026-03-05 12:35:52,664 - INFO - New job: Food Service Manager - 639892 [No facility found]
+2026-03-05 12:35:52,708 - INFO - New job: Retail Sales Worker - Clark County Commissary - 640015 [UNVERIFIED: Clark County Commissary]
+2026-03-05 12:35:52,708 - INFO - New job: Corrections Oversight Worker - 640038 [No facility found]
+2026-03-05 12:35:52,745 - INFO - New job: Corrections Oversight Worker - Correction Center Northwest Ohio - 640075 [UNVERIFIED: Correction Center Northwest Ohio]
+2026-03-05 12:35:52,790 - INFO - New job: Commissary Worker - Louisville Jefferson County Commissary - 640081 [UNVERIFIED: Louisville Jefferson County Commissary]
+2026-03-05 12:35:52,816 - INFO - New job: Food Service Worker - Alvis 180 - Columbus - 640107 [UNVERIFIED: Alvis 180 - Columbus]
+2026-03-05 12:35:52,861 - INFO - New job: Corrections Oversight Worker - Granville County Detention Ctr - 640121 [UNVERIFIED: Granville County Detention Ctr]
+2026-03-05 12:35:52,890 - INFO - New job: Food Service Worker Lead - Hancock County Jail - 640148 [UNVERIFIED: Hancock County Jail]
+2026-03-05 12:35:52,932 - INFO - New job: IN2WORK Associate - South Bend Work Release Center - 640157 [VERIFIED: Mobile Work Release Center]
+2026-03-05 12:35:52,960 - INFO - New job: Corrections Oversight Worker - Greene County Jail - 640211 [VERIFIED: Greene County Work Camp]
+2026-03-05 12:35:53,009 - INFO - New job: Cook - Nueces County Juvenile Justice Center - 640215 [UNVERIFIED: Nueces County Juvenile Justice Center]
+2026-03-05 12:35:53,045 - INFO - New job: Corrections Oversight Worker - Lebanon Correctional Institution - 640246 [VERIFIED: Lebanon Correctional Institution]
+2026-03-05 12:35:53,046 - INFO - New job: Food Service Supervisor - 640275 [No facility found]
+2026-03-05 12:35:53,046 - INFO - New job: Food Service Supervisor - 640279 [No facility found]
+2026-03-05 12:36:02,886 - INFO - Added 14 new jobs
+2026-03-05 12:36:02,886 - INFO - Fetching descriptions for 14 new jobs...
+2026-03-05 12:36:03,935 - INFO - Updated description for 639892
+2026-03-05 12:36:05,498 - INFO - Updated description for 640015
+2026-03-05 12:36:07,237 - INFO - Updated description for 640038
+2026-03-05 12:36:08,912 - INFO - Updated description for 640075
+2026-03-05 12:36:10,509 - INFO - Updated description for 640081
+2026-03-05 12:36:12,070 - INFO - Updated description for 640107
+2026-03-05 12:36:13,640 - INFO - Updated description for 640121
+2026-03-05 12:36:15,241 - INFO - Updated description for 640148
+2026-03-05 12:36:16,818 - INFO - Updated description for 640157
+2026-03-05 12:36:18,404 - INFO - Updated description for 640211
+2026-03-05 12:36:19,896 - INFO - Updated description for 640215
+2026-03-05 12:36:21,482 - INFO - Updated description for 640246
+2026-03-05 12:36:23,099 - INFO - Updated description for 640275
+2026-03-05 12:36:24,696 - INFO - Updated description for 640279
+2026-03-05 12:36:25,204 - INFO - 
+=== SUMMARY ===
+2026-03-05 12:36:25,204 - INFO - Total jobs in database: 1536
+2026-03-05 12:36:25,204 - INFO - New jobs added: 14
+2026-03-05 12:36:25,204 - INFO - Descriptions updated: 14
+2026-03-05 12:36:25,204 - INFO - Verified facilities: 128
+2026-03-05 12:36:25,204 - INFO - Unverified facilities: 338
+2026-03-05 12:36:25,204 - INFO - Log saved to: logs/api_scraper_20260305_123546.log
+2026-03-05 12:36:25,334 - INFO - Exported 1536 jobs to jobs.csv
