@@ -1,0 +1,33 @@
+2026-03-06 12:30:53,941 - INFO - Starting API job scraper
+2026-03-06 12:30:53,941 - INFO - Loaded 853 master facilities
+2026-03-06 12:30:53,941 - INFO - Fetching jobs from API...
+2026-03-06 12:30:55,564 - INFO - Total jobs found: 500
+2026-03-06 12:30:55,617 - INFO - New job: Lead Cook - La Crosse County, WI - 640301 [UNVERIFIED: La Crosse County, WI]
+2026-03-06 12:30:55,650 - INFO - New job: Food Service Worker - La Crosse County, WI - 640302 [UNVERIFIED: La Crosse County, WI]
+2026-03-06 12:30:55,687 - INFO - New job: Food Service Supervisor - DeKalb County Georgia Jail - 640315 [UNVERIFIED: DeKalb County Georgia Jail]
+2026-03-06 12:30:55,741 - INFO - New job: Food Service Worker - Harris County Juvenile Detention Center - 640360 [UNVERIFIED: Harris County Juvenile Detention Center]
+2026-03-06 12:30:55,795 - INFO - New job: Food Service Worker - Harris County Juvenile Detention Center - 640383 [UNVERIFIED: Harris County Juvenile Detention Center]
+2026-03-06 12:30:55,839 - INFO - New job: Corrections Oversight Worker - Florida State Prison Main/West - (205/206) - 640408 [VERIFIED: Florida State Prison]
+2026-03-06 12:30:55,875 - INFO - New job: Commissary Worker - Dutchess County Commissary - 640421 [UNVERIFIED: Dutchess County Commissary]
+2026-03-06 12:30:55,907 - INFO - New job: Corrections Oversight Worker - Dauphin County Prison - 640427 [UNVERIFIED: Dauphin County Prison]
+2026-03-06 12:30:55,908 - INFO - New job: Food Service Manager - 640448 [No facility found]
+2026-03-06 12:31:06,159 - INFO - Added 9 new jobs
+2026-03-06 12:31:06,159 - INFO - Fetching descriptions for 9 new jobs...
+2026-03-06 12:31:08,361 - INFO - Updated description for 640301
+2026-03-06 12:31:11,229 - INFO - Updated description for 640302
+2026-03-06 12:31:14,322 - INFO - Updated description for 640315
+2026-03-06 12:31:17,196 - INFO - Updated description for 640360
+2026-03-06 12:31:19,249 - INFO - Updated description for 640383
+2026-03-06 12:31:21,606 - INFO - Updated description for 640408
+2026-03-06 12:31:23,854 - INFO - Updated description for 640421
+2026-03-06 12:31:26,006 - INFO - Updated description for 640427
+2026-03-06 12:31:28,501 - INFO - Updated description for 640448
+2026-03-06 12:31:29,008 - INFO - 
+=== SUMMARY ===
+2026-03-06 12:31:29,008 - INFO - Total jobs in database: 1545
+2026-03-06 12:31:29,008 - INFO - New jobs added: 9
+2026-03-06 12:31:29,008 - INFO - Descriptions updated: 9
+2026-03-06 12:31:29,008 - INFO - Verified facilities: 128
+2026-03-06 12:31:29,008 - INFO - Unverified facilities: 341
+2026-03-06 12:31:29,008 - INFO - Log saved to: logs/api_scraper_20260306_123053.log
+2026-03-06 12:31:29,139 - INFO - Exported 1545 jobs to jobs.csv
