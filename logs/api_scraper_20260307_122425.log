@@ -1,0 +1,51 @@
+2026-03-07 12:24:25,018 - INFO - Starting API job scraper
+2026-03-07 12:24:25,018 - INFO - Loaded 853 master facilities
+2026-03-07 12:24:25,019 - INFO - Fetching jobs from API...
+2026-03-07 12:24:28,835 - INFO - Total jobs found: 500
+2026-03-07 12:24:28,895 - INFO - New job: Retail Sales Worker Lead - Southern Ohio Correctional Facility - 640749 [VERIFIED: Southern Ohio Correctional Facility]
+2026-03-07 12:24:28,896 - INFO - New job: Food Service Manager - 640443 [No facility found]
+2026-03-07 12:24:28,896 - INFO - New job: IT Specialist - 640535 [No facility found]
+2026-03-07 12:24:28,933 - INFO - New job: Lead Cook - Alameda County-Santa Rita - 640539 [UNVERIFIED: Alameda County-Santa Rita]
+2026-03-07 12:24:28,971 - INFO - New job: Cook - Alameda County-Santa Rita - 640541 [UNVERIFIED: Alameda County-Santa Rita]
+2026-03-07 12:24:29,003 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 640557 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-03-07 12:24:29,046 - INFO - New job: Corrections Oversight Worker - Barren County Detention Center - 640599 [VERIFIED: Detroit Detention Center]
+2026-03-07 12:24:29,046 - INFO - New job: Kitchen Supervisor - 640621 [No facility found]
+2026-03-07 12:24:29,046 - INFO - New job: Kitchen Supervisor - 640626 [No facility found]
+2026-03-07 12:24:29,084 - INFO - New job: Dishwasher- Kent County Correctional Facility - 640635 [VERIFIED: Bent County Correctional Facility]
+2026-03-07 12:24:29,121 - INFO - New job: Food Service Worker- Kent County Correctional Facility - 640638 [VERIFIED: Bent County Correctional Facility]
+2026-03-07 12:24:29,158 - INFO - New job: Food Service Worker Lead- Kent County Correctional Facility - 640639 [VERIFIED: Bent County Correctional Facility]
+2026-03-07 12:24:29,159 - INFO - New job: Corrections Oversight Worker - 640660 [No facility found]
+2026-03-07 12:24:29,202 - INFO - New job: Corrections Oversight Worker - Southeastern Ohio Regional Jail - 640663 [VERIFIED: Southern Ohio Correctional Facility]
+2026-03-07 12:24:29,251 - INFO - New job: Warehouse Lead - Milwaukee House of Corrections Commissary - 640669 [UNVERIFIED: Milwaukee House of Corrections Commissary]
+2026-03-07 12:24:29,295 - INFO - New job: Warehouse Worker Lead - USG - USCS - TX PICK & PACK LINE - 640674 [UNVERIFIED: USG - USCS - TX PICK & PACK LINE]
+2026-03-07 12:24:29,325 - INFO - New job: Corrections Oversight Worker - Muskingum County Jail - 640683 [UNVERIFIED: Muskingum County Jail]
+2026-03-07 12:24:29,352 - INFO - New job: Food Service Supervisor - St. Mary's County - 640700 [UNVERIFIED: St. Mary's County]
+2026-03-07 12:24:39,814 - INFO - Added 18 new jobs
+2026-03-07 12:24:39,814 - INFO - Fetching descriptions for 18 new jobs...
+2026-03-07 12:24:40,903 - INFO - Updated description for 640749
+2026-03-07 12:24:42,503 - INFO - Updated description for 640443
+2026-03-07 12:24:44,101 - INFO - Updated description for 640535
+2026-03-07 12:24:45,804 - INFO - Updated description for 640539
+2026-03-07 12:24:47,343 - INFO - Updated description for 640541
+2026-03-07 12:24:49,016 - INFO - Updated description for 640557
+2026-03-07 12:24:50,693 - INFO - Updated description for 640599
+2026-03-07 12:24:52,372 - INFO - Updated description for 640621
+2026-03-07 12:24:54,105 - INFO - Updated description for 640626
+2026-03-07 12:24:55,855 - INFO - Updated description for 640635
+2026-03-07 12:24:57,513 - INFO - Updated description for 640638
+2026-03-07 12:24:59,063 - INFO - Updated description for 640639
+2026-03-07 12:25:00,749 - INFO - Updated description for 640660
+2026-03-07 12:25:02,448 - INFO - Updated description for 640663
+2026-03-07 12:25:03,999 - INFO - Updated description for 640669
+2026-03-07 12:25:05,774 - INFO - Updated description for 640674
+2026-03-07 12:25:07,415 - INFO - Updated description for 640683
+2026-03-07 12:25:09,065 - INFO - Updated description for 640700
+2026-03-07 12:25:09,572 - INFO - 
+=== SUMMARY ===
+2026-03-07 12:25:09,573 - INFO - Total jobs in database: 1563
+2026-03-07 12:25:09,573 - INFO - New jobs added: 18
+2026-03-07 12:25:09,573 - INFO - Descriptions updated: 18
+2026-03-07 12:25:09,573 - INFO - Verified facilities: 128
+2026-03-07 12:25:09,573 - INFO - Unverified facilities: 341
+2026-03-07 12:25:09,573 - INFO - Log saved to: logs/api_scraper_20260307_122425.log
+2026-03-07 12:25:09,704 - INFO - Exported 1563 jobs to jobs.csv
