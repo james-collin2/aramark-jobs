@@ -1,0 +1,19 @@
+2026-03-09 12:35:29,384 - INFO - Starting API job scraper
+2026-03-09 12:35:29,385 - INFO - Loaded 853 master facilities
+2026-03-09 12:35:29,385 - INFO - Fetching jobs from API...
+2026-03-09 12:35:33,219 - INFO - Total jobs found: 500
+2026-03-09 12:35:33,220 - INFO - New job: Food Service Director - 640747 [No facility found]
+2026-03-09 12:35:33,267 - INFO - New job: Commissary Worker - Merced County Commissary - 640748 [UNVERIFIED: Merced County Commissary]
+2026-03-09 12:35:44,921 - INFO - Added 2 new jobs
+2026-03-09 12:35:44,921 - INFO - Fetching descriptions for 2 new jobs...
+2026-03-09 12:35:46,161 - INFO - Updated description for 640747
+2026-03-09 12:35:47,746 - INFO - Updated description for 640748
+2026-03-09 12:35:48,253 - INFO - 
+=== SUMMARY ===
+2026-03-09 12:35:48,253 - INFO - Total jobs in database: 1566
+2026-03-09 12:35:48,253 - INFO - New jobs added: 2
+2026-03-09 12:35:48,253 - INFO - Descriptions updated: 2
+2026-03-09 12:35:48,253 - INFO - Verified facilities: 128
+2026-03-09 12:35:48,253 - INFO - Unverified facilities: 342
+2026-03-09 12:35:48,253 - INFO - Log saved to: logs/api_scraper_20260309_123529.log
+2026-03-09 12:35:48,385 - INFO - Exported 1566 jobs to jobs.csv
