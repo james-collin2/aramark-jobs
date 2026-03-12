@@ -1,0 +1,33 @@
+2026-03-12 12:34:08,083 - INFO - Starting API job scraper
+2026-03-12 12:34:08,083 - INFO - Loaded 853 master facilities
+2026-03-12 12:34:08,083 - INFO - Fetching jobs from API...
+2026-03-12 12:34:10,182 - INFO - Total jobs found: 500
+2026-03-12 12:34:10,240 - INFO - New job: Food Service Director - 641109 [No facility found]
+2026-03-12 12:34:10,240 - INFO - New job: Food Service Manager - 641175 [No facility found]
+2026-03-12 12:34:10,272 - INFO - New job: Food Service Worker - VOA of Chesapeake - 641202 [UNVERIFIED: VOA of Chesapeake]
+2026-03-12 12:34:10,316 - INFO - New job: Food Prep Worker - Atlantic County Justice Facility - 641269 [UNVERIFIED: Atlantic County Justice Facility]
+2026-03-12 12:34:10,316 - INFO - New job: Food Service Manager - 641403 [No facility found]
+2026-03-12 12:34:10,316 - INFO - New job: Food Service Manager - 641421 [No facility found]
+2026-03-12 12:34:10,317 - INFO - New job: Food Service Manager - 641423 [No facility found]
+2026-03-12 12:34:10,354 - INFO - New job: Food Service Worker Lead - Blair County Prison - 641482 [UNVERIFIED: Blair County Prison]
+2026-03-12 12:34:10,391 - INFO - New job: Food Service Worker - Anne Arundel County - JRDC - 641536 [UNVERIFIED: Anne Arundel County - JRDC]
+2026-03-12 12:34:21,456 - INFO - Added 9 new jobs
+2026-03-12 12:34:21,456 - INFO - Fetching descriptions for 9 new jobs...
+2026-03-12 12:34:22,885 - INFO - Updated description for 641109
+2026-03-12 12:34:24,577 - INFO - Updated description for 641175
+2026-03-12 12:34:26,342 - INFO - Updated description for 641202
+2026-03-12 12:34:27,950 - INFO - Updated description for 641269
+2026-03-12 12:34:29,802 - INFO - Updated description for 641403
+2026-03-12 12:34:31,449 - INFO - Updated description for 641421
+2026-03-12 12:34:33,094 - INFO - Updated description for 641423
+2026-03-12 12:34:34,669 - INFO - Updated description for 641482
+2026-03-12 12:34:36,376 - INFO - Updated description for 641536
+2026-03-12 12:34:36,885 - INFO - 
+=== SUMMARY ===
+2026-03-12 12:34:36,885 - INFO - Total jobs in database: 1617
+2026-03-12 12:34:36,885 - INFO - New jobs added: 9
+2026-03-12 12:34:36,885 - INFO - Descriptions updated: 9
+2026-03-12 12:34:36,885 - INFO - Verified facilities: 128
+2026-03-12 12:34:36,885 - INFO - Unverified facilities: 345
+2026-03-12 12:34:36,885 - INFO - Log saved to: logs/api_scraper_20260312_123408.log
+2026-03-12 12:34:37,026 - INFO - Exported 1617 jobs to jobs.csv
