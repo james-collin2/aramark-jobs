@@ -1,0 +1,43 @@
+2026-03-13 12:33:29,939 - INFO - Starting API job scraper
+2026-03-13 12:33:29,939 - INFO - Loaded 853 master facilities
+2026-03-13 12:33:29,940 - INFO - Fetching jobs from API...
+2026-03-13 12:33:31,162 - INFO - Total jobs found: 500
+2026-03-13 12:33:31,211 - INFO - New job: Food Service Worker - Putnam County Jail, FL - 640866 [UNVERIFIED: Putnam County Jail, FL]
+2026-03-13 12:33:31,250 - INFO - New job: Lead Cook - DeKalb County Georgia Jail - 640586 [UNVERIFIED: DeKalb County Georgia Jail]
+2026-03-13 12:33:31,292 - INFO - New job: Corrections Oversight Worker - Western Kentucky Correctional Complex - 641572 [VERIFIED: Western Kentucky Correctional Complex]
+2026-03-13 12:33:31,292 - INFO - New job: Food Service Manager - 641130 [No facility found]
+2026-03-13 12:33:31,334 - INFO - New job: Commissary Worker - Delaware County (PA) - Commissary - 641644 [UNVERIFIED: Delaware County (PA) - Commissary]
+2026-03-13 12:33:31,379 - INFO - New job: Corrections Oversight Worker - Arlington County Detention Ctr - 641667 [UNVERIFIED: Arlington County Detention Ctr]
+2026-03-13 12:33:31,426 - INFO - New job: HVAC I - Mecklenburg County Facilities - 641719 [UNVERIFIED: Mecklenburg County Facilities]
+2026-03-13 12:33:31,465 - INFO - New job: HVAC I - Mecklenburg County Facilities - 641720 [UNVERIFIED: Mecklenburg County Facilities]
+2026-03-13 12:33:31,466 - INFO - New job: Food Service Worker Lead - 641737 [No facility found]
+2026-03-13 12:33:31,489 - INFO - New job: Kitchen Supervisor - Century - CI/WC - (106/167) - 641751 [UNVERIFIED: Century - CI/WC]
+2026-03-13 12:33:31,512 - INFO - New job: Corrections Oversight Worker - ASPC - Lewis - 641763 [UNVERIFIED: ASPC - Lewis]
+2026-03-13 12:33:31,544 - INFO - New job: Food Service Worker Lead - Dauphin County Prison - 641764 [UNVERIFIED: Dauphin County Prison]
+2026-03-13 12:33:31,544 - INFO - New job: Food Service Director - 641780 [No facility found]
+2026-03-13 12:33:31,560 - INFO - New job: Field Marketing Director - Corrections - 641802 [UNVERIFIED: Corrections]
+2026-03-13 12:33:42,822 - INFO - Added 14 new jobs
+2026-03-13 12:33:42,822 - INFO - Fetching descriptions for 14 new jobs...
+2026-03-13 12:33:43,966 - INFO - Updated description for 640866
+2026-03-13 12:33:45,463 - INFO - Updated description for 640586
+2026-03-13 12:33:47,215 - INFO - Updated description for 641572
+2026-03-13 12:33:48,683 - INFO - Updated description for 641130
+2026-03-13 12:33:50,330 - INFO - Updated description for 641644
+2026-03-13 12:33:51,930 - INFO - Updated description for 641667
+2026-03-13 12:33:53,451 - INFO - Updated description for 641719
+2026-03-13 12:33:54,960 - INFO - Updated description for 641720
+2026-03-13 12:33:56,482 - INFO - Updated description for 641737
+2026-03-13 12:33:57,986 - INFO - Updated description for 641751
+2026-03-13 12:33:59,676 - INFO - Updated description for 641763
+2026-03-13 12:34:01,138 - INFO - Updated description for 641764
+2026-03-13 12:34:02,787 - INFO - Updated description for 641780
+2026-03-13 12:34:04,412 - INFO - Updated description for 641802
+2026-03-13 12:34:04,920 - INFO - 
+=== SUMMARY ===
+2026-03-13 12:34:04,920 - INFO - Total jobs in database: 1631
+2026-03-13 12:34:04,920 - INFO - New jobs added: 14
+2026-03-13 12:34:04,920 - INFO - Descriptions updated: 14
+2026-03-13 12:34:04,920 - INFO - Verified facilities: 128
+2026-03-13 12:34:04,920 - INFO - Unverified facilities: 345
+2026-03-13 12:34:04,920 - INFO - Log saved to: logs/api_scraper_20260313_123329.log
+2026-03-13 12:34:05,060 - INFO - Exported 1631 jobs to jobs.csv
