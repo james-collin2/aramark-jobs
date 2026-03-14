@@ -1,0 +1,39 @@
+2026-03-14 12:27:28,078 - INFO - Starting API job scraper
+2026-03-14 12:27:28,078 - INFO - Loaded 853 master facilities
+2026-03-14 12:27:28,078 - INFO - Fetching jobs from API...
+2026-03-14 12:27:31,000 - INFO - Total jobs found: 500
+2026-03-14 12:27:31,052 - INFO - New job: Commissary Worker - Wyandotte Commissary - 639294 [UNVERIFIED: Wyandotte Commissary]
+2026-03-14 12:27:31,100 - INFO - New job: Lead Cook - Wyandotte County Detention Center - 639296 [VERIFIED: Detroit Detention Center]
+2026-03-14 12:27:31,100 - INFO - New job: Warehouse Worker III - 639876 [No facility found]
+2026-03-14 12:27:31,134 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 641480 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-03-14 12:27:31,174 - INFO - New job: Commissary Worker - Hillsborough County Commissary, FL - 641597 [UNVERIFIED: Hillsborough County Commissary, FL]
+2026-03-14 12:27:31,174 - INFO - New job: Food Service Manager - 641657 [No facility found]
+2026-03-14 12:27:31,174 - INFO - New job: Food Service Director - 641693 [No facility found]
+2026-03-14 12:27:31,224 - INFO - New job: Food Service Worker - Yakima County Dept. of Corrections Facility - 641812 [VERIFIED: Guadalupe County Correctional Facility]
+2026-03-14 12:27:31,255 - INFO - New job: Retail Sales Worker - Yakima County Commissary - 641813 [UNVERIFIED: Yakima County Commissary]
+2026-03-14 12:27:31,289 - INFO - New job: Retail Sales Worker - Kenosha County Commissary - 641836 [UNVERIFIED: Kenosha County Commissary]
+2026-03-14 12:27:31,327 - INFO - New job: Driver I - USG - USCS - WEST VIRGINIA - 641923 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-03-14 12:27:31,364 - INFO - New job: Corrections Oversight Worker - South Central Correctional Center - 641940 [VERIFIED: South Central Correctional Center]
+2026-03-14 12:27:41,980 - INFO - Added 12 new jobs
+2026-03-14 12:27:41,980 - INFO - Fetching descriptions for 12 new jobs...
+2026-03-14 12:27:43,103 - INFO - Updated description for 639294
+2026-03-14 12:27:44,762 - INFO - Updated description for 639296
+2026-03-14 12:27:46,448 - INFO - Updated description for 639876
+2026-03-14 12:27:48,160 - INFO - Updated description for 641480
+2026-03-14 12:27:49,872 - INFO - Updated description for 641597
+2026-03-14 12:27:51,522 - INFO - Updated description for 641657
+2026-03-14 12:27:53,145 - INFO - Updated description for 641693
+2026-03-14 12:27:54,867 - INFO - Updated description for 641812
+2026-03-14 12:27:56,473 - INFO - Updated description for 641813
+2026-03-14 12:27:58,131 - INFO - Updated description for 641836
+2026-03-14 12:28:01,382 - INFO - Updated description for 641923
+2026-03-14 12:28:03,081 - INFO - Updated description for 641940
+2026-03-14 12:28:03,591 - INFO - 
+=== SUMMARY ===
+2026-03-14 12:28:03,591 - INFO - Total jobs in database: 1643
+2026-03-14 12:28:03,591 - INFO - New jobs added: 12
+2026-03-14 12:28:03,591 - INFO - Descriptions updated: 12
+2026-03-14 12:28:03,591 - INFO - Verified facilities: 128
+2026-03-14 12:28:03,591 - INFO - Unverified facilities: 348
+2026-03-14 12:28:03,591 - INFO - Log saved to: logs/api_scraper_20260314_122728.log
+2026-03-14 12:28:03,720 - INFO - Exported 1643 jobs to jobs.csv
