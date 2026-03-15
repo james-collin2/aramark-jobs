@@ -1,0 +1,21 @@
+2026-03-15 12:28:52,261 - INFO - Starting API job scraper
+2026-03-15 12:28:52,262 - INFO - Loaded 853 master facilities
+2026-03-15 12:28:52,262 - INFO - Fetching jobs from API...
+2026-03-15 12:28:53,745 - INFO - Total jobs found: 500
+2026-03-15 12:28:53,792 - INFO - New job: Corrections Oversight Worker - DeKalb County Georgia Jail - 641334 [UNVERIFIED: DeKalb County Georgia Jail]
+2026-03-15 12:28:53,822 - INFO - New job: Corrections Oversight Worker - Genesee County Jail - 641997 [UNVERIFIED: Genesee County Jail]
+2026-03-15 12:28:53,852 - INFO - New job: Administrative Support Worker Lead - Brevard County Food - 642046 [UNVERIFIED: Brevard County Food]
+2026-03-15 12:29:05,458 - INFO - Added 3 new jobs
+2026-03-15 12:29:05,458 - INFO - Fetching descriptions for 3 new jobs...
+2026-03-15 12:29:06,537 - INFO - Updated description for 641334
+2026-03-15 12:29:08,245 - INFO - Updated description for 641997
+2026-03-15 12:29:09,786 - INFO - Updated description for 642046
+2026-03-15 12:29:10,636 - INFO - 
+=== SUMMARY ===
+2026-03-15 12:29:10,636 - INFO - Total jobs in database: 1646
+2026-03-15 12:29:10,636 - INFO - New jobs added: 3
+2026-03-15 12:29:10,636 - INFO - Descriptions updated: 3
+2026-03-15 12:29:10,636 - INFO - Verified facilities: 128
+2026-03-15 12:29:10,636 - INFO - Unverified facilities: 348
+2026-03-15 12:29:10,636 - INFO - Log saved to: logs/api_scraper_20260315_122852.log
+2026-03-15 12:29:10,836 - INFO - Exported 1646 jobs to jobs.csv
