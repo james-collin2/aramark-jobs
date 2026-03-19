@@ -1,0 +1,49 @@
+2026-03-19 12:37:21,254 - INFO - Starting API job scraper
+2026-03-19 12:37:21,254 - INFO - Loaded 853 master facilities
+2026-03-19 12:37:21,254 - INFO - Fetching jobs from API...
+2026-03-19 12:37:23,654 - INFO - Total jobs found: 500
+2026-03-19 12:37:23,707 - INFO - New job: Corrections Oversight Worker - St. Lucie County Jail - 642226 [UNVERIFIED: St. Lucie County Jail]
+2026-03-19 12:37:23,708 - INFO - New job: Food Service Manager - 642497 [No facility found]
+2026-03-19 12:37:23,744 - INFO - New job: Food Service Worker Lead - Winnebago County Jail WI - 642521 [UNVERIFIED: Winnebago County Jail WI]
+2026-03-19 12:37:23,776 - INFO - New job: Food Service Worker - Pottawattamie County - 642526 [UNVERIFIED: Pottawattamie County]
+2026-03-19 12:37:23,808 - INFO - New job: Cook - Pottawattamie County - 642528 [UNVERIFIED: Pottawattamie County]
+2026-03-19 12:37:23,840 - INFO - New job: Cook - Pottawattamie County - 642531 [UNVERIFIED: Pottawattamie County]
+2026-03-19 12:37:23,878 - INFO - New job: Food Service Worker - Richmond City Justice Ctr - 642536 [UNVERIFIED: Richmond City Justice Ctr]
+2026-03-19 12:37:23,913 - INFO - New job: Food Service Worker - Santa Ana City Jail - 642658 [UNVERIFIED: Santa Ana City Jail]
+2026-03-19 12:37:23,913 - INFO - New job: Food Service Manager - 642666 [No facility found]
+2026-03-19 12:37:23,957 - INFO - New job: Warehouse Worker - Mecklenburg County Commissary - 642692 [UNVERIFIED: Mecklenburg County Commissary]
+2026-03-19 12:37:23,989 - INFO - New job: Corrections Oversight Worker - Cumberland County Jail - 642699 [UNVERIFIED: Cumberland County Jail]
+2026-03-19 12:37:23,989 - INFO - New job: Corrections Oversight Worker - 642747 [No facility found]
+2026-03-19 12:37:24,027 - INFO - New job: Food Service Worker - Chillicothe Correctional Center - 642748 [VERIFIED: Chillicothe Correctional Center]
+2026-03-19 12:37:24,065 - INFO - New job: Food Service Worker Lead - Chillicothe Correctional Center - 642751 [VERIFIED: Chillicothe Correctional Center]
+2026-03-19 12:37:24,094 - INFO - New job: Food Service Worker Lead - Multnomah/Inverness - 642784 [UNVERIFIED: Multnomah/Inverness]
+2026-03-19 12:37:24,128 - INFO - New job: Cook - Westchester County D.O.C. - 642797 [UNVERIFIED: Westchester County D.O.C.]
+2026-03-19 12:37:24,149 - INFO - New job: Cook Supervisor - Putnam - CI - (214) - 642801 [UNVERIFIED: Putnam - CI]
+2026-03-19 12:37:34,739 - INFO - Added 17 new jobs
+2026-03-19 12:37:34,739 - INFO - Fetching descriptions for 17 new jobs...
+2026-03-19 12:37:36,145 - INFO - Updated description for 642226
+2026-03-19 12:37:37,836 - INFO - Updated description for 642497
+2026-03-19 12:37:39,709 - INFO - Updated description for 642521
+2026-03-19 12:37:41,500 - INFO - Updated description for 642526
+2026-03-19 12:37:43,243 - INFO - Updated description for 642528
+2026-03-19 12:37:44,965 - INFO - Updated description for 642531
+2026-03-19 12:37:46,670 - INFO - Updated description for 642536
+2026-03-19 12:37:48,450 - INFO - Updated description for 642658
+2026-03-19 12:37:50,192 - INFO - Updated description for 642666
+2026-03-19 12:37:52,029 - INFO - Updated description for 642692
+2026-03-19 12:37:53,710 - INFO - Updated description for 642699
+2026-03-19 12:37:55,519 - INFO - Updated description for 642747
+2026-03-19 12:37:57,184 - INFO - Updated description for 642748
+2026-03-19 12:37:58,948 - INFO - Updated description for 642751
+2026-03-19 12:38:00,620 - INFO - Updated description for 642784
+2026-03-19 12:38:02,370 - INFO - Updated description for 642797
+2026-03-19 12:38:04,258 - INFO - Updated description for 642801
+2026-03-19 12:38:04,766 - INFO - 
+=== SUMMARY ===
+2026-03-19 12:38:04,766 - INFO - Total jobs in database: 1688
+2026-03-19 12:38:04,766 - INFO - New jobs added: 17
+2026-03-19 12:38:04,767 - INFO - Descriptions updated: 17
+2026-03-19 12:38:04,767 - INFO - Verified facilities: 128
+2026-03-19 12:38:04,767 - INFO - Unverified facilities: 351
+2026-03-19 12:38:04,767 - INFO - Log saved to: logs/api_scraper_20260319_123721.log
+2026-03-19 12:38:04,909 - INFO - Exported 1688 jobs to jobs.csv
