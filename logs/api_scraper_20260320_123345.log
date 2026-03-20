@@ -1,0 +1,43 @@
+2026-03-20 12:33:45,263 - INFO - Starting API job scraper
+2026-03-20 12:33:45,263 - INFO - Loaded 853 master facilities
+2026-03-20 12:33:45,263 - INFO - Fetching jobs from API...
+2026-03-20 12:33:51,593 - INFO - Total jobs found: 500
+2026-03-20 12:33:51,676 - INFO - New job: Cook Supervisor - Hamilton County Jail - 642832 [UNVERIFIED: Hamilton County Jail]
+2026-03-20 12:33:51,703 - INFO - New job: Corrections Oversight Worker - ASPC - Perryville - 642833 [UNVERIFIED: ASPC - Perryville]
+2026-03-20 12:33:51,731 - INFO - New job: Corrections Oversight Worker - ASPC - Perryville - 642837 [UNVERIFIED: ASPC - Perryville]
+2026-03-20 12:33:51,758 - INFO - New job: Corrections Oversight Worker - ASPC - Perryville - 642838 [UNVERIFIED: ASPC - Perryville]
+2026-03-20 12:33:51,797 - INFO - New job: Commissary Worker - Santa Barbara County Commissary - 642840 [UNVERIFIED: Santa Barbara County Commissary]
+2026-03-20 12:33:51,798 - INFO - New job: Commissary Manager - 642848 [No facility found]
+2026-03-20 12:33:51,834 - INFO - New job: Corrections Oversight Worker - Anne Arundel County - ORCC - 642868 [UNVERIFIED: Anne Arundel County - ORCC]
+2026-03-20 12:33:51,864 - INFO - New job: Cook - Dutchess County Jail - 642880 [UNVERIFIED: Dutchess County Jail]
+2026-03-20 12:33:51,886 - INFO - New job: Food Service Worker - Vernon County - 642931 [UNVERIFIED: Vernon County]
+2026-03-20 12:33:51,934 - INFO - New job: Corrections Oversight Worker - Central Regional Jail and Correctional Facility - 642962 [VERIFIED: Central Arizona Correctional Facility[3]]
+2026-03-20 12:33:51,963 - INFO - New job: Food Service Worker - Stephenson County Jail - 642976 [UNVERIFIED: Stephenson County Jail]
+2026-03-20 12:33:52,002 - INFO - New job: Driver II - Wabash Valley Correctional Facility - 642978 [VERIFIED: Wabash Valley Correctional Facility]
+2026-03-20 12:33:52,033 - INFO - New job: Commissary Worker - Pinal County Commissary - 642981 [UNVERIFIED: Pinal County Commissary]
+2026-03-20 12:33:52,072 - INFO - New job: Corrections Inmate Worker - Madison Transitional Facility - (Adult/Juvenile) - 643041 [VERIFIED: Madison Correctional Facility]
+2026-03-20 12:34:02,622 - INFO - Added 14 new jobs
+2026-03-20 12:34:02,622 - INFO - Fetching descriptions for 14 new jobs...
+2026-03-20 12:34:03,786 - INFO - Updated description for 642832
+2026-03-20 12:34:05,507 - INFO - Updated description for 642833
+2026-03-20 12:34:07,072 - INFO - Updated description for 642837
+2026-03-20 12:34:08,712 - INFO - Updated description for 642838
+2026-03-20 12:34:10,381 - INFO - Updated description for 642840
+2026-03-20 12:34:12,127 - INFO - Updated description for 642848
+2026-03-20 12:34:13,723 - INFO - Updated description for 642868
+2026-03-20 12:34:15,265 - INFO - Updated description for 642880
+2026-03-20 12:34:16,831 - INFO - Updated description for 642931
+2026-03-20 12:34:18,447 - INFO - Updated description for 642962
+2026-03-20 12:34:20,079 - INFO - Updated description for 642976
+2026-03-20 12:34:21,657 - INFO - Updated description for 642978
+2026-03-20 12:34:23,290 - INFO - Updated description for 642981
+2026-03-20 12:34:24,950 - INFO - Updated description for 643041
+2026-03-20 12:34:25,461 - INFO - 
+=== SUMMARY ===
+2026-03-20 12:34:25,461 - INFO - Total jobs in database: 1702
+2026-03-20 12:34:25,461 - INFO - New jobs added: 14
+2026-03-20 12:34:25,461 - INFO - Descriptions updated: 14
+2026-03-20 12:34:25,461 - INFO - Verified facilities: 128
+2026-03-20 12:34:25,461 - INFO - Unverified facilities: 352
+2026-03-20 12:34:25,461 - INFO - Log saved to: logs/api_scraper_20260320_123345.log
+2026-03-20 12:34:25,616 - INFO - Exported 1702 jobs to jobs.csv
