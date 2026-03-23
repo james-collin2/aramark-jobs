@@ -1,0 +1,19 @@
+2026-03-23 12:39:57,161 - INFO - Starting API job scraper
+2026-03-23 12:39:57,162 - INFO - Loaded 853 master facilities
+2026-03-23 12:39:57,162 - INFO - Fetching jobs from API...
+2026-03-23 12:40:01,571 - INFO - Total jobs found: 500
+2026-03-23 12:40:01,615 - INFO - New job: Food Service Worker - Charlotte County Food - 643289 [UNVERIFIED: Charlotte County Food]
+2026-03-23 12:40:01,647 - INFO - New job: Food Service Supervisor - Charlotte County Food - 643290 [UNVERIFIED: Charlotte County Food]
+2026-03-23 12:40:13,111 - INFO - Added 2 new jobs
+2026-03-23 12:40:13,111 - INFO - Fetching descriptions for 2 new jobs...
+2026-03-23 12:40:14,277 - INFO - Updated description for 643289
+2026-03-23 12:40:15,976 - INFO - Updated description for 643290
+2026-03-23 12:40:16,485 - INFO - 
+=== SUMMARY ===
+2026-03-23 12:40:16,485 - INFO - Total jobs in database: 1709
+2026-03-23 12:40:16,485 - INFO - New jobs added: 2
+2026-03-23 12:40:16,485 - INFO - Descriptions updated: 2
+2026-03-23 12:40:16,485 - INFO - Verified facilities: 130
+2026-03-23 12:40:16,485 - INFO - Unverified facilities: 352
+2026-03-23 12:40:16,485 - INFO - Log saved to: logs/api_scraper_20260323_123957.log
+2026-03-23 12:40:16,629 - INFO - Exported 1709 jobs to jobs.csv
