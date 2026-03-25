@@ -1,0 +1,47 @@
+2026-03-25 12:41:26,951 - INFO - Starting API job scraper
+2026-03-25 12:41:26,952 - INFO - Loaded 853 master facilities
+2026-03-25 12:41:26,952 - INFO - Fetching jobs from API...
+2026-03-25 12:41:32,948 - INFO - Total jobs found: 500
+2026-03-25 12:41:32,999 - INFO - New job: Warehouse Worker Lead - USG - OH WAREHOUSE - FE - 642418 [UNVERIFIED: USG - OH WAREHOUSE - FE]
+2026-03-25 12:41:33,028 - INFO - New job: Commissary Worker - Monterey County Commissary - 643004 [UNVERIFIED: Monterey County Commissary]
+2026-03-25 12:41:33,059 - INFO - New job: Commissary Worker - DuPage County Commissary - 643491 [UNVERIFIED: DuPage County Commissary]
+2026-03-25 12:41:33,105 - INFO - New job: Food Service Supervisor - Western Regional Jail and Correctional Facility - 643518 [VERIFIED: Eastern Oregon Youth Correctional Facility]
+2026-03-25 12:41:33,130 - INFO - New job: Food Service Worker Lead - Wichita City Jail - 643522 [UNVERIFIED: Wichita City Jail]
+2026-03-25 12:41:33,155 - INFO - New job: Food Service Worker - St. Mary's County - 643573 [UNVERIFIED: St. Mary's County]
+2026-03-25 12:41:33,182 - INFO - New job: Food Service Worker - Multnomah/Inverness - 643686 [UNVERIFIED: Multnomah/Inverness]
+2026-03-25 12:41:33,216 - INFO - New job: Administrative Support Worker - Correctional Industrial Facility - 643709 [VERIFIED: Correctional Industrial Facility]
+2026-03-25 12:41:33,243 - INFO - New job: Cook Supervisor - Lancaster - CI/WC - (281/280) - 643722 [UNVERIFIED: Lancaster - CI/WC]
+2026-03-25 12:41:33,245 - INFO - New job: Food Service Director - 643747 [No facility found]
+2026-03-25 12:41:33,279 - INFO - New job: Warehouse Supervisor - USG - OH WAREHOUSE - FE - 643772 [UNVERIFIED: USG - OH WAREHOUSE - FE]
+2026-03-25 12:41:33,322 - INFO - New job: Food Service Worker - Riverbend Maximum Security Institution - 643777 [VERIFIED: Riverbend Maximum Security Institution]
+2026-03-25 12:41:33,369 - INFO - New job: Corrections Oversight Worker - Lancaster County Detention Ctr (SC) - 643797 [UNVERIFIED: Lancaster County Detention Ctr (SC)]
+2026-03-25 12:41:33,402 - INFO - New job: Food Service Worker - St Clair County Jail (MI) - 643859 [UNVERIFIED: St Clair County Jail (MI)]
+2026-03-25 12:41:33,450 - INFO - New job: Corrections Oversight Worker - Eastern Reception, Diagnostic and CC - 643869 [VERIFIED: Denver Reception & Diagnostic Center]
+2026-03-25 12:41:33,484 - INFO - New job: Retail Sales Worker - Tom Green County Commissary - 643910 [UNVERIFIED: Tom Green County Commissary]
+2026-03-25 12:41:43,260 - INFO - Added 16 new jobs
+2026-03-25 12:41:43,260 - INFO - Fetching descriptions for 16 new jobs...
+2026-03-25 12:41:44,634 - INFO - Updated description for 642418
+2026-03-25 12:41:46,564 - INFO - Updated description for 643004
+2026-03-25 12:41:48,157 - INFO - Updated description for 643491
+2026-03-25 12:41:49,772 - INFO - Updated description for 643518
+2026-03-25 12:41:51,587 - INFO - Updated description for 643522
+2026-03-25 12:41:53,299 - INFO - Updated description for 643573
+2026-03-25 12:41:54,911 - INFO - Updated description for 643686
+2026-03-25 12:41:56,648 - INFO - Updated description for 643709
+2026-03-25 12:41:58,260 - INFO - Updated description for 643722
+2026-03-25 12:41:59,920 - INFO - Updated description for 643747
+2026-03-25 12:42:01,568 - INFO - Updated description for 643772
+2026-03-25 12:42:03,162 - INFO - Updated description for 643777
+2026-03-25 12:42:04,885 - INFO - Updated description for 643797
+2026-03-25 12:42:06,514 - INFO - Updated description for 643859
+2026-03-25 12:42:08,105 - INFO - Updated description for 643869
+2026-03-25 12:42:10,447 - INFO - Updated description for 643910
+2026-03-25 12:42:10,954 - INFO - 
+=== SUMMARY ===
+2026-03-25 12:42:10,954 - INFO - Total jobs in database: 1735
+2026-03-25 12:42:10,954 - INFO - New jobs added: 16
+2026-03-25 12:42:10,954 - INFO - Descriptions updated: 16
+2026-03-25 12:42:10,954 - INFO - Verified facilities: 130
+2026-03-25 12:42:10,954 - INFO - Unverified facilities: 352
+2026-03-25 12:42:10,954 - INFO - Log saved to: logs/api_scraper_20260325_124126.log
+2026-03-25 12:42:11,088 - INFO - Exported 1735 jobs to jobs.csv
