@@ -1,0 +1,29 @@
+2026-03-26 12:49:41,021 - INFO - Starting API job scraper
+2026-03-26 12:49:41,022 - INFO - Loaded 853 master facilities
+2026-03-26 12:49:41,022 - INFO - Fetching jobs from API...
+2026-03-26 12:49:42,303 - INFO - Total jobs found: 500
+2026-03-26 12:49:42,304 - INFO - New job: Food Service Manager - 643956 [No facility found]
+2026-03-26 12:49:42,364 - INFO - New job: Corrections Oversight Worker - Lucas County Juvenile Court - 644020 [UNVERIFIED: Lucas County Juvenile Court]
+2026-03-26 12:49:42,406 - INFO - New job: Food Service Worker Lead - Toledo Schools & Academies - 644022 [UNVERIFIED: Toledo Schools & Academies]
+2026-03-26 12:49:42,407 - INFO - New job: Corrections Oversight Worker - 644107 [No facility found]
+2026-03-26 12:49:42,440 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 644108 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-03-26 12:49:42,466 - INFO - New job: Corrections Oversight Worker - Charlotte - CI - (510) - 644183 [UNVERIFIED: Charlotte - CI]
+2026-03-26 12:49:42,466 - INFO - New job: Housekeeper - 644192 [No facility found]
+2026-03-26 12:49:53,437 - INFO - Added 7 new jobs
+2026-03-26 12:49:53,438 - INFO - Fetching descriptions for 7 new jobs...
+2026-03-26 12:49:54,524 - INFO - Updated description for 643956
+2026-03-26 12:49:56,078 - INFO - Updated description for 644020
+2026-03-26 12:49:57,680 - INFO - Updated description for 644022
+2026-03-26 12:49:59,271 - INFO - Updated description for 644107
+2026-03-26 12:50:00,803 - INFO - Updated description for 644108
+2026-03-26 12:50:02,337 - INFO - Updated description for 644183
+2026-03-26 12:50:03,897 - INFO - Updated description for 644192
+2026-03-26 12:50:04,404 - INFO - 
+=== SUMMARY ===
+2026-03-26 12:50:04,404 - INFO - Total jobs in database: 1742
+2026-03-26 12:50:04,404 - INFO - New jobs added: 7
+2026-03-26 12:50:04,404 - INFO - Descriptions updated: 7
+2026-03-26 12:50:04,404 - INFO - Verified facilities: 130
+2026-03-26 12:50:04,404 - INFO - Unverified facilities: 353
+2026-03-26 12:50:04,404 - INFO - Log saved to: logs/api_scraper_20260326_124941.log
+2026-03-26 12:50:04,550 - INFO - Exported 1742 jobs to jobs.csv
