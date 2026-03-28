@@ -1,0 +1,39 @@
+2026-03-28 12:30:54,143 - INFO - Starting API job scraper
+2026-03-28 12:30:54,144 - INFO - Loaded 853 master facilities
+2026-03-28 12:30:54,144 - INFO - Fetching jobs from API...
+2026-03-28 12:30:57,292 - INFO - Total jobs found: 500
+2026-03-28 12:30:57,364 - INFO - New job: Food Service Worker - Topeka Correctional - 644413 [UNVERIFIED: Topeka Correctional]
+2026-03-28 12:30:57,390 - INFO - New job: Corrections Oversight Worker - El Dorado Correctional - 644416 [VERIFIED: El Dorado Correctional Facility]
+2026-03-28 12:30:57,445 - INFO - New job: Corrections Oversight Worker - Lancaster/York Youth Intervention Centers - 644417 [UNVERIFIED: Lancaster/York Youth Intervention Centers]
+2026-03-28 12:30:57,489 - INFO - New job: Food Service Worker - Solano County Probation Department - 644425 [UNVERIFIED: Solano County Probation Department]
+2026-03-28 12:30:57,519 - INFO - New job: Retail Sales Worker Lead - Lancaster County Prison - 644432 [UNVERIFIED: Lancaster County Prison]
+2026-03-28 12:30:57,548 - INFO - New job: Food Service Worker Lead - Lancaster County Prison - 644435 [UNVERIFIED: Lancaster County Prison]
+2026-03-28 12:30:57,586 - INFO - New job: Maintenance Worker I - Oriana House (Facilities) - 644438 [UNVERIFIED: Oriana House (Facilities)]
+2026-03-28 12:30:57,612 - INFO - New job: Cook - Taylor County Jail - 644453 [UNVERIFIED: Taylor County Jail]
+2026-03-28 12:30:57,644 - INFO - New job: Corrections Oversight Worker - Northwest Correctional Complex - 644464 [VERIFIED: Northwest Correctional Complex]
+2026-03-28 12:30:57,681 - INFO - New job: Commissary Worker - Indian River County Commissary - 644468 [UNVERIFIED: Indian River County Commissary]
+2026-03-28 12:30:57,709 - INFO - New job: Corrections Oversight Worker - Caroline County Jail - 644547 [UNVERIFIED: Caroline County Jail]
+2026-03-28 12:30:57,710 - INFO - New job: Field Sales Specialist - 644767 [No facility found]
+2026-03-28 12:31:07,869 - INFO - Added 12 new jobs
+2026-03-28 12:31:07,869 - INFO - Fetching descriptions for 12 new jobs...
+2026-03-28 12:31:08,912 - INFO - Updated description for 644413
+2026-03-28 12:31:10,472 - INFO - Updated description for 644416
+2026-03-28 12:31:11,999 - INFO - Updated description for 644417
+2026-03-28 12:31:13,603 - INFO - Updated description for 644425
+2026-03-28 12:31:15,122 - INFO - Updated description for 644432
+2026-03-28 12:31:16,838 - INFO - Updated description for 644435
+2026-03-28 12:31:18,487 - INFO - Updated description for 644438
+2026-03-28 12:31:20,030 - INFO - Updated description for 644453
+2026-03-28 12:31:21,576 - INFO - Updated description for 644464
+2026-03-28 12:31:23,222 - INFO - Updated description for 644468
+2026-03-28 12:31:24,880 - INFO - Updated description for 644547
+2026-03-28 12:31:26,490 - INFO - Updated description for 644767
+2026-03-28 12:31:26,998 - INFO - 
+=== SUMMARY ===
+2026-03-28 12:31:26,998 - INFO - Total jobs in database: 1761
+2026-03-28 12:31:26,998 - INFO - New jobs added: 12
+2026-03-28 12:31:26,998 - INFO - Descriptions updated: 12
+2026-03-28 12:31:26,998 - INFO - Verified facilities: 131
+2026-03-28 12:31:26,998 - INFO - Unverified facilities: 353
+2026-03-28 12:31:26,998 - INFO - Log saved to: logs/api_scraper_20260328_123054.log
+2026-03-28 12:31:27,135 - INFO - Exported 1761 jobs to jobs.csv
