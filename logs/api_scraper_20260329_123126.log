@@ -1,0 +1,33 @@
+2026-03-29 12:31:26,228 - INFO - Starting API job scraper
+2026-03-29 12:31:26,228 - INFO - Loaded 853 master facilities
+2026-03-29 12:31:26,228 - INFO - Fetching jobs from API...
+2026-03-29 12:31:27,856 - INFO - Total jobs found: 500
+2026-03-29 12:31:27,913 - INFO - New job: Corrections Oversight Worker - Lackawanna County Prison - 642210 [UNVERIFIED: Lackawanna County Prison]
+2026-03-29 12:31:27,948 - INFO - New job: Commissary Worker - Martin County Commissary - 643433 [UNVERIFIED: Martin County Commissary]
+2026-03-29 12:31:27,983 - INFO - New job: Corrections Oversight Worker - Clinton County Sheriff IA - 644554 [UNVERIFIED: Clinton County Sheriff IA]
+2026-03-29 12:31:28,005 - INFO - New job: Food Service Supervisor - ASPC - Eyman - 644688 [UNVERIFIED: ASPC - Eyman]
+2026-03-29 12:31:28,030 - INFO - New job: Corrections Oversight Worker - Lansing Correctional - 644701 [VERIFIED: Lansing Correctional Facility]
+2026-03-29 12:31:28,072 - INFO - New job: Corrections Oversight Worker - Eastern Kentucky Correctional Complex - 644761 [VERIFIED: Eastern Kentucky Correctional Complex]
+2026-03-29 12:31:28,099 - INFO - New job: Corrections Oversight Worker - VOA Mansfield - 644772 [UNVERIFIED: VOA Mansfield]
+2026-03-29 12:31:28,128 - INFO - New job: Corrections Oversight Worker - Preble County Jail - 644793 [UNVERIFIED: Preble County Jail]
+2026-03-29 12:31:28,162 - INFO - New job: Lead Cook - Iredell County Jail - 644813 [UNVERIFIED: Iredell County Jail]
+2026-03-29 12:31:39,493 - INFO - Added 9 new jobs
+2026-03-29 12:31:39,493 - INFO - Fetching descriptions for 9 new jobs...
+2026-03-29 12:31:40,643 - INFO - Updated description for 642210
+2026-03-29 12:31:42,297 - INFO - Updated description for 643433
+2026-03-29 12:31:43,971 - INFO - Updated description for 644554
+2026-03-29 12:31:45,665 - INFO - Updated description for 644688
+2026-03-29 12:31:47,478 - INFO - Updated description for 644701
+2026-03-29 12:31:49,195 - INFO - Updated description for 644761
+2026-03-29 12:31:50,856 - INFO - Updated description for 644772
+2026-03-29 12:31:52,511 - INFO - Updated description for 644793
+2026-03-29 12:31:54,179 - INFO - Updated description for 644813
+2026-03-29 12:31:54,687 - INFO - 
+=== SUMMARY ===
+2026-03-29 12:31:54,687 - INFO - Total jobs in database: 1770
+2026-03-29 12:31:54,687 - INFO - New jobs added: 9
+2026-03-29 12:31:54,687 - INFO - Descriptions updated: 9
+2026-03-29 12:31:54,687 - INFO - Verified facilities: 131
+2026-03-29 12:31:54,687 - INFO - Unverified facilities: 355
+2026-03-29 12:31:54,687 - INFO - Log saved to: logs/api_scraper_20260329_123126.log
+2026-03-29 12:31:54,831 - INFO - Exported 1770 jobs to jobs.csv
