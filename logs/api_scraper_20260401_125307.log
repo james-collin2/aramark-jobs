@@ -1,0 +1,29 @@
+2026-04-01 12:53:07,779 - INFO - Starting API job scraper
+2026-04-01 12:53:07,780 - INFO - Loaded 853 master facilities
+2026-04-01 12:53:07,780 - INFO - Fetching jobs from API...
+2026-04-01 12:53:10,952 - INFO - Total jobs found: 500
+2026-04-01 12:53:10,953 - INFO - New job: Cook - 644659 [No facility found]
+2026-04-01 12:53:10,953 - INFO - New job: Facilities Quality Standards Manager - 644925 [No facility found]
+2026-04-01 12:53:11,002 - INFO - New job: Cook - Escambia County Jail - 645203 [UNVERIFIED: Escambia County Jail]
+2026-04-01 12:53:11,040 - INFO - New job: Food Service Worker/Driver - Sojourner Recovery Center - 645214 [VERIFIED: Southern Maine Reentry Center]
+2026-04-01 12:53:11,062 - INFO - New job: Food Service Worker Lead - Marion - CI/WC - (304/364) - 645220 [UNVERIFIED: Marion - CI/WC]
+2026-04-01 12:53:11,094 - INFO - New job: Cook - Orange County (NY) Jail - 645232 [UNVERIFIED: Orange County (NY) Jail]
+2026-04-01 12:53:11,119 - INFO - New job: Corrections Oversight Worker - Lancaster - CI/WC - (281/280) - 645291 [UNVERIFIED: Lancaster - CI/WC]
+2026-04-01 12:53:21,776 - INFO - Added 7 new jobs
+2026-04-01 12:53:21,776 - INFO - Fetching descriptions for 7 new jobs...
+2026-04-01 12:53:22,980 - INFO - Updated description for 644659
+2026-04-01 12:53:24,635 - INFO - Updated description for 644925
+2026-04-01 12:53:26,352 - INFO - Updated description for 645203
+2026-04-01 12:53:28,088 - INFO - Updated description for 645214
+2026-04-01 12:53:29,758 - INFO - Updated description for 645220
+2026-04-01 12:53:31,383 - INFO - Updated description for 645232
+2026-04-01 12:53:33,082 - INFO - Updated description for 645291
+2026-04-01 12:53:33,590 - INFO - 
+=== SUMMARY ===
+2026-04-01 12:53:33,590 - INFO - Total jobs in database: 1797
+2026-04-01 12:53:33,590 - INFO - New jobs added: 7
+2026-04-01 12:53:33,590 - INFO - Descriptions updated: 7
+2026-04-01 12:53:33,590 - INFO - Verified facilities: 131
+2026-04-01 12:53:33,590 - INFO - Unverified facilities: 356
+2026-04-01 12:53:33,590 - INFO - Log saved to: logs/api_scraper_20260401_125307.log
+2026-04-01 12:53:33,747 - INFO - Exported 1797 jobs to jobs.csv
