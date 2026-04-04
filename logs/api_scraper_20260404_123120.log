@@ -1,0 +1,43 @@
+2026-04-04 12:31:20,707 - INFO - Starting API job scraper
+2026-04-04 12:31:20,708 - INFO - Loaded 853 master facilities
+2026-04-04 12:31:20,708 - INFO - Fetching jobs from API...
+2026-04-04 12:31:26,063 - INFO - Total jobs found: 500
+2026-04-04 12:31:26,065 - INFO - New job: Corrections Oversight Worker - 646040 [No facility found]
+2026-04-04 12:31:26,114 - INFO - New job: Corrections Oversight Worker - Ohio Reformatory for Women - 645734 [VERIFIED: Ohio Reformatory for Women]
+2026-04-04 12:31:26,152 - INFO - New job: Corrections Oversight Worker - Southeastern Correctional Facility - 645853 [VERIFIED: Eastern Correctional Facility]
+2026-04-04 12:31:26,153 - INFO - New job: Food Service Manager - 645870 [No facility found]
+2026-04-04 12:31:26,197 - INFO - New job: Warehouse Worker III - USG - USCS - TX PICK & PACK LINE - 645878 [UNVERIFIED: USG - USCS - TX PICK & PACK LINE]
+2026-04-04 12:31:26,234 - INFO - New job: Driver II - Sacramento County Commissary - 645907 [UNVERIFIED: Sacramento County Commissary]
+2026-04-04 12:31:26,263 - INFO - New job: Food Service Worker - St John County Jail - 645958 [UNVERIFIED: St John County Jail]
+2026-04-04 12:31:26,288 - INFO - New job: Kitchen Supervisor - Madison - CI/WC - 645959 [UNVERIFIED: Madison - CI/WC]
+2026-04-04 12:31:26,328 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 645969 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-04-04 12:31:26,368 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 645972 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-04-04 12:31:26,408 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 645975 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-04-04 12:31:26,408 - INFO - New job: Commissary Manager - 645992 [No facility found]
+2026-04-04 12:31:26,439 - INFO - New job: Corrections Oversight Worker - Ozark Correctional Center - 645993 [VERIFIED: Ozark Correctional Center]
+2026-04-04 12:31:26,495 - INFO - New job: Corrections Oversight Worker - Western Reception, Diagnostic and Correctional Center - 645996 [VERIFIED: Western Illinois Correctional Center]
+2026-04-04 12:31:37,715 - INFO - Added 14 new jobs
+2026-04-04 12:31:37,715 - INFO - Fetching descriptions for 14 new jobs...
+2026-04-04 12:31:38,866 - INFO - Updated description for 646040
+2026-04-04 12:31:40,377 - INFO - Updated description for 645734
+2026-04-04 12:31:41,848 - INFO - Updated description for 645853
+2026-04-04 12:31:43,399 - INFO - Updated description for 645870
+2026-04-04 12:31:45,020 - INFO - Updated description for 645878
+2026-04-04 12:31:46,608 - INFO - Updated description for 645907
+2026-04-04 12:31:48,074 - INFO - Updated description for 645958
+2026-04-04 12:31:49,763 - INFO - Updated description for 645959
+2026-04-04 12:31:52,153 - INFO - Updated description for 645969
+2026-04-04 12:31:53,636 - INFO - Updated description for 645972
+2026-04-04 12:31:55,141 - INFO - Updated description for 645975
+2026-04-04 12:31:56,740 - INFO - Updated description for 645992
+2026-04-04 12:31:58,345 - INFO - Updated description for 645993
+2026-04-04 12:31:59,819 - INFO - Updated description for 645996
+2026-04-04 12:32:00,327 - INFO - 
+=== SUMMARY ===
+2026-04-04 12:32:00,327 - INFO - Total jobs in database: 1827
+2026-04-04 12:32:00,327 - INFO - New jobs added: 14
+2026-04-04 12:32:00,327 - INFO - Descriptions updated: 14
+2026-04-04 12:32:00,327 - INFO - Verified facilities: 131
+2026-04-04 12:32:00,327 - INFO - Unverified facilities: 357
+2026-04-04 12:32:00,327 - INFO - Log saved to: logs/api_scraper_20260404_123120.log
+2026-04-04 12:32:00,481 - INFO - Exported 1827 jobs to jobs.csv
