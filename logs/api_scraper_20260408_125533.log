@@ -1,0 +1,37 @@
+2026-04-08 12:55:33,515 - INFO - Starting API job scraper
+2026-04-08 12:55:33,516 - INFO - Loaded 853 master facilities
+2026-04-08 12:55:33,516 - INFO - Fetching jobs from API...
+2026-04-08 12:55:34,903 - INFO - Total jobs found: 500
+2026-04-08 12:55:34,904 - INFO - New job: Food Service Site Manager - 645938 [No facility found]
+2026-04-08 12:55:34,905 - INFO - New job: Food Service Manager - 646395 [No facility found]
+2026-04-08 12:55:34,956 - INFO - New job: Corrections Oversight Worker - Taylor - CI/Annex - (218/224) - 646406 [UNVERIFIED: Taylor - CI/Annex]
+2026-04-08 12:55:34,976 - INFO - New job: Corrections Oversight Worker - Walton - CI - (108) - 646409 [UNVERIFIED: Walton - CI]
+2026-04-08 12:55:35,009 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 646427 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-04-08 12:55:35,051 - INFO - New job: Corrections Oversight Worker - Community Transitional Services, KY - 646432 [UNVERIFIED: Community Transitional Services, KY]
+2026-04-08 12:55:35,085 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 646456 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-04-08 12:55:35,135 - INFO - New job: General Utility Worker - Baltimore County Department of Corrections - 646469 [UNVERIFIED: Baltimore County Department of Corrections]
+2026-04-08 12:55:35,135 - INFO - New job: Food Service Worker - 646539 [No facility found]
+2026-04-08 12:55:35,135 - INFO - New job: Food Service Worker - 646542 [No facility found]
+2026-04-08 12:55:35,195 - INFO - New job: Corrections Oversight Worker - North Central Regional Jail and Correctional Facility - 646131 [VERIFIED: Northeast Regional Correctional Facility]
+2026-04-08 12:55:46,097 - INFO - Added 11 new jobs
+2026-04-08 12:55:46,097 - INFO - Fetching descriptions for 11 new jobs...
+2026-04-08 12:55:47,142 - INFO - Updated description for 645938
+2026-04-08 12:55:48,693 - INFO - Updated description for 646395
+2026-04-08 12:55:50,278 - INFO - Updated description for 646406
+2026-04-08 12:55:51,921 - INFO - Updated description for 646409
+2026-04-08 12:55:53,566 - INFO - Updated description for 646427
+2026-04-08 12:55:55,127 - INFO - Updated description for 646432
+2026-04-08 12:55:56,686 - INFO - Updated description for 646456
+2026-04-08 12:55:58,338 - INFO - Updated description for 646469
+2026-04-08 12:55:59,977 - INFO - Updated description for 646539
+2026-04-08 12:56:01,710 - INFO - Updated description for 646542
+2026-04-08 12:56:03,331 - INFO - Updated description for 646131
+2026-04-08 12:56:03,838 - INFO - 
+=== SUMMARY ===
+2026-04-08 12:56:03,838 - INFO - Total jobs in database: 1851
+2026-04-08 12:56:03,839 - INFO - New jobs added: 11
+2026-04-08 12:56:03,839 - INFO - Descriptions updated: 11
+2026-04-08 12:56:03,839 - INFO - Verified facilities: 131
+2026-04-08 12:56:03,839 - INFO - Unverified facilities: 357
+2026-04-08 12:56:03,839 - INFO - Log saved to: logs/api_scraper_20260408_125533.log
+2026-04-08 12:56:03,994 - INFO - Exported 1851 jobs to jobs.csv
