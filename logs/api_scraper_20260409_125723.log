@@ -1,0 +1,49 @@
+2026-04-09 12:57:23,268 - INFO - Starting API job scraper
+2026-04-09 12:57:23,268 - INFO - Loaded 853 master facilities
+2026-04-09 12:57:23,268 - INFO - Fetching jobs from API...
+2026-04-09 12:57:25,559 - INFO - Total jobs found: 500
+2026-04-09 12:57:25,600 - INFO - New job: Retail Sales Worker - Lansing Correctional - 646504 [VERIFIED: Lansing Correctional Facility]
+2026-04-09 12:57:25,629 - INFO - New job: Food Service Worker Lead - Desoto - Annex/WC - (564/560) - 646520 [VERIFIED: Desoto Annex]
+2026-04-09 12:57:25,663 - INFO - New job: Commissary Worker - St. Lucie County Commissary - 646593 [UNVERIFIED: St. Lucie County Commissary]
+2026-04-09 12:57:25,687 - INFO - New job: Food Service Worker Lead - Pinal County Jail - 646605 [UNVERIFIED: Pinal County Jail]
+2026-04-09 12:57:25,732 - INFO - New job: Commissary Worker - Correction Center of Northwest Ohio Commissary - 646620 [UNVERIFIED: Correction Center of Northwest Ohio Commissary]
+2026-04-09 12:57:25,764 - INFO - New job: Hourly Supervisor - Indian River County Jail - 646625 [UNVERIFIED: Indian River County Jail]
+2026-04-09 12:57:25,796 - INFO - New job: Warehouse Worker III - USG - TX WAREHOUSE - FE - 646659 [UNVERIFIED: USG - TX WAREHOUSE - FE]
+2026-04-09 12:57:25,837 - INFO - New job: Retail Sales Worker Lead - Clinton County Correctional Facility - PA - 646708 [VERIFIED: Bent County Correctional Facility]
+2026-04-09 12:57:25,838 - INFO - New job: Food Service Worker - 646727 [No facility found]
+2026-04-09 12:57:25,859 - INFO - New job: Corrections Oversight Worker - Ross County OH - 646760 [UNVERIFIED: Ross County OH]
+2026-04-09 12:57:25,899 - INFO - New job: Corrections Oversight Worker - Richmond County Sheriff's Office Jail - 646770 [UNVERIFIED: Richmond County Sheriff's Office Jail]
+2026-04-09 12:57:25,900 - INFO - New job: Fair Chance & Talent Placement Manager - 646808 [No facility found]
+2026-04-09 12:57:25,927 - INFO - New job: Corrections Oversight Worker - Pinellas County Food - 646374 [UNVERIFIED: Pinellas County Food]
+2026-04-09 12:57:25,960 - INFO - New job: Commissary Worker - USG - USCS - SOUTH DAKOTA - 646399 [UNVERIFIED: USG - USCS - SOUTH DAKOTA]
+2026-04-09 12:57:26,023 - INFO - New job: Food Service Worker Lead - Hillsborough County Commissary - Yavapai County Sheriff's Office - 646444 [UNVERIFIED: Hillsborough County Commissary - Yavapai County Sheriff's Office]
+2026-04-09 12:57:26,069 - INFO - New job: Cook - Baltimore County Department of Corrections - 646480 [UNVERIFIED: Baltimore County Department of Corrections]
+2026-04-09 12:57:26,114 - INFO - New job: Food Service Worker - Baltimore County Department of Corrections - 646482 [UNVERIFIED: Baltimore County Department of Corrections]
+2026-04-09 12:57:36,056 - INFO - Added 17 new jobs
+2026-04-09 12:57:36,056 - INFO - Fetching descriptions for 17 new jobs...
+2026-04-09 12:57:37,280 - INFO - Updated description for 646504
+2026-04-09 12:57:39,187 - INFO - Updated description for 646520
+2026-04-09 12:57:40,768 - INFO - Updated description for 646593
+2026-04-09 12:57:42,285 - INFO - Updated description for 646605
+2026-04-09 12:57:43,871 - INFO - Updated description for 646620
+2026-04-09 12:57:45,474 - INFO - Updated description for 646625
+2026-04-09 12:57:47,198 - INFO - Updated description for 646659
+2026-04-09 12:57:48,799 - INFO - Updated description for 646708
+2026-04-09 12:57:50,437 - INFO - Updated description for 646727
+2026-04-09 12:57:52,166 - INFO - Updated description for 646760
+2026-04-09 12:57:53,970 - INFO - Updated description for 646770
+2026-04-09 12:57:55,649 - INFO - Updated description for 646808
+2026-04-09 12:57:57,403 - INFO - Updated description for 646374
+2026-04-09 12:57:59,101 - INFO - Updated description for 646399
+2026-04-09 12:58:00,637 - INFO - Updated description for 646444
+2026-04-09 12:58:02,142 - INFO - Updated description for 646480
+2026-04-09 12:58:03,900 - INFO - Updated description for 646482
+2026-04-09 12:58:04,408 - INFO - 
+=== SUMMARY ===
+2026-04-09 12:58:04,409 - INFO - Total jobs in database: 1868
+2026-04-09 12:58:04,409 - INFO - New jobs added: 17
+2026-04-09 12:58:04,409 - INFO - Descriptions updated: 17
+2026-04-09 12:58:04,409 - INFO - Verified facilities: 131
+2026-04-09 12:58:04,409 - INFO - Unverified facilities: 360
+2026-04-09 12:58:04,409 - INFO - Log saved to: logs/api_scraper_20260409_125723.log
+2026-04-09 12:58:04,554 - INFO - Exported 1868 jobs to jobs.csv
