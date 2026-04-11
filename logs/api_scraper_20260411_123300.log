@@ -1,0 +1,35 @@
+2026-04-11 12:33:00,598 - INFO - Starting API job scraper
+2026-04-11 12:33:00,599 - INFO - Loaded 853 master facilities
+2026-04-11 12:33:00,599 - INFO - Fetching jobs from API...
+2026-04-11 12:33:17,202 - INFO - Total jobs found: 500
+2026-04-11 12:33:17,203 - INFO - New job: Food Service Manager - 646217 [No facility found]
+2026-04-11 12:33:17,203 - INFO - New job: Food Service Manager - 646721 [No facility found]
+2026-04-11 12:33:17,204 - INFO - New job: Food Service Director - 646984 [No facility found]
+2026-04-11 12:33:17,204 - INFO - New job: Regional Finance Director - 647087 [No facility found]
+2026-04-11 12:33:17,263 - INFO - New job: Cook - Harris County Sheriff Food - 647117 [UNVERIFIED: Harris County Sheriff Food]
+2026-04-11 12:33:17,327 - INFO - New job: Corrections Oversight Worker - Women's Eastern Reception, Diagnostic and Correctional Center - 647208 [UNVERIFIED: Women's Eastern Reception, Diagnostic and Correctional Center]
+2026-04-11 12:33:17,327 - INFO - New job: Food Service Worker - 647210 [No facility found]
+2026-04-11 12:33:17,328 - INFO - New job: General Manager I - 647220 [No facility found]
+2026-04-11 12:33:17,414 - INFO - New job: Corrections Oversight Worker - Pasco County Jail - 647253 [UNVERIFIED: Pasco County Jail]
+2026-04-11 12:33:17,453 - INFO - New job: Painter I - Dona Ana (Facilities) - 647306 [UNVERIFIED: Dona Ana (Facilities)]
+2026-04-11 12:33:28,302 - INFO - Added 10 new jobs
+2026-04-11 12:33:28,303 - INFO - Fetching descriptions for 10 new jobs...
+2026-04-11 12:33:29,679 - INFO - Updated description for 646217
+2026-04-11 12:33:31,419 - INFO - Updated description for 646721
+2026-04-11 12:33:33,106 - INFO - Updated description for 646984
+2026-04-11 12:33:34,810 - INFO - Updated description for 647087
+2026-04-11 12:33:36,630 - INFO - Updated description for 647117
+2026-04-11 12:33:38,237 - INFO - Updated description for 647208
+2026-04-11 12:33:39,843 - INFO - Updated description for 647210
+2026-04-11 12:33:41,543 - INFO - Updated description for 647220
+2026-04-11 12:33:43,465 - INFO - Updated description for 647253
+2026-04-11 12:33:45,170 - INFO - Updated description for 647306
+2026-04-11 12:33:45,677 - INFO - 
+=== SUMMARY ===
+2026-04-11 12:33:45,677 - INFO - Total jobs in database: 1897
+2026-04-11 12:33:45,678 - INFO - New jobs added: 10
+2026-04-11 12:33:45,678 - INFO - Descriptions updated: 10
+2026-04-11 12:33:45,678 - INFO - Verified facilities: 131
+2026-04-11 12:33:45,678 - INFO - Unverified facilities: 360
+2026-04-11 12:33:45,678 - INFO - Log saved to: logs/api_scraper_20260411_123300.log
+2026-04-11 12:33:45,845 - INFO - Exported 1897 jobs to jobs.csv
