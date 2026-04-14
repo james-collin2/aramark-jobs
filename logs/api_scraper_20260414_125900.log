@@ -1,0 +1,51 @@
+2026-04-14 12:59:00,000 - INFO - Starting API job scraper
+2026-04-14 12:59:00,001 - INFO - Loaded 853 master facilities
+2026-04-14 12:59:00,001 - INFO - Fetching jobs from API...
+2026-04-14 12:59:03,765 - INFO - Total jobs found: 500
+2026-04-14 12:59:03,813 - INFO - New job: Food Service Worker - Pinal County Jail - 645694 [UNVERIFIED: Pinal County Jail]
+2026-04-14 12:59:03,849 - INFO - New job: Food Service Lead Worker - Hamilton County Jail (TN) - 646823 [UNVERIFIED: Hamilton County Jail (TN)]
+2026-04-14 12:59:03,850 - INFO - New job: Driver I - 647037 [No facility found]
+2026-04-14 12:59:03,850 - INFO - New job: Corrections Oversight Worker - 647350 [No facility found]
+2026-04-14 12:59:03,887 - INFO - New job: Laundry Worker - Erie County Care Facility - 647375 [VERIFIED: Otero County Prison Facility]
+2026-04-14 12:59:03,929 - INFO - New job: Food Service Worker - Franklin County Food Service - 647436 [UNVERIFIED: Franklin County Food Service]
+2026-04-14 12:59:03,957 - INFO - New job: Retail Operator Lead - Leon County Jail - 647460 [UNVERIFIED: Leon County Jail]
+2026-04-14 12:59:04,005 - INFO - New job: CCTV/Access Control General Tech - Mecklenburg County Facilities - 647472 [UNVERIFIED: Mecklenburg County Facilities]
+2026-04-14 12:59:04,042 - INFO - New job: Warehouse Worker - Tampa Commissary Warehouse - 647497 [UNVERIFIED: Tampa Commissary Warehouse]
+2026-04-14 12:59:04,063 - INFO - New job: Corrections Oversight Worker - Jackson - WC - (166) - 647521 [UNVERIFIED: Jackson - WC]
+2026-04-14 12:59:04,084 - INFO - New job: Food Service Worker - Jackson - CI - (104) - 647522 [UNVERIFIED: Jackson - CI]
+2026-04-14 12:59:04,110 - INFO - New job: Corrections Oversight Worker - Graceville - WC - (160) - 647524 [UNVERIFIED: Graceville - WC]
+2026-04-14 12:59:04,140 - INFO - New job: Corrections Oversight Worker - Iredell County Jail - 647536 [UNVERIFIED: Iredell County Jail]
+2026-04-14 12:59:04,170 - INFO - New job: Food Service Supervisor - Madera County D.O.C. - 647553 [UNVERIFIED: Madera County D.O.C.]
+2026-04-14 12:59:04,200 - INFO - New job: Food Service Worker Lead - Multnomah/Inverness - 647555 [UNVERIFIED: Multnomah/Inverness]
+2026-04-14 12:59:04,234 - INFO - New job: Corrections Oversight Worker - Suwannee - CI/Annex - (230/231) - 647557 [UNVERIFIED: Suwannee - CI/Annex]
+2026-04-14 12:59:04,234 - INFO - New job: HR Generalist Sr Specialist - 647571 [No facility found]
+2026-04-14 12:59:04,264 - INFO - New job: Food Service Worker - Multnomah/Inverness - 647623 [UNVERIFIED: Multnomah/Inverness]
+2026-04-14 12:59:15,338 - INFO - Added 18 new jobs
+2026-04-14 12:59:15,338 - INFO - Fetching descriptions for 18 new jobs...
+2026-04-14 12:59:16,888 - INFO - Updated description for 645694
+2026-04-14 12:59:18,955 - INFO - Updated description for 646823
+2026-04-14 12:59:20,929 - INFO - Updated description for 647037
+2026-04-14 12:59:22,853 - INFO - Updated description for 647350
+2026-04-14 12:59:24,613 - INFO - Updated description for 647375
+2026-04-14 12:59:26,381 - INFO - Updated description for 647436
+2026-04-14 12:59:28,132 - INFO - Updated description for 647460
+2026-04-14 12:59:29,801 - INFO - Updated description for 647472
+2026-04-14 12:59:31,418 - INFO - Updated description for 647497
+2026-04-14 12:59:33,280 - INFO - Updated description for 647521
+2026-04-14 12:59:34,898 - INFO - Updated description for 647522
+2026-04-14 12:59:37,743 - INFO - Updated description for 647524
+2026-04-14 12:59:39,408 - INFO - Updated description for 647536
+2026-04-14 12:59:41,247 - INFO - Updated description for 647553
+2026-04-14 12:59:43,148 - INFO - Updated description for 647555
+2026-04-14 12:59:44,865 - INFO - Updated description for 647557
+2026-04-14 12:59:46,652 - INFO - Updated description for 647571
+2026-04-14 12:59:48,278 - INFO - Updated description for 647623
+2026-04-14 12:59:48,785 - INFO - 
+=== SUMMARY ===
+2026-04-14 12:59:48,785 - INFO - Total jobs in database: 1915
+2026-04-14 12:59:48,785 - INFO - New jobs added: 18
+2026-04-14 12:59:48,785 - INFO - Descriptions updated: 18
+2026-04-14 12:59:48,785 - INFO - Verified facilities: 131
+2026-04-14 12:59:48,785 - INFO - Unverified facilities: 362
+2026-04-14 12:59:48,785 - INFO - Log saved to: logs/api_scraper_20260414_125900.log
+2026-04-14 12:59:48,941 - INFO - Exported 1915 jobs to jobs.csv
