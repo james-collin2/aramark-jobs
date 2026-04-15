@@ -1,0 +1,31 @@
+2026-04-15 12:58:00,935 - INFO - Starting API job scraper
+2026-04-15 12:58:00,936 - INFO - Loaded 853 master facilities
+2026-04-15 12:58:00,936 - INFO - Fetching jobs from API...
+2026-04-15 12:58:04,601 - INFO - Total jobs found: 500
+2026-04-15 12:58:04,641 - INFO - New job: Corrections Oversight Worker - Boulder County Jail - 647677 [UNVERIFIED: Boulder County Jail]
+2026-04-15 12:58:04,673 - INFO - New job: Food Service Worker - Racine County Juvenile - 647730 [UNVERIFIED: Racine County Juvenile]
+2026-04-15 12:58:04,711 - INFO - New job: Food Service Worker - Winnebago County Jail WI - 647733 [UNVERIFIED: Winnebago County Jail WI]
+2026-04-15 12:58:04,713 - INFO - New job: Culinary Director - 647764 [No facility found]
+2026-04-15 12:58:04,750 - INFO - New job: Corrections Inmate Worker - Essex County Correctional (MA) - 647789 [VERIFIED: Bledsoe County Correctional Complex]
+2026-04-15 12:58:04,786 - INFO - New job: Food Service Worker - Boonville Correctional Center - 647807 [VERIFIED: Boonville Correctional Center]
+2026-04-15 12:58:04,823 - INFO - New job: Food Service Supervisor - Mike Durfee State Prison - 647899 [VERIFIED: Mike Durfee State Prison]
+2026-04-15 12:58:04,862 - INFO - New job: Food Service Supervisor - South Dakota Women's Prison - 647900 [VERIFIED: South Dakota Women's Prison]
+2026-04-15 12:58:16,299 - INFO - Added 8 new jobs
+2026-04-15 12:58:16,299 - INFO - Fetching descriptions for 8 new jobs...
+2026-04-15 12:58:17,330 - INFO - Updated description for 647677
+2026-04-15 12:58:18,897 - INFO - Updated description for 647730
+2026-04-15 12:58:20,535 - INFO - Updated description for 647733
+2026-04-15 12:58:22,042 - INFO - Updated description for 647764
+2026-04-15 12:58:23,668 - INFO - Updated description for 647789
+2026-04-15 12:58:25,216 - INFO - Updated description for 647807
+2026-04-15 12:58:26,785 - INFO - Updated description for 647899
+2026-04-15 12:58:28,286 - INFO - Updated description for 647900
+2026-04-15 12:58:28,793 - INFO - 
+=== SUMMARY ===
+2026-04-15 12:58:28,793 - INFO - Total jobs in database: 1923
+2026-04-15 12:58:28,793 - INFO - New jobs added: 8
+2026-04-15 12:58:28,793 - INFO - Descriptions updated: 8
+2026-04-15 12:58:28,793 - INFO - Verified facilities: 131
+2026-04-15 12:58:28,793 - INFO - Unverified facilities: 362
+2026-04-15 12:58:28,793 - INFO - Log saved to: logs/api_scraper_20260415_125800.log
+2026-04-15 12:58:28,952 - INFO - Exported 1923 jobs to jobs.csv
