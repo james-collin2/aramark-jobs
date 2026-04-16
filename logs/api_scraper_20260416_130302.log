@@ -1,0 +1,21 @@
+2026-04-16 13:03:02,137 - INFO - Starting API job scraper
+2026-04-16 13:03:02,137 - INFO - Loaded 853 master facilities
+2026-04-16 13:03:02,137 - INFO - Fetching jobs from API...
+2026-04-16 13:03:06,460 - INFO - Total jobs found: 500
+2026-04-16 13:03:06,462 - INFO - New job: Finance Sr Manager - 647574 [No facility found]
+2026-04-16 13:03:06,502 - INFO - New job: Corrections Oversight Worker - Forsyth County Jail - 647984 [UNVERIFIED: Forsyth County Jail]
+2026-04-16 13:03:06,566 - INFO - New job: Food Service Worker Lead - Women's Eastern Reception, Diagnostic and Correctional Center - 648036 [UNVERIFIED: Women's Eastern Reception, Diagnostic and Correctional Center]
+2026-04-16 13:03:18,075 - INFO - Added 3 new jobs
+2026-04-16 13:03:18,075 - INFO - Fetching descriptions for 3 new jobs...
+2026-04-16 13:03:19,155 - INFO - Updated description for 647574
+2026-04-16 13:03:20,936 - INFO - Updated description for 647984
+2026-04-16 13:03:22,578 - INFO - Updated description for 648036
+2026-04-16 13:03:23,085 - INFO - 
+=== SUMMARY ===
+2026-04-16 13:03:23,085 - INFO - Total jobs in database: 1926
+2026-04-16 13:03:23,085 - INFO - New jobs added: 3
+2026-04-16 13:03:23,085 - INFO - Descriptions updated: 3
+2026-04-16 13:03:23,085 - INFO - Verified facilities: 131
+2026-04-16 13:03:23,085 - INFO - Unverified facilities: 362
+2026-04-16 13:03:23,085 - INFO - Log saved to: logs/api_scraper_20260416_130302.log
+2026-04-16 13:03:23,247 - INFO - Exported 1926 jobs to jobs.csv
