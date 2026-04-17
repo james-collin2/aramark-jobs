@@ -1,0 +1,33 @@
+2026-04-17 12:54:14,089 - INFO - Starting API job scraper
+2026-04-17 12:54:14,090 - INFO - Loaded 853 master facilities
+2026-04-17 12:54:14,090 - INFO - Fetching jobs from API...
+2026-04-17 12:54:17,251 - INFO - Total jobs found: 500
+2026-04-17 12:54:17,315 - INFO - New job: Food Service Worker - Roederer Correctional Complex - 648112 [VERIFIED: Roederer Correctional Complex]
+2026-04-17 12:54:17,356 - INFO - New job: Food Service Worker - KY Correctional Institutional for Women - 648113 [VERIFIED: Kentucky Correctional Institute for Women]
+2026-04-17 12:54:17,397 - INFO - New job: Food Service Worker - Luther Luckett Correctional Complex - 648115 [VERIFIED: Luther Luckett Correctional Complex]
+2026-04-17 12:54:17,434 - INFO - New job: Food Service Worker - Green River Correctional Complex - 648116 [VERIFIED: Green River Correctional Complex]
+2026-04-17 12:54:17,468 - INFO - New job: Food Service Worker - Kentucky State Penitentiary - 648118 [VERIFIED: Kentucky State Penitentiary]
+2026-04-17 12:54:17,497 - INFO - New job: Corrections Oversight Worker - San Joaquin County - 648121 [UNVERIFIED: San Joaquin County]
+2026-04-17 12:54:17,535 - INFO - New job: Commissary Worker - Sacramento County Commissary - 648136 [UNVERIFIED: Sacramento County Commissary]
+2026-04-17 12:54:17,584 - INFO - New job: Food Service Worker - Richland Correctional Institution - 648226 [VERIFIED: Richland Correctional Institution]
+2026-04-17 12:54:17,616 - INFO - New job: Cook Supervisor - Martin - CI/WC - (430/420) - 648305 [UNVERIFIED: Martin - CI/WC]
+2026-04-17 12:54:28,434 - INFO - Added 9 new jobs
+2026-04-17 12:54:28,434 - INFO - Fetching descriptions for 9 new jobs...
+2026-04-17 12:54:29,527 - INFO - Updated description for 648112
+2026-04-17 12:54:31,132 - INFO - Updated description for 648113
+2026-04-17 12:54:32,762 - INFO - Updated description for 648115
+2026-04-17 12:54:34,238 - INFO - Updated description for 648116
+2026-04-17 12:54:35,742 - INFO - Updated description for 648118
+2026-04-17 12:54:37,296 - INFO - Updated description for 648121
+2026-04-17 12:54:38,915 - INFO - Updated description for 648136
+2026-04-17 12:54:41,399 - INFO - Updated description for 648226
+2026-04-17 12:54:43,178 - INFO - Updated description for 648305
+2026-04-17 12:54:43,687 - INFO - 
+=== SUMMARY ===
+2026-04-17 12:54:43,687 - INFO - Total jobs in database: 1935
+2026-04-17 12:54:43,687 - INFO - New jobs added: 9
+2026-04-17 12:54:43,687 - INFO - Descriptions updated: 9
+2026-04-17 12:54:43,687 - INFO - Verified facilities: 133
+2026-04-17 12:54:43,687 - INFO - Unverified facilities: 363
+2026-04-17 12:54:43,687 - INFO - Log saved to: logs/api_scraper_20260417_125414.log
+2026-04-17 12:54:43,846 - INFO - Exported 1935 jobs to jobs.csv
