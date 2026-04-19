@@ -1,0 +1,51 @@
+2026-04-19 01:28:18,561 - INFO - Starting API job scraper
+2026-04-19 01:28:18,562 - INFO - Loaded 853 master facilities
+2026-04-19 01:28:18,562 - INFO - Fetching jobs from API...
+2026-04-19 01:28:20,919 - INFO - Total jobs found: 500
+2026-04-19 01:28:20,969 - INFO - New job: Food Service Manager - 646637 [No facility found]
+2026-04-19 01:28:20,969 - INFO - New job: Food Service Manager - 647712 [No facility found]
+2026-04-19 01:28:20,969 - INFO - New job: Food Service Manager - 648091 [No facility found]
+2026-04-19 01:28:21,009 - INFO - New job: Commissary Supervisor - USG - USCS - WEST VIRGINIA - 648227 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-04-19 01:28:21,047 - INFO - New job: Warehouse Worker Lead - USG - OH WAREHOUSE - FE - 648271 [UNVERIFIED: USG - OH WAREHOUSE - FE]
+2026-04-19 01:28:21,047 - INFO - New job: Procurement Manager - 648362 [No facility found]
+2026-04-19 01:28:21,082 - INFO - New job: Corrections Oversight Worker - Marion Correctional Institution - 648367 [VERIFIED: Marion Correctional Institution]
+2026-04-19 01:28:21,117 - INFO - New job: Corrections Oversight Worker - Southeast Correctional Center - 648374 [VERIFIED: Southeast Correctional Center]
+2026-04-19 01:28:21,152 - INFO - New job: Food Service Worker Lead - Southeast Correctional Center - 648375 [VERIFIED: Southeast Correctional Center]
+2026-04-19 01:28:21,182 - INFO - New job: Cook - Dutchess County Jail - 648377 [UNVERIFIED: Dutchess County Jail]
+2026-04-19 01:28:21,225 - INFO - New job: Corrections Oversight Worker - Transition Center of Kansas City - 648394 [VERIFIED: Transition Center of Kansas City]
+2026-04-19 01:28:21,258 - INFO - New job: Retail Sales Worker Lead - Pierce County Commissary - 648416 [UNVERIFIED: Pierce County Commissary]
+2026-04-19 01:28:21,296 - INFO - New job: Corrections Oversight Worker - Lake County Community Corrections - 648444 [VERIFIED: Lawton Community Corrections Center]
+2026-04-19 01:28:21,336 - INFO - New job: Corrections Oversight Worker - Mansfield Correctional Institution - 648445 [VERIFIED: Mansfield Correctional Institution]
+2026-04-19 01:28:21,373 - INFO - New job: Food Service Supervisor - Westville Correctional Facility - 648463 [VERIFIED: Westville Correctional Facility]
+2026-04-19 01:28:21,408 - INFO - New job: Retail Sales Worker Lead - Yavapai County Commissary - 648474 [UNVERIFIED: Yavapai County Commissary]
+2026-04-19 01:28:21,435 - INFO - New job: Food Service Supervisor - Hutchinson Correctional - 648497 [VERIFIED: Hutchinson Correctional Facility]
+2026-04-19 01:28:21,465 - INFO - New job: Food Service Worker - Benton County Sheriff WA - 648529 [UNVERIFIED: Benton County Sheriff WA]
+2026-04-19 01:28:32,491 - INFO - Added 18 new jobs
+2026-04-19 01:28:32,491 - INFO - Fetching descriptions for 18 new jobs...
+2026-04-19 01:28:33,651 - INFO - Updated description for 646637
+2026-04-19 01:28:35,306 - INFO - Updated description for 647712
+2026-04-19 01:28:36,887 - INFO - Updated description for 648091
+2026-04-19 01:28:38,723 - INFO - Updated description for 648227
+2026-04-19 01:28:40,331 - INFO - Updated description for 648271
+2026-04-19 01:28:41,952 - INFO - Updated description for 648362
+2026-04-19 01:28:43,753 - INFO - Updated description for 648367
+2026-04-19 01:28:45,507 - INFO - Updated description for 648374
+2026-04-19 01:28:47,386 - INFO - Updated description for 648375
+2026-04-19 01:28:49,003 - INFO - Updated description for 648377
+2026-04-19 01:28:50,781 - INFO - Updated description for 648394
+2026-04-19 01:28:52,390 - INFO - Updated description for 648416
+2026-04-19 01:28:54,103 - INFO - Updated description for 648444
+2026-04-19 01:28:55,768 - INFO - Updated description for 648445
+2026-04-19 01:28:57,338 - INFO - Updated description for 648463
+2026-04-19 01:28:59,058 - INFO - Updated description for 648474
+2026-04-19 01:29:03,886 - INFO - Updated description for 648497
+2026-04-19 01:29:05,628 - INFO - Updated description for 648529
+2026-04-19 01:29:06,137 - INFO - 
+=== SUMMARY ===
+2026-04-19 01:29:06,137 - INFO - Total jobs in database: 1953
+2026-04-19 01:29:06,137 - INFO - New jobs added: 18
+2026-04-19 01:29:06,137 - INFO - Descriptions updated: 18
+2026-04-19 01:29:06,137 - INFO - Verified facilities: 133
+2026-04-19 01:29:06,137 - INFO - Unverified facilities: 364
+2026-04-19 01:29:06,137 - INFO - Log saved to: logs/api_scraper_20260419_012818.log
+2026-04-19 01:29:06,298 - INFO - Exported 1953 jobs to jobs.csv
