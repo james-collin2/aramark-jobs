@@ -1,0 +1,37 @@
+2026-04-21 12:58:52,761 - INFO - Starting API job scraper
+2026-04-21 12:58:52,762 - INFO - Loaded 853 master facilities
+2026-04-21 12:58:52,762 - INFO - Fetching jobs from API...
+2026-04-21 12:58:55,064 - INFO - Total jobs found: 500
+2026-04-21 12:58:55,143 - INFO - New job: Corrections Oversight Worker - Durham County Jail - 648605 [UNVERIFIED: Durham County Jail]
+2026-04-21 12:58:55,181 - INFO - New job: Corrections Oversight Worker - Wicomico County Detention - 648674 [UNVERIFIED: Wicomico County Detention]
+2026-04-21 12:58:55,211 - INFO - New job: Corrections Oversight Worker - River Valley Juvenile - 648716 [UNVERIFIED: River Valley Juvenile]
+2026-04-21 12:58:55,257 - INFO - New job: Food Service Worker - Lorain Correctional Institution - Ohio DRC - 648729 [VERIFIED: Lorain Correctional Institution]
+2026-04-21 12:58:55,289 - INFO - New job: Food Service Worker Lead - Taylor - CI/Annex - (218/224) - 648731 [UNVERIFIED: Taylor - CI/Annex]
+2026-04-21 12:58:55,327 - INFO - New job: Retail Sales Worker - Tom Green County Commissary - 648756 [UNVERIFIED: Tom Green County Commissary]
+2026-04-21 12:58:55,366 - INFO - New job: Commissary Worker - Kane County Commissary - 648781 [UNVERIFIED: Kane County Commissary]
+2026-04-21 12:58:55,393 - INFO - New job: Corrections Oversight Worker - Kane County Jail - 648783 [UNVERIFIED: Kane County Jail]
+2026-04-21 12:58:55,424 - INFO - New job: Food Service Supervisor - Seminole County Jail - 648793 [UNVERIFIED: Seminole County Jail]
+2026-04-21 12:58:55,425 - INFO - New job: Food Service Manager - 648806 [No facility found]
+2026-04-21 12:58:55,463 - INFO - New job: Food Service Worker - Belmont Correctional Institution - 648821 [VERIFIED: Belmont Correctional Institution]
+2026-04-21 12:59:07,096 - INFO - Added 11 new jobs
+2026-04-21 12:59:07,096 - INFO - Fetching descriptions for 11 new jobs...
+2026-04-21 12:59:08,603 - INFO - Updated description for 648605
+2026-04-21 12:59:10,355 - INFO - Updated description for 648674
+2026-04-21 12:59:12,156 - INFO - Updated description for 648716
+2026-04-21 12:59:13,842 - INFO - Updated description for 648729
+2026-04-21 12:59:15,546 - INFO - Updated description for 648731
+2026-04-21 12:59:17,599 - INFO - Updated description for 648756
+2026-04-21 12:59:19,299 - INFO - Updated description for 648781
+2026-04-21 12:59:21,034 - INFO - Updated description for 648783
+2026-04-21 12:59:22,649 - INFO - Updated description for 648793
+2026-04-21 12:59:24,223 - INFO - Updated description for 648806
+2026-04-21 12:59:25,906 - INFO - Updated description for 648821
+2026-04-21 12:59:26,414 - INFO - 
+=== SUMMARY ===
+2026-04-21 12:59:26,414 - INFO - Total jobs in database: 1965
+2026-04-21 12:59:26,414 - INFO - New jobs added: 11
+2026-04-21 12:59:26,414 - INFO - Descriptions updated: 11
+2026-04-21 12:59:26,414 - INFO - Verified facilities: 133
+2026-04-21 12:59:26,414 - INFO - Unverified facilities: 364
+2026-04-21 12:59:26,414 - INFO - Log saved to: logs/api_scraper_20260421_125852.log
+2026-04-21 12:59:26,577 - INFO - Exported 1965 jobs to jobs.csv
