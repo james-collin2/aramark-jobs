@@ -1,0 +1,57 @@
+2026-04-22 12:58:53,711 - INFO - Starting API job scraper
+2026-04-22 12:58:53,712 - INFO - Loaded 853 master facilities
+2026-04-22 12:58:53,712 - INFO - Fetching jobs from API...
+2026-04-22 12:58:56,918 - INFO - Total jobs found: 500
+2026-04-22 12:58:56,976 - INFO - New job: Commissary Supervisor - San Bernardino Commissary - 649052 [UNVERIFIED: San Bernardino Commissary]
+2026-04-22 12:58:57,017 - INFO - New job: Commissary Worker - Delaware County (PA) - Commissary - 649055 [UNVERIFIED: Delaware County (PA) - Commissary]
+2026-04-22 12:58:57,054 - INFO - New job: Commissary Worker - San Bernardino Commissary - 649057 [UNVERIFIED: San Bernardino Commissary]
+2026-04-22 12:58:57,090 - INFO - New job: Commissary Worker - San Bernardino Commissary - 649069 [UNVERIFIED: San Bernardino Commissary]
+2026-04-22 12:58:57,124 - INFO - New job: Corrections Oversight Worker - Kegan State Jail TDCJ - 649073 [VERIFIED: Joe Kegans State Jail]
+2026-04-22 12:58:57,159 - INFO - New job: Corrections Oversight Worker - Harris County Sheriff Food - 649076 [UNVERIFIED: Harris County Sheriff Food]
+2026-04-22 12:58:57,160 - INFO - New job: Food Service Manager - 649078 [No facility found]
+2026-04-22 12:58:57,183 - INFO - New job: Corrections Oversight Worker - ASPC - Douglas - 649089 [UNVERIFIED: ASPC - Douglas]
+2026-04-22 12:58:57,213 - INFO - New job: Retail Sales Worker Lead - Seminole County Jail - 648792 [UNVERIFIED: Seminole County Jail]
+2026-04-22 12:58:57,273 - INFO - New job: Food Service Worker - Boulder County Alternative Sentencing Facility - 648857 [UNVERIFIED: Boulder County Alternative Sentencing Facility]
+2026-04-22 12:58:57,305 - INFO - New job: Corrections Oversight Worker - Northern Regional Jail - 648876 [VERIFIED: Northern Correctional Facility]
+2026-04-22 12:58:57,305 - INFO - New job: Chef Manager - 647806 [No facility found]
+2026-04-22 12:58:57,305 - INFO - New job: Commissary Director - 648937 [No facility found]
+2026-04-22 12:58:57,344 - INFO - New job: Corrections Oversight Worker - Oriana House - Cleveland - 648939 [UNVERIFIED: Oriana House - Cleveland]
+2026-04-22 12:58:57,371 - INFO - New job: Corrections Oversight Worker - Kenosha County Jail - 648944 [UNVERIFIED: Kenosha County Jail]
+2026-04-22 12:58:57,391 - INFO - New job: Corrections Oversight Worker - VOA Dayton - 648952 [UNVERIFIED: VOA Dayton]
+2026-04-22 12:58:57,392 - INFO - New job: Commissary Manager - 648954 [No facility found]
+2026-04-22 12:58:57,392 - INFO - New job: Food Service Manager - 648957 [No facility found]
+2026-04-22 12:58:57,428 - INFO - New job: Commissary Worker - Westchester County Commissary - 648963 [UNVERIFIED: Westchester County Commissary]
+2026-04-22 12:58:57,428 - INFO - New job: Food Service Manager - 648998 [No facility found]
+2026-04-22 12:58:57,429 - INFO - New job: Food Service Director - 649002 [No facility found]
+2026-04-22 12:59:08,619 - INFO - Added 21 new jobs
+2026-04-22 12:59:08,619 - INFO - Fetching descriptions for 21 new jobs...
+2026-04-22 12:59:09,738 - INFO - Updated description for 649052
+2026-04-22 12:59:11,447 - INFO - Updated description for 649055
+2026-04-22 12:59:13,151 - INFO - Updated description for 649057
+2026-04-22 12:59:14,844 - INFO - Updated description for 649069
+2026-04-22 12:59:16,469 - INFO - Updated description for 649073
+2026-04-22 12:59:18,000 - INFO - Updated description for 649076
+2026-04-22 12:59:22,231 - INFO - Updated description for 649078
+2026-04-22 12:59:23,863 - INFO - Updated description for 649089
+2026-04-22 12:59:25,384 - INFO - Updated description for 648792
+2026-04-22 12:59:27,004 - INFO - Updated description for 648857
+2026-04-22 12:59:28,555 - INFO - Updated description for 648876
+2026-04-22 12:59:30,112 - INFO - Updated description for 647806
+2026-04-22 12:59:32,027 - INFO - Updated description for 648937
+2026-04-22 12:59:33,617 - INFO - Updated description for 648939
+2026-04-22 12:59:35,233 - INFO - Updated description for 648944
+2026-04-22 12:59:36,922 - INFO - Updated description for 648952
+2026-04-22 12:59:38,454 - INFO - Updated description for 648954
+2026-04-22 12:59:40,039 - INFO - Updated description for 648957
+2026-04-22 12:59:41,706 - INFO - Updated description for 648963
+2026-04-22 12:59:43,301 - INFO - Updated description for 648998
+2026-04-22 12:59:44,843 - INFO - Updated description for 649002
+2026-04-22 12:59:45,351 - INFO - 
+=== SUMMARY ===
+2026-04-22 12:59:45,351 - INFO - Total jobs in database: 1986
+2026-04-22 12:59:45,351 - INFO - New jobs added: 21
+2026-04-22 12:59:45,351 - INFO - Descriptions updated: 21
+2026-04-22 12:59:45,351 - INFO - Verified facilities: 133
+2026-04-22 12:59:45,351 - INFO - Unverified facilities: 365
+2026-04-22 12:59:45,351 - INFO - Log saved to: logs/api_scraper_20260422_125853.log
+2026-04-22 12:59:45,526 - INFO - Exported 1986 jobs to jobs.csv
