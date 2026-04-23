@@ -1,0 +1,37 @@
+2026-04-23 12:58:49,549 - INFO - Starting API job scraper
+2026-04-23 12:58:49,550 - INFO - Loaded 853 master facilities
+2026-04-23 12:58:49,550 - INFO - Fetching jobs from API...
+2026-04-23 12:58:51,098 - INFO - Total jobs found: 500
+2026-04-23 12:58:51,099 - INFO - New job: 2026 MAP- Food Service Manager- Eastern Kentucky Corrections - 642138 [No facility found]
+2026-04-23 12:58:51,165 - INFO - New job: 2026 MAP- Food Service Manager- Jefferson City Correctional Center - 642140 [VERIFIED: Jefferson City Correctional Center]
+2026-04-23 12:58:51,165 - INFO - New job: 2026 MAP- Food Service Manager- Pinellas County - 642141 [No facility found]
+2026-04-23 12:58:51,204 - INFO - New job: 2026 MAP- Food Service Manager- Plainfield Correctional Facility - 642142 [VERIFIED: Plainfield Correctional Facility]
+2026-04-23 12:58:51,204 - INFO - New job: 2026 MAP- Food Service Manager- Tucson Corrections - 642148 [No facility found]
+2026-04-23 12:58:51,255 - INFO - New job: Cook - Nueces County Juvenile Justice Center - 649166 [UNVERIFIED: Nueces County Juvenile Justice Center]
+2026-04-23 12:58:51,292 - INFO - New job: Corrections Inmate Worker - Westville Correctional Facility - 649182 [VERIFIED: Westville Correctional Facility]
+2026-04-23 12:58:51,292 - INFO - New job: Food Service Manager - 649190 [No facility found]
+2026-04-23 12:58:51,292 - INFO - New job: Food Service Manager - 649197 [No facility found]
+2026-04-23 12:58:51,329 - INFO - New job: Driver II - Tampa Commissary Warehouse - 649225 [UNVERIFIED: Tampa Commissary Warehouse]
+2026-04-23 12:58:51,366 - INFO - New job: Warehouse Worker Lead - Tampa Commissary Warehouse - 649226 [UNVERIFIED: Tampa Commissary Warehouse]
+2026-04-23 12:59:03,082 - INFO - Added 11 new jobs
+2026-04-23 12:59:03,083 - INFO - Fetching descriptions for 11 new jobs...
+2026-04-23 12:59:04,370 - INFO - Updated description for 642138
+2026-04-23 12:59:06,105 - INFO - Updated description for 642140
+2026-04-23 12:59:07,933 - INFO - Updated description for 642141
+2026-04-23 12:59:09,803 - INFO - Updated description for 642142
+2026-04-23 12:59:11,564 - INFO - Updated description for 642148
+2026-04-23 12:59:13,559 - INFO - Updated description for 649166
+2026-04-23 12:59:15,639 - INFO - Updated description for 649182
+2026-04-23 12:59:17,451 - INFO - Updated description for 649190
+2026-04-23 12:59:19,268 - INFO - Updated description for 649197
+2026-04-23 12:59:20,951 - INFO - Updated description for 649225
+2026-04-23 12:59:22,693 - INFO - Updated description for 649226
+2026-04-23 12:59:23,201 - INFO - 
+=== SUMMARY ===
+2026-04-23 12:59:23,201 - INFO - Total jobs in database: 1997
+2026-04-23 12:59:23,201 - INFO - New jobs added: 11
+2026-04-23 12:59:23,201 - INFO - Descriptions updated: 11
+2026-04-23 12:59:23,201 - INFO - Verified facilities: 133
+2026-04-23 12:59:23,201 - INFO - Unverified facilities: 365
+2026-04-23 12:59:23,201 - INFO - Log saved to: logs/api_scraper_20260423_125849.log
+2026-04-23 12:59:23,367 - INFO - Exported 1997 jobs to jobs.csv
