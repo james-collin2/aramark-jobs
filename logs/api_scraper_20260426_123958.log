@@ -1,0 +1,19 @@
+2026-04-26 12:39:58,004 - INFO - Starting API job scraper
+2026-04-26 12:39:58,005 - INFO - Loaded 853 master facilities
+2026-04-26 12:39:58,005 - INFO - Fetching jobs from API...
+2026-04-26 12:40:01,044 - INFO - Total jobs found: 500
+2026-04-26 12:40:01,046 - INFO - New job: Procurement Manager - 649215 [No facility found]
+2026-04-26 12:40:01,109 - INFO - New job: Food Service Worker - Vicki Douglas Juvenile Ctr - 649782 [UNVERIFIED: Vicki Douglas Juvenile Ctr]
+2026-04-26 12:40:13,157 - INFO - Added 2 new jobs
+2026-04-26 12:40:13,157 - INFO - Fetching descriptions for 2 new jobs...
+2026-04-26 12:40:14,273 - INFO - Updated description for 649215
+2026-04-26 12:40:16,027 - INFO - Updated description for 649782
+2026-04-26 12:40:16,534 - INFO - 
+=== SUMMARY ===
+2026-04-26 12:40:16,534 - INFO - Total jobs in database: 2024
+2026-04-26 12:40:16,534 - INFO - New jobs added: 2
+2026-04-26 12:40:16,534 - INFO - Descriptions updated: 2
+2026-04-26 12:40:16,534 - INFO - Verified facilities: 134
+2026-04-26 12:40:16,534 - INFO - Unverified facilities: 368
+2026-04-26 12:40:16,534 - INFO - Log saved to: logs/api_scraper_20260426_123958.log
+2026-04-26 12:40:16,700 - INFO - Exported 2024 jobs to jobs.csv
