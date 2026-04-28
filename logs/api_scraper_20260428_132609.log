@@ -1,0 +1,35 @@
+2026-04-28 13:26:09,455 - INFO - Starting API job scraper
+2026-04-28 13:26:09,455 - INFO - Loaded 853 master facilities
+2026-04-28 13:26:09,455 - INFO - Fetching jobs from API...
+2026-04-28 13:26:11,000 - INFO - Total jobs found: 500
+2026-04-28 13:26:11,056 - INFO - New job: Food Prep Worker - Atlantic County Justice Facility - 649850 [UNVERIFIED: Atlantic County Justice Facility]
+2026-04-28 13:26:11,084 - INFO - New job: Cook - Yellow Medicine - 649884 [UNVERIFIED: Yellow Medicine]
+2026-04-28 13:26:11,115 - INFO - New job: Food Service Worker - Pottawattamie County - 649886 [UNVERIFIED: Pottawattamie County]
+2026-04-28 13:26:11,155 - INFO - New job: Warehouse Worker I - USG - OH WAREHOUSE - UD - 649944 [UNVERIFIED: USG - OH WAREHOUSE - UD]
+2026-04-28 13:26:11,182 - INFO - New job: Corrections Oversight Worker - San Bruno Jail - 649964 [UNVERIFIED: San Bruno Jail]
+2026-04-28 13:26:11,215 - INFO - New job: Corrections Oversight Worker - Lakin Correctional Center - 649984 [VERIFIED: Lakin Correctional Center]
+2026-04-28 13:26:11,244 - INFO - New job: Corrections Oversight Worker - Racine County Jail - 649987 [VERIFIED: Travis County State Jail]
+2026-04-28 13:26:11,246 - INFO - New job: Food Service Manager - 649451 [No facility found]
+2026-04-28 13:26:11,246 - INFO - New job: Food Service Supervisor - 650060 [No facility found]
+2026-04-28 13:26:11,284 - INFO - New job: Food Service Worker - Madison Correctional Institution - 649660 [VERIFIED: Madison Correctional Institution]
+2026-04-28 13:26:23,214 - INFO - Added 10 new jobs
+2026-04-28 13:26:23,214 - INFO - Fetching descriptions for 10 new jobs...
+2026-04-28 13:26:24,398 - INFO - Updated description for 649850
+2026-04-28 13:26:25,998 - INFO - Updated description for 649884
+2026-04-28 13:26:27,604 - INFO - Updated description for 649886
+2026-04-28 13:26:29,420 - INFO - Updated description for 649944
+2026-04-28 13:26:31,207 - INFO - Updated description for 649964
+2026-04-28 13:26:32,836 - INFO - Updated description for 649984
+2026-04-28 13:26:34,389 - INFO - Updated description for 649987
+2026-04-28 13:26:35,956 - INFO - Updated description for 649451
+2026-04-28 13:26:37,586 - INFO - Updated description for 650060
+2026-04-28 13:26:39,267 - INFO - Updated description for 649660
+2026-04-28 13:26:39,774 - INFO - 
+=== SUMMARY ===
+2026-04-28 13:26:39,774 - INFO - Total jobs in database: 2034
+2026-04-28 13:26:39,774 - INFO - New jobs added: 10
+2026-04-28 13:26:39,774 - INFO - Descriptions updated: 10
+2026-04-28 13:26:39,775 - INFO - Verified facilities: 135
+2026-04-28 13:26:39,775 - INFO - Unverified facilities: 368
+2026-04-28 13:26:39,775 - INFO - Log saved to: logs/api_scraper_20260428_132609.log
+2026-04-28 13:26:39,947 - INFO - Exported 2034 jobs to jobs.csv
