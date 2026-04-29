@@ -1,0 +1,53 @@
+2026-04-29 13:20:16,963 - INFO - Starting API job scraper
+2026-04-29 13:20:16,964 - INFO - Loaded 853 master facilities
+2026-04-29 13:20:16,964 - INFO - Fetching jobs from API...
+2026-04-29 13:20:18,487 - INFO - Total jobs found: 500
+2026-04-29 13:20:18,488 - INFO - New job: Corrections Oversight Worker - 649635 [No facility found]
+2026-04-29 13:20:18,535 - INFO - New job: Cook - Pottawattamie County - 649876 [UNVERIFIED: Pottawattamie County]
+2026-04-29 13:20:18,566 - INFO - New job: Line Supervisor - Westchester County D.O.C. - 649937 [UNVERIFIED: Westchester County D.O.C.]
+2026-04-29 13:20:18,566 - INFO - New job: Food Service Director - 650023 [No facility found]
+2026-04-29 13:20:18,587 - INFO - New job: Food Service Worker Lead - Liberty - CI/SU - (120/142) - 650056 [UNVERIFIED: Liberty - CI/SU]
+2026-04-29 13:20:18,616 - INFO - New job: Food Service Worker - Pinal County Jail - 650075 [UNVERIFIED: Pinal County Jail]
+2026-04-29 13:20:18,650 - INFO - New job: Corrections Oversight Worker - Volusia County Branch Jail - 650136 [UNVERIFIED: Volusia County Branch Jail]
+2026-04-29 13:20:18,680 - INFO - New job: Corrections Oversight Worker - Muscogee County Prison - 650141 [UNVERIFIED: Muscogee County Prison]
+2026-04-29 13:20:18,718 - INFO - New job: Corrections Oversight Worker - Southeast State Correctional Complex - 650142 [VERIFIED: Southeast State Correctional Complex]
+2026-04-29 13:20:18,743 - INFO - New job: Corrections Oversight Worker - Stark County RCCC - 650147 [UNVERIFIED: Stark County RCCC]
+2026-04-29 13:20:18,781 - INFO - New job: Food Service Worker Lead - Chillicothe Correctional Institution - 650151 [VERIFIED: Chillicothe Correctional Institution]
+2026-04-29 13:20:18,824 - INFO - New job: Food Service Supervisor - Shawnee County Department of Corrections - 650228 [UNVERIFIED: Shawnee County Department of Corrections]
+2026-04-29 13:20:18,824 - INFO - New job: Food Service Manager - 650240 [No facility found]
+2026-04-29 13:20:18,824 - INFO - New job: Food Service Manager - 650257 [No facility found]
+2026-04-29 13:20:18,825 - INFO - New job: Food Service Director - 650261 [No facility found]
+2026-04-29 13:20:18,861 - INFO - New job: Corrections Oversight Worker - Madison Transitional Facility - (Adult/Juvenile) - 650268 [VERIFIED: Madison Correctional Facility]
+2026-04-29 13:20:18,862 - INFO - New job: Food Service Manager - 650313 [No facility found]
+2026-04-29 13:20:18,895 - INFO - New job: Laundry Worker - Erie County Care Facility - 650402 [VERIFIED: Otero County Prison Facility]
+2026-04-29 13:20:18,922 - INFO - New job: Driver I - Hamilton County Jail - 650439 [UNVERIFIED: Hamilton County Jail]
+2026-04-29 13:20:29,626 - INFO - Added 19 new jobs
+2026-04-29 13:20:29,627 - INFO - Fetching descriptions for 19 new jobs...
+2026-04-29 13:20:31,165 - INFO - Updated description for 649635
+2026-04-29 13:20:33,160 - INFO - Updated description for 649876
+2026-04-29 13:20:34,769 - INFO - Updated description for 649937
+2026-04-29 13:20:36,926 - INFO - Updated description for 650023
+2026-04-29 13:20:38,829 - INFO - Updated description for 650056
+2026-04-29 13:20:40,923 - INFO - Updated description for 650075
+2026-04-29 13:20:43,150 - INFO - Updated description for 650136
+2026-04-29 13:20:47,428 - INFO - Updated description for 650141
+2026-04-29 13:20:49,201 - INFO - Updated description for 650142
+2026-04-29 13:20:51,087 - INFO - Updated description for 650147
+2026-04-29 13:20:52,705 - INFO - Updated description for 650151
+2026-04-29 13:20:54,309 - INFO - Updated description for 650228
+2026-04-29 13:20:55,972 - INFO - Updated description for 650240
+2026-04-29 13:20:57,679 - INFO - Updated description for 650257
+2026-04-29 13:20:59,320 - INFO - Updated description for 650261
+2026-04-29 13:21:01,007 - INFO - Updated description for 650268
+2026-04-29 13:21:02,802 - INFO - Updated description for 650313
+2026-04-29 13:21:04,560 - INFO - Updated description for 650402
+2026-04-29 13:21:06,421 - INFO - Updated description for 650439
+2026-04-29 13:21:06,927 - INFO - 
+=== SUMMARY ===
+2026-04-29 13:21:06,927 - INFO - Total jobs in database: 2053
+2026-04-29 13:21:06,927 - INFO - New jobs added: 19
+2026-04-29 13:21:06,927 - INFO - Descriptions updated: 19
+2026-04-29 13:21:06,927 - INFO - Verified facilities: 136
+2026-04-29 13:21:06,927 - INFO - Unverified facilities: 368
+2026-04-29 13:21:06,927 - INFO - Log saved to: logs/api_scraper_20260429_132016.log
+2026-04-29 13:21:07,087 - INFO - Exported 2053 jobs to jobs.csv
