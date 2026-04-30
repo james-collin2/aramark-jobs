@@ -1,0 +1,49 @@
+2026-04-30 13:18:14,917 - INFO - Starting API job scraper
+2026-04-30 13:18:14,917 - INFO - Loaded 853 master facilities
+2026-04-30 13:18:14,917 - INFO - Fetching jobs from API...
+2026-04-30 13:18:17,619 - INFO - Total jobs found: 500
+2026-04-30 13:18:17,672 - INFO - New job: Food Service Worker Lead - Ross Correctional Institution - 649408 [VERIFIED: Ross Correctional Institution]
+2026-04-30 13:18:17,673 - INFO - New job: Food Service Worker - 650486 [No facility found]
+2026-04-30 13:18:17,673 - INFO - New job: Food Service Supervisor - 650488 [No facility found]
+2026-04-30 13:18:17,673 - INFO - New job: Controller - 650495 [No facility found]
+2026-04-30 13:18:17,673 - INFO - New job: Food Service Worker - 650496 [No facility found]
+2026-04-30 13:18:17,674 - INFO - New job: Food Service Worker - 650500 [No facility found]
+2026-04-30 13:18:17,674 - INFO - New job: Food Service Worker - 650502 [No facility found]
+2026-04-30 13:18:17,674 - INFO - New job: Food Service Worker - 650505 [No facility found]
+2026-04-30 13:18:17,674 - INFO - New job: Food Service Director - 650514 [No facility found]
+2026-04-30 13:18:17,674 - INFO - New job: Food Service Supervisor - 650515 [No facility found]
+2026-04-30 13:18:17,715 - INFO - New job: Corrections Oversight Worker - Turney Center Industrial Complex - 650548 [VERIFIED: Turney Center Industrial Complex]
+2026-04-30 13:18:17,753 - INFO - New job: Food Service Worker Lead - Mansfield Correctional Institution - 650574 [VERIFIED: Mansfield Correctional Institution]
+2026-04-30 13:18:17,791 - INFO - New job: Retail Sales Worker Lead - Mansfield Correctional Institution - 650583 [VERIFIED: Mansfield Correctional Institution]
+2026-04-30 13:18:17,818 - INFO - New job: Cook - Hancock County Jail - 650587 [UNVERIFIED: Hancock County Jail]
+2026-04-30 13:18:17,869 - INFO - New job: Food Service Worker - Warren County Jail, OH - Warren County, OH - 650606 [UNVERIFIED: Warren County Jail, OH - Warren County, OH]
+2026-04-30 13:18:17,869 - INFO - New job: Food Service Director - 650614 [No facility found]
+2026-04-30 13:18:17,904 - INFO - New job: Warehouse Supervisor - USG - OH WAREHOUSE - FE - 649753 [UNVERIFIED: USG - OH WAREHOUSE - FE]
+2026-04-30 13:18:28,813 - INFO - Added 17 new jobs
+2026-04-30 13:18:28,813 - INFO - Fetching descriptions for 17 new jobs...
+2026-04-30 13:18:30,079 - INFO - Updated description for 649408
+2026-04-30 13:18:31,707 - INFO - Updated description for 650486
+2026-04-30 13:18:33,326 - INFO - Updated description for 650488
+2026-04-30 13:18:35,032 - INFO - Updated description for 650495
+2026-04-30 13:18:36,713 - INFO - Updated description for 650496
+2026-04-30 13:18:38,339 - INFO - Updated description for 650500
+2026-04-30 13:18:40,045 - INFO - Updated description for 650502
+2026-04-30 13:18:41,820 - INFO - Updated description for 650505
+2026-04-30 13:18:43,563 - INFO - Updated description for 650514
+2026-04-30 13:18:45,241 - INFO - Updated description for 650515
+2026-04-30 13:18:46,996 - INFO - Updated description for 650548
+2026-04-30 13:18:48,713 - INFO - Updated description for 650574
+2026-04-30 13:18:50,365 - INFO - Updated description for 650583
+2026-04-30 13:18:52,160 - INFO - Updated description for 650587
+2026-04-30 13:18:54,015 - INFO - Updated description for 650606
+2026-04-30 13:18:56,331 - INFO - Updated description for 650614
+2026-04-30 13:18:58,444 - INFO - Updated description for 649753
+2026-04-30 13:18:58,956 - INFO - 
+=== SUMMARY ===
+2026-04-30 13:18:58,956 - INFO - Total jobs in database: 2070
+2026-04-30 13:18:58,956 - INFO - New jobs added: 17
+2026-04-30 13:18:58,956 - INFO - Descriptions updated: 17
+2026-04-30 13:18:58,956 - INFO - Verified facilities: 136
+2026-04-30 13:18:58,956 - INFO - Unverified facilities: 369
+2026-04-30 13:18:58,956 - INFO - Log saved to: logs/api_scraper_20260430_131814.log
+2026-04-30 13:18:59,144 - INFO - Exported 2070 jobs to jobs.csv
