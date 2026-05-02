@@ -1,0 +1,43 @@
+2026-05-02 01:45:34,159 - INFO - Starting API job scraper
+2026-05-02 01:45:34,160 - INFO - Loaded 853 master facilities
+2026-05-02 01:45:34,160 - INFO - Fetching jobs from API...
+2026-05-02 01:45:36,405 - INFO - Total jobs found: 500
+2026-05-02 01:45:36,508 - INFO - New job: Corrections Oversight Worker - Moberly Correctional Center - 647990 [VERIFIED: Moberly Correctional Center]
+2026-05-02 01:45:36,566 - INFO - New job: Cook - The Harris Center for Mental Health and IDD - 650663 [UNVERIFIED: The Harris Center for Mental Health and IDD]
+2026-05-02 01:45:36,598 - INFO - New job: Corrections Oversight Worker - Miami Correctional Facility - 649180 [VERIFIED: Miami Correctional Facility]
+2026-05-02 01:45:36,638 - INFO - New job: Corrections Oversight Worker - Lexington Medical Prison - 648653 [UNVERIFIED: Lexington Medical Prison]
+2026-05-02 01:45:36,669 - INFO - New job: Food Service Worker - Lucas County Jail - 650725 [UNVERIFIED: Lucas County Jail]
+2026-05-02 01:45:36,670 - INFO - New job: Commissary Director - 650802 [No facility found]
+2026-05-02 01:45:36,715 - INFO - New job: Food Service Worker - Vernon County Jail - 649836 [UNVERIFIED: Vernon County Jail]
+2026-05-02 01:45:36,746 - INFO - New job: Commissary Supervisor - USG - USCS - KANSAS - 650847 [UNVERIFIED: USG - USCS - KANSAS]
+2026-05-02 01:45:36,773 - INFO - New job: Food Service Worker Lead - R.M.C. - Main/WC - (209/221) - 650915 [UNVERIFIED: R.M.C. - Main/WC]
+2026-05-02 01:45:36,816 - INFO - New job: Corrections Oversight Worker - Warren Correctional Institution (OH DRC) - 650935 [VERIFIED: Warren Correctional Institution]
+2026-05-02 01:45:36,862 - INFO - New job: Food Service Worker Lead - Solano County Detention Center - 650979 [VERIFIED: Lea County Correctional Center]
+2026-05-02 01:45:36,900 - INFO - New job: Corrections Oversight Worker - Huttonsville Correction Center - 650981 [VERIFIED: Haynesville Correctional Center]
+2026-05-02 01:45:36,938 - INFO - New job: Corrections Oversight Worker - Plainfield Correctional Facility - 647114 [VERIFIED: Plainfield Correctional Facility]
+2026-05-02 01:45:36,968 - INFO - New job: Food Service Worker - Hancock County Jail - 650643 [UNVERIFIED: Hancock County Jail]
+2026-05-02 01:45:48,316 - INFO - Added 14 new jobs
+2026-05-02 01:45:48,316 - INFO - Fetching descriptions for 14 new jobs...
+2026-05-02 01:45:49,533 - INFO - Updated description for 647990
+2026-05-02 01:45:51,371 - INFO - Updated description for 650663
+2026-05-02 01:45:52,988 - INFO - Updated description for 649180
+2026-05-02 01:45:54,604 - INFO - Updated description for 648653
+2026-05-02 01:45:56,267 - INFO - Updated description for 650725
+2026-05-02 01:45:57,902 - INFO - Updated description for 650802
+2026-05-02 01:45:59,538 - INFO - Updated description for 649836
+2026-05-02 01:46:01,124 - INFO - Updated description for 650847
+2026-05-02 01:46:02,820 - INFO - Updated description for 650915
+2026-05-02 01:46:04,500 - INFO - Updated description for 650935
+2026-05-02 01:46:06,239 - INFO - Updated description for 650979
+2026-05-02 01:46:07,936 - INFO - Updated description for 650981
+2026-05-02 01:46:09,505 - INFO - Updated description for 647114
+2026-05-02 01:46:11,104 - INFO - Updated description for 650643
+2026-05-02 01:46:11,611 - INFO - 
+=== SUMMARY ===
+2026-05-02 01:46:11,612 - INFO - Total jobs in database: 2084
+2026-05-02 01:46:11,612 - INFO - New jobs added: 14
+2026-05-02 01:46:11,612 - INFO - Descriptions updated: 14
+2026-05-02 01:46:11,612 - INFO - Verified facilities: 136
+2026-05-02 01:46:11,612 - INFO - Unverified facilities: 371
+2026-05-02 01:46:11,612 - INFO - Log saved to: logs/api_scraper_20260502_014534.log
+2026-05-02 01:46:11,783 - INFO - Exported 2084 jobs to jobs.csv
