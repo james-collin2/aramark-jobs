@@ -1,0 +1,25 @@
+2026-05-05 13:09:00,379 - INFO - Starting API job scraper
+2026-05-05 13:09:00,380 - INFO - Loaded 853 master facilities
+2026-05-05 13:09:00,380 - INFO - Fetching jobs from API...
+2026-05-05 13:09:05,788 - INFO - Total jobs found: 500
+2026-05-05 13:09:05,843 - INFO - New job: Food Service Worker - Marinette County Jail - 651241 [UNVERIFIED: Marinette County Jail]
+2026-05-05 13:09:05,870 - INFO - New job: Corrections Oversight Worker - Boone County Jail - 651244 [UNVERIFIED: Boone County Jail]
+2026-05-05 13:09:05,910 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 651272 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-05-05 13:09:05,911 - INFO - New job: Warehouse Manager Sr - 651278 [No facility found]
+2026-05-05 13:09:05,939 - INFO - New job: Cook - Ulster County Jail - 651302 [UNVERIFIED: Ulster County Jail]
+2026-05-05 13:09:18,137 - INFO - Added 5 new jobs
+2026-05-05 13:09:18,137 - INFO - Fetching descriptions for 5 new jobs...
+2026-05-05 13:09:19,563 - INFO - Updated description for 651241
+2026-05-05 13:09:21,435 - INFO - Updated description for 651244
+2026-05-05 13:09:23,280 - INFO - Updated description for 651272
+2026-05-05 13:09:25,342 - INFO - Updated description for 651278
+2026-05-05 13:09:27,283 - INFO - Updated description for 651302
+2026-05-05 13:09:27,792 - INFO - 
+=== SUMMARY ===
+2026-05-05 13:09:27,792 - INFO - Total jobs in database: 2096
+2026-05-05 13:09:27,792 - INFO - New jobs added: 5
+2026-05-05 13:09:27,792 - INFO - Descriptions updated: 5
+2026-05-05 13:09:27,793 - INFO - Verified facilities: 136
+2026-05-05 13:09:27,793 - INFO - Unverified facilities: 373
+2026-05-05 13:09:27,793 - INFO - Log saved to: logs/api_scraper_20260505_130900.log
+2026-05-05 13:09:27,965 - INFO - Exported 2096 jobs to jobs.csv
