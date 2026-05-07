@@ -1,0 +1,38 @@
+2026-05-07 13:25:43,032 - INFO - Starting API job scraper
+2026-05-07 13:25:43,032 - INFO - Loaded 853 master facilities
+2026-05-07 13:25:43,032 - INFO - Fetching jobs from API...
+2026-05-07 13:25:50,454 - INFO - Total jobs found: 500
+2026-05-07 13:25:50,455 - INFO - New job: Administrative Support Worker - 650386 [No facility found]
+2026-05-07 13:25:50,496 - INFO - New job: Corrections Oversight Worker - Calhoun - CI - (105) - 651610 [UNVERIFIED: Calhoun - CI]
+2026-05-07 13:25:50,518 - INFO - New job: Corrections Oversight Worker - Pitt County - 651671 [UNVERIFIED: Pitt County]
+2026-05-07 13:25:50,543 - INFO - New job: Corrections Oversight Worker - Lee County Jail - 651692 [UNVERIFIED: Lee County Jail]
+2026-05-07 13:25:50,584 - INFO - New job: Food Service Worker - Morgan County Correctional Complex - 651702 [VERIFIED: Morgan County Correctional Complex]
+2026-05-07 13:25:50,616 - INFO - New job: Food Service Worker Lead - Baker - Re-Entry/WC - (275/279) - 651709 [UNVERIFIED: Baker - Re-Entry/WC]
+2026-05-07 13:25:50,640 - INFO - New job: Corrections Oversight Worker - Ross County OH - 651734 [UNVERIFIED: Ross County OH]
+2026-05-07 13:25:50,665 - INFO - New job: Corrections Oversight Worker - Rock County Jail - 651814 [UNVERIFIED: Rock County Jail]
+2026-05-07 13:25:50,698 - INFO - New job: Corrections Oversight Worker - Morris Correctional Facility - 651816 [VERIFIED: Oaks Correctional Facility]
+2026-05-07 13:25:50,747 - INFO - New job: Corrections Oversight Worker - Wyandotte County Detention Center - 651822 [VERIFIED: Detroit Detention Center]
+2026-05-07 13:25:50,775 - INFO - New job: Corrections Oversight Worker - Bergen County Jail - 651828 [UNVERIFIED: Bergen County Jail]
+2026-05-07 13:25:50,823 - INFO - New job: Corrections Food Service Worker - Jacksonville City Detention Center - 651838 [VERIFIED: Jacksonville Correctional Center]
+2026-05-07 13:25:50,872 - INFO - New job: Cook - Jacksonville City Detention Center - 651839 [VERIFIED: Jacksonville Correctional Center]
+2026-05-07 13:25:50,896 - INFO - New job: Corrections Oversight Worker - Jefferson - CI - (103) - 651875 [UNVERIFIED: Jefferson - CI]
+2026-05-07 13:26:02,523 - INFO - Added 14 new jobs
+2026-05-07 13:26:02,523 - INFO - Fetching descriptions for 14 new jobs...
+2026-05-07 13:26:05,770 - INFO - Updated description for 650386
+2026-05-07 13:26:09,357 - INFO - Updated description for 651610
+2026-05-07 13:26:13,437 - INFO - Updated description for 651671
+2026-05-07 13:26:16,943 - INFO - Updated description for 651692
+2026-05-07 13:26:20,164 - INFO - Updated description for 651702
+2026-05-07 13:26:23,906 - INFO - Updated description for 651709
+2026-05-07 13:26:27,419 - INFO - Updated description for 651734
+2026-05-07 13:26:35,271 - INFO - Updated description for 651838
+2026-05-07 13:26:37,870 - INFO - Updated description for 651839
+2026-05-07 13:26:39,439 - INFO - 
+=== SUMMARY ===
+2026-05-07 13:26:39,439 - INFO - Total jobs in database: 2131
+2026-05-07 13:26:39,439 - INFO - New jobs added: 14
+2026-05-07 13:26:39,439 - INFO - Descriptions updated: 9
+2026-05-07 13:26:39,439 - INFO - Verified facilities: 136
+2026-05-07 13:26:39,439 - INFO - Unverified facilities: 373
+2026-05-07 13:26:39,439 - INFO - Log saved to: logs/api_scraper_20260507_132543.log
+2026-05-07 13:26:39,614 - INFO - Exported 2131 jobs to jobs.csv
