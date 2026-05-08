@@ -1,0 +1,45 @@
+2026-05-08 13:05:46,448 - INFO - Starting API job scraper
+2026-05-08 13:05:46,448 - INFO - Loaded 853 master facilities
+2026-05-08 13:05:46,449 - INFO - Fetching jobs from API...
+2026-05-08 13:05:48,082 - INFO - Total jobs found: 500
+2026-05-08 13:05:48,197 - INFO - New job: Corrections Oversight Worker- Pulaski County Regional Detention Facility - 651901 [VERIFIED: South Florida Detention Facility]
+2026-05-08 13:05:48,230 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 651928 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-05-08 13:05:48,231 - INFO - New job: Food Service Manager - 651937 [No facility found]
+2026-05-08 13:05:48,231 - INFO - New job: Food Service Manager - 651962 [No facility found]
+2026-05-08 13:05:48,231 - INFO - New job: Food Service Worker - 651973 [No facility found]
+2026-05-08 13:05:48,231 - INFO - New job: Food Service Worker - 651995 [No facility found]
+2026-05-08 13:05:48,231 - INFO - New job: Food Service Supervisor - 651998 [No facility found]
+2026-05-08 13:05:48,231 - INFO - New job: Food Service Worker - 652000 [No facility found]
+2026-05-08 13:05:48,231 - INFO - New job: Food Service Worker - 652004 [No facility found]
+2026-05-08 13:05:48,231 - INFO - New job: Food Service Worker - 652007 [No facility found]
+2026-05-08 13:05:48,232 - INFO - New job: Food Service Worker - 652010 [No facility found]
+2026-05-08 13:05:48,232 - INFO - New job: Food Service Worker - 652013 [No facility found]
+2026-05-08 13:05:48,266 - INFO - New job: Corrections Oversight Worker - Winnebago County Jail WI - 652018 [UNVERIFIED: Winnebago County Jail WI]
+2026-05-08 13:05:48,295 - INFO - New job: Food Service Worker Lead - St John County Jail - 652089 [UNVERIFIED: St John County Jail]
+2026-05-08 13:05:48,295 - INFO - New job: Food Service Manager - 652090 [No facility found]
+2026-05-08 13:05:59,907 - INFO - Added 15 new jobs
+2026-05-08 13:05:59,907 - INFO - Fetching descriptions for 15 new jobs...
+2026-05-08 13:06:01,011 - INFO - Updated description for 651901
+2026-05-08 13:06:03,047 - INFO - Updated description for 651928
+2026-05-08 13:06:04,818 - INFO - Updated description for 651937
+2026-05-08 13:06:06,703 - INFO - Updated description for 651962
+2026-05-08 13:06:08,503 - INFO - Updated description for 651973
+2026-05-08 13:06:10,224 - INFO - Updated description for 651995
+2026-05-08 13:06:11,851 - INFO - Updated description for 651998
+2026-05-08 13:06:13,762 - INFO - Updated description for 652000
+2026-05-08 13:06:15,826 - INFO - Updated description for 652004
+2026-05-08 13:06:17,640 - INFO - Updated description for 652007
+2026-05-08 13:06:19,391 - INFO - Updated description for 652010
+2026-05-08 13:06:21,086 - INFO - Updated description for 652013
+2026-05-08 13:06:22,644 - INFO - Updated description for 652018
+2026-05-08 13:06:24,241 - INFO - Updated description for 652089
+2026-05-08 13:06:26,159 - INFO - Updated description for 652090
+2026-05-08 13:06:26,668 - INFO - 
+=== SUMMARY ===
+2026-05-08 13:06:26,669 - INFO - Total jobs in database: 2146
+2026-05-08 13:06:26,669 - INFO - New jobs added: 15
+2026-05-08 13:06:26,669 - INFO - Descriptions updated: 15
+2026-05-08 13:06:26,669 - INFO - Verified facilities: 136
+2026-05-08 13:06:26,669 - INFO - Unverified facilities: 373
+2026-05-08 13:06:26,669 - INFO - Log saved to: logs/api_scraper_20260508_130546.log
+2026-05-08 13:06:26,845 - INFO - Exported 2146 jobs to jobs.csv
