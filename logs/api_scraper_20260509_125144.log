@@ -1,0 +1,39 @@
+2026-05-09 12:51:44,355 - INFO - Starting API job scraper
+2026-05-09 12:51:44,355 - INFO - Loaded 853 master facilities
+2026-05-09 12:51:44,355 - INFO - Fetching jobs from API...
+2026-05-09 12:51:48,245 - INFO - Total jobs found: 500
+2026-05-09 12:51:48,246 - INFO - New job: Food Service Manager - 651148 [No facility found]
+2026-05-09 12:51:48,288 - INFO - New job: Commissary Worker - Fort Bend Commissary - 652117 [UNVERIFIED: Fort Bend Commissary]
+2026-05-09 12:51:48,288 - INFO - New job: Food Service Director - 652122 [No facility found]
+2026-05-09 12:51:48,323 - INFO - New job: Housekeeper - Erie County Care Facility - 652179 [VERIFIED: Otero County Prison Facility]
+2026-05-09 12:51:48,346 - INFO - New job: Corrections Oversight Worker - Homestead - CI - (419) - 652201 [UNVERIFIED: Homestead - CI]
+2026-05-09 12:51:48,346 - INFO - New job: Food Service Worker - 652244 [No facility found]
+2026-05-09 12:51:48,346 - INFO - New job: Food Service Worker - 652245 [No facility found]
+2026-05-09 12:51:48,346 - INFO - New job: Food Service Worker - 652248 [No facility found]
+2026-05-09 12:51:48,386 - INFO - New job: Administrative Support Worker - Alameda County-Santa Rita - 652249 [UNVERIFIED: Alameda County-Santa Rita]
+2026-05-09 12:51:48,434 - INFO - New job: Commissary Worker - San Francisco City Commissary - 652268 [UNVERIFIED: San Francisco City Commissary]
+2026-05-09 12:51:48,473 - INFO - New job: Driver I - San Francisco City Commissary - 652269 [UNVERIFIED: San Francisco City Commissary]
+2026-05-09 12:51:48,510 - INFO - New job: Corrections Oversight Worker - Santa Rosa SRCJF Commissary - 652276 [UNVERIFIED: Santa Rosa SRCJF Commissary]
+2026-05-09 12:51:59,660 - INFO - Added 12 new jobs
+2026-05-09 12:51:59,660 - INFO - Fetching descriptions for 12 new jobs...
+2026-05-09 12:52:01,532 - INFO - Updated description for 651148
+2026-05-09 12:52:03,959 - INFO - Updated description for 652117
+2026-05-09 12:52:06,364 - INFO - Updated description for 652122
+2026-05-09 12:52:08,647 - INFO - Updated description for 652179
+2026-05-09 12:52:11,196 - INFO - Updated description for 652201
+2026-05-09 12:52:13,196 - INFO - Updated description for 652244
+2026-05-09 12:52:15,015 - INFO - Updated description for 652245
+2026-05-09 12:52:16,796 - INFO - Updated description for 652248
+2026-05-09 12:52:18,438 - INFO - Updated description for 652249
+2026-05-09 12:52:20,224 - INFO - Updated description for 652268
+2026-05-09 12:52:21,979 - INFO - Updated description for 652269
+2026-05-09 12:52:23,664 - INFO - Updated description for 652276
+2026-05-09 12:52:24,172 - INFO - 
+=== SUMMARY ===
+2026-05-09 12:52:24,172 - INFO - Total jobs in database: 2158
+2026-05-09 12:52:24,172 - INFO - New jobs added: 12
+2026-05-09 12:52:24,172 - INFO - Descriptions updated: 12
+2026-05-09 12:52:24,172 - INFO - Verified facilities: 136
+2026-05-09 12:52:24,172 - INFO - Unverified facilities: 373
+2026-05-09 12:52:24,172 - INFO - Log saved to: logs/api_scraper_20260509_125144.log
+2026-05-09 12:52:24,360 - INFO - Exported 2158 jobs to jobs.csv
