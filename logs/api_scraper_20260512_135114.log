@@ -1,0 +1,55 @@
+2026-05-12 13:51:14,793 - INFO - Starting API job scraper
+2026-05-12 13:51:14,794 - INFO - Loaded 853 master facilities
+2026-05-12 13:51:14,794 - INFO - Fetching jobs from API...
+2026-05-12 13:51:24,324 - INFO - Total jobs found: 500
+2026-05-12 13:51:24,351 - INFO - New job: VP Operations - Corrections - 646953 [UNVERIFIED: Corrections]
+2026-05-12 13:51:24,368 - INFO - New job: District Manager I - Corrections - 646957 [UNVERIFIED: Corrections]
+2026-05-12 13:51:24,385 - INFO - New job: District Manager I - Corrections - 646959 [UNVERIFIED: Corrections]
+2026-05-12 13:51:24,402 - INFO - New job: General Manager I - Corrections - 646960 [UNVERIFIED: Corrections]
+2026-05-12 13:51:24,403 - INFO - New job: Retail In2Work Manager - 646961 [No facility found]
+2026-05-12 13:51:24,403 - INFO - New job: HR Generalist Specialist - 646973 [No facility found]
+2026-05-12 13:51:24,489 - INFO - New job: Food Service Worker - Arlington County Detention Ctr - 652282 [UNVERIFIED: Arlington County Detention Ctr]
+2026-05-12 13:51:24,537 - INFO - New job: Cook - Arlington County Detention Ctr - 652284 [UNVERIFIED: Arlington County Detention Ctr]
+2026-05-12 13:51:24,568 - INFO - New job: Corrections Oversight Worker - Escambia County Jail - 652311 [UNVERIFIED: Escambia County Jail]
+2026-05-12 13:51:24,613 - INFO - New job: Corrections Oversight Worker - Western Tidewater Regional Jail - 652324 [UNVERIFIED: Western Tidewater Regional Jail]
+2026-05-12 13:51:24,630 - INFO - New job: HR Intern - Corrections - 652337 [UNVERIFIED: Corrections]
+2026-05-12 13:51:24,646 - INFO - New job: TA Intern - Corrections - 652339 [UNVERIFIED: Corrections]
+2026-05-12 13:51:24,683 - INFO - New job: Corrections Oversight Worker - Dayton Correctional Institution - 652343 [VERIFIED: Dayton Correctional Institution]
+2026-05-12 13:51:24,721 - INFO - New job: Food Service Worker - Erie County Care Facility - 652361 [VERIFIED: Otero County Prison Facility]
+2026-05-12 13:51:24,749 - INFO - New job: Food Service Worker - AL Dept of Youth - 652393 [UNVERIFIED: AL Dept of Youth]
+2026-05-12 13:51:24,750 - INFO - New job: Food Service Director - 652397 [No facility found]
+2026-05-12 13:51:24,773 - INFO - New job: Corrections Oversight Worker - VOA Dayton - 652421 [UNVERIFIED: VOA Dayton]
+2026-05-12 13:51:24,820 - INFO - New job: Corrections Oversight Worker - Pendleton Juvenile Correction Facility - 652424 [VERIFIED: Pendleton Correctional Facility]
+2026-05-12 13:51:24,867 - INFO - New job: Food Service Worker - Arlington County Detention Ctr - 652471 [UNVERIFIED: Arlington County Detention Ctr]
+2026-05-12 13:51:24,895 - INFO - New job: Cook - Wright County Jail - 652513 [UNVERIFIED: Wright County Jail]
+2026-05-12 13:51:36,590 - INFO - Added 20 new jobs
+2026-05-12 13:51:36,590 - INFO - Fetching descriptions for 20 new jobs...
+2026-05-12 13:51:37,977 - INFO - Updated description for 646953
+2026-05-12 13:51:39,714 - INFO - Updated description for 646957
+2026-05-12 13:51:41,538 - INFO - Updated description for 646959
+2026-05-12 13:51:43,189 - INFO - Updated description for 646960
+2026-05-12 13:51:44,915 - INFO - Updated description for 646961
+2026-05-12 13:51:46,505 - INFO - Updated description for 646973
+2026-05-12 13:51:48,137 - INFO - Updated description for 652282
+2026-05-12 13:51:49,787 - INFO - Updated description for 652284
+2026-05-12 13:51:51,699 - INFO - Updated description for 652311
+2026-05-12 13:51:53,471 - INFO - Updated description for 652324
+2026-05-12 13:51:55,138 - INFO - Updated description for 652337
+2026-05-12 13:51:56,818 - INFO - Updated description for 652339
+2026-05-12 13:51:58,397 - INFO - Updated description for 652343
+2026-05-12 13:52:00,080 - INFO - Updated description for 652361
+2026-05-12 13:52:02,002 - INFO - Updated description for 652393
+2026-05-12 13:52:03,750 - INFO - Updated description for 652397
+2026-05-12 13:52:05,460 - INFO - Updated description for 652421
+2026-05-12 13:52:07,059 - INFO - Updated description for 652424
+2026-05-12 13:52:08,759 - INFO - Updated description for 652471
+2026-05-12 13:52:10,367 - INFO - Updated description for 652513
+2026-05-12 13:52:10,875 - INFO - 
+=== SUMMARY ===
+2026-05-12 13:52:10,875 - INFO - Total jobs in database: 2179
+2026-05-12 13:52:10,875 - INFO - New jobs added: 20
+2026-05-12 13:52:10,875 - INFO - Descriptions updated: 20
+2026-05-12 13:52:10,875 - INFO - Verified facilities: 136
+2026-05-12 13:52:10,875 - INFO - Unverified facilities: 375
+2026-05-12 13:52:10,875 - INFO - Log saved to: logs/api_scraper_20260512_135114.log
+2026-05-12 13:52:11,056 - INFO - Exported 2179 jobs to jobs.csv
