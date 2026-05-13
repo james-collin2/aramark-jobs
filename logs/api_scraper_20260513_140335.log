@@ -1,0 +1,51 @@
+2026-05-13 14:03:35,375 - INFO - Starting API job scraper
+2026-05-13 14:03:35,376 - INFO - Loaded 853 master facilities
+2026-05-13 14:03:35,376 - INFO - Fetching jobs from API...
+2026-05-13 14:03:37,059 - INFO - Total jobs found: 500
+2026-05-13 14:03:37,117 - INFO - New job: Cook - Erie County Care Facility - 652549 [VERIFIED: Otero County Prison Facility]
+2026-05-13 14:03:37,118 - INFO - New job: Food Service Worker - 652566 [No facility found]
+2026-05-13 14:03:37,118 - INFO - New job: Food Service Supervisor - 652567 [No facility found]
+2026-05-13 14:03:37,147 - INFO - New job: Corrections Oversight Worker - Pinellas County Food - 652569 [UNVERIFIED: Pinellas County Food]
+2026-05-13 14:03:37,147 - INFO - New job: Food Service Worker - 652571 [No facility found]
+2026-05-13 14:03:37,147 - INFO - New job: Food Service Worker - 652575 [No facility found]
+2026-05-13 14:03:37,147 - INFO - New job: Food Service Worker - 652581 [No facility found]
+2026-05-13 14:03:37,147 - INFO - New job: Food Service Worker - 652593 [No facility found]
+2026-05-13 14:03:37,179 - INFO - New job: Corrections Oversight Worker - Stevens Correctional Center - 652608 [VERIFIED: Stateville Correctional Center]
+2026-05-13 14:03:37,180 - INFO - New job: Food Service Manager - 652622 [No facility found]
+2026-05-13 14:03:37,180 - INFO - New job: Food Service Manager - 652657 [No facility found]
+2026-05-13 14:03:37,215 - INFO - New job: HVAC Technician - Harris County Facilities - 652658 [UNVERIFIED: Harris County Facilities]
+2026-05-13 14:03:37,215 - INFO - New job: Floor Technician - 652711 [No facility found]
+2026-05-13 14:03:37,252 - INFO - New job: Corrections Oversight Worker - Jefferson City Correctional Center - 652719 [VERIFIED: Jefferson City Correctional Center]
+2026-05-13 14:03:37,282 - INFO - New job: Food Service Worker Lead - OKDOC - Clara Waters - 652724 [UNVERIFIED: OKDOC - Clara Waters]
+2026-05-13 14:03:37,313 - INFO - New job: Corrections Oversight Worker - OKDOC - Clara Waters - 652727 [UNVERIFIED: OKDOC - Clara Waters]
+2026-05-13 14:03:37,339 - INFO - New job: Food Service Worker Lead - Wichita City Jail - 652733 [UNVERIFIED: Wichita City Jail]
+2026-05-13 14:03:37,366 - INFO - New job: Commissary Supervisor- Madera County D.O.C - Madera County D.O.C. - 652763 [UNVERIFIED: Madera County D.O.C.]
+2026-05-13 14:03:48,075 - INFO - Added 18 new jobs
+2026-05-13 14:03:48,076 - INFO - Fetching descriptions for 18 new jobs...
+2026-05-13 14:03:49,536 - INFO - Updated description for 652549
+2026-05-13 14:03:51,369 - INFO - Updated description for 652566
+2026-05-13 14:03:53,137 - INFO - Updated description for 652567
+2026-05-13 14:03:54,807 - INFO - Updated description for 652569
+2026-05-13 14:03:56,605 - INFO - Updated description for 652571
+2026-05-13 14:03:58,545 - INFO - Updated description for 652575
+2026-05-13 14:04:00,252 - INFO - Updated description for 652581
+2026-05-13 14:04:01,918 - INFO - Updated description for 652593
+2026-05-13 14:04:03,591 - INFO - Updated description for 652608
+2026-05-13 14:04:05,297 - INFO - Updated description for 652622
+2026-05-13 14:04:06,886 - INFO - Updated description for 652657
+2026-05-13 14:04:08,525 - INFO - Updated description for 652658
+2026-05-13 14:04:10,473 - INFO - Updated description for 652711
+2026-05-13 14:04:15,255 - INFO - Updated description for 652719
+2026-05-13 14:04:16,867 - INFO - Updated description for 652724
+2026-05-13 14:04:18,567 - INFO - Updated description for 652727
+2026-05-13 14:04:20,480 - INFO - Updated description for 652733
+2026-05-13 14:04:22,117 - INFO - Updated description for 652763
+2026-05-13 14:04:22,629 - INFO - 
+=== SUMMARY ===
+2026-05-13 14:04:22,630 - INFO - Total jobs in database: 2197
+2026-05-13 14:04:22,630 - INFO - New jobs added: 18
+2026-05-13 14:04:22,630 - INFO - Descriptions updated: 18
+2026-05-13 14:04:22,630 - INFO - Verified facilities: 136
+2026-05-13 14:04:22,630 - INFO - Unverified facilities: 376
+2026-05-13 14:04:22,630 - INFO - Log saved to: logs/api_scraper_20260513_140335.log
+2026-05-13 14:04:22,824 - INFO - Exported 2197 jobs to jobs.csv
