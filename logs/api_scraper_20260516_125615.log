@@ -1,0 +1,37 @@
+2026-05-16 12:56:15,720 - INFO - Starting API job scraper
+2026-05-16 12:56:15,720 - INFO - Loaded 853 master facilities
+2026-05-16 12:56:15,721 - INFO - Fetching jobs from API...
+2026-05-16 12:56:18,111 - INFO - Total jobs found: 500
+2026-05-16 12:56:18,151 - INFO - New job: Food Service Worker - Randolph County Jail - 652857 [UNVERIFIED: Randolph County Jail]
+2026-05-16 12:56:18,183 - INFO - New job: Commissary Worker - USG - USCS - EL VALLE - 653015 [UNVERIFIED: USG - USCS - EL VALLE]
+2026-05-16 12:56:18,208 - INFO - New job: Corrections Oversight Worker - Tallahassee - CRC - (168) - 653210 [UNVERIFIED: Tallahassee - CRC]
+2026-05-16 12:56:18,209 - INFO - New job: Food Service Manager - 653251 [No facility found]
+2026-05-16 12:56:18,236 - INFO - New job: Food Service Supervisor - ALDOC - Frank Lee - 653252 [UNVERIFIED: ALDOC - Frank Lee]
+2026-05-16 12:56:18,236 - INFO - New job: Food Service Director - 653257 [No facility found]
+2026-05-16 12:56:18,236 - INFO - New job: Food Service Manager - 653267 [No facility found]
+2026-05-16 12:56:18,285 - INFO - New job: Lead - Washington DC - DOC - 653279 [VERIFIED: Washington Corrections Center]
+2026-05-16 12:56:18,321 - INFO - New job: Corrections Oversight Worker - Santa Rosa - CI/Annex/WC - (119/135/127) - 653284 [UNVERIFIED: Santa Rosa - CI/Annex/WC]
+2026-05-16 12:56:18,344 - INFO - New job: Corrections Oversight Worker - ASPC - Safford - 653329 [UNVERIFIED: ASPC - Safford]
+2026-05-16 12:56:18,375 - INFO - New job: Food Service Worker - Fort Bend County Jail - 653352 [UNVERIFIED: Fort Bend County Jail]
+2026-05-16 12:56:29,432 - INFO - Added 11 new jobs
+2026-05-16 12:56:29,432 - INFO - Fetching descriptions for 11 new jobs...
+2026-05-16 12:56:30,662 - INFO - Updated description for 652857
+2026-05-16 12:56:32,532 - INFO - Updated description for 653015
+2026-05-16 12:56:34,226 - INFO - Updated description for 653210
+2026-05-16 12:56:36,032 - INFO - Updated description for 653251
+2026-05-16 12:56:37,740 - INFO - Updated description for 653252
+2026-05-16 12:56:39,448 - INFO - Updated description for 653257
+2026-05-16 12:56:41,250 - INFO - Updated description for 653267
+2026-05-16 12:56:43,059 - INFO - Updated description for 653279
+2026-05-16 12:56:44,991 - INFO - Updated description for 653284
+2026-05-16 12:56:47,039 - INFO - Updated description for 653329
+2026-05-16 12:56:48,806 - INFO - Updated description for 653352
+2026-05-16 12:56:49,315 - INFO - 
+=== SUMMARY ===
+2026-05-16 12:56:49,315 - INFO - Total jobs in database: 2230
+2026-05-16 12:56:49,315 - INFO - New jobs added: 11
+2026-05-16 12:56:49,315 - INFO - Descriptions updated: 11
+2026-05-16 12:56:49,315 - INFO - Verified facilities: 137
+2026-05-16 12:56:49,315 - INFO - Unverified facilities: 378
+2026-05-16 12:56:49,315 - INFO - Log saved to: logs/api_scraper_20260516_125615.log
+2026-05-16 12:56:49,511 - INFO - Exported 2230 jobs to jobs.csv
