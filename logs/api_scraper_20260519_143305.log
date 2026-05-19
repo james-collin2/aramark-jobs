@@ -1,0 +1,51 @@
+2026-05-19 14:33:05,788 - INFO - Starting API job scraper
+2026-05-19 14:33:05,788 - INFO - Loaded 853 master facilities
+2026-05-19 14:33:05,788 - INFO - Fetching jobs from API...
+2026-05-19 14:33:08,099 - INFO - Total jobs found: 500
+2026-05-19 14:33:08,229 - INFO - New job: Corrections Food Service Worker - Cumberland County Jail - Cumberland County Jail - 653462 [UNVERIFIED: Cumberland County Jail - Cumberland County Jail]
+2026-05-19 14:33:08,273 - INFO - New job: Corrections Food Service Worker - Clinton County Correctional Facility - PA - 653463 [VERIFIED: Bent County Correctional Facility]
+2026-05-19 14:33:08,315 - INFO - New job: Corrections Oversight Worker - Douglas County Minnesota Jail - 653477 [UNVERIFIED: Douglas County Minnesota Jail]
+2026-05-19 14:33:08,342 - INFO - New job: Food Service Worker - Tom Green County - 653497 [UNVERIFIED: Tom Green County]
+2026-05-19 14:33:08,397 - INFO - New job: Food Service Supervisor - South Dakota State Penitentiary (Sioux Falls) - 653498 [VERIFIED: South Dakota State Penitentiary]
+2026-05-19 14:33:08,398 - INFO - New job: Food Service Worker - 653502 [No facility found]
+2026-05-19 14:33:08,448 - INFO - New job: Corrections Oversight Worker - Central Regional Jail and Correctional Facility - 653518 [VERIFIED: Central Arizona Correctional Facility[3]]
+2026-05-19 14:33:08,448 - INFO - New job: Food Service Director - 653526 [No facility found]
+2026-05-19 14:33:08,448 - INFO - New job: Food Service Manager - 653531 [No facility found]
+2026-05-19 14:33:08,449 - INFO - New job: Food Service Worker - 653561 [No facility found]
+2026-05-19 14:33:08,449 - INFO - New job: Lead Cook - 653574 [No facility found]
+2026-05-19 14:33:08,449 - INFO - New job: Food Service Worker - 653577 [No facility found]
+2026-05-19 14:33:08,473 - INFO - New job: Food Service Supervisor - ALDOC - Mobile - 653593 [UNVERIFIED: ALDOC - Mobile]
+2026-05-19 14:33:08,504 - INFO - New job: Retail Sales Worker Lead - Cumberland County Jail - 653617 [UNVERIFIED: Cumberland County Jail]
+2026-05-19 14:33:08,548 - INFO - New job: Retail Sales Worker Lead - Clinton County Correctional Facility - PA - 653618 [VERIFIED: Bent County Correctional Facility]
+2026-05-19 14:33:08,548 - INFO - New job: Finance Sr Manager - 653634 [No facility found]
+2026-05-19 14:33:08,589 - INFO - New job: Food Service Supervisor - Rapid City Community Work Center - 653636 [VERIFIED: Rapid City Minimum Center]
+2026-05-19 14:33:08,626 - INFO - New job: Lead Cook - Anoka County Jail Facility - 653640 [VERIFIED: Otero County Prison Facility]
+2026-05-19 14:33:19,706 - INFO - Added 18 new jobs
+2026-05-19 14:33:19,706 - INFO - Fetching descriptions for 18 new jobs...
+2026-05-19 14:33:20,778 - INFO - Updated description for 653462
+2026-05-19 14:33:22,369 - INFO - Updated description for 653463
+2026-05-19 14:33:24,271 - INFO - Updated description for 653477
+2026-05-19 14:33:26,076 - INFO - Updated description for 653497
+2026-05-19 14:33:27,702 - INFO - Updated description for 653498
+2026-05-19 14:33:29,422 - INFO - Updated description for 653502
+2026-05-19 14:33:31,112 - INFO - Updated description for 653518
+2026-05-19 14:33:32,755 - INFO - Updated description for 653526
+2026-05-19 14:33:34,400 - INFO - Updated description for 653531
+2026-05-19 14:33:36,109 - INFO - Updated description for 653561
+2026-05-19 14:33:37,792 - INFO - Updated description for 653574
+2026-05-19 14:33:39,483 - INFO - Updated description for 653577
+2026-05-19 14:33:41,144 - INFO - Updated description for 653593
+2026-05-19 14:33:42,735 - INFO - Updated description for 653617
+2026-05-19 14:33:44,774 - INFO - Updated description for 653618
+2026-05-19 14:33:46,399 - INFO - Updated description for 653634
+2026-05-19 14:33:48,047 - INFO - Updated description for 653636
+2026-05-19 14:33:49,725 - INFO - Updated description for 653640
+2026-05-19 14:33:50,233 - INFO - 
+=== SUMMARY ===
+2026-05-19 14:33:50,233 - INFO - Total jobs in database: 2248
+2026-05-19 14:33:50,233 - INFO - New jobs added: 18
+2026-05-19 14:33:50,233 - INFO - Descriptions updated: 18
+2026-05-19 14:33:50,233 - INFO - Verified facilities: 137
+2026-05-19 14:33:50,233 - INFO - Unverified facilities: 380
+2026-05-19 14:33:50,233 - INFO - Log saved to: logs/api_scraper_20260519_143305.log
+2026-05-19 14:33:50,419 - INFO - Exported 2248 jobs to jobs.csv
