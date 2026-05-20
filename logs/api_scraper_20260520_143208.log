@@ -1,0 +1,27 @@
+2026-05-20 14:32:08,035 - INFO - Starting API job scraper
+2026-05-20 14:32:08,035 - INFO - Loaded 853 master facilities
+2026-05-20 14:32:08,035 - INFO - Fetching jobs from API...
+2026-05-20 14:32:09,559 - INFO - Total jobs found: 500
+2026-05-20 14:32:09,609 - INFO - New job: Maintenance Worker - Bucks County Correctional (Facilities) - 653858 [VERIFIED: Bent County Correctional Facility]
+2026-05-20 14:32:09,635 - INFO - New job: Corrections Oversight Worker - Yellow Medicine - 653868 [UNVERIFIED: Yellow Medicine]
+2026-05-20 14:32:09,663 - INFO - New job: Corrections Oversight Worker - Walworth County Jail - 653923 [UNVERIFIED: Walworth County Jail]
+2026-05-20 14:32:09,664 - INFO - New job: Corrections Oversight Worker - 646604 [No facility found]
+2026-05-20 14:32:09,688 - INFO - New job: Food Service Worker Lead - Lucas County Jail - 653706 [UNVERIFIED: Lucas County Jail]
+2026-05-20 14:32:09,705 - INFO - New job: Corrections Oversight Worker - Lake - CI - (312) - 653808 [UNVERIFIED: Lake - CI]
+2026-05-20 14:32:20,307 - INFO - Added 6 new jobs
+2026-05-20 14:32:20,307 - INFO - Fetching descriptions for 6 new jobs...
+2026-05-20 14:32:21,382 - INFO - Updated description for 653858
+2026-05-20 14:32:23,290 - INFO - Updated description for 653868
+2026-05-20 14:32:24,879 - INFO - Updated description for 653923
+2026-05-20 14:32:26,582 - INFO - Updated description for 646604
+2026-05-20 14:32:28,452 - INFO - Updated description for 653706
+2026-05-20 14:32:30,068 - INFO - Updated description for 653808
+2026-05-20 14:32:30,574 - INFO - 
+=== SUMMARY ===
+2026-05-20 14:32:30,575 - INFO - Total jobs in database: 2254
+2026-05-20 14:32:30,575 - INFO - New jobs added: 6
+2026-05-20 14:32:30,575 - INFO - Descriptions updated: 6
+2026-05-20 14:32:30,575 - INFO - Verified facilities: 137
+2026-05-20 14:32:30,575 - INFO - Unverified facilities: 380
+2026-05-20 14:32:30,575 - INFO - Log saved to: logs/api_scraper_20260520_143208.log
+2026-05-20 14:32:30,751 - INFO - Exported 2254 jobs to jobs.csv
