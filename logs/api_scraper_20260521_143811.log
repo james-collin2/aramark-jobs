@@ -1,0 +1,35 @@
+2026-05-21 14:38:11,147 - INFO - Starting API job scraper
+2026-05-21 14:38:11,147 - INFO - Loaded 853 master facilities
+2026-05-21 14:38:11,147 - INFO - Fetching jobs from API...
+2026-05-21 14:38:12,895 - INFO - Total jobs found: 500
+2026-05-21 14:38:12,924 - INFO - New job: Food Service Worker Lead - Lake - CI - (312) - 654102 [UNVERIFIED: Lake - CI]
+2026-05-21 14:38:12,925 - INFO - New job: Logistics Lead Coordinator - 654115 [No facility found]
+2026-05-21 14:38:12,925 - INFO - New job: Logistics Lead Coordinator - 654117 [No facility found]
+2026-05-21 14:38:12,956 - INFO - New job: Food Service Worker - Mecklenburg County Jail - 653604 [UNVERIFIED: Mecklenburg County Jail]
+2026-05-21 14:38:12,992 - INFO - New job: Food Service Supervisor - Mike Durfee State Prison - 654131 [VERIFIED: Mike Durfee State Prison]
+2026-05-21 14:38:12,992 - INFO - New job: Strategic Sourcing Analyst - 653733 [No facility found]
+2026-05-21 14:38:13,021 - INFO - New job: Food Service Supervisor - Escambia County Jail - 653973 [UNVERIFIED: Escambia County Jail]
+2026-05-21 14:38:13,051 - INFO - New job: Corrections Food Service Worker - Phillips State Prison - 654004 [VERIFIED: Phillips State Prison]
+2026-05-21 14:38:13,090 - INFO - New job: Corrections Oversight Worker - South Central Correctional Center - 654014 [VERIFIED: South Central Correctional Center]
+2026-05-21 14:38:13,121 - INFO - New job: Corrections Oversight Worker - Orange County (NY) Jail - 654060 [UNVERIFIED: Orange County (NY) Jail]
+2026-05-21 14:38:24,054 - INFO - Added 10 new jobs
+2026-05-21 14:38:24,054 - INFO - Fetching descriptions for 10 new jobs...
+2026-05-21 14:38:25,248 - INFO - Updated description for 654102
+2026-05-21 14:38:26,989 - INFO - Updated description for 654115
+2026-05-21 14:38:28,666 - INFO - Updated description for 654117
+2026-05-21 14:38:30,222 - INFO - Updated description for 653604
+2026-05-21 14:38:31,910 - INFO - Updated description for 654131
+2026-05-21 14:38:33,607 - INFO - Updated description for 653733
+2026-05-21 14:38:35,239 - INFO - Updated description for 653973
+2026-05-21 14:38:36,933 - INFO - Updated description for 654004
+2026-05-21 14:38:38,526 - INFO - Updated description for 654014
+2026-05-21 14:38:40,076 - INFO - Updated description for 654060
+2026-05-21 14:38:40,586 - INFO - 
+=== SUMMARY ===
+2026-05-21 14:38:40,586 - INFO - Total jobs in database: 2264
+2026-05-21 14:38:40,586 - INFO - New jobs added: 10
+2026-05-21 14:38:40,586 - INFO - Descriptions updated: 10
+2026-05-21 14:38:40,586 - INFO - Verified facilities: 138
+2026-05-21 14:38:40,586 - INFO - Unverified facilities: 380
+2026-05-21 14:38:40,586 - INFO - Log saved to: logs/api_scraper_20260521_143811.log
+2026-05-21 14:38:40,787 - INFO - Exported 2264 jobs to jobs.csv
