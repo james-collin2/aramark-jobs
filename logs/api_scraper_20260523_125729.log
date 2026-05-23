@@ -1,0 +1,35 @@
+2026-05-23 12:57:29,417 - INFO - Starting API job scraper
+2026-05-23 12:57:29,418 - INFO - Loaded 853 master facilities
+2026-05-23 12:57:29,418 - INFO - Fetching jobs from API...
+2026-05-23 12:57:31,010 - INFO - Total jobs found: 500
+2026-05-23 12:57:31,059 - INFO - New job: Laundry Supervisor - Charlotte County Commissary - 631411 [UNVERIFIED: Charlotte County Commissary]
+2026-05-23 12:57:31,083 - INFO - New job: Dining Performance Manager - West Region - 654447 [VERIFIED: Western Reception]
+2026-05-23 12:57:31,123 - INFO - New job: Commissary Worker - Charlotte County Commissary - 654495 [UNVERIFIED: Charlotte County Commissary]
+2026-05-23 12:57:31,144 - INFO - New job: Food Service Supervisor - ALDOC - Bibb - 654502 [UNVERIFIED: ALDOC - Bibb]
+2026-05-23 12:57:31,176 - INFO - New job: Corrections Oversight Worker - Seminole County Jail - 654508 [UNVERIFIED: Seminole County Jail]
+2026-05-23 12:57:31,177 - INFO - New job: Custodial Manager Sr - 654511 [No facility found]
+2026-05-23 12:57:31,208 - INFO - New job: Lead Cook - Williamson County (TX) - 654529 [UNVERIFIED: Williamson County (TX)]
+2026-05-23 12:57:31,243 - INFO - New job: Driver I - Santa Cruz County - 654538 [UNVERIFIED: Santa Cruz County]
+2026-05-23 12:57:31,280 - INFO - New job: Corrections Oversight Worker - Delaware County (PA) Jail - 654542 [UNVERIFIED: Delaware County (PA) Jail]
+2026-05-23 12:57:31,336 - INFO - New job: Food Service Worker Lead - Harris County Juvenile Detention Center - 654549 [UNVERIFIED: Harris County Juvenile Detention Center]
+2026-05-23 12:57:43,088 - INFO - Added 10 new jobs
+2026-05-23 12:57:43,088 - INFO - Fetching descriptions for 10 new jobs...
+2026-05-23 12:57:44,208 - INFO - Updated description for 631411
+2026-05-23 12:57:45,976 - INFO - Updated description for 654447
+2026-05-23 12:57:47,815 - INFO - Updated description for 654495
+2026-05-23 12:57:49,515 - INFO - Updated description for 654502
+2026-05-23 12:57:51,141 - INFO - Updated description for 654508
+2026-05-23 12:57:52,757 - INFO - Updated description for 654511
+2026-05-23 12:57:54,505 - INFO - Updated description for 654529
+2026-05-23 12:57:56,093 - INFO - Updated description for 654538
+2026-05-23 12:57:57,687 - INFO - Updated description for 654542
+2026-05-23 12:57:59,279 - INFO - Updated description for 654549
+2026-05-23 12:57:59,787 - INFO - 
+=== SUMMARY ===
+2026-05-23 12:57:59,787 - INFO - Total jobs in database: 2279
+2026-05-23 12:57:59,787 - INFO - New jobs added: 10
+2026-05-23 12:57:59,788 - INFO - Descriptions updated: 10
+2026-05-23 12:57:59,788 - INFO - Verified facilities: 139
+2026-05-23 12:57:59,788 - INFO - Unverified facilities: 381
+2026-05-23 12:57:59,788 - INFO - Log saved to: logs/api_scraper_20260523_125729.log
+2026-05-23 12:57:59,980 - INFO - Exported 2279 jobs to jobs.csv
