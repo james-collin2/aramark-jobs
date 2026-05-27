@@ -1,0 +1,33 @@
+2026-05-27 14:52:10,431 - INFO - Starting API job scraper
+2026-05-27 14:52:10,431 - INFO - Loaded 853 master facilities
+2026-05-27 14:52:10,431 - INFO - Fetching jobs from API...
+2026-05-27 14:52:12,563 - INFO - Total jobs found: 500
+2026-05-27 14:52:12,608 - INFO - New job: Corrections Oversight Worker - Hollywood - CRC - (446) - 654873 [UNVERIFIED: Hollywood - CRC]
+2026-05-27 14:52:12,640 - INFO - New job: Corrections Oversight Worker - Tipton Correctional Center - 654874 [VERIFIED: Tipton Correctional Center]
+2026-05-27 14:52:12,655 - INFO - New job: Corrections Oversight Worker - SFRC - (402) - 654876 [UNVERIFIED: SFRC]
+2026-05-27 14:52:12,678 - INFO - New job: Corrections Oversight Worker - SFRC - South - (403) - 654877 [UNVERIFIED: SFRC - South]
+2026-05-27 14:52:12,679 - INFO - New job: Food Service Manager - 654310 [No facility found]
+2026-05-27 14:52:12,726 - INFO - New job: Commissary Worker - USG - USCS OPERATIONS OVERHEAD - 653019 [UNVERIFIED: USG - USCS OPERATIONS OVERHEAD]
+2026-05-27 14:52:12,778 - INFO - New job: Commissary Worker - USG - USCS OPERATIONS OVERHEAD - 653022 [UNVERIFIED: USG - USCS OPERATIONS OVERHEAD]
+2026-05-27 14:52:12,803 - INFO - New job: Retail Sales Worker Lead - Butler County - 654748 [UNVERIFIED: Butler County]
+2026-05-27 14:52:12,839 - INFO - New job: Food Service Worker Lead - Columbia - CI/Annex - (201/251) - 654813 [UNVERIFIED: Columbia - CI/Annex]
+2026-05-27 14:52:24,367 - INFO - Added 9 new jobs
+2026-05-27 14:52:24,367 - INFO - Fetching descriptions for 9 new jobs...
+2026-05-27 14:52:25,628 - INFO - Updated description for 654873
+2026-05-27 14:52:27,326 - INFO - Updated description for 654874
+2026-05-27 14:52:28,838 - INFO - Updated description for 654876
+2026-05-27 14:52:30,370 - INFO - Updated description for 654877
+2026-05-27 14:52:31,932 - INFO - Updated description for 654310
+2026-05-27 14:52:33,539 - INFO - Updated description for 653019
+2026-05-27 14:52:35,109 - INFO - Updated description for 653022
+2026-05-27 14:52:36,617 - INFO - Updated description for 654748
+2026-05-27 14:52:38,194 - INFO - Updated description for 654813
+2026-05-27 14:52:38,703 - INFO - 
+=== SUMMARY ===
+2026-05-27 14:52:38,703 - INFO - Total jobs in database: 2289
+2026-05-27 14:52:38,703 - INFO - New jobs added: 9
+2026-05-27 14:52:38,703 - INFO - Descriptions updated: 9
+2026-05-27 14:52:38,703 - INFO - Verified facilities: 139
+2026-05-27 14:52:38,703 - INFO - Unverified facilities: 384
+2026-05-27 14:52:38,703 - INFO - Log saved to: logs/api_scraper_20260527_145210.log
+2026-05-27 14:52:38,892 - INFO - Exported 2289 jobs to jobs.csv
