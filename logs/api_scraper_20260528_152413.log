@@ -1,0 +1,49 @@
+2026-05-28 15:24:13,328 - INFO - Starting API job scraper
+2026-05-28 15:24:13,329 - INFO - Loaded 853 master facilities
+2026-05-28 15:24:13,329 - INFO - Fetching jobs from API...
+2026-05-28 15:24:18,214 - INFO - Total jobs found: 500
+2026-05-28 15:24:18,272 - INFO - New job: Maintenance Supervisor - Harris County Facilities - 654527 [UNVERIFIED: Harris County Facilities]
+2026-05-28 15:24:18,273 - INFO - New job: Food Service Manager - 654821 [No facility found]
+2026-05-28 15:24:18,296 - INFO - New job: Commissary Worker - Fairfax County - 654827 [UNVERIFIED: Fairfax County]
+2026-05-28 15:24:18,336 - INFO - New job: Carpenter - Oriana House (Facilities) - 654875 [UNVERIFIED: Oriana House (Facilities)]
+2026-05-28 15:24:18,375 - INFO - New job: Maintenance Worker I - Oriana House (Facilities) - 654878 [UNVERIFIED: Oriana House (Facilities)]
+2026-05-28 15:24:18,402 - INFO - New job: Corrections Oversight Worker - Greene County Jail - 654888 [VERIFIED: Greene County Work Camp]
+2026-05-28 15:24:18,437 - INFO - New job: Food Service Worker - Multnomah County-Sheriff - 654893 [UNVERIFIED: Multnomah County-Sheriff]
+2026-05-28 15:24:18,455 - INFO - New job: Corrections Oversight Worker - Sumter - CI - (307) - 654910 [UNVERIFIED: Sumter - CI]
+2026-05-28 15:24:18,511 - INFO - New job: Food Service Supervisor - Harris County Juvenile Detention Center - 654967 [UNVERIFIED: Harris County Juvenile Detention Center]
+2026-05-28 15:24:18,545 - INFO - New job: Corrections Oversight Worker - Pruntytown Correctional Center - 654997 [VERIFIED: Pruntytown Correctional Center]
+2026-05-28 15:24:18,560 - INFO - New job: General Manager - Corrections - 655021 [UNVERIFIED: Corrections]
+2026-05-28 15:24:18,587 - INFO - New job: Corrections Oversight Worker - Kenosha County Jail - 655025 [UNVERIFIED: Kenosha County Jail]
+2026-05-28 15:24:18,612 - INFO - New job: Corrections Oversight Worker - Dodge County Jail - 655046 [UNVERIFIED: Dodge County Jail]
+2026-05-28 15:24:18,636 - INFO - New job: Commissary Worker - Dodge County Jail - 655049 [UNVERIFIED: Dodge County Jail]
+2026-05-28 15:24:18,665 - INFO - New job: Food Service Supervisor - Pinellas County Food - 655123 [UNVERIFIED: Pinellas County Food]
+2026-05-28 15:24:18,699 - INFO - New job: Corrections Oversight Worker - Westville Correctional Facility - 655133 [VERIFIED: Westville Correctional Facility]
+2026-05-28 15:24:18,749 - INFO - New job: Food Service Worker Lead - Warren County Juvenile Detention Center - 655156 [UNVERIFIED: Warren County Juvenile Detention Center]
+2026-05-28 15:24:29,302 - INFO - Added 17 new jobs
+2026-05-28 15:24:29,303 - INFO - Fetching descriptions for 17 new jobs...
+2026-05-28 15:24:30,627 - INFO - Updated description for 654527
+2026-05-28 15:24:32,782 - INFO - Updated description for 654821
+2026-05-28 15:24:34,767 - INFO - Updated description for 654827
+2026-05-28 15:24:36,615 - INFO - Updated description for 654875
+2026-05-28 15:24:38,355 - INFO - Updated description for 654878
+2026-05-28 15:24:40,063 - INFO - Updated description for 654888
+2026-05-28 15:24:41,905 - INFO - Updated description for 654893
+2026-05-28 15:24:43,698 - INFO - Updated description for 654910
+2026-05-28 15:24:45,745 - INFO - Updated description for 654967
+2026-05-28 15:24:47,455 - INFO - Updated description for 654997
+2026-05-28 15:24:49,169 - INFO - Updated description for 655021
+2026-05-28 15:24:51,105 - INFO - Updated description for 655025
+2026-05-28 15:24:52,778 - INFO - Updated description for 655046
+2026-05-28 15:24:54,738 - INFO - Updated description for 655049
+2026-05-28 15:24:56,519 - INFO - Updated description for 655123
+2026-05-28 15:24:58,371 - INFO - Updated description for 655133
+2026-05-28 15:25:00,263 - INFO - Updated description for 655156
+2026-05-28 15:25:00,771 - INFO - 
+=== SUMMARY ===
+2026-05-28 15:25:00,772 - INFO - Total jobs in database: 2306
+2026-05-28 15:25:00,772 - INFO - New jobs added: 17
+2026-05-28 15:25:00,772 - INFO - Descriptions updated: 17
+2026-05-28 15:25:00,772 - INFO - Verified facilities: 139
+2026-05-28 15:25:00,772 - INFO - Unverified facilities: 384
+2026-05-28 15:25:00,772 - INFO - Log saved to: logs/api_scraper_20260528_152413.log
+2026-05-28 15:25:00,977 - INFO - Exported 2306 jobs to jobs.csv
