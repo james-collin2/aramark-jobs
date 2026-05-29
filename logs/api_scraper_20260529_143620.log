@@ -1,0 +1,77 @@
+2026-05-29 14:36:20,012 - INFO - Starting API job scraper
+2026-05-29 14:36:20,012 - INFO - Loaded 853 master facilities
+2026-05-29 14:36:20,012 - INFO - Fetching jobs from API...
+2026-05-29 14:36:21,770 - INFO - Total jobs found: 500
+2026-05-29 14:36:21,826 - INFO - New job: Cook - Harris Center for Mental Health - 419 - 655359 [UNVERIFIED: Harris Center for Mental Health - 419]
+2026-05-29 14:36:21,866 - INFO - New job: Corrections Oversight Worker - Southern Ohio Correctional Facility - 655394 [VERIFIED: Southern Ohio Correctional Facility]
+2026-05-29 14:36:21,894 - INFO - New job: Food Service Worker - Multnomah/Inverness - 654883 [UNVERIFIED: Multnomah/Inverness]
+2026-05-29 14:36:21,929 - INFO - New job: Kitchen Supervisor - CFRC - Main/East/South - (320/321/323) - 655414 [UNVERIFIED: CFRC - Main/East/South]
+2026-05-29 14:36:21,993 - INFO - New job: Corrections Oversight Worker - Women's Eastern Reception, Diagnostic and Correctional Center - 655466 [UNVERIFIED: Women's Eastern Reception, Diagnostic and Correctional Center]
+2026-05-29 14:36:22,057 - INFO - New job: Food Service Worker Lead - Women's Eastern Reception, Diagnostic and Correctional Center - 655470 [UNVERIFIED: Women's Eastern Reception, Diagnostic and Correctional Center]
+2026-05-29 14:36:22,058 - INFO - New job: Retail IN2WORK Manager - 655482 [No facility found]
+2026-05-29 14:36:22,058 - INFO - New job: Food Service Worker Lead - 655483 [No facility found]
+2026-05-29 14:36:22,093 - INFO - New job: Corrections Oversight Worker - OKDOC - Howard McLeod - 655484 [UNVERIFIED: OKDOC - Howard McLeod]
+2026-05-29 14:36:22,093 - INFO - New job: Food Service Worker Lead - 655485 [No facility found]
+2026-05-29 14:36:22,093 - INFO - New job: Corrections Oversight Worker - 655489 [No facility found]
+2026-05-29 14:36:22,094 - INFO - New job: Food Service Worker Lead - 655494 [No facility found]
+2026-05-29 14:36:22,094 - INFO - New job: Corrections Oversight Worker - 655495 [No facility found]
+2026-05-29 14:36:22,122 - INFO - New job: Food Service Worker Lead - OKDOC - Red Rock - 655502 [UNVERIFIED: OKDOC - Red Rock]
+2026-05-29 14:36:22,151 - INFO - New job: Corrections Oversight Worker - OKDOC - Red Rock - 655503 [UNVERIFIED: OKDOC - Red Rock]
+2026-05-29 14:36:22,198 - INFO - New job: Food Service Worker Lead - OKDOC - Charles E. "Bill" Johnson - 655505 [UNVERIFIED: OKDOC - Charles E. "Bill" Johnson]
+2026-05-29 14:36:22,246 - INFO - New job: Corrections Oversight Worker - OKDOC - Charles E. "Bill" Johnson - 655506 [UNVERIFIED: OKDOC - Charles E. "Bill" Johnson]
+2026-05-29 14:36:22,278 - INFO - New job: Food Service Worker Lead - OKDOC - James Crabtree - 655510 [UNVERIFIED: OKDOC - James Crabtree]
+2026-05-29 14:36:22,311 - INFO - New job: Corrections Oversight Worker - OKDOC - James Crabtree - 655511 [UNVERIFIED: OKDOC - James Crabtree]
+2026-05-29 14:36:22,337 - INFO - New job: Food Service Worker Lead - OKDOC - Lawton - 655513 [UNVERIFIED: OKDOC - Lawton]
+2026-05-29 14:36:22,363 - INFO - New job: Corrections Oversight Worker - OKDOC - Lawton - 655514 [UNVERIFIED: OKDOC - Lawton]
+2026-05-29 14:36:22,388 - INFO - New job: Food Service Worker Lead - OKDOC - Enid - 655518 [UNVERIFIED: OKDOC - Enid]
+2026-05-29 14:36:22,414 - INFO - New job: Corrections Oversight Worker - OKDOC - Enid - 655519 [UNVERIFIED: OKDOC - Enid]
+2026-05-29 14:36:22,446 - INFO - New job: Food Service Worker Lead - OKDOC - John Lilley - 655522 [UNVERIFIED: OKDOC - John Lilley]
+2026-05-29 14:36:22,477 - INFO - New job: Corrections Oversight Worker - OKDOC - John Lilley - 655523 [UNVERIFIED: OKDOC - John Lilley]
+2026-05-29 14:36:22,478 - INFO - New job: Food Service Director - 654556 [No facility found]
+2026-05-29 14:36:22,478 - INFO - New job: Food Service Director - 654557 [No facility found]
+2026-05-29 14:36:22,506 - INFO - New job: Food Service Supervisor - St. Mary's County - 655222 [UNVERIFIED: St. Mary's County]
+2026-05-29 14:36:22,507 - INFO - New job: Cook Supervisor - 652650 [No facility found]
+2026-05-29 14:36:22,542 - INFO - New job: Corrections Food Service Worker - St. Mary's Correctional Center - 655295 [VERIFIED: St. Marys Correctional Center]
+2026-05-29 14:36:22,574 - INFO - New job: Warehouse Worker Lead - Dona Ana (Facilities) - 655296 [UNVERIFIED: Dona Ana (Facilities)]
+2026-05-29 14:36:33,494 - INFO - Added 31 new jobs
+2026-05-29 14:36:33,495 - INFO - Fetching descriptions for 31 new jobs...
+2026-05-29 14:36:34,786 - INFO - Updated description for 655359
+2026-05-29 14:36:36,528 - INFO - Updated description for 655394
+2026-05-29 14:36:38,314 - INFO - Updated description for 654883
+2026-05-29 14:36:39,927 - INFO - Updated description for 655414
+2026-05-29 14:36:41,567 - INFO - Updated description for 655466
+2026-05-29 14:36:43,586 - INFO - Updated description for 655470
+2026-05-29 14:36:45,253 - INFO - Updated description for 655482
+2026-05-29 14:36:46,855 - INFO - Updated description for 655483
+2026-05-29 14:36:48,500 - INFO - Updated description for 655484
+2026-05-29 14:36:50,173 - INFO - Updated description for 655485
+2026-05-29 14:36:51,778 - INFO - Updated description for 655489
+2026-05-29 14:36:53,399 - INFO - Updated description for 655494
+2026-05-29 14:36:55,031 - INFO - Updated description for 655495
+2026-05-29 14:36:56,644 - INFO - Updated description for 655502
+2026-05-29 14:36:58,447 - INFO - Updated description for 655503
+2026-05-29 14:37:00,248 - INFO - Updated description for 655505
+2026-05-29 14:37:02,133 - INFO - Updated description for 655506
+2026-05-29 14:37:04,521 - INFO - Updated description for 655510
+2026-05-29 14:37:06,581 - INFO - Updated description for 655511
+2026-05-29 14:37:08,537 - INFO - Updated description for 655513
+2026-05-29 14:37:10,498 - INFO - Updated description for 655514
+2026-05-29 14:37:12,450 - INFO - Updated description for 655518
+2026-05-29 14:37:14,668 - INFO - Updated description for 655519
+2026-05-29 14:37:16,486 - INFO - Updated description for 655522
+2026-05-29 14:37:18,352 - INFO - Updated description for 655523
+2026-05-29 14:37:20,129 - INFO - Updated description for 654556
+2026-05-29 14:37:22,128 - INFO - Updated description for 654557
+2026-05-29 14:37:24,048 - INFO - Updated description for 655222
+2026-05-29 14:37:25,981 - INFO - Updated description for 652650
+2026-05-29 14:37:27,917 - INFO - Updated description for 655295
+2026-05-29 14:37:29,644 - INFO - Updated description for 655296
+2026-05-29 14:37:30,153 - INFO - 
+=== SUMMARY ===
+2026-05-29 14:37:30,153 - INFO - Total jobs in database: 2337
+2026-05-29 14:37:30,153 - INFO - New jobs added: 31
+2026-05-29 14:37:30,153 - INFO - Descriptions updated: 31
+2026-05-29 14:37:30,153 - INFO - Verified facilities: 139
+2026-05-29 14:37:30,153 - INFO - Unverified facilities: 392
+2026-05-29 14:37:30,153 - INFO - Log saved to: logs/api_scraper_20260529_143620.log
+2026-05-29 14:37:30,346 - INFO - Exported 2337 jobs to jobs.csv
