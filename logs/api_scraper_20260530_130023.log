@@ -1,0 +1,45 @@
+2026-05-30 13:00:23,275 - INFO - Starting API job scraper
+2026-05-30 13:00:23,276 - INFO - Loaded 853 master facilities
+2026-05-30 13:00:23,276 - INFO - Fetching jobs from API...
+2026-05-30 13:00:26,986 - INFO - Total jobs found: 500
+2026-05-30 13:00:27,039 - INFO - New job: IN2WORK Associate - Chain O' Lakes Correctional Facility - 655586 [VERIFIED: Chain O'Lakes Correctional Facility]
+2026-05-30 13:00:27,073 - INFO - New job: Corrections Oversight Worker - Correction Reception Center - 655588 [VERIFIED: Correctional Reception Center]
+2026-05-30 13:00:27,106 - INFO - New job: Corrections Oversight Worker - Potosi Correctional Center - 655589 [VERIFIED: Potosi Correctional Center]
+2026-05-30 13:00:27,139 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 655603 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-05-30 13:00:27,170 - INFO - New job: Corrections Oversight Worker - WV Mount Olive DOC - 655623 [UNVERIFIED: WV Mount Olive DOC]
+2026-05-30 13:00:27,196 - INFO - New job: Corrections Oversight Worker - Okaloosa - CI/WC - (115/161) - 655661 [UNVERIFIED: Okaloosa - CI/WC]
+2026-05-30 13:00:27,256 - INFO - New job: Food Service Worker Lead - Lancaster/York Youth Intervention Centers - 655673 [UNVERIFIED: Lancaster/York Youth Intervention Centers]
+2026-05-30 13:00:27,292 - INFO - New job: Cook - Ohio State Penitentiary - 655676 [VERIFIED: Ohio State Penitentiary]
+2026-05-30 13:00:27,325 - INFO - New job: Retail Sales Worker Lead - Lancaster County Prison - 655677 [UNVERIFIED: Lancaster County Prison]
+2026-05-30 13:00:27,365 - INFO - New job: Warehouse Worker I - USG - USCS - WEST VIRGINIA - 654735 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-05-30 13:00:27,392 - INFO - New job: Corrections Oversight Worker - St. Mary's County - 655220 [UNVERIFIED: St. Mary's County]
+2026-05-30 13:00:27,393 - INFO - New job: Maintenance Worker - 655752 [No facility found]
+2026-05-30 13:00:27,394 - INFO - New job: Food Service Worker - 655297 [No facility found]
+2026-05-30 13:00:27,433 - INFO - New job: Corrections Food Service Worker - South Central Regional Jail - 655314 [VERIFIED: South Central Correctional Facility]
+2026-05-30 13:00:27,493 - INFO - New job: Food Service Worker - Lancaster/York Youth Intervention Centers - 655791 [UNVERIFIED: Lancaster/York Youth Intervention Centers]
+2026-05-30 13:00:38,862 - INFO - Added 15 new jobs
+2026-05-30 13:00:38,862 - INFO - Fetching descriptions for 15 new jobs...
+2026-05-30 13:00:39,893 - INFO - Updated description for 655586
+2026-05-30 13:00:41,414 - INFO - Updated description for 655588
+2026-05-30 13:00:42,940 - INFO - Updated description for 655589
+2026-05-30 13:00:44,598 - INFO - Updated description for 655603
+2026-05-30 13:00:46,077 - INFO - Updated description for 655623
+2026-05-30 13:00:47,728 - INFO - Updated description for 655661
+2026-05-30 13:00:49,225 - INFO - Updated description for 655673
+2026-05-30 13:00:50,764 - INFO - Updated description for 655676
+2026-05-30 13:00:52,291 - INFO - Updated description for 655677
+2026-05-30 13:00:54,738 - INFO - Updated description for 654735
+2026-05-30 13:00:56,301 - INFO - Updated description for 655220
+2026-05-30 13:00:57,932 - INFO - Updated description for 655752
+2026-05-30 13:00:59,499 - INFO - Updated description for 655297
+2026-05-30 13:01:01,115 - INFO - Updated description for 655314
+2026-05-30 13:01:02,908 - INFO - Updated description for 655791
+2026-05-30 13:01:03,420 - INFO - 
+=== SUMMARY ===
+2026-05-30 13:01:03,420 - INFO - Total jobs in database: 2352
+2026-05-30 13:01:03,420 - INFO - New jobs added: 15
+2026-05-30 13:01:03,420 - INFO - Descriptions updated: 15
+2026-05-30 13:01:03,420 - INFO - Verified facilities: 139
+2026-05-30 13:01:03,420 - INFO - Unverified facilities: 392
+2026-05-30 13:01:03,420 - INFO - Log saved to: logs/api_scraper_20260530_130023.log
+2026-05-30 13:01:03,614 - INFO - Exported 2352 jobs to jobs.csv
