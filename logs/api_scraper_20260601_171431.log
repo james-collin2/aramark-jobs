@@ -1,0 +1,17 @@
+2026-06-01 17:14:31,777 - INFO - Starting API job scraper
+2026-06-01 17:14:31,777 - INFO - Loaded 853 master facilities
+2026-06-01 17:14:31,777 - INFO - Fetching jobs from API...
+2026-06-01 17:14:37,314 - INFO - Total jobs found: 500
+2026-06-01 17:14:37,365 - INFO - New job: Utility Worker - Escambia County Jail - 655810 [UNVERIFIED: Escambia County Jail]
+2026-06-01 17:14:49,048 - INFO - Added 1 new jobs
+2026-06-01 17:14:49,048 - INFO - Fetching descriptions for 1 new jobs...
+2026-06-01 17:14:50,831 - INFO - Updated description for 655810
+2026-06-01 17:14:51,339 - INFO - 
+=== SUMMARY ===
+2026-06-01 17:14:51,339 - INFO - Total jobs in database: 2353
+2026-06-01 17:14:51,339 - INFO - New jobs added: 1
+2026-06-01 17:14:51,339 - INFO - Descriptions updated: 1
+2026-06-01 17:14:51,339 - INFO - Verified facilities: 139
+2026-06-01 17:14:51,339 - INFO - Unverified facilities: 392
+2026-06-01 17:14:51,339 - INFO - Log saved to: logs/api_scraper_20260601_171431.log
+2026-06-01 17:14:51,531 - INFO - Exported 2353 jobs to jobs.csv
