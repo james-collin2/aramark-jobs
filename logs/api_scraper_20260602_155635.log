@@ -1,0 +1,47 @@
+2026-06-02 15:56:35,693 - INFO - Starting API job scraper
+2026-06-02 15:56:35,693 - INFO - Loaded 853 master facilities
+2026-06-02 15:56:35,693 - INFO - Fetching jobs from API...
+2026-06-02 15:56:37,182 - INFO - Total jobs found: 500
+2026-06-02 15:56:37,183 - INFO - New job: Food Service Director - 654744 [No facility found]
+2026-06-02 15:56:37,184 - INFO - New job: Food Service Director - 655491 [No facility found]
+2026-06-02 15:56:37,184 - INFO - New job: Food Service Manager - 655492 [No facility found]
+2026-06-02 15:56:37,184 - INFO - New job: Food Service Director - 655497 [No facility found]
+2026-06-02 15:56:37,184 - INFO - New job: Food Service Manager - 655500 [No facility found]
+2026-06-02 15:56:37,184 - INFO - New job: Food Service Director - 655504 [No facility found]
+2026-06-02 15:56:37,184 - INFO - New job: Food Service Director - 655507 [No facility found]
+2026-06-02 15:56:37,184 - INFO - New job: Food Service Manager - 655508 [No facility found]
+2026-06-02 15:56:37,184 - INFO - New job: Food Service Manager - 655512 [No facility found]
+2026-06-02 15:56:37,184 - INFO - New job: Food Service Director - 655521 [No facility found]
+2026-06-02 15:56:37,220 - INFO - New job: Food Service Worker - Snohomish County Jail - 655532 [UNVERIFIED: Snohomish County Jail]
+2026-06-02 15:56:37,220 - INFO - New job: Food Service Manager - 655651 [No facility found]
+2026-06-02 15:56:37,257 - INFO - New job: Commissary Supervisor - USG - USCS - WEST VIRGINIA - 655863 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-06-02 15:56:37,286 - INFO - New job: Corrections Oversight Worker - Algoa Correctional Center - 655880 [VERIFIED: Algoa Correctional Center]
+2026-06-02 15:56:37,307 - INFO - New job: Food Service Worker - Butler County - 655909 [UNVERIFIED: Butler County]
+2026-06-02 15:56:37,346 - INFO - New job: Commissary Worker - Delaware County (PA) - Commissary - 656060 [UNVERIFIED: Delaware County (PA) - Commissary]
+2026-06-02 15:56:47,937 - INFO - Added 16 new jobs
+2026-06-02 15:56:47,938 - INFO - Fetching descriptions for 16 new jobs...
+2026-06-02 15:56:49,266 - INFO - Updated description for 654744
+2026-06-02 15:56:51,534 - INFO - Updated description for 655491
+2026-06-02 15:56:53,814 - INFO - Updated description for 655492
+2026-06-02 15:56:55,453 - INFO - Updated description for 655497
+2026-06-02 15:56:57,120 - INFO - Updated description for 655500
+2026-06-02 15:56:58,952 - INFO - Updated description for 655504
+2026-06-02 15:57:00,819 - INFO - Updated description for 655507
+2026-06-02 15:57:02,515 - INFO - Updated description for 655508
+2026-06-02 15:57:04,454 - INFO - Updated description for 655512
+2026-06-02 15:57:06,932 - INFO - Updated description for 655521
+2026-06-02 15:57:09,314 - INFO - Updated description for 655532
+2026-06-02 15:57:11,795 - INFO - Updated description for 655651
+2026-06-02 15:57:13,771 - INFO - Updated description for 655863
+2026-06-02 15:57:15,600 - INFO - Updated description for 655880
+2026-06-02 15:57:17,602 - INFO - Updated description for 655909
+2026-06-02 15:57:19,333 - INFO - Updated description for 656060
+2026-06-02 15:57:19,841 - INFO - 
+=== SUMMARY ===
+2026-06-02 15:57:19,841 - INFO - Total jobs in database: 2369
+2026-06-02 15:57:19,841 - INFO - New jobs added: 16
+2026-06-02 15:57:19,842 - INFO - Descriptions updated: 16
+2026-06-02 15:57:19,842 - INFO - Verified facilities: 139
+2026-06-02 15:57:19,842 - INFO - Unverified facilities: 392
+2026-06-02 15:57:19,842 - INFO - Log saved to: logs/api_scraper_20260602_155635.log
+2026-06-02 15:57:20,026 - INFO - Exported 2369 jobs to jobs.csv
