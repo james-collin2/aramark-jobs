@@ -1,0 +1,43 @@
+2026-06-03 16:14:22,541 - INFO - Starting API job scraper
+2026-06-03 16:14:22,542 - INFO - Loaded 853 master facilities
+2026-06-03 16:14:22,542 - INFO - Fetching jobs from API...
+2026-06-03 16:14:24,630 - INFO - Total jobs found: 500
+2026-06-03 16:14:24,681 - INFO - New job: Corrections Oversight Worker - Forrest County Jail Food MS - 656184 [UNVERIFIED: Forrest County Jail Food MS]
+2026-06-03 16:14:24,717 - INFO - New job: Commissary Worker - Dutchess County Commissary - 656266 [UNVERIFIED: Dutchess County Commissary]
+2026-06-03 16:14:24,749 - INFO - New job: Food Service Worker - Charleston County, SC - 656278 [UNVERIFIED: Charleston County, SC]
+2026-06-03 16:14:24,793 - INFO - New job: Corrections Oversight Worker - Southeastern Correctional Facility - 656295 [VERIFIED: Eastern Correctional Facility]
+2026-06-03 16:14:24,794 - INFO - New job: Corrections Oversight Worker - 656318 [No facility found]
+2026-06-03 16:14:24,830 - INFO - New job: General Utility Worker - Ohio State Penitentiary - 634612 [VERIFIED: Ohio State Penitentiary]
+2026-06-03 16:14:24,871 - INFO - New job: Corrections Oversight Worker - Morgan County Correctional Complex - 656388 [VERIFIED: Morgan County Correctional Complex]
+2026-06-03 16:14:24,911 - INFO - New job: Warehouse Worker - Shelby County Fiduciary Services - 656397 [UNVERIFIED: Shelby County Fiduciary Services]
+2026-06-03 16:14:24,944 - INFO - New job: Corrections Oversight Worker - Alexandria County Jail - 656055 [UNVERIFIED: Alexandria County Jail]
+2026-06-03 16:14:24,944 - INFO - New job: Food Service Manager - 655183 [No facility found]
+2026-06-03 16:14:24,944 - INFO - New job: Chef Manager - 656131 [No facility found]
+2026-06-03 16:14:24,986 - INFO - New job: Retail Operator Lead - Hillsborough County Commissary, FL - 656138 [UNVERIFIED: Hillsborough County Commissary, FL]
+2026-06-03 16:14:25,035 - INFO - New job: Corrections Oversight Worker - Little Sandy Correctional Complex-Elliot Cty - 656148 [VERIFIED: Little Sandy Correctional Complex]
+2026-06-03 16:14:25,061 - INFO - New job: Commissary Manager- USG - USCS - KENTUCKY - 655680 [UNVERIFIED: USCS - KENTUCKY]
+2026-06-03 16:14:36,348 - INFO - Added 14 new jobs
+2026-06-03 16:14:36,348 - INFO - Fetching descriptions for 14 new jobs...
+2026-06-03 16:14:37,639 - INFO - Updated description for 656184
+2026-06-03 16:14:39,358 - INFO - Updated description for 656266
+2026-06-03 16:14:40,890 - INFO - Updated description for 656278
+2026-06-03 16:14:42,445 - INFO - Updated description for 656295
+2026-06-03 16:14:44,024 - INFO - Updated description for 656318
+2026-06-03 16:14:45,668 - INFO - Updated description for 634612
+2026-06-03 16:14:47,302 - INFO - Updated description for 656388
+2026-06-03 16:14:48,914 - INFO - Updated description for 656397
+2026-06-03 16:14:50,454 - INFO - Updated description for 656055
+2026-06-03 16:14:52,133 - INFO - Updated description for 655183
+2026-06-03 16:14:53,864 - INFO - Updated description for 656131
+2026-06-03 16:14:55,791 - INFO - Updated description for 656138
+2026-06-03 16:14:57,428 - INFO - Updated description for 656148
+2026-06-03 16:14:59,363 - INFO - Updated description for 655680
+2026-06-03 16:14:59,871 - INFO - 
+=== SUMMARY ===
+2026-06-03 16:14:59,871 - INFO - Total jobs in database: 2383
+2026-06-03 16:14:59,871 - INFO - New jobs added: 14
+2026-06-03 16:14:59,871 - INFO - Descriptions updated: 14
+2026-06-03 16:14:59,872 - INFO - Verified facilities: 139
+2026-06-03 16:14:59,872 - INFO - Unverified facilities: 393
+2026-06-03 16:14:59,872 - INFO - Log saved to: logs/api_scraper_20260603_161422.log
+2026-06-03 16:15:00,067 - INFO - Exported 2383 jobs to jobs.csv
