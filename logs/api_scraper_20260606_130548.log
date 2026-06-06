@@ -1,0 +1,29 @@
+2026-06-06 13:05:48,870 - INFO - Starting API job scraper
+2026-06-06 13:05:48,870 - INFO - Loaded 853 master facilities
+2026-06-06 13:05:48,871 - INFO - Fetching jobs from API...
+2026-06-06 13:05:50,416 - INFO - Total jobs found: 500
+2026-06-06 13:05:50,480 - INFO - New job: Food Service Worker Lead - Lorain Correctional Institution - Ohio DRC - 657329 [VERIFIED: Lorain Correctional Institution]
+2026-06-06 13:05:50,515 - INFO - New job: Corrections Oversight Worker - Northern Regional Jail - 657380 [VERIFIED: Northern Correctional Facility]
+2026-06-06 13:05:50,545 - INFO - New job: Corrections Oversight Worker - Jackson County Jail - 657397 [UNVERIFIED: Jackson County Jail]
+2026-06-06 13:05:50,562 - INFO - New job: Commissary Director - 657505 [No facility found]
+2026-06-06 13:05:50,585 - INFO - New job: Kitchen Supervisor - Hardee - CI - (501) - 657525 [UNVERIFIED: Hardee - CI]
+2026-06-06 13:05:50,613 - INFO - New job: Food Service Worker - Taylor County Jail - 657526 [UNVERIFIED: Taylor County Jail]
+2026-06-06 13:05:50,614 - INFO - New job: Food Service Manager - 656570 [No facility found]
+2026-06-06 13:06:02,345 - INFO - Added 7 new jobs
+2026-06-06 13:06:02,346 - INFO - Fetching descriptions for 7 new jobs...
+2026-06-06 13:06:03,624 - INFO - Updated description for 657329
+2026-06-06 13:06:05,252 - INFO - Updated description for 657380
+2026-06-06 13:06:06,844 - INFO - Updated description for 657397
+2026-06-06 13:06:08,761 - INFO - Updated description for 657505
+2026-06-06 13:06:10,340 - INFO - Updated description for 657525
+2026-06-06 13:06:12,045 - INFO - Updated description for 657526
+2026-06-06 13:06:13,602 - INFO - Updated description for 656570
+2026-06-06 13:06:14,110 - INFO - 
+=== SUMMARY ===
+2026-06-06 13:06:14,110 - INFO - Total jobs in database: 2403
+2026-06-06 13:06:14,110 - INFO - New jobs added: 7
+2026-06-06 13:06:14,110 - INFO - Descriptions updated: 7
+2026-06-06 13:06:14,110 - INFO - Verified facilities: 139
+2026-06-06 13:06:14,111 - INFO - Unverified facilities: 394
+2026-06-06 13:06:14,111 - INFO - Log saved to: logs/api_scraper_20260606_130548.log
+2026-06-06 13:06:14,308 - INFO - Exported 2403 jobs to jobs.csv
