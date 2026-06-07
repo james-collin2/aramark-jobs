@@ -1,0 +1,17 @@
+2026-06-07 13:18:26,069 - INFO - Starting API job scraper
+2026-06-07 13:18:26,069 - INFO - Loaded 853 master facilities
+2026-06-07 13:18:26,069 - INFO - Fetching jobs from API...
+2026-06-07 13:18:27,640 - INFO - Total jobs found: 500
+2026-06-07 13:18:27,690 - INFO - New job: Driver I - San Francisco City Commissary - 657530 [UNVERIFIED: San Francisco City Commissary]
+2026-06-07 13:18:39,028 - INFO - Added 1 new jobs
+2026-06-07 13:18:39,028 - INFO - Fetching descriptions for 1 new jobs...
+2026-06-07 13:18:40,319 - INFO - Updated description for 657530
+2026-06-07 13:18:40,828 - INFO - 
+=== SUMMARY ===
+2026-06-07 13:18:40,828 - INFO - Total jobs in database: 2404
+2026-06-07 13:18:40,828 - INFO - New jobs added: 1
+2026-06-07 13:18:40,828 - INFO - Descriptions updated: 1
+2026-06-07 13:18:40,828 - INFO - Verified facilities: 139
+2026-06-07 13:18:40,828 - INFO - Unverified facilities: 394
+2026-06-07 13:18:40,828 - INFO - Log saved to: logs/api_scraper_20260607_131826.log
+2026-06-07 13:18:41,037 - INFO - Exported 2404 jobs to jobs.csv
