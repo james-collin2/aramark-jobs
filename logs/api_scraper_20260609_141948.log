@@ -1,0 +1,29 @@
+2026-06-09 14:19:48,901 - INFO - Starting API job scraper
+2026-06-09 14:19:48,902 - INFO - Loaded 853 master facilities
+2026-06-09 14:19:48,902 - INFO - Fetching jobs from API...
+2026-06-09 14:19:50,399 - INFO - Total jobs found: 500
+2026-06-09 14:19:50,463 - INFO - New job: Corrections Oversight Worker - London Correctional Institution - 657620 [VERIFIED: London Correctional Institution]
+2026-06-09 14:19:50,515 - INFO - New job: Corrections Oversight Worker - Central Regional Jail and Correctional Facility - 657668 [VERIFIED: Central Arizona Correctional Facility[3]]
+2026-06-09 14:19:50,553 - INFO - New job: Commissary Worker - Leon County Jail Commissary - 657730 [UNVERIFIED: Leon County Jail Commissary]
+2026-06-09 14:19:50,589 - INFO - New job: Food Service Worker - Norton/Stockton Correctional - 657743 [UNVERIFIED: Norton/Stockton Correctional]
+2026-06-09 14:19:50,646 - INFO - New job: Corrections Oversight Worker - Tygart Valley Regional Jail and Correctional Facility - 657766 [VERIFIED: Marble Valley Regional Correctional Facility]
+2026-06-09 14:19:50,689 - INFO - New job: Food Service Worker - Summit County Juvenile Detention - 657783 [UNVERIFIED: Summit County Juvenile Detention]
+2026-06-09 14:19:50,690 - INFO - New job: Housekeeper - 657846 [No facility found]
+2026-06-09 14:20:02,422 - INFO - Added 7 new jobs
+2026-06-09 14:20:02,422 - INFO - Fetching descriptions for 7 new jobs...
+2026-06-09 14:20:03,560 - INFO - Updated description for 657620
+2026-06-09 14:20:05,152 - INFO - Updated description for 657668
+2026-06-09 14:20:06,790 - INFO - Updated description for 657730
+2026-06-09 14:20:08,295 - INFO - Updated description for 657743
+2026-06-09 14:20:09,855 - INFO - Updated description for 657766
+2026-06-09 14:20:11,357 - INFO - Updated description for 657783
+2026-06-09 14:20:12,863 - INFO - Updated description for 657846
+2026-06-09 14:20:13,371 - INFO - 
+=== SUMMARY ===
+2026-06-09 14:20:13,371 - INFO - Total jobs in database: 2411
+2026-06-09 14:20:13,371 - INFO - New jobs added: 7
+2026-06-09 14:20:13,371 - INFO - Descriptions updated: 7
+2026-06-09 14:20:13,371 - INFO - Verified facilities: 139
+2026-06-09 14:20:13,371 - INFO - Unverified facilities: 395
+2026-06-09 14:20:13,371 - INFO - Log saved to: logs/api_scraper_20260609_141948.log
+2026-06-09 14:20:13,569 - INFO - Exported 2411 jobs to jobs.csv
