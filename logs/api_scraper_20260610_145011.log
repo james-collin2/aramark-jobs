@@ -1,0 +1,63 @@
+2026-06-10 14:50:11,413 - INFO - Starting API job scraper
+2026-06-10 14:50:11,413 - INFO - Loaded 853 master facilities
+2026-06-10 14:50:11,413 - INFO - Fetching jobs from API...
+2026-06-10 14:50:14,467 - INFO - Total jobs found: 500
+2026-06-10 14:50:14,468 - INFO - New job: Sales Support Coordinator I - 655719 [No facility found]
+2026-06-10 14:50:14,680 - INFO - New job: Warehouse Worker I - USG - NV WAREHOUSE - UD - 657541 [UNVERIFIED: USG - NV WAREHOUSE - UD]
+2026-06-10 14:50:14,714 - INFO - New job: Corrections Food Service Worker - Valdosta State Prison - 657903 [VERIFIED: Nevada State Prison]
+2026-06-10 14:50:14,746 - INFO - New job: Corrections Food Service Worker - Coastal State Prison - 657906 [VERIFIED: Coastal State Prison]
+2026-06-10 14:50:14,773 - INFO - New job: Corrections Food Service Worker - Smith State Prison - 657910 [VERIFIED: Smith State Prison]
+2026-06-10 14:50:14,812 - INFO - New job: Laundry Worker - Anoka County Jail Facility - 657912 [VERIFIED: Otero County Prison Facility]
+2026-06-10 14:50:14,812 - INFO - New job: Food Service Worker Lead - 657930 [No facility found]
+2026-06-10 14:50:14,812 - INFO - New job: Food Service Worker - 657933 [No facility found]
+2026-06-10 14:50:14,849 - INFO - New job: Corrections Food Service Worker - Burnet County Jail - 657937 [UNVERIFIED: Burnet County Jail]
+2026-06-10 14:50:14,849 - INFO - New job: Food Service Worker - 657939 [No facility found]
+2026-06-10 14:50:14,889 - INFO - New job: Corrections Oversight Worker - Lake County Community Corrections - 657940 [VERIFIED: Lawton Community Corrections Center]
+2026-06-10 14:50:14,889 - INFO - New job: Food Service Worker Lead - 657945 [No facility found]
+2026-06-10 14:50:14,889 - INFO - New job: Food Service Worker - 657949 [No facility found]
+2026-06-10 14:50:14,926 - INFO - New job: Food Service Worker Lead - Tri-County Regional Jail - 657962 [UNVERIFIED: Tri-County Regional Jail]
+2026-06-10 14:50:14,951 - INFO - New job: Corrections Oversight Worker - Butler County - 658006 [UNVERIFIED: Butler County]
+2026-06-10 14:50:14,980 - INFO - New job: Lead Cook - Greene County Jail - 658010 [VERIFIED: Greene County Work Camp]
+2026-06-10 14:50:15,020 - INFO - New job: Food Service Worker - Sojourner Recovery Center - 658015 [VERIFIED: Southern Maine Reentry Center]
+2026-06-10 14:50:15,049 - INFO - New job: Food Service Worker Lead - Warren County, OH - 658016 [UNVERIFIED: Warren County, OH]
+2026-06-10 14:50:15,049 - INFO - New job: Food Service Manager - 658020 [No facility found]
+2026-06-10 14:50:15,101 - INFO - New job: Corrections Oversight Worker - Montgomery County Detention Ctr (OH) - 658027 [UNVERIFIED: Montgomery County Detention Ctr (OH)]
+2026-06-10 14:50:15,123 - INFO - New job: Food Service Supervisor - ALDOC - Elba - 658033 [UNVERIFIED: ALDOC - Elba]
+2026-06-10 14:50:15,124 - INFO - New job: Food Service Director - 658035 [No facility found]
+2026-06-10 14:50:15,156 - INFO - New job: Food Service Supervisor - Outagamie County Jail - 658052 [UNVERIFIED: Outagamie County Jail]
+2026-06-10 14:50:15,190 - INFO - New job: Custodial Services Worker - Dona Ana (Facilities) - 658063 [UNVERIFIED: Dona Ana (Facilities)]
+2026-06-10 14:50:26,704 - INFO - Added 24 new jobs
+2026-06-10 14:50:26,704 - INFO - Fetching descriptions for 24 new jobs...
+2026-06-10 14:50:28,245 - INFO - Updated description for 655719
+2026-06-10 14:50:30,222 - INFO - Updated description for 657541
+2026-06-10 14:50:32,164 - INFO - Updated description for 657903
+2026-06-10 14:50:34,080 - INFO - Updated description for 657906
+2026-06-10 14:50:36,033 - INFO - Updated description for 657910
+2026-06-10 14:50:37,647 - INFO - Updated description for 657912
+2026-06-10 14:50:39,301 - INFO - Updated description for 657930
+2026-06-10 14:50:40,989 - INFO - Updated description for 657933
+2026-06-10 14:50:42,721 - INFO - Updated description for 657937
+2026-06-10 14:50:44,412 - INFO - Updated description for 657939
+2026-06-10 14:50:46,150 - INFO - Updated description for 657940
+2026-06-10 14:50:48,088 - INFO - Updated description for 657945
+2026-06-10 14:50:49,906 - INFO - Updated description for 657949
+2026-06-10 14:50:51,791 - INFO - Updated description for 657962
+2026-06-10 14:50:53,520 - INFO - Updated description for 658006
+2026-06-10 14:50:55,237 - INFO - Updated description for 658010
+2026-06-10 14:50:57,295 - INFO - Updated description for 658015
+2026-06-10 14:50:58,958 - INFO - Updated description for 658016
+2026-06-10 14:51:00,735 - INFO - Updated description for 658020
+2026-06-10 14:51:02,844 - INFO - Updated description for 658027
+2026-06-10 14:51:04,513 - INFO - Updated description for 658033
+2026-06-10 14:51:06,481 - INFO - Updated description for 658035
+2026-06-10 14:51:08,393 - INFO - Updated description for 658052
+2026-06-10 14:51:10,400 - INFO - Updated description for 658063
+2026-06-10 14:51:10,908 - INFO - 
+=== SUMMARY ===
+2026-06-10 14:51:10,908 - INFO - Total jobs in database: 2435
+2026-06-10 14:51:10,908 - INFO - New jobs added: 24
+2026-06-10 14:51:10,908 - INFO - Descriptions updated: 24
+2026-06-10 14:51:10,908 - INFO - Verified facilities: 139
+2026-06-10 14:51:10,908 - INFO - Unverified facilities: 396
+2026-06-10 14:51:10,908 - INFO - Log saved to: logs/api_scraper_20260610_145011.log
+2026-06-10 14:51:11,109 - INFO - Exported 2435 jobs to jobs.csv
