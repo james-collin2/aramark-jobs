@@ -1,0 +1,51 @@
+2026-06-11 15:32:10,033 - INFO - Starting API job scraper
+2026-06-11 15:32:10,034 - INFO - Loaded 853 master facilities
+2026-06-11 15:32:10,034 - INFO - Fetching jobs from API...
+2026-06-11 15:32:15,482 - INFO - Total jobs found: 500
+2026-06-11 15:32:15,514 - INFO - New job: Food Service Manager - 657627 [No facility found]
+2026-06-11 15:32:15,543 - INFO - New job: Food Service Worker Lead - Potosi Correctional Center - 657686 [VERIFIED: Potosi Correctional Center]
+2026-06-11 15:32:15,543 - INFO - New job: Food Service Manager - 658082 [No facility found]
+2026-06-11 15:32:15,562 - INFO - New job: Driver II - Pitt County - 658157 [UNVERIFIED: Pitt County]
+2026-06-11 15:32:15,607 - INFO - New job: Warehouse Worker - Jacksonville City Detention Center - 658197 [VERIFIED: Jacksonville Correctional Center]
+2026-06-11 15:32:15,652 - INFO - New job: Retail Sales Worker Lead - Jacksonville City Detention Center - 658202 [VERIFIED: Jacksonville Correctional Center]
+2026-06-11 15:32:15,674 - INFO - New job: Corrections Oversight Worker - Ross County OH - 658208 [UNVERIFIED: Ross County OH]
+2026-06-11 15:32:15,705 - INFO - New job: Warehouse Worker I - USG - NV WAREHOUSE - UD - 658221 [UNVERIFIED: USG - NV WAREHOUSE - UD]
+2026-06-11 15:32:15,737 - INFO - New job: Warehouse Worker I - USG - NV WAREHOUSE - UD - 658222 [UNVERIFIED: USG - NV WAREHOUSE - UD]
+2026-06-11 15:32:15,755 - INFO - New job: Corrections Oversight Worker - VOA Dayton - 658224 [UNVERIFIED: VOA Dayton]
+2026-06-11 15:32:15,769 - INFO - New job: Food Service Supervisor - Corrections - 658229 [UNVERIFIED: Corrections]
+2026-06-11 15:32:15,802 - INFO - New job: Food Service Supervisor - Ohio State Penitentiary - 658243 [VERIFIED: Ohio State Penitentiary]
+2026-06-11 15:32:15,836 - INFO - New job: Corrections Oversight Worker - Gene Spadaro Juvenile Ctr - 658272 [UNVERIFIED: Gene Spadaro Juvenile Ctr]
+2026-06-11 15:32:15,876 - INFO - New job: Corrections Oversight Worker - Clinton County Correctional Facility - PA - 658276 [VERIFIED: Bent County Correctional Facility]
+2026-06-11 15:32:15,903 - INFO - New job: Commissary Worker - USG - USCS - KANSAS - 658284 [UNVERIFIED: USG - USCS - KANSAS]
+2026-06-11 15:32:15,930 - INFO - New job: Commissary Worker - USG - USCS - KANSAS - 658285 [UNVERIFIED: USG - USCS - KANSAS]
+2026-06-11 15:32:15,959 - INFO - New job: Food Service Worker Lead - OKDOC - Joseph Harp - 658350 [UNVERIFIED: OKDOC - Joseph Harp]
+2026-06-11 15:32:16,011 - INFO - New job: Food Service Worker - Anthony Correctional Center - Denmar Correctional Center - 658356 [UNVERIFIED: Anthony Correctional Center - Denmar Correctional Center]
+2026-06-11 15:32:26,306 - INFO - Added 18 new jobs
+2026-06-11 15:32:26,306 - INFO - Fetching descriptions for 18 new jobs...
+2026-06-11 15:32:27,785 - INFO - Updated description for 657627
+2026-06-11 15:32:29,554 - INFO - Updated description for 657686
+2026-06-11 15:32:31,433 - INFO - Updated description for 658082
+2026-06-11 15:32:33,487 - INFO - Updated description for 658157
+2026-06-11 15:32:35,765 - INFO - Updated description for 658197
+2026-06-11 15:32:37,517 - INFO - Updated description for 658202
+2026-06-11 15:32:39,480 - INFO - Updated description for 658208
+2026-06-11 15:32:41,569 - INFO - Updated description for 658221
+2026-06-11 15:32:43,507 - INFO - Updated description for 658222
+2026-06-11 15:32:45,478 - INFO - Updated description for 658224
+2026-06-11 15:32:47,477 - INFO - Updated description for 658229
+2026-06-11 15:32:49,152 - INFO - Updated description for 658243
+2026-06-11 15:32:50,977 - INFO - Updated description for 658272
+2026-06-11 15:32:52,791 - INFO - Updated description for 658276
+2026-06-11 15:32:54,505 - INFO - Updated description for 658284
+2026-06-11 15:32:56,182 - INFO - Updated description for 658285
+2026-06-11 15:32:57,956 - INFO - Updated description for 658350
+2026-06-11 15:32:59,761 - INFO - Updated description for 658356
+2026-06-11 15:33:00,269 - INFO - 
+=== SUMMARY ===
+2026-06-11 15:33:00,269 - INFO - Total jobs in database: 2453
+2026-06-11 15:33:00,269 - INFO - New jobs added: 18
+2026-06-11 15:33:00,269 - INFO - Descriptions updated: 18
+2026-06-11 15:33:00,269 - INFO - Verified facilities: 139
+2026-06-11 15:33:00,269 - INFO - Unverified facilities: 398
+2026-06-11 15:33:00,269 - INFO - Log saved to: logs/api_scraper_20260611_153210.log
+2026-06-11 15:33:00,461 - INFO - Exported 2453 jobs to jobs.csv
