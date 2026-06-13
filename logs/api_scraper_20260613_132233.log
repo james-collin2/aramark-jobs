@@ -1,0 +1,55 @@
+2026-06-13 13:22:33,774 - INFO - Starting API job scraper
+2026-06-13 13:22:33,775 - INFO - Loaded 853 master facilities
+2026-06-13 13:22:33,775 - INFO - Fetching jobs from API...
+2026-06-13 13:22:39,071 - INFO - Total jobs found: 500
+2026-06-13 13:22:39,117 - INFO - New job: Corrections Oversight Worker - OKDOC - Jim E. Hamilton - 658874 [UNVERIFIED: OKDOC - Jim E. Hamilton]
+2026-06-13 13:22:39,152 - INFO - New job: Corrections Oversight Worker - Blackburn Correctional Complex - 658901 [VERIFIED: Blackburn Correctional Complex]
+2026-06-13 13:22:39,184 - INFO - New job: Food Service Worker Lead - OKDOC - Allen Gamble - 658928 [UNVERIFIED: OKDOC - Allen Gamble]
+2026-06-13 13:22:39,215 - INFO - New job: Painter I - Dona Ana (Facilities) - 658946 [UNVERIFIED: Dona Ana (Facilities)]
+2026-06-13 13:22:39,248 - INFO - New job: Retail Sales Worker - Clark County Commissary - 658948 [UNVERIFIED: Clark County Commissary]
+2026-06-13 13:22:39,278 - INFO - New job: Food Service Worker Lead - OKDOC - Jess Dunn - 658956 [UNVERIFIED: OKDOC - Jess Dunn]
+2026-06-13 13:22:39,309 - INFO - New job: Corrections Oversight Worker - OKDOC - Jess Dunn - 658959 [UNVERIFIED: OKDOC - Jess Dunn]
+2026-06-13 13:22:39,367 - INFO - New job: Food Service Worker Lead - OKDOC - Eddie Warrior - 658966 [UNVERIFIED: OKDOC - Eddie Warrior]
+2026-06-13 13:22:39,399 - INFO - New job: Corrections Oversight Worker - OKDOC - Eddie Warrior - 658967 [UNVERIFIED: OKDOC - Eddie Warrior]
+2026-06-13 13:22:39,428 - INFO - New job: Food Service Worker Lead - OKDOC - Dick Conner - 658972 [UNVERIFIED: OKDOC - Dick Conner]
+2026-06-13 13:22:39,457 - INFO - New job: Corrections Oversight Worker - OKDOC - Dick Conner - 658973 [UNVERIFIED: OKDOC - Dick Conner]
+2026-06-13 13:22:39,489 - INFO - New job: Commissary Worker - Pinal County Commissary - 658023 [UNVERIFIED: Pinal County Commissary]
+2026-06-13 13:22:39,528 - INFO - New job: Food Service Worker Lead - Jefferson City Correctional Center - 658748 [VERIFIED: Jefferson City Correctional Center]
+2026-06-13 13:22:39,559 - INFO - New job: Food Service Worker Lead - Algoa Correctional Center - 658750 [VERIFIED: Algoa Correctional Center]
+2026-06-13 13:22:39,580 - INFO - New job: Kitchen Supervisor - Walton - CI - (108) - 658770 [UNVERIFIED: Walton - CI]
+2026-06-13 13:22:39,611 - INFO - New job: Corrections Oversight Worker - Outagamie County Jail - 658785 [UNVERIFIED: Outagamie County Jail]
+2026-06-13 13:22:39,647 - INFO - New job: Corrections Oversight Worker - Madison Correctional Institution - 658791 [VERIFIED: Madison Correctional Institution]
+2026-06-13 13:22:39,681 - INFO - New job: Food Service Worker Lead - OKDOC - Jackie Brannon - 658819 [UNVERIFIED: OKDOC - Jackie Brannon]
+2026-06-13 13:22:39,715 - INFO - New job: Corrections Oversight Worker - OKDOC - Jackie Brannon - 658822 [UNVERIFIED: OKDOC - Jackie Brannon]
+2026-06-13 13:22:39,750 - INFO - New job: Food Service Worker Lead - OKDOC - Jim E. Hamilton - 658869 [UNVERIFIED: OKDOC - Jim E. Hamilton]
+2026-06-13 13:22:51,230 - INFO - Added 20 new jobs
+2026-06-13 13:22:51,230 - INFO - Fetching descriptions for 20 new jobs...
+2026-06-13 13:22:52,409 - INFO - Updated description for 658874
+2026-06-13 13:22:54,093 - INFO - Updated description for 658901
+2026-06-13 13:22:55,677 - INFO - Updated description for 658928
+2026-06-13 13:22:57,302 - INFO - Updated description for 658946
+2026-06-13 13:22:59,111 - INFO - Updated description for 658948
+2026-06-13 13:23:00,993 - INFO - Updated description for 658956
+2026-06-13 13:23:02,742 - INFO - Updated description for 658959
+2026-06-13 13:23:04,713 - INFO - Updated description for 658966
+2026-06-13 13:23:06,445 - INFO - Updated description for 658967
+2026-06-13 13:23:08,112 - INFO - Updated description for 658972
+2026-06-13 13:23:09,953 - INFO - Updated description for 658973
+2026-06-13 13:23:11,752 - INFO - Updated description for 658023
+2026-06-13 13:23:13,500 - INFO - Updated description for 658748
+2026-06-13 13:23:15,266 - INFO - Updated description for 658750
+2026-06-13 13:23:16,861 - INFO - Updated description for 658770
+2026-06-13 13:23:18,467 - INFO - Updated description for 658785
+2026-06-13 13:23:20,050 - INFO - Updated description for 658791
+2026-06-13 13:23:21,694 - INFO - Updated description for 658819
+2026-06-13 13:23:23,345 - INFO - Updated description for 658822
+2026-06-13 13:23:25,026 - INFO - Updated description for 658869
+2026-06-13 13:23:25,534 - INFO - 
+=== SUMMARY ===
+2026-06-13 13:23:25,535 - INFO - Total jobs in database: 2496
+2026-06-13 13:23:25,535 - INFO - New jobs added: 20
+2026-06-13 13:23:25,535 - INFO - Descriptions updated: 20
+2026-06-13 13:23:25,535 - INFO - Verified facilities: 139
+2026-06-13 13:23:25,535 - INFO - Unverified facilities: 407
+2026-06-13 13:23:25,535 - INFO - Log saved to: logs/api_scraper_20260613_132233.log
+2026-06-13 13:23:25,739 - INFO - Exported 2496 jobs to jobs.csv
