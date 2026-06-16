@@ -1,0 +1,31 @@
+2026-06-16 16:20:40,090 - INFO - Starting API job scraper
+2026-06-16 16:20:40,091 - INFO - Loaded 853 master facilities
+2026-06-16 16:20:40,091 - INFO - Fetching jobs from API...
+2026-06-16 16:20:42,066 - INFO - Total jobs found: 500
+2026-06-16 16:20:42,103 - INFO - New job: Cook Supervisor - Larned Correctional - 658688 [VERIFIED: Bland Correctional Center]
+2026-06-16 16:20:42,104 - INFO - New job: Food Service Manager - 659236 [No facility found]
+2026-06-16 16:20:42,143 - INFO - New job: Corrections Oversight Worker - Branchville Correctional Facility - 659282 [VERIFIED: Branchville Correctional Facility]
+2026-06-16 16:20:42,143 - INFO - New job: Food Service Director - 658308 [No facility found]
+2026-06-16 16:20:42,181 - INFO - New job: Warehouse Worker Lead - USG - OH WAREHOUSE - UD - 657518 [UNVERIFIED: USG - OH WAREHOUSE - UD]
+2026-06-16 16:20:42,209 - INFO - New job: Food Service Worker Lead - McLean County Jail - 658986 [UNVERIFIED: McLean County Jail]
+2026-06-16 16:20:42,247 - INFO - New job: Food Service Worker - Lebanon Correctional Institution - 659118 [VERIFIED: Lebanon Correctional Institution]
+2026-06-16 16:20:42,282 - INFO - New job: Food Service Worker Lead - Suwannee - CI/Annex - (230/231) - 659187 [UNVERIFIED: Suwannee - CI/Annex]
+2026-06-16 16:20:54,394 - INFO - Added 8 new jobs
+2026-06-16 16:20:54,394 - INFO - Fetching descriptions for 8 new jobs...
+2026-06-16 16:20:55,645 - INFO - Updated description for 658688
+2026-06-16 16:20:57,324 - INFO - Updated description for 659236
+2026-06-16 16:20:59,113 - INFO - Updated description for 659282
+2026-06-16 16:21:00,891 - INFO - Updated description for 658308
+2026-06-16 16:21:02,628 - INFO - Updated description for 657518
+2026-06-16 16:21:04,712 - INFO - Updated description for 658986
+2026-06-16 16:21:06,671 - INFO - Updated description for 659118
+2026-06-16 16:21:08,417 - INFO - Updated description for 659187
+2026-06-16 16:21:08,925 - INFO - 
+=== SUMMARY ===
+2026-06-16 16:21:08,926 - INFO - Total jobs in database: 2508
+2026-06-16 16:21:08,926 - INFO - New jobs added: 8
+2026-06-16 16:21:08,926 - INFO - Descriptions updated: 8
+2026-06-16 16:21:08,926 - INFO - Verified facilities: 139
+2026-06-16 16:21:08,926 - INFO - Unverified facilities: 407
+2026-06-16 16:21:08,926 - INFO - Log saved to: logs/api_scraper_20260616_162040.log
+2026-06-16 16:21:09,142 - INFO - Exported 2508 jobs to jobs.csv
