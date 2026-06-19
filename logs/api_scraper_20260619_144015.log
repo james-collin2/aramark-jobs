@@ -1,0 +1,29 @@
+2026-06-19 14:40:15,722 - INFO - Starting API job scraper
+2026-06-19 14:40:15,723 - INFO - Loaded 853 master facilities
+2026-06-19 14:40:15,723 - INFO - Fetching jobs from API...
+2026-06-19 14:40:17,590 - INFO - Total jobs found: 500
+2026-06-19 14:40:17,674 - INFO - New job: Commissary Worker - San Francisco City Commissary - 659326 [UNVERIFIED: San Francisco City Commissary]
+2026-06-19 14:40:17,709 - INFO - New job: Commissary Worker - Iredell County Commissary - 659833 [UNVERIFIED: Iredell County Commissary]
+2026-06-19 14:40:17,748 - INFO - New job: Commissary Supervisor - USG - USCS - WEST VIRGINIA - 659978 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-06-19 14:40:17,778 - INFO - New job: Commissary Supervisor - USG - USCS - KANSAS - 659980 [UNVERIFIED: USG - USCS - KANSAS]
+2026-06-19 14:40:17,799 - INFO - New job: Cook Supervisor - Putnam - CI - (214) - 660055 [UNVERIFIED: Putnam - CI]
+2026-06-19 14:40:17,827 - INFO - New job: Cook - Hancock County Jail - 660164 [UNVERIFIED: Hancock County Jail]
+2026-06-19 14:40:17,828 - INFO - New job: Food Service Worker - 660169 [No facility found]
+2026-06-19 14:40:29,528 - INFO - Added 7 new jobs
+2026-06-19 14:40:29,528 - INFO - Fetching descriptions for 7 new jobs...
+2026-06-19 14:40:30,995 - INFO - Updated description for 659326
+2026-06-19 14:40:32,903 - INFO - Updated description for 659833
+2026-06-19 14:40:34,625 - INFO - Updated description for 659978
+2026-06-19 14:40:36,442 - INFO - Updated description for 659980
+2026-06-19 14:40:38,202 - INFO - Updated description for 660055
+2026-06-19 14:40:40,459 - INFO - Updated description for 660164
+2026-06-19 14:40:42,192 - INFO - Updated description for 660169
+2026-06-19 14:40:42,704 - INFO - 
+=== SUMMARY ===
+2026-06-19 14:40:42,705 - INFO - Total jobs in database: 2540
+2026-06-19 14:40:42,705 - INFO - New jobs added: 7
+2026-06-19 14:40:42,705 - INFO - Descriptions updated: 7
+2026-06-19 14:40:42,705 - INFO - Verified facilities: 139
+2026-06-19 14:40:42,705 - INFO - Unverified facilities: 407
+2026-06-19 14:40:42,705 - INFO - Log saved to: logs/api_scraper_20260619_144015.log
+2026-06-19 14:40:42,918 - INFO - Exported 2540 jobs to jobs.csv
