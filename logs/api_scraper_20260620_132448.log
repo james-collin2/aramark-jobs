@@ -1,0 +1,23 @@
+2026-06-20 13:24:48,978 - INFO - Starting API job scraper
+2026-06-20 13:24:48,978 - INFO - Loaded 853 master facilities
+2026-06-20 13:24:48,979 - INFO - Fetching jobs from API...
+2026-06-20 13:24:54,235 - INFO - Total jobs found: 500
+2026-06-20 13:24:54,236 - INFO - New job: Strategic Sourcing Analyst - 660218 [No facility found]
+2026-06-20 13:24:54,322 - INFO - New job: Corrections Food Service Worker - Coastal State Prison - 660222 [VERIFIED: Coastal State Prison]
+2026-06-20 13:24:54,322 - INFO - New job: Food Service Worker Lead - 660322 [No facility found]
+2026-06-20 13:24:54,322 - INFO - New job: Food Service Worker - 660323 [No facility found]
+2026-06-20 13:25:05,918 - INFO - Added 4 new jobs
+2026-06-20 13:25:05,918 - INFO - Fetching descriptions for 4 new jobs...
+2026-06-20 13:25:07,250 - INFO - Updated description for 660218
+2026-06-20 13:25:09,085 - INFO - Updated description for 660222
+2026-06-20 13:25:10,822 - INFO - Updated description for 660322
+2026-06-20 13:25:12,707 - INFO - Updated description for 660323
+2026-06-20 13:25:13,216 - INFO - 
+=== SUMMARY ===
+2026-06-20 13:25:13,216 - INFO - Total jobs in database: 2544
+2026-06-20 13:25:13,216 - INFO - New jobs added: 4
+2026-06-20 13:25:13,216 - INFO - Descriptions updated: 4
+2026-06-20 13:25:13,216 - INFO - Verified facilities: 139
+2026-06-20 13:25:13,216 - INFO - Unverified facilities: 407
+2026-06-20 13:25:13,216 - INFO - Log saved to: logs/api_scraper_20260620_132448.log
+2026-06-20 13:25:13,424 - INFO - Exported 2544 jobs to jobs.csv
