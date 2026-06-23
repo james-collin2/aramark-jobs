@@ -1,0 +1,27 @@
+2026-06-23 14:24:00,531 - INFO - Starting API job scraper
+2026-06-23 14:24:00,531 - INFO - Loaded 853 master facilities
+2026-06-23 14:24:00,531 - INFO - Fetching jobs from API...
+2026-06-23 14:24:03,898 - INFO - Total jobs found: 500
+2026-06-23 14:24:03,961 - INFO - New job: Corrections Oversight Worker - Winnebago County Corrections - 659871 [UNVERIFIED: Winnebago County Corrections]
+2026-06-23 14:24:03,991 - INFO - New job: Food Service Worker - Josephine County Jail - 660374 [UNVERIFIED: Josephine County Jail]
+2026-06-23 14:24:04,030 - INFO - New job: Food Service Worker Lead - Bledsoe County Correctional Complex - 660533 [VERIFIED: Bledsoe County Correctional Complex]
+2026-06-23 14:24:04,056 - INFO - New job: Cook - Summit County Jail - 660557 [UNVERIFIED: Summit County Jail]
+2026-06-23 14:24:04,105 - INFO - New job: Food Service Worker Lead - Jacksonville City Detention Center - 660641 [VERIFIED: Jacksonville Correctional Center]
+2026-06-23 14:24:04,129 - INFO - New job: Corrections Oversight Worker - ASPC - Tucson - 660712 [UNVERIFIED: ASPC - Tucson]
+2026-06-23 14:24:15,130 - INFO - Added 6 new jobs
+2026-06-23 14:24:15,130 - INFO - Fetching descriptions for 6 new jobs...
+2026-06-23 14:24:16,488 - INFO - Updated description for 659871
+2026-06-23 14:24:18,650 - INFO - Updated description for 660374
+2026-06-23 14:24:20,958 - INFO - Updated description for 660533
+2026-06-23 14:24:23,162 - INFO - Updated description for 660557
+2026-06-23 14:24:25,902 - INFO - Updated description for 660641
+2026-06-23 14:24:28,255 - INFO - Updated description for 660712
+2026-06-23 14:24:28,765 - INFO - 
+=== SUMMARY ===
+2026-06-23 14:24:28,765 - INFO - Total jobs in database: 2552
+2026-06-23 14:24:28,765 - INFO - New jobs added: 6
+2026-06-23 14:24:28,765 - INFO - Descriptions updated: 6
+2026-06-23 14:24:28,765 - INFO - Verified facilities: 139
+2026-06-23 14:24:28,765 - INFO - Unverified facilities: 408
+2026-06-23 14:24:28,765 - INFO - Log saved to: logs/api_scraper_20260623_142400.log
+2026-06-23 14:24:28,991 - INFO - Exported 2552 jobs to jobs.csv
