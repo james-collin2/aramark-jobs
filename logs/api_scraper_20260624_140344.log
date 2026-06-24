@@ -1,0 +1,31 @@
+2026-06-24 14:03:44,146 - INFO - Starting API job scraper
+2026-06-24 14:03:44,146 - INFO - Loaded 853 master facilities
+2026-06-24 14:03:44,147 - INFO - Fetching jobs from API...
+2026-06-24 14:03:47,818 - INFO - Total jobs found: 500
+2026-06-24 14:03:47,879 - INFO - New job: Corrections Oversight Worker - Washington County Detention Center - 660807 [VERIFIED: Washington Corrections Center]
+2026-06-24 14:03:47,914 - INFO - New job: General Utility Worker - Harris County Sheriff Food - 660821 [UNVERIFIED: Harris County Sheriff Food]
+2026-06-24 14:03:47,958 - INFO - New job: Corrections Food Service Worker - Warren Correctional Institution (OH DRC) - 660841 [VERIFIED: Warren Correctional Institution]
+2026-06-24 14:03:47,988 - INFO - New job: Corrections Oversight Worker - Walworth County Jail - 660847 [UNVERIFIED: Walworth County Jail]
+2026-06-24 14:03:48,021 - INFO - New job: Food Service Worker - Durham County Commissary - 660865 [UNVERIFIED: Durham County Commissary]
+2026-06-24 14:03:48,057 - INFO - New job: Maintenance Worker - Harris County Facilities - 660963 [UNVERIFIED: Harris County Facilities]
+2026-06-24 14:03:48,096 - INFO - New job: Commissary Worker - St. Lucie County Commissary - 660976 [UNVERIFIED: St. Lucie County Commissary]
+2026-06-24 14:03:48,098 - INFO - New job: General Manager - 659461 [No facility found]
+2026-06-24 14:03:59,313 - INFO - Added 8 new jobs
+2026-06-24 14:03:59,313 - INFO - Fetching descriptions for 8 new jobs...
+2026-06-24 14:04:00,709 - INFO - Updated description for 660807
+2026-06-24 14:04:02,708 - INFO - Updated description for 660821
+2026-06-24 14:04:04,597 - INFO - Updated description for 660841
+2026-06-24 14:04:06,416 - INFO - Updated description for 660847
+2026-06-24 14:04:08,029 - INFO - Updated description for 660865
+2026-06-24 14:04:09,833 - INFO - Updated description for 660963
+2026-06-24 14:04:11,417 - INFO - Updated description for 660976
+2026-06-24 14:04:13,235 - INFO - Updated description for 659461
+2026-06-24 14:04:13,744 - INFO - 
+=== SUMMARY ===
+2026-06-24 14:04:13,744 - INFO - Total jobs in database: 2560
+2026-06-24 14:04:13,744 - INFO - New jobs added: 8
+2026-06-24 14:04:13,744 - INFO - Descriptions updated: 8
+2026-06-24 14:04:13,744 - INFO - Verified facilities: 139
+2026-06-24 14:04:13,745 - INFO - Unverified facilities: 408
+2026-06-24 14:04:13,745 - INFO - Log saved to: logs/api_scraper_20260624_140344.log
+2026-06-24 14:04:13,955 - INFO - Exported 2560 jobs to jobs.csv
