@@ -1,0 +1,37 @@
+2026-06-25 14:00:48,393 - INFO - Starting API job scraper
+2026-06-25 14:00:48,394 - INFO - Loaded 853 master facilities
+2026-06-25 14:00:48,394 - INFO - Fetching jobs from API...
+2026-06-25 14:00:50,630 - INFO - Total jobs found: 500
+2026-06-25 14:00:50,632 - INFO - New job: Food Service Director - 659712 [No facility found]
+2026-06-25 14:00:50,632 - INFO - New job: Commissary Director - 659981 [No facility found]
+2026-06-25 14:00:50,693 - INFO - New job: Corrections Oversight Worker - Washington County Detention Center - 660805 [VERIFIED: Washington Corrections Center]
+2026-06-25 14:00:50,693 - INFO - New job: Food Service Manager - 660910 [No facility found]
+2026-06-25 14:00:50,725 - INFO - New job: Food Service Supervisor - ALDOC - Childersburg - 661206 [UNVERIFIED: ALDOC - Childersburg]
+2026-06-25 14:00:50,725 - INFO - New job: Food Service Worker - 661249 [No facility found]
+2026-06-25 14:00:50,766 - INFO - New job: Corrections Oversight Worker - Transition Center of St. Louis - 661305 [VERIFIED: Transition Center of Saint Louis]
+2026-06-25 14:00:50,791 - INFO - New job: Corrections Oversight Worker - Avon Park - CI - (503) - 661374 [UNVERIFIED: Avon Park - CI]
+2026-06-25 14:00:50,814 - INFO - New job: Corrections Oversight Worker - Avon Park - WC - (504) - 661377 [UNVERIFIED: Avon Park - WC]
+2026-06-25 14:00:50,843 - INFO - New job: Food Service Worker - Warren County, OH - 661425 [UNVERIFIED: Warren County, OH]
+2026-06-25 14:00:50,876 - INFO - New job: Corrections Oversight Worker - Lowell - CI/Annex/WC - (314/367/316) - 661526 [VERIFIED: Lowell Annex]
+2026-06-25 14:01:02,053 - INFO - Added 11 new jobs
+2026-06-25 14:01:02,053 - INFO - Fetching descriptions for 11 new jobs...
+2026-06-25 14:01:03,338 - INFO - Updated description for 659712
+2026-06-25 14:01:05,333 - INFO - Updated description for 659981
+2026-06-25 14:01:07,388 - INFO - Updated description for 660805
+2026-06-25 14:01:09,587 - INFO - Updated description for 660910
+2026-06-25 14:01:12,300 - INFO - Updated description for 661206
+2026-06-25 14:01:14,435 - INFO - Updated description for 661249
+2026-06-25 14:01:16,305 - INFO - Updated description for 661305
+2026-06-25 14:01:18,007 - INFO - Updated description for 661374
+2026-06-25 14:01:19,908 - INFO - Updated description for 661377
+2026-06-25 14:01:21,917 - INFO - Updated description for 661425
+2026-06-25 14:01:24,046 - INFO - Updated description for 661526
+2026-06-25 14:01:24,555 - INFO - 
+=== SUMMARY ===
+2026-06-25 14:01:24,555 - INFO - Total jobs in database: 2571
+2026-06-25 14:01:24,555 - INFO - New jobs added: 11
+2026-06-25 14:01:24,555 - INFO - Descriptions updated: 11
+2026-06-25 14:01:24,555 - INFO - Verified facilities: 139
+2026-06-25 14:01:24,555 - INFO - Unverified facilities: 409
+2026-06-25 14:01:24,555 - INFO - Log saved to: logs/api_scraper_20260625_140048.log
+2026-06-25 14:01:24,766 - INFO - Exported 2571 jobs to jobs.csv
