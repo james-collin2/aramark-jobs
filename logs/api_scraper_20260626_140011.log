@@ -1,0 +1,49 @@
+2026-06-26 14:00:11,681 - INFO - Starting API job scraper
+2026-06-26 14:00:11,682 - INFO - Loaded 853 master facilities
+2026-06-26 14:00:11,682 - INFO - Fetching jobs from API...
+2026-06-26 14:00:13,308 - INFO - Total jobs found: 500
+2026-06-26 14:00:13,365 - INFO - New job: Corrections Oversight Worker - Huttonsville Correction Center - 661849 [VERIFIED: Haynesville Correctional Center]
+2026-06-26 14:00:13,402 - INFO - New job: Retail Sales Worker Lead - Toledo Correctional Institution - 661850 [VERIFIED: Toledo Correctional Institution]
+2026-06-26 14:00:13,403 - INFO - New job: Food Service Site Manager - 661851 [No facility found]
+2026-06-26 14:00:13,419 - INFO - New job: General Manager - Corrections - 661356 [UNVERIFIED: Corrections]
+2026-06-26 14:00:13,444 - INFO - New job: Food Service Director - 661861 [No facility found]
+2026-06-26 14:00:13,445 - INFO - New job: Food Service Manager - 661873 [No facility found]
+2026-06-26 14:00:13,482 - INFO - New job: Food Service Supervisor - Alameda County-Santa Rita - 661888 [UNVERIFIED: Alameda County-Santa Rita]
+2026-06-26 14:00:13,482 - INFO - New job: Food Service Manager - 661899 [No facility found]
+2026-06-26 14:00:13,510 - INFO - New job: Corrections Oversight Worker - ASPC - Lewis - 660167 [UNVERIFIED: ASPC - Lewis]
+2026-06-26 14:00:13,560 - INFO - New job: Corrections Oversight Worker - Lorain Correctional Institution - Ohio DRC - 661605 [VERIFIED: Lorain Correctional Institution]
+2026-06-26 14:00:13,586 - INFO - New job: Corrections Oversight Worker - Rock County Jail - 661615 [UNVERIFIED: Rock County Jail]
+2026-06-26 14:00:13,621 - INFO - New job: Corrections Food Service Worker - Lexington Medical Prison - 661617 [UNVERIFIED: Lexington Medical Prison]
+2026-06-26 14:00:13,621 - INFO - New job: Food Service Supervisor - 661685 [No facility found]
+2026-06-26 14:00:13,651 - INFO - New job: Corrections Oversight Worker - Gadsden - Re-Entry - (144) - 661702 [UNVERIFIED: Gadsden - Re-Entry]
+2026-06-26 14:00:13,652 - INFO - New job: Food Service Manager - 661758 [No facility found]
+2026-06-26 14:00:13,690 - INFO - New job: Commissary Worker - Santa Clara County Commissary - 661776 [UNVERIFIED: Santa Clara County Commissary]
+2026-06-26 14:00:13,727 - INFO - New job: Commissary Worker - Sacramento County Commissary - 661778 [UNVERIFIED: Sacramento County Commissary]
+2026-06-26 14:00:24,547 - INFO - Added 17 new jobs
+2026-06-26 14:00:24,547 - INFO - Fetching descriptions for 17 new jobs...
+2026-06-26 14:00:25,679 - INFO - Updated description for 661849
+2026-06-26 14:00:27,327 - INFO - Updated description for 661850
+2026-06-26 14:00:28,999 - INFO - Updated description for 661851
+2026-06-26 14:00:30,665 - INFO - Updated description for 661356
+2026-06-26 14:00:32,365 - INFO - Updated description for 661861
+2026-06-26 14:00:34,143 - INFO - Updated description for 661873
+2026-06-26 14:00:35,803 - INFO - Updated description for 661888
+2026-06-26 14:00:37,458 - INFO - Updated description for 661899
+2026-06-26 14:00:39,154 - INFO - Updated description for 660167
+2026-06-26 14:00:41,008 - INFO - Updated description for 661605
+2026-06-26 14:00:42,805 - INFO - Updated description for 661615
+2026-06-26 14:00:44,434 - INFO - Updated description for 661617
+2026-06-26 14:00:46,331 - INFO - Updated description for 661685
+2026-06-26 14:00:47,959 - INFO - Updated description for 661702
+2026-06-26 14:00:50,062 - INFO - Updated description for 661758
+2026-06-26 14:00:51,783 - INFO - Updated description for 661776
+2026-06-26 14:00:53,755 - INFO - Updated description for 661778
+2026-06-26 14:00:54,265 - INFO - 
+=== SUMMARY ===
+2026-06-26 14:00:54,266 - INFO - Total jobs in database: 2588
+2026-06-26 14:00:54,266 - INFO - New jobs added: 17
+2026-06-26 14:00:54,266 - INFO - Descriptions updated: 17
+2026-06-26 14:00:54,266 - INFO - Verified facilities: 139
+2026-06-26 14:00:54,266 - INFO - Unverified facilities: 410
+2026-06-26 14:00:54,266 - INFO - Log saved to: logs/api_scraper_20260626_140011.log
+2026-06-26 14:00:54,484 - INFO - Exported 2588 jobs to jobs.csv
