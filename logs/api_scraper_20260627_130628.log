@@ -1,0 +1,29 @@
+2026-06-27 13:06:28,326 - INFO - Starting API job scraper
+2026-06-27 13:06:28,327 - INFO - Loaded 853 master facilities
+2026-06-27 13:06:28,327 - INFO - Fetching jobs from API...
+2026-06-27 13:06:30,707 - INFO - Total jobs found: 500
+2026-06-27 13:06:30,754 - INFO - New job: Food Service Worker Lead - Pinal County Jail - 661058 [UNVERIFIED: Pinal County Jail]
+2026-06-27 13:06:30,792 - INFO - New job: Corrections Oversight Worker - Northeast Correctional Center - 661954 [VERIFIED: Northeast Correctional Center]
+2026-06-27 13:06:30,810 - INFO - New job: District Manager - Corrections - 661958 [UNVERIFIED: Corrections]
+2026-06-27 13:06:30,839 - INFO - New job: Lead Cook - Iredell County Jail - 661965 [UNVERIFIED: Iredell County Jail]
+2026-06-27 13:06:30,860 - INFO - New job: Corrections Oversight Worker - Lorain CBCF - 661974 [UNVERIFIED: Lorain CBCF]
+2026-06-27 13:06:30,902 - INFO - New job: Corrections Oversight Worker - Mansfield Correctional Institution - 662009 [VERIFIED: Mansfield Correctional Institution]
+2026-06-27 13:06:30,929 - INFO - New job: Cook Supervisor - St. Mary's County - 662114 [UNVERIFIED: St. Mary's County]
+2026-06-27 13:06:42,509 - INFO - Added 7 new jobs
+2026-06-27 13:06:42,509 - INFO - Fetching descriptions for 7 new jobs...
+2026-06-27 13:06:43,729 - INFO - Updated description for 661058
+2026-06-27 13:06:45,415 - INFO - Updated description for 661954
+2026-06-27 13:06:47,244 - INFO - Updated description for 661958
+2026-06-27 13:06:49,028 - INFO - Updated description for 661965
+2026-06-27 13:06:50,800 - INFO - Updated description for 661974
+2026-06-27 13:06:52,570 - INFO - Updated description for 662009
+2026-06-27 13:06:54,525 - INFO - Updated description for 662114
+2026-06-27 13:06:55,034 - INFO - 
+=== SUMMARY ===
+2026-06-27 13:06:55,035 - INFO - Total jobs in database: 2595
+2026-06-27 13:06:55,035 - INFO - New jobs added: 7
+2026-06-27 13:06:55,035 - INFO - Descriptions updated: 7
+2026-06-27 13:06:55,035 - INFO - Verified facilities: 139
+2026-06-27 13:06:55,035 - INFO - Unverified facilities: 410
+2026-06-27 13:06:55,035 - INFO - Log saved to: logs/api_scraper_20260627_130628.log
+2026-06-27 13:06:55,258 - INFO - Exported 2595 jobs to jobs.csv
