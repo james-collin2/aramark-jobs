@@ -1,0 +1,33 @@
+2026-06-30 13:52:34,702 - INFO - Starting API job scraper
+2026-06-30 13:52:34,702 - INFO - Loaded 853 master facilities
+2026-06-30 13:52:34,702 - INFO - Fetching jobs from API...
+2026-06-30 13:52:37,117 - INFO - Total jobs found: 500
+2026-06-30 13:52:37,178 - INFO - New job: Cook - Multnomah/Inverness - 662327 [UNVERIFIED: Multnomah/Inverness]
+2026-06-30 13:52:37,204 - INFO - New job: Corrections Oversight Worker - Hutchinson Correctional - 662408 [VERIFIED: Hutchinson Correctional Facility]
+2026-06-30 13:52:37,204 - INFO - New job: Commissary Worker - 662409 [No facility found]
+2026-06-30 13:52:37,204 - INFO - New job: Food Service Manager - 662410 [No facility found]
+2026-06-30 13:52:37,204 - INFO - New job: Food Service Manager - 662413 [No facility found]
+2026-06-30 13:52:37,204 - INFO - New job: Hourly Supervisor - 660184 [No facility found]
+2026-06-30 13:52:37,204 - INFO - New job: Commissary Worker - 660228 [No facility found]
+2026-06-30 13:52:37,247 - INFO - New job: Food Service Worker - Yavapai County Sheriff's Office - 661161 [UNVERIFIED: Yavapai County Sheriff's Office]
+2026-06-30 13:52:37,247 - INFO - New job: Food Service Manager - 661630 [No facility found]
+2026-06-30 13:52:48,017 - INFO - Added 9 new jobs
+2026-06-30 13:52:48,017 - INFO - Fetching descriptions for 9 new jobs...
+2026-06-30 13:52:49,203 - INFO - Updated description for 662327
+2026-06-30 13:52:50,924 - INFO - Updated description for 662408
+2026-06-30 13:52:52,622 - INFO - Updated description for 662409
+2026-06-30 13:52:54,507 - INFO - Updated description for 662410
+2026-06-30 13:52:56,174 - INFO - Updated description for 662413
+2026-06-30 13:52:57,858 - INFO - Updated description for 660184
+2026-06-30 13:52:59,522 - INFO - Updated description for 660228
+2026-06-30 13:53:01,127 - INFO - Updated description for 661161
+2026-06-30 13:53:02,760 - INFO - Updated description for 661630
+2026-06-30 13:53:03,270 - INFO - 
+=== SUMMARY ===
+2026-06-30 13:53:03,270 - INFO - Total jobs in database: 2604
+2026-06-30 13:53:03,270 - INFO - New jobs added: 9
+2026-06-30 13:53:03,270 - INFO - Descriptions updated: 9
+2026-06-30 13:53:03,270 - INFO - Verified facilities: 139
+2026-06-30 13:53:03,270 - INFO - Unverified facilities: 410
+2026-06-30 13:53:03,270 - INFO - Log saved to: logs/api_scraper_20260630_135234.log
+2026-06-30 13:53:03,491 - INFO - Exported 2604 jobs to jobs.csv
