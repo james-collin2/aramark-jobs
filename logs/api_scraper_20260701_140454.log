@@ -1,0 +1,39 @@
+2026-07-01 14:04:54,536 - INFO - Starting API job scraper
+2026-07-01 14:04:54,537 - INFO - Loaded 853 master facilities
+2026-07-01 14:04:54,537 - INFO - Fetching jobs from API...
+2026-07-01 14:04:56,284 - INFO - Total jobs found: 500
+2026-07-01 14:04:56,285 - INFO - New job: Food Service Director - 661616 [No facility found]
+2026-07-01 14:04:56,285 - INFO - New job: Food Service Manager - 661620 [No facility found]
+2026-07-01 14:04:56,358 - INFO - New job: Warehouse Worker - Pulaski County Regional Detention Facility - 662309 [VERIFIED: South Florida Detention Facility]
+2026-07-01 14:04:56,394 - INFO - New job: Food Service Supervisor - Dayton Correctional Institution - 662500 [VERIFIED: Dayton Correctional Institution]
+2026-07-01 14:04:56,426 - INFO - New job: Food Service Worker Lead - Coastal State Prison - 662513 [VERIFIED: Coastal State Prison]
+2026-07-01 14:04:56,464 - INFO - New job: Warehouse Worker III - USG - OH WAREHOUSE - FE - 662519 [UNVERIFIED: USG - OH WAREHOUSE - FE]
+2026-07-01 14:04:56,512 - INFO - New job: Corrections Oversight Worker - Community Transitional Services, KY - 662569 [UNVERIFIED: Community Transitional Services, KY]
+2026-07-01 14:04:56,574 - INFO - New job: Food Service Worker Lead - Eastern Reception, Diagnostic and CC - 662572 [VERIFIED: Denver Reception & Diagnostic Center]
+2026-07-01 14:04:56,611 - INFO - New job: Administrative Support Worker - Dona Ana (Facilities) - 662589 [UNVERIFIED: Dona Ana (Facilities)]
+2026-07-01 14:04:56,652 - INFO - New job: Administrative Support Worker - Wabash Valley Correctional Facility - 662606 [VERIFIED: Wabash Valley Correctional Facility]
+2026-07-01 14:04:56,652 - INFO - New job: Nutrition Associate Manager - 662743 [No facility found]
+2026-07-01 14:04:56,711 - INFO - New job: Food Service Worker - Lancaster County Detention Facility (NE) - 662785 [UNVERIFIED: Lancaster County Detention Facility (NE)]
+2026-07-01 14:05:07,772 - INFO - Added 12 new jobs
+2026-07-01 14:05:07,772 - INFO - Fetching descriptions for 12 new jobs...
+2026-07-01 14:05:09,101 - INFO - Updated description for 661616
+2026-07-01 14:05:10,859 - INFO - Updated description for 661620
+2026-07-01 14:05:12,613 - INFO - Updated description for 662309
+2026-07-01 14:05:14,391 - INFO - Updated description for 662500
+2026-07-01 14:05:16,233 - INFO - Updated description for 662513
+2026-07-01 14:05:18,071 - INFO - Updated description for 662519
+2026-07-01 14:05:19,939 - INFO - Updated description for 662569
+2026-07-01 14:05:21,789 - INFO - Updated description for 662572
+2026-07-01 14:05:23,663 - INFO - Updated description for 662589
+2026-07-01 14:05:25,507 - INFO - Updated description for 662606
+2026-07-01 14:05:27,235 - INFO - Updated description for 662743
+2026-07-01 14:05:29,107 - INFO - Updated description for 662785
+2026-07-01 14:05:29,616 - INFO - 
+=== SUMMARY ===
+2026-07-01 14:05:29,617 - INFO - Total jobs in database: 2616
+2026-07-01 14:05:29,617 - INFO - New jobs added: 12
+2026-07-01 14:05:29,617 - INFO - Descriptions updated: 12
+2026-07-01 14:05:29,617 - INFO - Verified facilities: 139
+2026-07-01 14:05:29,617 - INFO - Unverified facilities: 410
+2026-07-01 14:05:29,617 - INFO - Log saved to: logs/api_scraper_20260701_140454.log
+2026-07-01 14:05:29,832 - INFO - Exported 2616 jobs to jobs.csv
