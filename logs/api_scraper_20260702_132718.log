@@ -1,0 +1,29 @@
+2026-07-02 13:27:18,727 - INFO - Starting API job scraper
+2026-07-02 13:27:18,728 - INFO - Loaded 853 master facilities
+2026-07-02 13:27:18,728 - INFO - Fetching jobs from API...
+2026-07-02 13:27:20,344 - INFO - Total jobs found: 500
+2026-07-02 13:27:20,428 - INFO - New job: Commissary Supervisor - USG - USCS - KANSAS - 659495 [UNVERIFIED: USG - USCS - KANSAS]
+2026-07-02 13:27:20,462 - INFO - New job: Cook Supervisor - Hamilton County Jail - 663178 [UNVERIFIED: Hamilton County Jail]
+2026-07-02 13:27:20,497 - INFO - New job: Commissary Worker - Iredell County Commissary - 662845 [UNVERIFIED: Iredell County Commissary]
+2026-07-02 13:27:20,538 - INFO - New job: Corrections Oversight Worker - Wayne County Detention Ctr - 662870 [UNVERIFIED: Wayne County Detention Ctr]
+2026-07-02 13:27:20,539 - INFO - New job: Food Service Manager - 662930 [No facility found]
+2026-07-02 13:27:20,592 - INFO - New job: Food Service Supervisor - Arlington County Detention Ctr - 663077 [UNVERIFIED: Arlington County Detention Ctr]
+2026-07-02 13:27:20,592 - INFO - New job: Accountant - 662302 [No facility found]
+2026-07-02 13:27:31,866 - INFO - Added 7 new jobs
+2026-07-02 13:27:31,866 - INFO - Fetching descriptions for 7 new jobs...
+2026-07-02 13:27:32,920 - INFO - Updated description for 659495
+2026-07-02 13:27:34,458 - INFO - Updated description for 663178
+2026-07-02 13:27:36,123 - INFO - Updated description for 662845
+2026-07-02 13:27:37,730 - INFO - Updated description for 662870
+2026-07-02 13:27:39,530 - INFO - Updated description for 662930
+2026-07-02 13:27:41,111 - INFO - Updated description for 663077
+2026-07-02 13:27:42,626 - INFO - Updated description for 662302
+2026-07-02 13:27:43,135 - INFO - 
+=== SUMMARY ===
+2026-07-02 13:27:43,135 - INFO - Total jobs in database: 2623
+2026-07-02 13:27:43,135 - INFO - New jobs added: 7
+2026-07-02 13:27:43,135 - INFO - Descriptions updated: 7
+2026-07-02 13:27:43,135 - INFO - Verified facilities: 139
+2026-07-02 13:27:43,135 - INFO - Unverified facilities: 410
+2026-07-02 13:27:43,135 - INFO - Log saved to: logs/api_scraper_20260702_132718.log
+2026-07-02 13:27:43,352 - INFO - Exported 2623 jobs to jobs.csv
