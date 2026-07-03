@@ -1,0 +1,33 @@
+2026-07-03 13:39:16,775 - INFO - Starting API job scraper
+2026-07-03 13:39:16,776 - INFO - Loaded 853 master facilities
+2026-07-03 13:39:16,776 - INFO - Fetching jobs from API...
+2026-07-03 13:39:20,797 - INFO - Total jobs found: 500
+2026-07-03 13:39:20,849 - INFO - New job: Corrections Oversight Worker - Caroline County Jail - 660304 [UNVERIFIED: Caroline County Jail]
+2026-07-03 13:39:20,872 - INFO - New job: Maintenance Worker - Oriana House - 662502 [UNVERIFIED: Oriana House]
+2026-07-03 13:39:20,873 - INFO - New job: Customer Service Lead Coordinator - 662532 [No facility found]
+2026-07-03 13:39:20,909 - INFO - New job: Food Service Worker Lead - Trumbull Correctional Institution - 662690 [VERIFIED: Trumbull Correctional Institution]
+2026-07-03 13:39:20,942 - INFO - New job: Retail Sales Worker - Kenosha County Commissary - 663240 [UNVERIFIED: Kenosha County Commissary]
+2026-07-03 13:39:20,995 - INFO - New job: Corrections Oversight Worker - Pulaski County Regional Detention Facility - 663275 [VERIFIED: South Florida Detention Facility]
+2026-07-03 13:39:21,038 - INFO - New job: Food Service Worker Lead - Clinton County Correctional Facility - PA - 663282 [VERIFIED: Bent County Correctional Facility]
+2026-07-03 13:39:21,079 - INFO - New job: Corrections Oversight Worker - Barren County Detention Center - 663349 [VERIFIED: Detroit Detention Center]
+2026-07-03 13:39:21,110 - INFO - New job: Corrections Oversight Worker - Dauphin County Prison - 663460 [UNVERIFIED: Dauphin County Prison]
+2026-07-03 13:39:31,987 - INFO - Added 9 new jobs
+2026-07-03 13:39:31,987 - INFO - Fetching descriptions for 9 new jobs...
+2026-07-03 13:39:33,353 - INFO - Updated description for 660304
+2026-07-03 13:39:35,225 - INFO - Updated description for 662502
+2026-07-03 13:39:37,087 - INFO - Updated description for 662532
+2026-07-03 13:39:38,927 - INFO - Updated description for 662690
+2026-07-03 13:39:40,772 - INFO - Updated description for 663240
+2026-07-03 13:39:42,705 - INFO - Updated description for 663275
+2026-07-03 13:39:44,478 - INFO - Updated description for 663282
+2026-07-03 13:39:46,267 - INFO - Updated description for 663349
+2026-07-03 13:39:48,135 - INFO - Updated description for 663460
+2026-07-03 13:39:48,646 - INFO - 
+=== SUMMARY ===
+2026-07-03 13:39:48,646 - INFO - Total jobs in database: 2632
+2026-07-03 13:39:48,646 - INFO - New jobs added: 9
+2026-07-03 13:39:48,646 - INFO - Descriptions updated: 9
+2026-07-03 13:39:48,646 - INFO - Verified facilities: 139
+2026-07-03 13:39:48,646 - INFO - Unverified facilities: 410
+2026-07-03 13:39:48,646 - INFO - Log saved to: logs/api_scraper_20260703_133916.log
+2026-07-03 13:39:48,869 - INFO - Exported 2632 jobs to jobs.csv
