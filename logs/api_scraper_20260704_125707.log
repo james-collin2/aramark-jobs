@@ -1,0 +1,17 @@
+2026-07-04 12:57:07,878 - INFO - Starting API job scraper
+2026-07-04 12:57:07,879 - INFO - Loaded 853 master facilities
+2026-07-04 12:57:07,879 - INFO - Fetching jobs from API...
+2026-07-04 12:57:10,894 - INFO - Total jobs found: 500
+2026-07-04 12:57:10,941 - INFO - New job: Corrections Oversight Worker - Alvis 180 Chillicothe - 663163 [UNVERIFIED: Alvis 180 Chillicothe]
+2026-07-04 12:57:21,839 - INFO - Added 1 new jobs
+2026-07-04 12:57:21,839 - INFO - Fetching descriptions for 1 new jobs...
+2026-07-04 12:57:22,959 - INFO - Updated description for 663163
+2026-07-04 12:57:23,469 - INFO - 
+=== SUMMARY ===
+2026-07-04 12:57:23,469 - INFO - Total jobs in database: 2633
+2026-07-04 12:57:23,469 - INFO - New jobs added: 1
+2026-07-04 12:57:23,469 - INFO - Descriptions updated: 1
+2026-07-04 12:57:23,469 - INFO - Verified facilities: 139
+2026-07-04 12:57:23,469 - INFO - Unverified facilities: 410
+2026-07-04 12:57:23,469 - INFO - Log saved to: logs/api_scraper_20260704_125707.log
+2026-07-04 12:57:23,691 - INFO - Exported 2633 jobs to jobs.csv
