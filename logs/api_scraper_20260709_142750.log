@@ -1,0 +1,4 @@
+2026-07-09 14:27:50,235 - INFO - Starting API job scraper
+2026-07-09 14:27:50,236 - INFO - Loaded 853 master facilities
+2026-07-09 14:27:50,236 - INFO - Fetching jobs from API...
+2026-07-09 14:27:50,953 - ERROR - API request failed with status 500
