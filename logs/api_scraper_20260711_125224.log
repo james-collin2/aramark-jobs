@@ -1,0 +1,33 @@
+2026-07-11 12:52:24,428 - INFO - Starting API job scraper
+2026-07-11 12:52:24,428 - INFO - Loaded 853 master facilities
+2026-07-11 12:52:24,429 - INFO - Fetching jobs from API...
+2026-07-11 12:52:28,219 - INFO - Total jobs found: 500
+2026-07-11 12:52:28,261 - INFO - New job: Food Service Worker - Racine County Juvenile - 665073 [UNVERIFIED: Racine County Juvenile]
+2026-07-11 12:52:28,299 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 665103 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-07-11 12:52:28,339 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 665105 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-07-11 12:52:28,374 - INFO - New job: Food Service Worker - Toledo Correctional Institution - 665141 [VERIFIED: Toledo Correctional Institution]
+2026-07-11 12:52:28,406 - INFO - New job: Corrections Oversight Worker - Apalachee - East Unit - (102) - 665200 [UNVERIFIED: Apalachee - East Unit]
+2026-07-11 12:52:28,448 - INFO - New job: Retail Sales Worker Lead - Clinton County Correctional Facility - PA - 665205 [VERIFIED: Bent County Correctional Facility]
+2026-07-11 12:52:28,472 - INFO - New job: Retail Sales Worker - Lansing Correctional - 665233 [VERIFIED: Lansing Correctional Facility]
+2026-07-11 12:52:28,513 - INFO - New job: Corrections Oversight Worker - LaPorte Juvenile Correctional Facility - 665264 [VERIFIED: Greene Correctional Facility]
+2026-07-11 12:52:28,514 - INFO - New job: Food Service Worker Lead - 656726 [No facility found]
+2026-07-11 12:52:39,770 - INFO - Added 9 new jobs
+2026-07-11 12:52:39,770 - INFO - Fetching descriptions for 9 new jobs...
+2026-07-11 12:52:40,900 - INFO - Updated description for 665073
+2026-07-11 12:52:42,556 - INFO - Updated description for 665103
+2026-07-11 12:52:44,414 - INFO - Updated description for 665105
+2026-07-11 12:52:46,035 - INFO - Updated description for 665141
+2026-07-11 12:52:47,690 - INFO - Updated description for 665200
+2026-07-11 12:52:49,448 - INFO - Updated description for 665205
+2026-07-11 12:52:51,085 - INFO - Updated description for 665233
+2026-07-11 12:52:52,836 - INFO - Updated description for 665264
+2026-07-11 12:52:54,590 - INFO - Updated description for 656726
+2026-07-11 12:52:55,100 - INFO - 
+=== SUMMARY ===
+2026-07-11 12:52:55,100 - INFO - Total jobs in database: 2687
+2026-07-11 12:52:55,100 - INFO - New jobs added: 9
+2026-07-11 12:52:55,100 - INFO - Descriptions updated: 9
+2026-07-11 12:52:55,100 - INFO - Verified facilities: 140
+2026-07-11 12:52:55,100 - INFO - Unverified facilities: 413
+2026-07-11 12:52:55,101 - INFO - Log saved to: logs/api_scraper_20260711_125224.log
+2026-07-11 12:52:55,327 - INFO - Exported 2687 jobs to jobs.csv
