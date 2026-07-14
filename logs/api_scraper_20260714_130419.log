@@ -1,0 +1,31 @@
+2026-07-14 13:04:19,147 - INFO - Starting API job scraper
+2026-07-14 13:04:19,148 - INFO - Loaded 853 master facilities
+2026-07-14 13:04:19,148 - INFO - Fetching jobs from API...
+2026-07-14 13:04:21,456 - INFO - Total jobs found: 500
+2026-07-14 13:04:21,514 - INFO - New job: Cook-Solano County Detention Center - 664691 [VERIFIED: Lea County Correctional Center]
+2026-07-14 13:04:21,514 - INFO - New job: Food Service Director - 664994 [No facility found]
+2026-07-14 13:04:21,514 - INFO - New job: Food Service Director - 665470 [No facility found]
+2026-07-14 13:04:21,552 - INFO - New job: Food Service Worker Lead - Lucas County Juvenile Court - 665497 [UNVERIFIED: Lucas County Juvenile Court]
+2026-07-14 13:04:21,585 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 665608 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-07-14 13:04:21,648 - INFO - New job: Commissary Worker - South Correctional Entity - South Correctional Entity - Commissary - 665613 [UNVERIFIED: South Correctional Entity - South Correctional Entity - Commissary]
+2026-07-14 13:04:21,648 - INFO - New job: Food Service Director - 665627 [No facility found]
+2026-07-14 13:04:21,688 - INFO - New job: Commissary Supervisor - USG - USCS - WEST VIRGINIA - 665748 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-07-14 13:04:33,632 - INFO - Added 8 new jobs
+2026-07-14 13:04:33,632 - INFO - Fetching descriptions for 8 new jobs...
+2026-07-14 13:04:34,856 - INFO - Updated description for 664691
+2026-07-14 13:04:36,761 - INFO - Updated description for 664994
+2026-07-14 13:04:38,589 - INFO - Updated description for 665470
+2026-07-14 13:04:40,391 - INFO - Updated description for 665497
+2026-07-14 13:04:42,137 - INFO - Updated description for 665608
+2026-07-14 13:04:44,269 - INFO - Updated description for 665613
+2026-07-14 13:04:45,970 - INFO - Updated description for 665627
+2026-07-14 13:04:47,682 - INFO - Updated description for 665748
+2026-07-14 13:04:48,191 - INFO - 
+=== SUMMARY ===
+2026-07-14 13:04:48,191 - INFO - Total jobs in database: 2696
+2026-07-14 13:04:48,191 - INFO - New jobs added: 8
+2026-07-14 13:04:48,191 - INFO - Descriptions updated: 8
+2026-07-14 13:04:48,191 - INFO - Verified facilities: 140
+2026-07-14 13:04:48,191 - INFO - Unverified facilities: 414
+2026-07-14 13:04:48,191 - INFO - Log saved to: logs/api_scraper_20260714_130419.log
+2026-07-14 13:04:48,414 - INFO - Exported 2696 jobs to jobs.csv
