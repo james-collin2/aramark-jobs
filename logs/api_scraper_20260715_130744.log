@@ -1,0 +1,43 @@
+2026-07-15 13:07:44,870 - INFO - Starting API job scraper
+2026-07-15 13:07:44,871 - INFO - Loaded 853 master facilities
+2026-07-15 13:07:44,871 - INFO - Fetching jobs from API...
+2026-07-15 13:07:46,158 - INFO - Total jobs found: 500
+2026-07-15 13:07:46,224 - INFO - New job: Corrections Oversight Worker - Bowling Green Jail (KY) - 665788 [UNVERIFIED: Bowling Green Jail (KY)]
+2026-07-15 13:07:46,247 - INFO - New job: Corrections Oversight Worker - Outagamie County Jail - 665840 [UNVERIFIED: Outagamie County Jail]
+2026-07-15 13:07:46,266 - INFO - New job: Food Service Worker Lead - Martin - CI/WC - (430/420) - 665842 [UNVERIFIED: Martin - CI/WC]
+2026-07-15 13:07:46,286 - INFO - New job: Cook Supervisor - Ellsworth Correctional - 665857 [VERIFIED: Ellsworth Correctional Facility]
+2026-07-15 13:07:46,312 - INFO - New job: Commissary Worker - USG - USCS - SOUTH DAKOTA - 665858 [UNVERIFIED: USG - USCS - SOUTH DAKOTA]
+2026-07-15 13:07:46,337 - INFO - New job: Commissary Worker - USG - USCS - SOUTH DAKOTA - 665863 [UNVERIFIED: USG - USCS - SOUTH DAKOTA]
+2026-07-15 13:07:46,363 - INFO - New job: General Utility Worker - Henrico County - Jail West - 665900 [UNVERIFIED: Henrico County - Jail West]
+2026-07-15 13:07:46,364 - INFO - New job: Corrections Oversight Worker - 634769 [No facility found]
+2026-07-15 13:07:46,391 - INFO - New job: Corrections Food Service Worker - Seminole County Jail - 665996 [UNVERIFIED: Seminole County Jail]
+2026-07-15 13:07:46,391 - INFO - New job: Food Service Manager - 658354 [No facility found]
+2026-07-15 13:07:46,413 - INFO - New job: Retail Sales Worker Lead - Seminole County Jail - 666001 [UNVERIFIED: Seminole County Jail]
+2026-07-15 13:07:46,438 - INFO - New job: Commissary Worker - Wicomico County Commissary - 666037 [UNVERIFIED: Wicomico County Commissary]
+2026-07-15 13:07:46,465 - INFO - New job: Commissary Supervisor - San Bernardino Commissary - 666039 [UNVERIFIED: San Bernardino Commissary]
+2026-07-15 13:07:46,487 - INFO - New job: Food Service Worker Lead - Charleston County, SC - 666040 [UNVERIFIED: Charleston County, SC]
+2026-07-15 13:07:55,120 - INFO - Added 14 new jobs
+2026-07-15 13:07:55,120 - INFO - Fetching descriptions for 14 new jobs...
+2026-07-15 13:07:56,280 - INFO - Updated description for 665788
+2026-07-15 13:07:57,976 - INFO - Updated description for 665840
+2026-07-15 13:07:59,557 - INFO - Updated description for 665842
+2026-07-15 13:08:01,111 - INFO - Updated description for 665857
+2026-07-15 13:08:02,713 - INFO - Updated description for 665858
+2026-07-15 13:08:04,483 - INFO - Updated description for 665863
+2026-07-15 13:08:06,011 - INFO - Updated description for 665900
+2026-07-15 13:08:07,653 - INFO - Updated description for 634769
+2026-07-15 13:08:09,192 - INFO - Updated description for 665996
+2026-07-15 13:08:10,768 - INFO - Updated description for 658354
+2026-07-15 13:08:12,528 - INFO - Updated description for 666001
+2026-07-15 13:08:14,097 - INFO - Updated description for 666037
+2026-07-15 13:08:15,626 - INFO - Updated description for 666039
+2026-07-15 13:08:17,196 - INFO - Updated description for 666040
+2026-07-15 13:08:17,707 - INFO - 
+=== SUMMARY ===
+2026-07-15 13:08:17,707 - INFO - Total jobs in database: 2710
+2026-07-15 13:08:17,707 - INFO - New jobs added: 14
+2026-07-15 13:08:17,707 - INFO - Descriptions updated: 14
+2026-07-15 13:08:17,707 - INFO - Verified facilities: 140
+2026-07-15 13:08:17,707 - INFO - Unverified facilities: 415
+2026-07-15 13:08:17,707 - INFO - Log saved to: logs/api_scraper_20260715_130744.log
+2026-07-15 13:08:17,899 - INFO - Exported 2710 jobs to jobs.csv
