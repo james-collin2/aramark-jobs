@@ -1,0 +1,41 @@
+2026-07-16 13:16:28,959 - INFO - Starting API job scraper
+2026-07-16 13:16:28,960 - INFO - Loaded 853 master facilities
+2026-07-16 13:16:28,960 - INFO - Fetching jobs from API...
+2026-07-16 13:16:31,427 - INFO - Total jobs found: 500
+2026-07-16 13:16:31,488 - INFO - New job: Field Marketing Specialist - 665136 [No facility found]
+2026-07-16 13:16:31,489 - INFO - New job: Nutrition and Operational Service Manager - 665620 [No facility found]
+2026-07-16 13:16:31,489 - INFO - New job: Food Service Director - 666068 [No facility found]
+2026-07-16 13:16:31,516 - INFO - New job: Food Service Worker - Merced County Jail - 666136 [UNVERIFIED: Merced County Jail]
+2026-07-16 13:16:31,544 - INFO - New job: Corrections Oversight Worker - ASPC - Perryville - 666174 [UNVERIFIED: ASPC - Perryville]
+2026-07-16 13:16:31,575 - INFO - New job: Food Service Worker - Fort Bend County Jail - 666204 [UNVERIFIED: Fort Bend County Jail]
+2026-07-16 13:16:31,605 - INFO - New job: Corrections Food Service Worker - Pinellas County Food - 666221 [UNVERIFIED: Pinellas County Food]
+2026-07-16 13:16:31,639 - INFO - New job: Corrections Oversight Worker - Vanderburgh County Sheriff - 666241 [UNVERIFIED: Vanderburgh County Sheriff]
+2026-07-16 13:16:31,672 - INFO - New job: Commissary Worker - DuPage County Commissary - 666369 [UNVERIFIED: DuPage County Commissary]
+2026-07-16 13:16:31,701 - INFO - New job: Cook - Hancock County Jail - 666396 [UNVERIFIED: Hancock County Jail]
+2026-07-16 13:16:31,734 - INFO - New job: Food Service Worker - Haymarket Center Inc. - 666406 [UNVERIFIED: Haymarket Center Inc.]
+2026-07-16 13:16:31,773 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 666440 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-07-16 13:16:31,813 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 666441 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-07-16 13:16:43,741 - INFO - Added 13 new jobs
+2026-07-16 13:16:43,741 - INFO - Fetching descriptions for 13 new jobs...
+2026-07-16 13:16:45,035 - INFO - Updated description for 665136
+2026-07-16 13:16:46,980 - INFO - Updated description for 665620
+2026-07-16 13:16:48,789 - INFO - Updated description for 666068
+2026-07-16 13:16:50,742 - INFO - Updated description for 666136
+2026-07-16 13:16:52,739 - INFO - Updated description for 666174
+2026-07-16 13:16:54,640 - INFO - Updated description for 666204
+2026-07-16 13:16:56,585 - INFO - Updated description for 666221
+2026-07-16 13:16:58,407 - INFO - Updated description for 666241
+2026-07-16 13:17:00,296 - INFO - Updated description for 666369
+2026-07-16 13:17:02,178 - INFO - Updated description for 666396
+2026-07-16 13:17:03,933 - INFO - Updated description for 666406
+2026-07-16 13:17:05,789 - INFO - Updated description for 666440
+2026-07-16 13:17:07,738 - INFO - Updated description for 666441
+2026-07-16 13:17:08,248 - INFO - 
+=== SUMMARY ===
+2026-07-16 13:17:08,248 - INFO - Total jobs in database: 2723
+2026-07-16 13:17:08,248 - INFO - New jobs added: 13
+2026-07-16 13:17:08,248 - INFO - Descriptions updated: 13
+2026-07-16 13:17:08,248 - INFO - Verified facilities: 140
+2026-07-16 13:17:08,248 - INFO - Unverified facilities: 415
+2026-07-16 13:17:08,248 - INFO - Log saved to: logs/api_scraper_20260716_131628.log
+2026-07-16 13:17:08,472 - INFO - Exported 2723 jobs to jobs.csv
