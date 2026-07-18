@@ -1,0 +1,59 @@
+2026-07-18 12:47:53,408 - INFO - Starting API job scraper
+2026-07-18 12:47:53,409 - INFO - Loaded 853 master facilities
+2026-07-18 12:47:53,409 - INFO - Fetching jobs from API...
+2026-07-18 12:48:00,409 - INFO - Total jobs found: 500
+2026-07-18 12:48:00,411 - INFO - New job: Food Service Manager - 665660 [No facility found]
+2026-07-18 12:48:00,411 - INFO - New job: Food Service Manager - 665663 [No facility found]
+2026-07-18 12:48:00,411 - INFO - New job: Vice President I - 665844 [No facility found]
+2026-07-18 12:48:00,464 - INFO - New job: Director - Business Development - 666024 [UNVERIFIED: Business Development]
+2026-07-18 12:48:00,464 - INFO - New job: Field Sales Consultant - 666025 [No facility found]
+2026-07-18 12:48:00,513 - INFO - New job: Food Service Worker - Solano County Probation Department - 666255 [UNVERIFIED: Solano County Probation Department]
+2026-07-18 12:48:00,513 - INFO - New job: Food Service Manager - 666556 [No facility found]
+2026-07-18 12:48:00,533 - INFO - New job: Dishwasher - Kent County - 666733 [UNVERIFIED: Kent County]
+2026-07-18 12:48:00,567 - INFO - New job: Cook - Harris County Sheriff Food - 666793 [UNVERIFIED: Harris County Sheriff Food]
+2026-07-18 12:48:00,602 - INFO - New job: Retail Sales Worker Lead - Yavapai County Commissary - 666803 [UNVERIFIED: Yavapai County Commissary]
+2026-07-18 12:48:00,628 - INFO - New job: Corrections Oversight Worker - Fairfax County - 666825 [UNVERIFIED: Fairfax County]
+2026-07-18 12:48:00,672 - INFO - New job: Food Service Worker - Yavapai County Sheriff's Office - 666840 [UNVERIFIED: Yavapai County Sheriff's Office]
+2026-07-18 12:48:00,709 - INFO - New job: Food Service Worker Lead - Anne Arundel County - JRDC - 666844 [UNVERIFIED: Anne Arundel County - JRDC]
+2026-07-18 12:48:00,746 - INFO - New job: Corrections Oversight Worker - Anne Arundel County - JRDC - 666846 [UNVERIFIED: Anne Arundel County - JRDC]
+2026-07-18 12:48:00,784 - INFO - New job: Corrections Oversight Worker - Anne Arundel County - ORCC - 666848 [UNVERIFIED: Anne Arundel County - ORCC]
+2026-07-18 12:48:00,810 - INFO - New job: Corrections Oversight Worker - Allegany County - 666851 [UNVERIFIED: Allegany County]
+2026-07-18 12:48:00,836 - INFO - New job: Cook Supervisor - Larned Correctional - 666856 [VERIFIED: Bland Correctional Center]
+2026-07-18 12:48:00,836 - INFO - New job: Food Service Worker - 666876 [No facility found]
+2026-07-18 12:48:00,836 - INFO - New job: Food Service Worker - 666877 [No facility found]
+2026-07-18 12:48:00,836 - INFO - New job: Food Service Worker - 666883 [No facility found]
+2026-07-18 12:48:00,836 - INFO - New job: Food Service Worker - 666888 [No facility found]
+2026-07-18 12:48:00,836 - INFO - New job: Food Service Worker - 666891 [No facility found]
+2026-07-18 12:48:00,878 - INFO - New job: Lead Cook - Kansas Juvenile Correctional Complex - 666931 [VERIFIED: Kansas Juvenile Correctional Complex]
+2026-07-18 12:48:00,878 - INFO - New job: Food Service Manager - 666984 [No facility found]
+2026-07-18 12:48:00,878 - INFO - New job: Food Service Director - 666985 [No facility found]
+2026-07-18 12:48:12,994 - INFO - Added 25 new jobs
+2026-07-18 12:48:12,994 - INFO - Fetching descriptions for 25 new jobs...
+2026-07-18 12:48:20,245 - INFO - Updated description for 665660
+2026-07-18 12:48:23,345 - INFO - Updated description for 665663
+2026-07-18 12:48:26,675 - INFO - Updated description for 665844
+2026-07-18 12:48:32,237 - INFO - Updated description for 666025
+2026-07-18 12:48:40,384 - INFO - Updated description for 666255
+2026-07-18 12:48:46,928 - INFO - Updated description for 666556
+2026-07-18 12:48:51,767 - INFO - Updated description for 666733
+2026-07-18 12:48:56,855 - INFO - Updated description for 666825
+2026-07-18 12:48:59,279 - INFO - Updated description for 666840
+2026-07-18 12:49:03,320 - INFO - Updated description for 666846
+2026-07-18 12:49:06,419 - INFO - Updated description for 666848
+2026-07-18 12:49:10,270 - INFO - Updated description for 666851
+2026-07-18 12:49:16,229 - INFO - Updated description for 666856
+2026-07-18 12:49:25,808 - INFO - Updated description for 666877
+2026-07-18 12:49:30,617 - INFO - Updated description for 666883
+2026-07-18 12:49:36,608 - INFO - Updated description for 666888
+2026-07-18 12:49:42,328 - INFO - Updated description for 666891
+2026-07-18 12:49:46,503 - INFO - Updated description for 666931
+2026-07-18 12:49:51,086 - INFO - Updated description for 666985
+2026-07-18 12:49:51,596 - INFO - 
+=== SUMMARY ===
+2026-07-18 12:49:51,596 - INFO - Total jobs in database: 2760
+2026-07-18 12:49:51,596 - INFO - New jobs added: 25
+2026-07-18 12:49:51,596 - INFO - Descriptions updated: 19
+2026-07-18 12:49:51,596 - INFO - Verified facilities: 140
+2026-07-18 12:49:51,596 - INFO - Unverified facilities: 418
+2026-07-18 12:49:51,596 - INFO - Log saved to: logs/api_scraper_20260718_124753.log
+2026-07-18 12:49:51,828 - INFO - Exported 2760 jobs to jobs.csv
