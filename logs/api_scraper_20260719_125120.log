@@ -1,0 +1,19 @@
+2026-07-19 12:51:20,110 - INFO - Starting API job scraper
+2026-07-19 12:51:20,110 - INFO - Loaded 853 master facilities
+2026-07-19 12:51:20,110 - INFO - Fetching jobs from API...
+2026-07-19 12:51:23,735 - INFO - Total jobs found: 500
+2026-07-19 12:51:23,775 - INFO - New job: Cook - Kent County - 666734 [UNVERIFIED: Kent County]
+2026-07-19 12:51:23,795 - INFO - New job: Baker - Kent County - 666735 [UNVERIFIED: Kent County]
+2026-07-19 12:51:36,144 - INFO - Added 2 new jobs
+2026-07-19 12:51:36,144 - INFO - Fetching descriptions for 2 new jobs...
+2026-07-19 12:51:37,420 - INFO - Updated description for 666734
+2026-07-19 12:51:39,076 - INFO - Updated description for 666735
+2026-07-19 12:51:39,585 - INFO - 
+=== SUMMARY ===
+2026-07-19 12:51:39,585 - INFO - Total jobs in database: 2762
+2026-07-19 12:51:39,585 - INFO - New jobs added: 2
+2026-07-19 12:51:39,585 - INFO - Descriptions updated: 2
+2026-07-19 12:51:39,585 - INFO - Verified facilities: 140
+2026-07-19 12:51:39,585 - INFO - Unverified facilities: 418
+2026-07-19 12:51:39,585 - INFO - Log saved to: logs/api_scraper_20260719_125120.log
+2026-07-19 12:51:39,819 - INFO - Exported 2762 jobs to jobs.csv
