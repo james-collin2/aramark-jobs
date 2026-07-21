@@ -1,0 +1,43 @@
+2026-07-21 13:13:45,369 - INFO - Starting API job scraper
+2026-07-21 13:13:45,369 - INFO - Loaded 853 master facilities
+2026-07-21 13:13:45,369 - INFO - Fetching jobs from API...
+2026-07-21 13:13:48,601 - INFO - Total jobs found: 500
+2026-07-21 13:13:48,654 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 664154 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-07-21 13:13:48,724 - INFO - New job: Corrections Oversight Worker - Harrison County MS - 665422 [UNVERIFIED: Harrison County MS]
+2026-07-21 13:13:48,724 - INFO - New job: Maintenance Worker - 665600 [No facility found]
+2026-07-21 13:13:48,724 - INFO - New job: Corrections Oversight Worker - 666262 [No facility found]
+2026-07-21 13:13:48,724 - INFO - New job: Food Service Manager - 667056 [No facility found]
+2026-07-21 13:13:48,724 - INFO - New job: Food Service Worker - 667106 [No facility found]
+2026-07-21 13:13:48,746 - INFO - New job: Food Service Worker Lead - Hardee - CI - (501) - 667177 [UNVERIFIED: Hardee - CI]
+2026-07-21 13:13:48,774 - INFO - New job: Cook - Yellow Medicine - 667180 [UNVERIFIED: Yellow Medicine]
+2026-07-21 13:13:48,810 - INFO - New job: Corrections Food Service Worker - St Clair County Jail (IL) - 667263 [UNVERIFIED: St Clair County Jail (IL)]
+2026-07-21 13:13:48,836 - INFO - New job: Corrections Food Service Worker - Boone County Jail - 667265 [UNVERIFIED: Boone County Jail]
+2026-07-21 13:13:48,874 - INFO - New job: Commissary Worker - San Bernardino Commissary - 667269 [UNVERIFIED: San Bernardino Commissary]
+2026-07-21 13:13:48,874 - INFO - New job: Food Service Manager - 667293 [No facility found]
+2026-07-21 13:13:48,874 - INFO - New job: Food Service Manager - 667313 [No facility found]
+2026-07-21 13:13:48,874 - INFO - New job: Commissary Director - 667319 [No facility found]
+2026-07-21 13:14:00,883 - INFO - Added 14 new jobs
+2026-07-21 13:14:00,883 - INFO - Fetching descriptions for 14 new jobs...
+2026-07-21 13:14:02,426 - INFO - Updated description for 664154
+2026-07-21 13:14:04,791 - INFO - Updated description for 665422
+2026-07-21 13:14:06,988 - INFO - Updated description for 665600
+2026-07-21 13:14:09,116 - INFO - Updated description for 666262
+2026-07-21 13:14:10,820 - INFO - Updated description for 667056
+2026-07-21 13:14:12,567 - INFO - Updated description for 667106
+2026-07-21 13:14:14,336 - INFO - Updated description for 667177
+2026-07-21 13:14:16,000 - INFO - Updated description for 667180
+2026-07-21 13:14:17,894 - INFO - Updated description for 667263
+2026-07-21 13:14:19,616 - INFO - Updated description for 667265
+2026-07-21 13:14:21,818 - INFO - Updated description for 667269
+2026-07-21 13:14:23,640 - INFO - Updated description for 667293
+2026-07-21 13:14:25,667 - INFO - Updated description for 667313
+2026-07-21 13:14:27,624 - INFO - Updated description for 667319
+2026-07-21 13:14:28,134 - INFO - 
+=== SUMMARY ===
+2026-07-21 13:14:28,134 - INFO - Total jobs in database: 2776
+2026-07-21 13:14:28,134 - INFO - New jobs added: 14
+2026-07-21 13:14:28,134 - INFO - Descriptions updated: 14
+2026-07-21 13:14:28,134 - INFO - Verified facilities: 140
+2026-07-21 13:14:28,134 - INFO - Unverified facilities: 418
+2026-07-21 13:14:28,134 - INFO - Log saved to: logs/api_scraper_20260721_131345.log
+2026-07-21 13:14:28,370 - INFO - Exported 2776 jobs to jobs.csv
