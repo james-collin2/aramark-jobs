@@ -1,0 +1,35 @@
+2026-07-24 13:15:03,001 - INFO - Starting API job scraper
+2026-07-24 13:15:03,001 - INFO - Loaded 853 master facilities
+2026-07-24 13:15:03,001 - INFO - Fetching jobs from API...
+2026-07-24 13:15:07,202 - INFO - Total jobs found: 100
+2026-07-24 13:15:07,289 - INFO - New job: Lead Cook - Forsyth County Jail - 668248 [UNVERIFIED: Forsyth County Jail]
+2026-07-24 13:15:07,290 - INFO - New job: Food Service Director - 666967 [No facility found]
+2026-07-24 13:15:07,329 - INFO - New job: Commissary Supervisor - USG - USCS - WEST VIRGINIA - 668063 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-07-24 13:15:07,362 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 666184 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-07-24 13:15:07,397 - INFO - New job: Inventory Supervisor - USG - INVENTORY & AUDIT - 666222 [UNVERIFIED: USG - INVENTORY & AUDIT]
+2026-07-24 13:15:07,398 - INFO - New job: Food Service Manager - 668113 [No facility found]
+2026-07-24 13:15:07,429 - INFO - New job: Corrections Oversight Worker - Sebastian County Jail - 668118 [UNVERIFIED: Sebastian County Jail]
+2026-07-24 13:15:07,458 - INFO - New job: Corrections Food Service Worker - Racine County Jail - 668155 [VERIFIED: Travis County State Jail]
+2026-07-24 13:15:07,507 - INFO - New job: Corrections Food Service Worker - Wyandotte County Detention Center - 668159 [VERIFIED: Detroit Detention Center]
+2026-07-24 13:15:07,507 - INFO - New job: Food Service Director - 668208 [No facility found]
+2026-07-24 13:15:09,575 - INFO - Added 10 new jobs
+2026-07-24 13:15:09,575 - INFO - Fetching descriptions for 10 new jobs...
+2026-07-24 13:15:11,473 - INFO - Updated description for 668248
+2026-07-24 13:15:13,547 - INFO - Updated description for 666967
+2026-07-24 13:15:15,786 - INFO - Updated description for 668063
+2026-07-24 13:15:18,084 - INFO - Updated description for 666184
+2026-07-24 13:15:20,491 - INFO - Updated description for 666222
+2026-07-24 13:15:22,389 - INFO - Updated description for 668113
+2026-07-24 13:15:24,274 - INFO - Updated description for 668118
+2026-07-24 13:15:26,532 - INFO - Updated description for 668155
+2026-07-24 13:15:28,481 - INFO - Updated description for 668159
+2026-07-24 13:15:30,175 - INFO - Updated description for 668208
+2026-07-24 13:15:30,686 - INFO - 
+=== SUMMARY ===
+2026-07-24 13:15:30,686 - INFO - Total jobs in database: 2811
+2026-07-24 13:15:30,686 - INFO - New jobs added: 10
+2026-07-24 13:15:30,686 - INFO - Descriptions updated: 10
+2026-07-24 13:15:30,686 - INFO - Verified facilities: 140
+2026-07-24 13:15:30,686 - INFO - Unverified facilities: 418
+2026-07-24 13:15:30,686 - INFO - Log saved to: logs/api_scraper_20260724_131503.log
+2026-07-24 13:15:30,920 - INFO - Exported 2811 jobs to jobs.csv
