@@ -1,0 +1,31 @@
+2026-07-24 01:42:10,992 - INFO - Starting API job scraper
+2026-07-24 01:42:10,993 - INFO - Loaded 853 master facilities
+2026-07-24 01:42:10,993 - INFO - Fetching jobs from API...
+2026-07-24 01:42:15,338 - INFO - Total jobs found: 100
+2026-07-24 01:42:15,384 - INFO - New job: Administrative Assistant II-OK DOC - 667074 [No facility found]
+2026-07-24 01:42:15,428 - INFO - New job: Maintenance Worker - Bucks County Correctional (Facilities) - 667087 [VERIFIED: Bent County Correctional Facility]
+2026-07-24 01:42:15,474 - INFO - New job: Food Prep Worker - Atlantic County Justice Facility - 667136 [UNVERIFIED: Atlantic County Justice Facility]
+2026-07-24 01:42:15,504 - INFO - New job: Food Service Worker - St John County Jail - 667714 [UNVERIFIED: St John County Jail]
+2026-07-24 01:42:15,546 - INFO - New job: Food Service Worker - Fayette County Community Corrections - 667727 [VERIFIED: Lawton Community Corrections Center]
+2026-07-24 01:42:15,582 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 667770 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-07-24 01:42:15,582 - INFO - New job: Food Service Director - 667855 [No facility found]
+2026-07-24 01:42:15,614 - INFO - New job: Corrections Oversight Worker - Forsyth County Jail - 667916 [UNVERIFIED: Forsyth County Jail]
+2026-07-24 01:42:17,671 - INFO - Added 8 new jobs
+2026-07-24 01:42:17,671 - INFO - Fetching descriptions for 8 new jobs...
+2026-07-24 01:42:18,786 - INFO - Updated description for 667074
+2026-07-24 01:42:20,418 - INFO - Updated description for 667087
+2026-07-24 01:42:22,190 - INFO - Updated description for 667136
+2026-07-24 01:42:23,976 - INFO - Updated description for 667714
+2026-07-24 01:42:25,576 - INFO - Updated description for 667727
+2026-07-24 01:42:27,435 - INFO - Updated description for 667770
+2026-07-24 01:42:28,998 - INFO - Updated description for 667855
+2026-07-24 01:42:30,659 - INFO - Updated description for 667916
+2026-07-24 01:42:31,168 - INFO - 
+=== SUMMARY ===
+2026-07-24 01:42:31,168 - INFO - Total jobs in database: 2801
+2026-07-24 01:42:31,168 - INFO - New jobs added: 8
+2026-07-24 01:42:31,168 - INFO - Descriptions updated: 8
+2026-07-24 01:42:31,168 - INFO - Verified facilities: 140
+2026-07-24 01:42:31,168 - INFO - Unverified facilities: 418
+2026-07-24 01:42:31,168 - INFO - Log saved to: logs/api_scraper_20260724_014210.log
+2026-07-24 01:42:31,400 - INFO - Exported 2801 jobs to jobs.csv
