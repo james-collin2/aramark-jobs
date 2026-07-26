@@ -1,0 +1,19 @@
+2026-07-26 12:55:10,625 - INFO - Starting API job scraper
+2026-07-26 12:55:10,625 - INFO - Loaded 853 master facilities
+2026-07-26 12:55:10,625 - INFO - Fetching jobs from API...
+2026-07-26 12:55:15,798 - INFO - Total jobs found: 100
+2026-07-26 12:55:15,858 - INFO - New job: Corrections Oversight Worker - Douglas County Minnesota Jail - 668504 [UNVERIFIED: Douglas County Minnesota Jail]
+2026-07-26 12:55:15,889 - INFO - New job: Corrections Oversight Worker - Salem Correctional Center - 668251 [VERIFIED: Salem Correctional Center]
+2026-07-26 12:55:17,883 - INFO - Added 2 new jobs
+2026-07-26 12:55:17,883 - INFO - Fetching descriptions for 2 new jobs...
+2026-07-26 12:55:19,270 - INFO - Updated description for 668504
+2026-07-26 12:55:20,984 - INFO - Updated description for 668251
+2026-07-26 12:55:21,494 - INFO - 
+=== SUMMARY ===
+2026-07-26 12:55:21,495 - INFO - Total jobs in database: 2823
+2026-07-26 12:55:21,495 - INFO - New jobs added: 2
+2026-07-26 12:55:21,495 - INFO - Descriptions updated: 2
+2026-07-26 12:55:21,495 - INFO - Verified facilities: 140
+2026-07-26 12:55:21,495 - INFO - Unverified facilities: 420
+2026-07-26 12:55:21,495 - INFO - Log saved to: logs/api_scraper_20260726_125510.log
+2026-07-26 12:55:21,732 - INFO - Exported 2823 jobs to jobs.csv
