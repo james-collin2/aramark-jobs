@@ -1,0 +1,39 @@
+2026-07-30 13:24:11,745 - INFO - Starting API job scraper
+2026-07-30 13:24:11,745 - INFO - Loaded 853 master facilities
+2026-07-30 13:24:11,745 - INFO - Fetching jobs from API...
+2026-07-30 13:24:13,971 - INFO - Total jobs found: 100
+2026-07-30 13:24:13,972 - INFO - New job: Food Service Director - 669325 [No facility found]
+2026-07-30 13:24:14,026 - INFO - New job: Corrections Food Service Worker - Roederer Correctional Complex - 669337 [VERIFIED: Roederer Correctional Complex]
+2026-07-30 13:24:14,066 - INFO - New job: Corrections Food Service Worker - Western Kentucky Correctional Complex - 669361 [VERIFIED: Western Kentucky Correctional Complex]
+2026-07-30 13:24:14,106 - INFO - New job: Corrections Oversight Worker - Allen Oakwood Correctional Facility - 669369 [VERIFIED: Altona Correctional Facility]
+2026-07-30 13:24:14,139 - INFO - New job: Food Service Worker - Sago Palm - Re-Entry - (464) - 669386 [UNVERIFIED: Sago Palm - Re-Entry]
+2026-07-30 13:24:14,176 - INFO - New job: Food Service Worker - Yavapai County Sheriff's Office - 669155 [UNVERIFIED: Yavapai County Sheriff's Office]
+2026-07-30 13:24:14,176 - INFO - New job: Food Service Director - 668719 [No facility found]
+2026-07-30 13:24:14,204 - INFO - New job: Food Service Worker - South Correctional Entity - 669227 [VERIFIED: Southeast Correctional Center]
+2026-07-30 13:24:14,242 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 669232 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-07-30 13:24:14,284 - INFO - New job: Corrections Oversight Worker - Florida State Prison Main/West - (205/206) - 669235 [VERIFIED: Florida State Prison]
+2026-07-30 13:24:14,313 - INFO - New job: Corrections Oversight Worker - Monroe County (PA) Jail - 669277 [UNVERIFIED: Monroe County (PA) Jail]
+2026-07-30 13:24:14,313 - INFO - New job: Food Service Manager - 669300 [No facility found]
+2026-07-30 13:24:16,283 - INFO - Added 12 new jobs
+2026-07-30 13:24:16,283 - INFO - Fetching descriptions for 12 new jobs...
+2026-07-30 13:24:17,477 - INFO - Updated description for 669325
+2026-07-30 13:24:19,222 - INFO - Updated description for 669337
+2026-07-30 13:24:20,963 - INFO - Updated description for 669361
+2026-07-30 13:24:22,761 - INFO - Updated description for 669369
+2026-07-30 13:24:24,507 - INFO - Updated description for 669386
+2026-07-30 13:24:26,255 - INFO - Updated description for 669155
+2026-07-30 13:24:28,110 - INFO - Updated description for 668719
+2026-07-30 13:24:29,952 - INFO - Updated description for 669227
+2026-07-30 13:24:31,772 - INFO - Updated description for 669232
+2026-07-30 13:24:33,653 - INFO - Updated description for 669235
+2026-07-30 13:24:35,341 - INFO - Updated description for 669277
+2026-07-30 13:24:37,036 - INFO - Updated description for 669300
+2026-07-30 13:24:37,547 - INFO - 
+=== SUMMARY ===
+2026-07-30 13:24:37,547 - INFO - Total jobs in database: 2866
+2026-07-30 13:24:37,547 - INFO - New jobs added: 12
+2026-07-30 13:24:37,547 - INFO - Descriptions updated: 12
+2026-07-30 13:24:37,547 - INFO - Verified facilities: 141
+2026-07-30 13:24:37,547 - INFO - Unverified facilities: 421
+2026-07-30 13:24:37,547 - INFO - Log saved to: logs/api_scraper_20260730_132411.log
+2026-07-30 13:24:37,790 - INFO - Exported 2866 jobs to jobs.csv
