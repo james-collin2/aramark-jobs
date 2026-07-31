@@ -1,0 +1,49 @@
+2026-07-31 13:28:33,522 - INFO - Starting API job scraper
+2026-07-31 13:28:33,522 - INFO - Loaded 853 master facilities
+2026-07-31 13:28:33,523 - INFO - Fetching jobs from API...
+2026-07-31 13:28:35,688 - INFO - Total jobs found: 100
+2026-07-31 13:28:35,690 - INFO - New job: Food Service Director - 667242 [No facility found]
+2026-07-31 13:28:35,741 - INFO - New job: Cook - Escambia County Jail - 668510 [UNVERIFIED: Escambia County Jail]
+2026-07-31 13:28:35,787 - INFO - New job: Food Service Supervisor - Shawnee County Department of Corrections - 669131 [UNVERIFIED: Shawnee County Department of Corrections]
+2026-07-31 13:28:35,827 - INFO - New job: Retail Sales Worker Lead - Allen Oakwood Correctional Facility - 669371 [VERIFIED: Altona Correctional Facility]
+2026-07-31 13:28:35,859 - INFO - New job: Corrections Oversight Worker - Northern Regional Jail - 669494 [VERIFIED: Northern Correctional Facility]
+2026-07-31 13:28:35,900 - INFO - New job: Commissary Worker - Colorado Commissary Warehouse - 669522 [UNVERIFIED: Colorado Commissary Warehouse]
+2026-07-31 13:28:35,925 - INFO - New job: Corrections Food Service Worker - ASPC - Tucson - 669531 [UNVERIFIED: ASPC - Tucson]
+2026-07-31 13:28:35,949 - INFO - New job: Food Service Driver - ASPC - Tucson - 669535 [UNVERIFIED: ASPC - Tucson]
+2026-07-31 13:28:35,984 - INFO - New job: Corrections Oversight Worker - St. Mary's Correctional Center - 669572 [VERIFIED: St. Marys Correctional Center]
+2026-07-31 13:28:36,033 - INFO - New job: Corrections Oversight Worker - Guilford County Detention Facility - 669583 [VERIFIED: South Florida Detention Facility]
+2026-07-31 13:28:36,064 - INFO - New job: Food Service Worker - Monroe County (PA) Jail - 669603 [UNVERIFIED: Monroe County (PA) Jail]
+2026-07-31 13:28:36,092 - INFO - New job: Food Service Worker Lead - El Dorado Correctional - 669605 [VERIFIED: El Dorado Correctional Facility]
+2026-07-31 13:28:36,123 - INFO - New job: Food Service Worker - Snohomish County Jail - 669614 [UNVERIFIED: Snohomish County Jail]
+2026-07-31 13:28:36,138 - INFO - New job: General Manager - Corrections - 669629 [UNVERIFIED: Corrections]
+2026-07-31 13:28:36,139 - INFO - New job: Cook-Alameda County-Santa Rita - 669667 [No facility found]
+2026-07-31 13:28:36,187 - INFO - New job: General Utility Worker - Baltimore County Department of Corrections - 669736 [UNVERIFIED: Baltimore County Department of Corrections]
+2026-07-31 13:28:36,236 - INFO - New job: Food Service Worker - Baltimore County Department of Corrections - 669738 [UNVERIFIED: Baltimore County Department of Corrections]
+2026-07-31 13:28:38,192 - INFO - Added 17 new jobs
+2026-07-31 13:28:38,192 - INFO - Fetching descriptions for 17 new jobs...
+2026-07-31 13:28:39,962 - INFO - Updated description for 667242
+2026-07-31 13:28:42,118 - INFO - Updated description for 668510
+2026-07-31 13:28:44,404 - INFO - Updated description for 669131
+2026-07-31 13:28:47,125 - INFO - Updated description for 669371
+2026-07-31 13:28:49,808 - INFO - Updated description for 669494
+2026-07-31 13:28:52,984 - INFO - Updated description for 669522
+2026-07-31 13:28:55,405 - INFO - Updated description for 669531
+2026-07-31 13:28:57,852 - INFO - Updated description for 669535
+2026-07-31 13:29:00,001 - INFO - Updated description for 669572
+2026-07-31 13:29:02,045 - INFO - Updated description for 669583
+2026-07-31 13:29:04,304 - INFO - Updated description for 669603
+2026-07-31 13:29:06,468 - INFO - Updated description for 669605
+2026-07-31 13:29:08,793 - INFO - Updated description for 669614
+2026-07-31 13:29:11,515 - INFO - Updated description for 669629
+2026-07-31 13:29:14,379 - INFO - Updated description for 669667
+2026-07-31 13:29:17,459 - INFO - Updated description for 669736
+2026-07-31 13:29:20,535 - INFO - Updated description for 669738
+2026-07-31 13:29:21,047 - INFO - 
+=== SUMMARY ===
+2026-07-31 13:29:21,047 - INFO - Total jobs in database: 2883
+2026-07-31 13:29:21,047 - INFO - New jobs added: 17
+2026-07-31 13:29:21,047 - INFO - Descriptions updated: 17
+2026-07-31 13:29:21,047 - INFO - Verified facilities: 141
+2026-07-31 13:29:21,047 - INFO - Unverified facilities: 421
+2026-07-31 13:29:21,047 - INFO - Log saved to: logs/api_scraper_20260731_132833.log
+2026-07-31 13:29:21,287 - INFO - Exported 2883 jobs to jobs.csv
