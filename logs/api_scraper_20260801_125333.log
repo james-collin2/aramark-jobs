@@ -1,0 +1,25 @@
+2026-08-01 12:53:33,704 - INFO - Starting API job scraper
+2026-08-01 12:53:33,705 - INFO - Loaded 853 master facilities
+2026-08-01 12:53:33,705 - INFO - Fetching jobs from API...
+2026-08-01 12:53:36,295 - INFO - Total jobs found: 100
+2026-08-01 12:53:36,347 - INFO - New job: Corrections Oversight Worker - Essex County Correctional (MA) - 669796 [VERIFIED: Bledsoe County Correctional Complex]
+2026-08-01 12:53:36,348 - INFO - New job: Food Service Manager - 669844 [No facility found]
+2026-08-01 12:53:36,387 - INFO - New job: Corrections Oversight Worker - Louisville Jefferson County Jail - 669858 [UNVERIFIED: Louisville Jefferson County Jail]
+2026-08-01 12:53:36,387 - INFO - New job: Food Service Worker - 669882 [No facility found]
+2026-08-01 12:53:36,428 - INFO - New job: IN2WORK Associate - South Bend Work Release Center - 669595 [VERIFIED: Mobile Work Release Center]
+2026-08-01 12:53:38,817 - INFO - Added 5 new jobs
+2026-08-01 12:53:38,817 - INFO - Fetching descriptions for 5 new jobs...
+2026-08-01 12:53:40,524 - INFO - Updated description for 669796
+2026-08-01 12:53:42,280 - INFO - Updated description for 669844
+2026-08-01 12:53:44,059 - INFO - Updated description for 669858
+2026-08-01 12:53:45,780 - INFO - Updated description for 669882
+2026-08-01 12:53:47,573 - INFO - Updated description for 669595
+2026-08-01 12:53:48,083 - INFO - 
+=== SUMMARY ===
+2026-08-01 12:53:48,084 - INFO - Total jobs in database: 2888
+2026-08-01 12:53:48,084 - INFO - New jobs added: 5
+2026-08-01 12:53:48,084 - INFO - Descriptions updated: 5
+2026-08-01 12:53:48,084 - INFO - Verified facilities: 141
+2026-08-01 12:53:48,084 - INFO - Unverified facilities: 421
+2026-08-01 12:53:48,084 - INFO - Log saved to: logs/api_scraper_20260801_125333.log
+2026-08-01 12:53:48,327 - INFO - Exported 2888 jobs to jobs.csv
