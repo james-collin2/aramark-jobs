@@ -1,0 +1,21 @@
+2026-08-02 12:55:17,941 - INFO - Starting API job scraper
+2026-08-02 12:55:17,941 - INFO - Loaded 853 master facilities
+2026-08-02 12:55:17,941 - INFO - Fetching jobs from API...
+2026-08-02 12:55:22,394 - INFO - Total jobs found: 100
+2026-08-02 12:55:22,396 - INFO - New job: Food Service Director - 669946 [No facility found]
+2026-08-02 12:55:22,431 - INFO - New job: Corrections Oversight Worker - Rock County Jail - 669964 [UNVERIFIED: Rock County Jail]
+2026-08-02 12:55:22,455 - INFO - New job: Corrections Oversight Worker - Jefferson - CI - (103) - 669965 [UNVERIFIED: Jefferson - CI]
+2026-08-02 12:55:24,953 - INFO - Added 3 new jobs
+2026-08-02 12:55:24,953 - INFO - Fetching descriptions for 3 new jobs...
+2026-08-02 12:55:26,177 - INFO - Updated description for 669946
+2026-08-02 12:55:27,938 - INFO - Updated description for 669964
+2026-08-02 12:55:29,613 - INFO - Updated description for 669965
+2026-08-02 12:55:30,124 - INFO - 
+=== SUMMARY ===
+2026-08-02 12:55:30,124 - INFO - Total jobs in database: 2891
+2026-08-02 12:55:30,124 - INFO - New jobs added: 3
+2026-08-02 12:55:30,124 - INFO - Descriptions updated: 3
+2026-08-02 12:55:30,124 - INFO - Verified facilities: 141
+2026-08-02 12:55:30,124 - INFO - Unverified facilities: 421
+2026-08-02 12:55:30,124 - INFO - Log saved to: logs/api_scraper_20260802_125517.log
+2026-08-02 12:55:30,363 - INFO - Exported 2891 jobs to jobs.csv
