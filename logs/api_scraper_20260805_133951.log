@@ -1,0 +1,59 @@
+2026-08-05 13:39:51,893 - INFO - Starting API job scraper
+2026-08-05 13:39:51,894 - INFO - Loaded 853 master facilities
+2026-08-05 13:39:51,894 - INFO - Fetching jobs from API...
+2026-08-05 13:39:53,953 - INFO - Total jobs found: 100
+2026-08-05 13:39:54,006 - INFO - New job: Corrections Oversight Worker - Volunteers of America - Indiana - 670134 [UNVERIFIED: Volunteers of America - Indiana]
+2026-08-05 13:39:54,037 - INFO - New job: Food Service Worker - Putnam County Jail, FL - 670301 [UNVERIFIED: Putnam County Jail, FL]
+2026-08-05 13:39:54,074 - INFO - New job: Food Service Worker - DeKalb County Georgia Jail - 670331 [UNVERIFIED: DeKalb County Georgia Jail]
+2026-08-05 13:39:54,111 - INFO - New job: Warehouse Worker - USG - OH WAREHOUSE - UD - 670336 [UNVERIFIED: USG - OH WAREHOUSE - UD]
+2026-08-05 13:39:54,112 - INFO - New job: Project Management Specialist - 670345 [No facility found]
+2026-08-05 13:39:54,138 - INFO - New job: Corrections Oversight Worker - DM OVHD Adkins - 670357 [UNVERIFIED: DM OVHD Adkins]
+2026-08-05 13:39:54,164 - INFO - New job: Food Service Worker Lead - DM OVHD Adkins - 670358 [UNVERIFIED: DM OVHD Adkins]
+2026-08-05 13:39:54,202 - INFO - New job: Warehouse Worker III - USG - OH WAREHOUSE - FE - 670369 [UNVERIFIED: USG - OH WAREHOUSE - FE]
+2026-08-05 13:39:54,227 - INFO - New job: Corrections Oversight Worker - Ross County OH - 670373 [UNVERIFIED: Ross County OH]
+2026-08-05 13:39:54,258 - INFO - New job: Corrections Oversight Worker - Okeechobee - CI/WC - (404/407) - 670379 [UNVERIFIED: Okeechobee - CI/WC]
+2026-08-05 13:39:54,296 - INFO - New job: Corrections Oversight Worker - Davidson County Sheriff's Office - 670407 [UNVERIFIED: Davidson County Sheriff's Office]
+2026-08-05 13:39:54,331 - INFO - New job: Corrections Oversight Worker - Kegan State Jail TDCJ - 670418 [VERIFIED: Joe Kegans State Jail]
+2026-08-05 13:39:54,374 - INFO - New job: Food Service Supervisor - LaPorte Juvenile Correctional Facility - 670443 [VERIFIED: Greene Correctional Facility]
+2026-08-05 13:39:54,375 - INFO - New job: Food Service Manager - 670453 [No facility found]
+2026-08-05 13:39:54,408 - INFO - New job: Commissary Worker - Miami Dade Commissary - 670463 [UNVERIFIED: Miami Dade Commissary]
+2026-08-05 13:39:54,408 - INFO - New job: Food Service Manager - 670468 [No facility found]
+2026-08-05 13:39:54,436 - INFO - New job: Food Service Supervisor - ALDOC - Birmingham - 670471 [UNVERIFIED: ALDOC - Birmingham]
+2026-08-05 13:39:54,464 - INFO - New job: Cook - Gateway Foundation - 670473 [UNVERIFIED: Gateway Foundation]
+2026-08-05 13:39:54,464 - INFO - New job: Food Service Manager - 670480 [No facility found]
+2026-08-05 13:39:54,500 - INFO - New job: Commissary Worker - Alameda County Commissary - 670499 [UNVERIFIED: Alameda County Commissary]
+2026-08-05 13:39:54,529 - INFO - New job: Food Service Worker - Warren County, OH - 670502 [UNVERIFIED: Warren County, OH]
+2026-08-05 13:39:54,554 - INFO - New job: Corrections Oversight Worker - Topeka Correctional - 670523 [UNVERIFIED: Topeka Correctional]
+2026-08-05 13:39:56,668 - INFO - Added 22 new jobs
+2026-08-05 13:39:56,668 - INFO - Fetching descriptions for 22 new jobs...
+2026-08-05 13:39:58,193 - INFO - Updated description for 670134
+2026-08-05 13:39:59,851 - INFO - Updated description for 670301
+2026-08-05 13:40:01,475 - INFO - Updated description for 670331
+2026-08-05 13:40:03,133 - INFO - Updated description for 670336
+2026-08-05 13:40:04,730 - INFO - Updated description for 670345
+2026-08-05 13:40:06,331 - INFO - Updated description for 670357
+2026-08-05 13:40:07,925 - INFO - Updated description for 670358
+2026-08-05 13:40:09,568 - INFO - Updated description for 670369
+2026-08-05 13:40:11,353 - INFO - Updated description for 670373
+2026-08-05 13:40:13,070 - INFO - Updated description for 670379
+2026-08-05 13:40:14,653 - INFO - Updated description for 670407
+2026-08-05 13:40:16,263 - INFO - Updated description for 670418
+2026-08-05 13:40:17,826 - INFO - Updated description for 670443
+2026-08-05 13:40:19,575 - INFO - Updated description for 670453
+2026-08-05 13:40:21,215 - INFO - Updated description for 670463
+2026-08-05 13:40:22,833 - INFO - Updated description for 670468
+2026-08-05 13:40:24,479 - INFO - Updated description for 670471
+2026-08-05 13:40:26,206 - INFO - Updated description for 670473
+2026-08-05 13:40:28,035 - INFO - Updated description for 670480
+2026-08-05 13:40:29,616 - INFO - Updated description for 670499
+2026-08-05 13:40:31,203 - INFO - Updated description for 670502
+2026-08-05 13:40:32,933 - INFO - Updated description for 670523
+2026-08-05 13:40:33,443 - INFO - 
+=== SUMMARY ===
+2026-08-05 13:40:33,443 - INFO - Total jobs in database: 2929
+2026-08-05 13:40:33,443 - INFO - New jobs added: 22
+2026-08-05 13:40:33,443 - INFO - Descriptions updated: 22
+2026-08-05 13:40:33,444 - INFO - Verified facilities: 142
+2026-08-05 13:40:33,444 - INFO - Unverified facilities: 425
+2026-08-05 13:40:33,444 - INFO - Log saved to: logs/api_scraper_20260805_133951.log
+2026-08-05 13:40:33,687 - INFO - Exported 2929 jobs to jobs.csv
