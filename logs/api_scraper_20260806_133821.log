@@ -1,0 +1,57 @@
+2026-08-06 13:38:21,476 - INFO - Starting API job scraper
+2026-08-06 13:38:21,477 - INFO - Loaded 853 master facilities
+2026-08-06 13:38:21,477 - INFO - Fetching jobs from API...
+2026-08-06 13:38:25,324 - INFO - Total jobs found: 100
+2026-08-06 13:38:25,387 - INFO - New job: Corrections Oversight Worker - Turney Center Industrial Complex - 670544 [VERIFIED: Turney Center Industrial Complex]
+2026-08-06 13:38:25,421 - INFO - New job: Corrections Oversight Worker - Winnebago County Corrections - 670577 [UNVERIFIED: Winnebago County Corrections]
+2026-08-06 13:38:25,463 - INFO - New job: Food Service Worker Lead - Warren County Corrections Ctr (NJ) - 670633 [VERIFIED: Hardeman County Correctional Center]
+2026-08-06 13:38:25,519 - INFO - New job: Corrections Oversight Worker - Western Reception, Diagnostic and Correctional Center - 670660 [VERIFIED: Western Illinois Correctional Center]
+2026-08-06 13:38:25,548 - INFO - New job: Food Service Worker Lead - St John County Jail - 670665 [UNVERIFIED: St John County Jail]
+2026-08-06 13:38:25,584 - INFO - New job: Food Service Worker - DeKalb County Georgia Jail - 670674 [UNVERIFIED: DeKalb County Georgia Jail]
+2026-08-06 13:38:25,615 - INFO - New job: Corrections Oversight Worker - Algoa Correctional Center - 670204 [VERIFIED: Algoa Correctional Center]
+2026-08-06 13:38:25,646 - INFO - New job: Groundskeeper - Dona Ana (Facilities) - 670675 [UNVERIFIED: Dona Ana (Facilities)]
+2026-08-06 13:38:25,681 - INFO - New job: Custodial Services Worker - DeKalb County Georgia Jail - 670677 [UNVERIFIED: DeKalb County Georgia Jail]
+2026-08-06 13:38:25,717 - INFO - New job: Corrections Oversight Worker - DeKalb County Georgia Jail - 670679 [UNVERIFIED: DeKalb County Georgia Jail]
+2026-08-06 13:38:25,753 - INFO - New job: Corrections Oversight Worker - DeKalb County Georgia Jail - 670681 [UNVERIFIED: DeKalb County Georgia Jail]
+2026-08-06 13:38:25,793 - INFO - New job: Multi-Unit General Manager - East & South Virginia Market - 670223 [UNVERIFIED: East & South Virginia Market]
+2026-08-06 13:38:25,848 - INFO - New job: Corrections Oversight Worker - Western Reception, Diagnostic and Correctional Center - 670724 [VERIFIED: Western Illinois Correctional Center]
+2026-08-06 13:38:25,884 - INFO - New job: Corrections Oversight Worker - Green River Correctional Complex - 670727 [VERIFIED: Green River Correctional Complex]
+2026-08-06 13:38:25,914 - INFO - New job: Corrections Oversight Worker - Charlotte County Food - 670825 [UNVERIFIED: Charlotte County Food]
+2026-08-06 13:38:25,948 - INFO - New job: Corrections Oversight Worker - Lackawanna County Prison - 670826 [UNVERIFIED: Lackawanna County Prison]
+2026-08-06 13:38:25,970 - INFO - New job: Corrections Oversight Worker - Liberty - CI/SU - (120/142) - 670850 [UNVERIFIED: Liberty - CI/SU]
+2026-08-06 13:38:25,990 - INFO - New job: Corrections Oversight Worker - Calhoun - CI - (105) - 670859 [UNVERIFIED: Calhoun - CI]
+2026-08-06 13:38:26,045 - INFO - New job: Food Service Worker Lead - Western Reception, Diagnostic and Correctional Center - 670862 [VERIFIED: Western Illinois Correctional Center]
+2026-08-06 13:38:26,065 - INFO - New job: Corrections Oversight Worker - Jackson - CI - (104) - 670868 [UNVERIFIED: Jackson - CI]
+2026-08-06 13:38:26,090 - INFO - New job: Corrections Oversight Worker - Okaloosa - CI/WC - (115/161) - 670895 [UNVERIFIED: Okaloosa - CI/WC]
+2026-08-06 13:38:28,144 - INFO - Added 21 new jobs
+2026-08-06 13:38:28,144 - INFO - Fetching descriptions for 21 new jobs...
+2026-08-06 13:38:29,779 - INFO - Updated description for 670544
+2026-08-06 13:38:31,543 - INFO - Updated description for 670577
+2026-08-06 13:38:33,464 - INFO - Updated description for 670633
+2026-08-06 13:38:35,400 - INFO - Updated description for 670660
+2026-08-06 13:38:37,501 - INFO - Updated description for 670665
+2026-08-06 13:38:39,416 - INFO - Updated description for 670674
+2026-08-06 13:38:41,555 - INFO - Updated description for 670204
+2026-08-06 13:38:43,485 - INFO - Updated description for 670675
+2026-08-06 13:38:45,532 - INFO - Updated description for 670677
+2026-08-06 13:38:47,430 - INFO - Updated description for 670679
+2026-08-06 13:38:49,377 - INFO - Updated description for 670681
+2026-08-06 13:38:51,211 - INFO - Updated description for 670223
+2026-08-06 13:38:53,120 - INFO - Updated description for 670724
+2026-08-06 13:38:55,220 - INFO - Updated description for 670727
+2026-08-06 13:38:57,342 - INFO - Updated description for 670825
+2026-08-06 13:38:59,155 - INFO - Updated description for 670826
+2026-08-06 13:39:00,862 - INFO - Updated description for 670850
+2026-08-06 13:39:02,676 - INFO - Updated description for 670859
+2026-08-06 13:39:04,578 - INFO - Updated description for 670862
+2026-08-06 13:39:06,469 - INFO - Updated description for 670868
+2026-08-06 13:39:08,228 - INFO - Updated description for 670895
+2026-08-06 13:39:08,738 - INFO - 
+=== SUMMARY ===
+2026-08-06 13:39:08,738 - INFO - Total jobs in database: 2950
+2026-08-06 13:39:08,738 - INFO - New jobs added: 21
+2026-08-06 13:39:08,739 - INFO - Descriptions updated: 21
+2026-08-06 13:39:08,739 - INFO - Verified facilities: 142
+2026-08-06 13:39:08,739 - INFO - Unverified facilities: 426
+2026-08-06 13:39:08,739 - INFO - Log saved to: logs/api_scraper_20260806_133821.log
+2026-08-06 13:39:08,981 - INFO - Exported 2950 jobs to jobs.csv
